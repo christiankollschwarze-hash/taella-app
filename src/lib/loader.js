@@ -2,6 +2,8 @@ import { setSprecherGeschlecht } from "../components/SprecherLabel.jsx";
 // Werke liegen unter /demo/<slug> (Book-Shop) bzw. /privat/<uid>/<slug>; Audio-Pfade im Manifest
 // relativ zum Werkordner ("audio/<lang>/<tag>.wav"). Das alte Startwerk im public-Wurzelordner
 // (gs://-Pfade → /audio/<lang>/) ist seit N-3 archiviert.
+const LOCAL_AUDIO_EXT = ".wav";   // Hörspiel-Schicht: audio_hoerspiel/<lang>/<tag>.wav
+
 function localAudio(path, base) {
   if (!path || /^\w+:\/\//.test(path)) return null;
   return path.startsWith("/") ? path : `${base}/${path}`;
@@ -33,6 +35,16 @@ export async function loadWork(base = "", extra = {}) {
   const otherById = {};
   for (const s of gegenueber.saetze) otherById[s.tag_id] = s;
 
+  // Hörspiel-Schicht (N-3): je Sprache optional, Overlay-Sätze unter audio_hoerspiel/<lang>/
+  const hs = {};
+  for (const [l, m] of [["en", en], ["de", de]]) {
+    if (m.hoerspiel && Array.isArray(m.hoerspiel_saetze))
+      hs[l] = { saetze: new Set(m.hoerspiel_saetze), sprecher: m.hoerspiel_sprecher || {} };
+  }
+  const hsEntry = (l, tag) => hs[l]?.saetze.has(tag)
+    ? { audio_hs: `${BASE}/audio_hoerspiel/${l}/${tag}${LOCAL_AUDIO_EXT}`, sprecher_hs: hs[l].sprecher[tag] || null }
+    : {};
+
   const kapitel = [];
   const seenKap = new Set();
 
@@ -48,8 +60,8 @@ export async function loadWork(base = "", extra = {}) {
       tag_id: s.tag_id,
       typ: s.typ,
       kapitel: s.kapitel,
-      en: { text: e.text || "", audio: localAudio(e.audio_path, BASE) },
-      de: { text: d.text || "", audio: localAudio(d.audio_path, BASE) },
+      en: { text: e.text || "", audio: localAudio(e.audio_path, BASE), ...hsEntry("en", s.tag_id) },
+      de: { text: d.text || "", audio: localAudio(d.audio_path, BASE), ...hsEntry("de", s.tag_id) },
       align: s.align || null,
       pause: s.pause_after_ms || 0,
       sprecher: s.sprecher || null,   // Drama-Modus: Rollenname (nur Anzeige)
@@ -63,14 +75,17 @@ export async function loadWork(base = "", extra = {}) {
   const blurb = await optionalJson(`${BASE}/blurb.json`);
 
   // Wort-Zeitmarken (Stage 58c → export_app.py), optional: { tag_id: [t0, …] } je Sprache
-  const [wtEn, wtDe] = await Promise.all([
+  const [wtEn, wtDe, wtHsEn, wtHsDe] = await Promise.all([
     optionalJson(`${BASE}/wordtimes_en.json`),
     optionalJson(`${BASE}/wordtimes_de.json`),
+    hs.en ? optionalJson(`${BASE}/wordtimes_en_hoerspiel.json`) : null,
+    hs.de ? optionalJson(`${BASE}/wordtimes_de_hoerspiel.json`) : null,
   ]);
 
   setSprecherGeschlecht(en.sprecher_geschlecht);
   return {
-    meta: { originalsprache: quelle, titel: en.titel, autor: en.autor, slug: en.book_slug, base: BASE, modus: en.modus || "", sprecherGeschlecht: en.sprecher_geschlecht || {} },
+    meta: { originalsprache: quelle, titel: en.titel, autor: en.autor, slug: en.book_slug, base: BASE, modus: en.modus || "", sprecherGeschlecht: en.sprecher_geschlecht || {},
+            hoerspiel: { en: !!hs.en, de: !!hs.de } },
     // Cover-URL je Sprache; Demo-Werke ohne cover_<lang>.jpg nutzen das Fallback-Bild
     coverSrc(lang) {
       const c = blurb?.covers || [];
@@ -83,5 +98,7 @@ export async function loadWork(base = "", extra = {}) {
     soloNote,
     blurb,
     wordtimes: { en: wtEn?.tags || null, de: wtDe?.tags || null },
+    // Hörspiel-Sätze: eigene Wortzeiten, sonst Schätzung (nie die Erzähler-Zeiten)
+    wordtimesHs: { en: wtHsEn?.tags || {}, de: wtHsDe?.tags || {} },
   };
 }
