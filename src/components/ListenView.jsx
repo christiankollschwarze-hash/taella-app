@@ -34,7 +34,10 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
   const p = useListen({ nodes: work.nodes, lang, wordtimes: work.wordtimes, wordtimesHs: work.wordtimesHs,
                         hoerspiel: hatHs && hoerModus === "hoerspiel", onSentenceStart });
   const wtAktiv = p.hsAktiv ? work.wordtimesHs : work.wordtimes;
-  const figur = p.uppsLang || !p.node ? null : p.node.sprecher || null;
+  // Sprechername: bei Werken mit Hörspiel-Schicht nur im Hörspiel-Modus, sonst wie bisher (Drama-Modus)
+  const figur = p.uppsLang || !p.node ? null
+    : hatHs ? (p.modusAktiv === "hoerspiel" ? (p.hsAktiv && p.node[lang]?.sprecher_hs) || p.node.sprecher || null : null)
+    : p.node.sprecher || null;
 
   // Einstieg beim Lesezeichen
   useEffect(() => {
