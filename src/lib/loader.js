@@ -23,6 +23,8 @@ async function optionalJson(url) {
 }
 
 export async function loadWork(base = "", extra = {}) {
+  // EPUB 3 (A-004): Datei oder URL → gleiches Werk-Format, lokal im Browser umgewandelt
+  if (extra.epub) return (await import("../epub/epubLoader.js")).loadEpub(extra.epub);
   const BASE = base;
   const [en, de] = await Promise.all([
     fetch(`${BASE}/manifest_en.json`).then((r) => r.json()),
