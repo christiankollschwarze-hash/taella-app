@@ -34,6 +34,9 @@ export const settings = {
   setKonto: (on) => set(K.konto, on ? "1" : "0"),
   tempo: () => { const t = parseFloat(get(K.tempo, "1")); return t >= 0.5 && t <= 2 ? t : 1; },
   setTempo: (t) => set(K.tempo, String(t)),
+  // Hören: Erzähler | Hörspiel je Werk (N-3); null = noch nicht gewählt (Default Hörspiel)
+  hoerModus: (slug) => get(`taella_hoermodus_${slug}`),
+  setHoerModus: (slug, m) => set(`taella_hoermodus_${slug}`, m),
   kurator: () => get(K.kurator) === "1",
   setKurator: (on) => set(K.kurator, on ? "1" : null),
 };

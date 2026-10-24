@@ -284,6 +284,10 @@ button { font: inherit; color: inherit; }
   background: var(--dock); color: var(--dock-ink);
   border-radius: 28px; padding: 12px 8px 8px;
 }
+/* Erzähler | Hörspiel (N-3) */
+.hoermodus { display: flex; width: max-content; margin: 0 auto 8px; padding: 2px; border: 1px solid rgba(127,127,127,.4); border-radius: 999px; }
+.hoermodus-btn { background: none; border: 0; border-radius: 999px; padding: 6px 14px; font: 600 13px/1 var(--ui); color: var(--dock-ink-2); cursor: pointer; }
+.hoermodus-btn.is-on { background: var(--dock-ink); color: var(--dock); }
 .dock-row { display: flex; justify-content: space-between; align-items: center; padding: 0 4px; }
 .dock-row2 { display: flex; justify-content: space-around; margin-top: 6px; padding-top: 4px; border-top: 1px solid rgba(127,127,127,.25); }
 .listen-dock .icon-btn { color: var(--dock-ink); }

@@ -47,7 +47,9 @@ export function tokenTimes(node, lang, duration, wordtimes) {
   return { toks: toks.map((m) => m[0]), times };
 }
 
-export function useListen({ nodes, lang, wordtimes, onSentenceStart }) {
+// hoerspiel (N-3): true = Hörspiel-Schicht nutzen, wo ein Satz eine hat (node[lang].audio_hs).
+// Der Modus wird erst beim nächsten Satz wirksam; der laufende Satz spielt zu Ende.
+export function useListen({ nodes, lang, wordtimes, wordtimesHs = null, hoerspiel = false, onSentenceStart }) {
   const audioRef = useRef(null);
   if (!audioRef.current && typeof Audio !== "undefined") {
     const a = new Audio();
@@ -81,6 +83,20 @@ export function useListen({ nodes, lang, wordtimes, onSentenceStart }) {
   const playUppsRef = useRef(null);
   const [upps, setUpps] = useState(null);    // null | "armed" | "de" | "en"
   const curLang = () => uppsActive.current || langRef.current;
+  const hsRef = useRef(hoerspiel);
+  hsRef.current = hoerspiel;
+  const wtRef = useRef(null);
+  wtRef.current = { base: wordtimes, hs: wordtimesHs };
+  const curHs = useRef(false);                 // aktueller Satz läuft aus der Hörspiel-Schicht
+  const [hsAktiv, setHsAktiv] = useState(false);
+  const [modusAktiv, setModusAktiv] = useState(hoerspiel ? "hoerspiel" : "erzaehler");
+  const curWt = () => (curHs.current ? wtRef.current.hs : wtRef.current.base);
+  // Audio-Eintrag eines Satzes je Modus: Hörspiel-Datei, falls vorhanden und gewählt, sonst Erzähler
+  const entryFor = (i, l) => {
+    const n = nodes[i]?.[l];
+    return n && hsRef.current && n.audio_hs ? { ...n, audio: n.audio_hs, hs: true } : n;
+  };
+  const markiere = (e) => { curHs.current = !!e?.hs; setHsAktiv(!!e?.hs); setModusAktiv(hsRef.current ? "hoerspiel" : "erzaehler"); };
   const cbRef = useRef(onSentenceStart);
   useEffect(() => { cbRef.current = onSentenceStart; }, [onSentenceStart]);
 
@@ -135,9 +151,11 @@ export function useListen({ nodes, lang, wordtimes, onSentenceStart }) {
     setIdx(k);
     setTime(0);
     cbRef.current?.(nodes[k].tag_id);
-    openEntry(nodes[k][langRef.current], (dur) => {
+    const e = entryFor(k, langRef.current);
+    markiere(e);
+    openEntry(e, (dur) => {
       if (seek !== "lastWord") return seek;
-      const ws = wordStarts(nodes[k], langRef.current, dur, wordtimes);
+      const ws = wordStarts(nodes[k], langRef.current, dur, curWt());
       return ws[ws.length - 1] || 0;
     });
     if (autoplay) {
@@ -145,7 +163,7 @@ export function useListen({ nodes, lang, wordtimes, onSentenceStart }) {
       setPlaying(true);
       a.play().catch(onPlayError);
     }
-  }, [nodes, findFrom, wordtimes]);
+  }, [nodes, findFrom]);
 
   // Audio-Events einmalig verdrahten
   useEffect(() => {
@@ -159,7 +177,7 @@ export function useListen({ nodes, lang, wordtimes, onSentenceStart }) {
       if (c.end == null || clipDone.current || !playingRef.current || a.currentTime < c.end - 0.03) return;
       const cur = idxRef.current;
       const k = uppsArmed.current || uppsActive.current ? -1 : findFrom(cur + 1, 1);
-      const nx = k >= 0 ? nodes[k][langRef.current] : null;
+      const nx = k >= 0 ? entryFor(k, langRef.current) : null;
       if (nx && nx.audio === srcRef.current && Math.abs(clipOf(nx).begin - c.end) < 0.3) {
         clipDone.current = true;
         load(k, true);
@@ -206,13 +224,15 @@ export function useListen({ nodes, lang, wordtimes, onSentenceStart }) {
     const n = nodes[i];
     if (n) merke({ art: "upps_hoeren", tag_id: n.tag_id, von: langRef.current, nach: other,
                    quelle: n[langRef.current]?.text, ziel: n[other]?.text });
-    const url = nodes[i]?.[other]?.audio;
+    const ue = entryFor(i, other);
+    const url = ue?.audio;
     if (!a || !url) { setUpps(null); load(i + 1, true); return; }
     clearPause();
     uppsActive.current = other;
     setUpps(other);
     setTime(0);
-    openEntry(nodes[i][other]);
+    markiere(ue);
+    openEntry(ue);
     playingRef.current = true;
     setPlaying(true);
     a.play().catch(onPlayError);
@@ -274,24 +294,24 @@ export function useListen({ nodes, lang, wordtimes, onSentenceStart }) {
     const a = audioRef.current;
     const node = nodes[idxRef.current];
     if (!a || !node) return;
-    const ws = wordStarts(node, curLang(), clipDur(), wordtimes);
+    const ws = wordStarts(node, curLang(), clipDur(), curWt());
     const now = relTime();
     const t = ws.find((s) => s > now + 0.05);
     if (t != null) a.currentTime = clipRef.current.begin + t; else nextSentence();
-  }, [nodes, wordtimes, nextSentence]);
+  }, [nodes, nextSentence]);
 
   const prevWord = useCallback(() => {
     const a = audioRef.current;
     const node = nodes[idxRef.current];
     if (!a || !node) return;
-    const ws = wordStarts(node, curLang(), clipDur(), wordtimes);
+    const ws = wordStarts(node, curLang(), clipDur(), curWt());
     const now = relTime();
     let k = -1;
     for (let j = 0; j < ws.length; j++) if (ws[j] <= now + 0.05) k = j;
     if (k > 0) { a.currentTime = clipRef.current.begin + ws[k - 1]; return; }
     const prev = findFrom(idxRef.current - 1, -1);
     if (prev >= 0) load(prev, playingRef.current, "lastWord"); else a.currentTime = clipRef.current.begin;
-  }, [nodes, wordtimes, findFrom, load]);
+  }, [nodes, findFrom, load]);
 
   // Gesamtfortschritt: Textlänge als Gewicht (Dauer aller Sätze ist vorab unbekannt)
   const weights = useMemo(() => {
@@ -321,6 +341,7 @@ export function useListen({ nodes, lang, wordtimes, onSentenceStart }) {
   return {
     idx, node: nodes[idx] || null, playing, time, duration, progress, fracOf, idxOfFrac,
     upps, uppsLang: upps === "de" || upps === "en" ? upps : null, triggerUpps,
+    hsAktiv, modusAktiv,
     load, play, pause, toggle, nextSentence, prevSentence, nextWord, prevWord, tempo, setTempo,
   };
 }

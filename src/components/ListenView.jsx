@@ -25,7 +25,16 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
   const [showChapters, setShowChapters] = useState(false);
   const [kurNode, setKurNode] = useState(null);   // Kuratormodus: Anmerkung zum aktuellen Satz
 
-  const p = useListen({ nodes: work.nodes, lang, wordtimes: work.wordtimes, onSentenceStart });
+  // Erzähler | Hörspiel (N-3): nur bei Werken mit Hörspiel-Schicht in der Hörsprache; Wahl je Werk gemerkt,
+  // Default Hörspiel. Wechsel wirkt ab dem nächsten Satz (useListen).
+  const hatHs = !!work.meta.hoerspiel?.[lang];
+  const [hoerModus, setHoerModus] = useState(() => settings.hoerModus(work.meta.slug) || "hoerspiel");
+  const wechsleModus = (m) => { setHoerModus(m); settings.setHoerModus(work.meta.slug, m); };
+
+  const p = useListen({ nodes: work.nodes, lang, wordtimes: work.wordtimes, wordtimesHs: work.wordtimesHs,
+                        hoerspiel: hatHs && hoerModus === "hoerspiel", onSentenceStart });
+  const wtAktiv = p.hsAktiv ? work.wordtimesHs : work.wordtimes;
+  const figur = p.uppsLang || !p.node ? null : p.node.sprecher || null;
 
   // Einstieg beim Lesezeichen
   useEffect(() => {
@@ -117,7 +126,7 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
     if (!p.node) return null;
     const sameLang = p.uppsLang || (subs === 1 ? lang : null);
     if (sameLang) {
-      const { toks, times } = tokenTimes(p.node, sameLang, p.duration, work.wordtimes);
+      const { toks, times } = tokenTimes(p.node, sameLang, p.duration, wtAktiv);
       let cur = -1;
       for (let i = 0; i < times.length; i++) if (times[i] <= p.time + 0.02) cur = i;
       return toks.map((w, i) => ({ w, cls: i < cur ? "w-done" : i === cur ? "w-now" : "" }));
@@ -125,7 +134,7 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
     if (subs !== 2 || !p.node.align?.length) return null;
     // gehörte Sprache = lang, Untertitel = other
     const heardText = p.node[lang]?.text || "", subTxt = p.node[other]?.text || "";
-    const { times } = tokenTimes(p.node, lang, p.duration, work.wordtimes);
+    const { times } = tokenTimes(p.node, lang, p.duration, wtAktiv);
     const heardSpans = [...heardText.matchAll(/\S+/g)].map((m) => [m.index, m.index + m[0].length]);
     let hc = -1;
     for (let i = 0; i < times.length; i++) if (times[i] <= p.time + 0.02) hc = i;
@@ -144,7 +153,7 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
       for (let c = m.index; c < m.index + m[0].length; c++) v = Math.max(v, state[c]);
       return { w: m[0], cls: v === 2 ? "w-now" : v === 1 ? "w-done" : "" };
     });
-  }, [subs, p.node, p.time, p.duration, lang, other, p.uppsLang, work.wordtimes]);
+  }, [subs, p.node, p.time, p.duration, lang, other, p.uppsLang, wtAktiv]);
   const uppsLabel = p.upps === "armed"
     ? (nativeLang === "de" ? `Upps – gleich auf ${other === "de" ? "Deutsch" : "Englisch"}` : `Upps – next in ${other === "de" ? "German" : "English"}`)
     : p.uppsLang ? `Upps · ${p.uppsLang.toUpperCase()}` : null;
@@ -173,13 +182,13 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
       <main className="listen-stage" onClick={p.triggerUpps}
             aria-label={nativeLang === "de" ? "Tippen für Upps: Satz in der anderen Sprache" : "Tap for Upps: sentence in the other language"}>
         {uppsLabel && <div className="upps-chip" role="status"><DotWord text={uppsLabel} /></div>}
-        {subText && p.node?.sprecher && !p.uppsLang && (
-          <div className="listen-sprecher"><SprecherLabel name={p.node.sprecher} /></div>
+        {subText && figur && (
+          <div className="listen-sprecher"><SprecherLabel name={figur} /></div>
         )}
         {subText ? (
           <p className={"listen-sub" + (subs === 2 && !p.uppsLang && !karaoke ? " listen-sub--other" : "") + (p.uppsLang ? " listen-sub--upps" : "")
-                         + (p.node?.sprecher && !p.uppsLang ? " listen-sub--figur" : "")}
-             key={p.node.tag_id + subLang} lang={subLang} style={{ ...(p.node?.sprecher && !p.uppsLang ? sprecherStil(p.node.sprecher) : {}),  fontSize: subSize, lineHeight: 1.16 }}>
+                         + (figur ? " listen-sub--figur" : "")}
+             key={p.node.tag_id + subLang} lang={subLang} style={{ ...(figur ? sprecherStil(figur) : {}),  fontSize: subSize, lineHeight: 1.16 }}>
             {karaoke
               ? karaoke.map((t, i) => <span key={i}><span className={t.cls}>{t.w}</span>{" "}</span>)
               : subText}
@@ -210,6 +219,14 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
       </div>
 
       <div className="listen-dock">
+        {hatHs && (
+          <div className="hoermodus" role="radiogroup" aria-label={nativeLang === "de" ? "Hörfassung" : "Audio version"}>
+            {[["erzaehler", nativeLang === "de" ? "Erzähler" : "Narrator"], ["hoerspiel", nativeLang === "de" ? "Hörspiel" : "Full cast"]].map(([m, t]) => (
+              <button key={m} role="radio" aria-checked={hoerModus === m}
+                      className={"hoermodus-btn" + (hoerModus === m ? " is-on" : "")} onClick={() => wechsleModus(m)}>{t}</button>
+            ))}
+          </div>
+        )}
         <div className="dock-row">
           <button className="icon-btn" onClick={p.prevSentence} aria-label="Satz zurück"><IconSatzZurueck size={34} /></button>
           <button className="icon-btn" onClick={p.prevWord} aria-label="Wort zurück"><IconWortZurueck size={34} /></button>
