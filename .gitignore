@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# READ LAYER Ergänzung 24.10.2026
+.env*
+public/audio/
+public/demo/**/audio/
+public/privat/
+*.wav
+*.mp3
+*.bak_*
+_bak_*/
+*.tgz

@@ -1,0 +1,429 @@
+{
+ "werke": [
+  {
+   "slug": "the-damned-thing-1898-from-in-the-midst-of-life",
+   "werk_id": "bierce-a_the-damned-thing-1898-from-in-the-midst-of-life",
+   "titel": {
+    "en": "The Damned Thing: 1898, From \"In the Midst of Life\"",
+    "de": "The Damned Thing: 1898, From \"In the Midst of Life\""
+   },
+   "autor": "Ambrose Bierce",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 4,
+   "woerter": 3214,
+   "audio_vorhanden": {
+    "en": false,
+    "de": true
+   },
+   "audio_im_demo": false,
+   "pfad": "demo/the-damned-thing-1898-from-in-the-midst-of-life/",
+   "aktualisiert": "2026-10-10T19:24:41",
+   "regal": "grusel",
+   "genre": "Horror"
+  },
+  {
+   "slug": "the-hound-of-the-baskervilles",
+   "werk_id": "doyle-ac_the-hound-of-the-baskervilles",
+   "titel": {
+    "en": "The Hound of the Baskervilles",
+    "de": "Der Hund von Baskerville"
+   },
+   "autor": "Arthur Conan Doyle",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover_de.jpg",
+    "cover_en.jpg"
+   ],
+   "kapitel": 17,
+   "woerter": 58827,
+   "audio_vorhanden": {
+    "en": true,
+    "de": true
+   },
+   "audio_im_demo": true,
+   "pfad": "demo/the-hound-of-the-baskervilles/",
+   "aktualisiert": "2026-10-12T19:35:36",
+   "regal": "krimi",
+   "genre": "Kriminalroman"
+  },
+  {
+   "slug": "the-tale-of-peter-rabbit",
+   "werk_id": "potter-b_the-tale-of-peter-rabbit",
+   "titel": {
+    "en": "The Tale of Peter Rabbit",
+    "de": "The Tale of Peter Rabbit"
+   },
+   "autor": "Beatrix Potter",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 1,
+   "woerter": 997,
+   "audio_vorhanden": {
+    "en": false,
+    "de": true
+   },
+   "audio_im_demo": false,
+   "pfad": "demo/the-tale-of-peter-rabbit/",
+   "aktualisiert": "2026-10-10T17:18:11",
+   "regal": "maerchen",
+   "genre": "Kinderbuch"
+  },
+  {
+   "slug": "the-yellow-wallpaper",
+   "werk_id": "gilman-cp_the-yellow-wallpaper",
+   "titel": {
+    "en": "The Yellow Wallpaper",
+    "de": "The Yellow Wallpaper"
+   },
+   "autor": "Charlotte Perkins Gilman",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 0,
+   "woerter": 5871,
+   "audio_vorhanden": {
+    "en": true,
+    "de": true
+   },
+   "audio_im_demo": false,
+   "pfad": "demo/the-yellow-wallpaper/",
+   "aktualisiert": "2026-10-10T09:39:45",
+   "regal": "grusel",
+   "genre": "Belletristik"
+  },
+  {
+   "slug": "the-cask-of-amontillado",
+   "werk_id": "poe-ea_the-cask-of-amontillado",
+   "titel": {
+    "en": "The Cask of Amontillado",
+    "de": "The Cask of Amontillado"
+   },
+   "autor": "Edgar Allan Poe",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 0,
+   "woerter": 2289,
+   "audio_vorhanden": {
+    "en": false,
+    "de": true
+   },
+   "audio_im_demo": false,
+   "pfad": "demo/the-cask-of-amontillado/",
+   "aktualisiert": "2026-10-10T18:30:11",
+   "regal": "grusel",
+   "genre": "Horror"
+  },
+  {
+   "slug": "the-enchiridion",
+   "werk_id": "epictetus_the-enchiridion",
+   "titel": {
+    "en": "The Enchiridion",
+    "de": "The Enchiridion"
+   },
+   "autor": "Epictetus",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 49,
+   "woerter": 10999,
+   "audio_vorhanden": {
+    "en": false,
+    "de": true
+   },
+   "audio_im_demo": false,
+   "pfad": "demo/the-enchiridion/",
+   "aktualisiert": "2026-10-10T20:28:07",
+   "regal": "sachbuch",
+   "genre": "Philosophie"
+  },
+  {
+   "slug": "struwwelpeter-merry-stories-and-funny-pictures",
+   "werk_id": "hoffmann-h_struwwelpeter-merry-stories-and-funny-pictures",
+   "titel": {
+    "en": "Struwwelpeter: Merry Stories and Funny Pictures",
+    "de": "Struwwelpeter: Merry Stories and Funny Pictures"
+   },
+   "autor": "Heinrich Hoffmann",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 1,
+   "woerter": 2331,
+   "audio_vorhanden": {
+    "en": false,
+    "de": true
+   },
+   "audio_im_demo": false,
+   "pfad": "demo/struwwelpeter-merry-stories-and-funny-pictures/",
+   "aktualisiert": "2026-10-10T18:37:43",
+   "regal": "maerchen",
+   "genre": "Bilderbuch"
+  },
+  {
+   "slug": "call-of-the-wild",
+   "werk_id": "london-j_call-of-the-wild",
+   "titel": {
+    "en": "The Call of the Wild",
+    "de": "Der Ruf der Wildnis"
+   },
+   "autor": "Jack London",
+   "erscheinungsjahr": 1903,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover_de.jpg",
+    "cover_en.jpg"
+   ],
+   "kapitel": 7,
+   "woerter": 31754,
+   "audio_vorhanden": {
+    "en": true,
+    "de": true
+   },
+   "audio_im_demo": true,
+   "pfad": "demo/call-of-the-wild/",
+   "aktualisiert": "2026-10-16T10:20:27",
+   "regal": "abenteuer",
+   "genre": "Abenteuerroman"
+  },
+  {
+   "slug": "war-and-peace-book-01-1805",
+   "werk_id": "tolstoy-lg_war-and-peace-book-01-1805",
+   "titel": {
+    "en": "War and Peace, Book 01: 1805",
+    "de": "War and Peace, Book 01: 1805"
+   },
+   "autor": "Leo, graf Tolstoy",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 3,
+   "woerter": 532,
+   "audio_vorhanden": {
+    "en": false,
+    "de": true
+   },
+   "audio_im_demo": false,
+   "pfad": "demo/war-and-peace-book-01-1805/",
+   "aktualisiert": "2026-10-10T19:24:42",
+   "regal": "roman",
+   "genre": "unklar"
+  },
+  {
+   "slug": "alice-s-adventures-in-wonderland",
+   "werk_id": "carroll-l_alice-s-adventures-in-wonderland",
+   "titel": {
+    "en": "Alice's Adventures in Wonderland",
+    "de": "Alice im Wunderland"
+   },
+   "autor": "Lewis Carroll",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover_de.jpg",
+    "cover_en.jpg"
+   ],
+   "kapitel": 12,
+   "woerter": 26415,
+   "audio_vorhanden": {
+    "en": true,
+    "de": true
+   },
+   "audio_im_demo": true,
+   "pfad": "demo/alice-s-adventures-in-wonderland/",
+   "aktualisiert": "2026-10-12T12:41:36",
+   "regal": "fantastik",
+   "genre": "Fantasy"
+  },
+  {
+   "slug": "the-gift-of-the-magi",
+   "werk_id": "henry-o_the-gift-of-the-magi",
+   "titel": {
+    "en": "The Gift of the Magi",
+    "de": "The Gift of the Magi"
+   },
+   "autor": "O. Henry",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 0,
+   "woerter": 2065,
+   "audio_vorhanden": {
+    "en": false,
+    "de": true
+   },
+   "audio_im_demo": false,
+   "pfad": "demo/the-gift-of-the-magi/",
+   "aktualisiert": "2026-10-10T18:30:10",
+   "regal": "roman",
+   "genre": "Kurzgeschichte"
+  },
+  {
+   "slug": "jekyll-and-hyde",
+   "werk_id": "stevenson-rl_jekyll-and-hyde",
+   "titel": {
+    "en": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "de": "Der seltsame Fall des Dr. Jekyll und Mr. Hyde"
+   },
+   "autor": "Robert Louis Stevenson",
+   "erscheinungsjahr": 1886,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 10,
+   "woerter": 24734,
+   "audio_vorhanden": {
+    "en": true,
+    "de": true
+   },
+   "audio_im_demo": true,
+   "pfad": "demo/jekyll-and-hyde/",
+   "aktualisiert": "2026-10-16T07:08:29",
+   "regal": "krimi",
+   "genre": "Krimi"
+  },
+  {
+   "slug": "the-legend-of-sleepy-hollow",
+   "werk_id": "irving-w_the-legend-of-sleepy-hollow",
+   "titel": {
+    "en": "The Legend of Sleepy Hollow",
+    "de": "Die Legende von Sleepy Hollow"
+   },
+   "autor": "Washington Irving",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 0,
+   "woerter": 11759,
+   "audio_vorhanden": {
+    "en": true,
+    "de": true
+   },
+   "audio_im_demo": true,
+   "pfad": "demo/the-legend-of-sleepy-hollow/",
+   "aktualisiert": "2026-10-16T07:08:30",
+   "regal": "grusel",
+   "genre": "Erzählung"
+  },
+  {
+   "slug": "the-golden-journey-of-mr-paradyne",
+   "werk_id": "locke-wj_the-golden-journey-of-mr-paradyne",
+   "titel": {
+    "en": "The golden journey of Mr. Paradyne",
+    "de": "The golden journey of Mr. Paradyne"
+   },
+   "autor": "William John Locke",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover.png"
+   ],
+   "kapitel": 10,
+   "woerter": 9043,
+   "audio_vorhanden": {
+    "en": false,
+    "de": true
+   },
+   "audio_im_demo": false,
+   "pfad": "demo/the-golden-journey-of-mr-paradyne/",
+   "aktualisiert": "2026-10-10T19:28:42",
+   "regal": "roman",
+   "genre": "Roman"
+  },
+  {
+   "slug": "as-you-like-it",
+   "werk_id": "shakespeare-w_as-you-like-it",
+   "titel": {
+    "en": "As You Like It",
+    "de": "Wie es euch gefällt"
+   },
+   "autor": "William Shakespeare",
+   "erscheinungsjahr": null,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover_de.jpg",
+    "cover_en.jpg"
+   ],
+   "kapitel": 6,
+   "woerter": 22721,
+   "audio_vorhanden": {
+    "en": true,
+    "de": true
+   },
+   "audio_im_demo": true,
+   "pfad": "demo/as-you-like-it/",
+   "aktualisiert": "2026-10-12T21:31:09",
+   "regal": "buehne",
+   "genre": "Theaterstück"
+  }
+ ],
+ "aktualisiert": "2026-10-16T10:20:27"
+}

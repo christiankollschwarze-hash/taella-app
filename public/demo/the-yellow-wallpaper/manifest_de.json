@@ -1,0 +1,4132 @@
+{
+ "werk_id": "gilman-cp_the-yellow-wallpaper",
+ "book_slug": "the-yellow-wallpaper",
+ "sprache": "de",
+ "titel": "Die gelbe Tapete",
+ "autor": "Charlotte Perkins Gilman",
+ "audio_vollstaendig": false,
+ "audio_count": 0,
+ "erstellt": "2026-10-10T07:39:45.057306Z",
+ "saetze": [
+  {
+   "tag_id": "c001_00001_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wenn ein hochangesehener Arzt, und noch dazu der eigene Ehemann, Freunden und Verwandten versichert, dass einem eigentlich nichts fehle außer einer vorübergehenden nervösen Verstimmung – einer leichten hysterischen Neigung –, was soll man da tun?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00002_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00003_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mein Bruder ist ebenfalls Arzt, auch hochangesehen, und er sagt dasselbe.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00004_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00005_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Also nehme ich Phosphate oder Phosphite – was auch immer es ist – und Stärkungsmittel, und ich mache Reisen, bekomme frische Luft und Bewegung, und es ist mir strengstens verboten zu „arbeiten“, bis ich wieder gesund bin.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00006_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00007_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich persönlich bin anderer Meinung als sie.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00008_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00009_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich persönlich glaube, dass zusagende Arbeit, mit Aufregung und Abwechslung, mir guttun würde.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00010_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00011_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber was soll man tun?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00012_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00013_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich habe eine Zeitlang trotz ihnen geschrieben, aber es erschöpft mich sehr – weil ich dabei so hinterhältig sein muss oder sonst auf heftigen Widerstand stoße.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00014_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00015_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Manchmal denke ich, dass in meinem Zustand weniger Widerstand und mehr Gesellschaft und Anregung – aber John sagt, das Allerschlimmste, was ich tun könne, sei, über meinen Zustand nachzudenken, und ich gestehe, es macht mich immer schlecht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00016_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00017_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Also lasse ich das und spreche über das Haus.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00018_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00019_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der allerschönste Ort! Es liegt sehr abgeschieden, weit zurück von der Straße, gut drei Meilen vom Dorf entfernt. Es erinnert mich an englische Anwesen, von denen man liest, denn es gibt Hecken und Mauern und Tore, die man verschließen kann, und viele einzelne kleine Häuschen für die Gärtner und sonstige Arbeiter.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00020_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00021_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da ist ein herrlicher Garten! Ich habe nie einen solchen Garten gesehen – groß und schattig, voller Wege mit Buchsbaumeinfassungen, und gesäumt von langen, weinrebenbedeckten Lauben mit Sitzbänken darunter.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00022_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00023_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es gab auch Gewächshäuser, aber die sind jetzt alle zerbrochen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00024_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00025_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es gab wohl irgendwelche rechtlichen Schwierigkeiten, etwas mit den Erben und Miterben; jedenfalls steht das Anwesen seit Jahren leer.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00026_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00027_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das verdirbt wohl das gespenstische Gefühl; aber es ist mir gleich – es ist etwas Seltsames an dem Haus – ich kann es fühlen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00028_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00029_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich sagte es sogar zu John an einem mondbeschienenen Abend, aber er sagte, was ich fühlte, sei ein Luftzug, und schloss das Fenster.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00030_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00031_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich werde manchmal unvernünftig wütend auf John. Ich bin sicher, ich war nie zuvor so empfindlich. Ich denke, es liegt an diesem nervösen Zustand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00032_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00033_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber John sagt, wenn ich so fühle, würde ich die nötige Selbstbeherrschung vernachlässigen; also gebe ich mir Mühe, mich zu beherrschen – vor ihm zumindest – und das macht mich sehr müde.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00034_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00035_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich mag unser Zimmer kein bisschen. Ich wollte ein Zimmer im Erdgeschoss, das auf die Veranda hinausging und Rosen rings ums Fenster hatte, und so hübsche altmodische Chintzvorhänge! Aber John wollte nichts davon wissen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00036_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00037_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er sagte, es gäbe nur ein Fenster und nicht genug Platz für zwei Betten, und kein Zimmer in der Nähe für ihn, wenn er ein anderes nähme.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00038_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00039_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er ist sehr fürsorglich und liebevoll und lässt mich kaum ohne genaue Anweisungen einen Schritt tun.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00040_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00041_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hat mir für jede Stunde des Tages einen Zeitplan vorgeschrieben; er nimmt mir alles Entscheiden ab, und so fühle ich mich schrecklich undankbar, dass ich es nicht mehr zu schätzen weiß.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00042_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00043_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er sagte, wir seien einzig und allein um meinetwillen hierhergekommen – ich solle vollkommene Ruhe und so viel frische Luft wie möglich haben. „Deine Bewegung hängt von deiner Kraft ab, meine Liebe“, sagte er, „und deine Nahrung einigermaßen von deinem Appetit; aber frische Luft kannst du die ganze Zeit atmen.“ Also nahmen wir das Kinderzimmer ganz oben im Haus.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00044_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00045_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist ein großer, luftiger Raum, der fast das ganze Stockwerk einnimmt, mit Fenstern in alle Richtungen und reichlich Luft und Sonnenschein. Ich würde vermuten, dass es zuerst ein Kinderzimmer war, dann ein Spiel- und Turnzimmer, denn die Fenster sind für kleine Kinder vergittert, und es gibt Ringe und dergleichen in den Wänden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00046_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00047_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Farbe und die Tapete sehen aus, als ob eine Jungenschule den Raum benutzt hätte. Die Tapete ist in großen Fetzen rings um das Kopfende meines Bettes abgerissen, ungefähr so hoch, wie ich reichen kann, und in einem großen Fleck auf der anderen Seite des Zimmers, weit unten. Ich habe in meinem Leben nie eine scheußlichere Tapete gesehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00048_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00049_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist eines jener wuchernden, protzigen Muster, das jede künstlerische Sünde begeht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00050_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00051_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist stumpf genug, das Auge zu verwirren, das ihm zu folgen versucht, und doch kühn genug, um beständig zu reizen und zum Studium einzuladen. Und wenn man den schwachen, ungewissen Kurven ein Stück weit folgt, begehen sie plötzlich Selbstmord – sie stürzen sich in unerhörten Winkeln hinab und zerstören sich in unerhörten Widersprüchen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00052_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00053_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Farbe ist abstoßend, beinahe widerlich; ein schwelendes, unsauberes Gelb, seltsam verblichen durch das langsam wandernde Sonnenlicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00054_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00055_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "An manchen Stellen ist es ein stumpfes, aber grelles Orange; an anderen ein kränklicher Schwefelton.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00056_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00057_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Kein Wunder, dass die Kinder es hassten! Ich würde es selbst hassen, müsste ich lange in diesem Zimmer wohnen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00058_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00059_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da kommt John, und ich muss dies wegräumen – er hasst es, wenn ich auch nur ein einziges Wort schreibe.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00060_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00061_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wir sind nun zwei Wochen hier, und ich habe seit jenem ersten Tag keine Lust mehr zum Schreiben verspürt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00062_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00063_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich sitze jetzt am Fenster, hier oben in diesem grässlichen Kinderzimmer, und nichts hält mich davon ab, so viel zu schreiben, wie ich will, außer einem Mangel an Kraft.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00064_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00065_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "John ist den ganzen Tag fort, und sogar manche Nächte, wenn seine Fälle ernst sind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00066_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00067_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich bin froh, dass mein Fall nicht ernst ist!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00068_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00069_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber diese nervösen Beschwerden sind schrecklich bedrückend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00070_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00071_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "John weiß nicht, wie sehr ich wirklich leide. Er weiß, dass es keinen Grund für mich zu leiden gibt, und das genügt ihm.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00072_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00073_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Natürlich, es ist nur die Nervosität. Aber sie lastet so schwer auf mir, dass ich meine Pflicht in keiner Weise erfüllen kann!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00074_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00075_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich hatte vor, John eine solche Hilfe zu sein – eine wahre Quelle der Ruhe und des Trostes –, und nun bin ich bereits eine verhältnismäßige Last!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00076_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00077_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Niemand würde glauben, welche Anstrengung es ist, das Wenige zu tun, wozu ich imstande bin: mich anzukleiden, Gäste zu unterhalten und Anordnungen zu treffen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00078_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00079_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist ein Glück, dass Mary so gut mit dem Baby ist. Solch ein liebes Baby!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00080_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00081_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und doch kann ich nicht bei ihm sein; es macht mich so nervös.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00082_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00083_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich nehme an, John war in seinem Leben nie nervös. Er lacht mich so sehr wegen dieser Tapete aus!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00084_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00085_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Zuerst hatte er vor, das Zimmer neu zu tapezieren, aber danach sagte er, dass ich es über mich Herr werden ließe und dass nichts schlimmer für einen nervösen Kranken sei, als solchen Einbildungen nachzugeben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00086_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00087_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er sagte, wenn die Tapete geändert würde, wäre das Nächste das schwere Bettgestell, und dann die vergitterten Fenster, und dann das Gitter am Treppenabsatz, und so weiter.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00088_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00089_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "„Du weißt, der Ort tut dir gut“, sagte er, „und wirklich, Liebes, ich habe keine Lust, das Haus nur für eine dreimonatige Miete zu renovieren.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00090_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00091_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "„Dann lass uns doch nach unten gehen“, sagte ich. „Dort gibt es so hübsche Zimmer.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00092_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00093_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da nahm er mich in die Arme, nannte mich ein gesegnetes kleines Gänschen und sagte, er würde in den Keller hinuntergehen, wenn ich es wünschte, und ihn obendrein noch weißen lassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00094_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00095_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber mit den Betten und den Fenstern und so weiter hat er schon recht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00096_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00097_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist ein so luftiges und behagliches Zimmer, wie man es sich nur wünschen kann. Natürlich wäre ich nicht so töricht, ihn nur aus einer Laune heraus unbehaglich zu machen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00098_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00099_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich finde wirklich langsam Gefallen an dem großen Zimmer – abgesehen von dieser abscheulichen Tapete.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00100_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00101_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aus einem Fenster kann ich den Garten sehen, jene geheimnisvollen, tief beschatteten Lauben, die wild wuchernden altmodischen Blumen und Büsche und knorrigen Bäume.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00102_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00103_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aus einem anderen Fenster habe ich eine herrliche Aussicht auf die Bucht und eine kleine private Anlegestelle, die zum Anwesen gehört. Eine schattige Allee führt vom Haus aus hinab. Ich bilde mir immer ein, ich sähe Leute auf diesen vielen Wegen und in den Lauben wandeln, aber John hat mich ermahnt, meiner Einbildung keinesfalls nachzugeben. Er sagt, bei meiner Einbildungskraft und der Gewohnheit, Geschichten zu erfinden, würde eine nervöse Schwäche wie die meine sicherlich zu allerlei erregten Einbildungen führen. Er sagt, ich solle meinen Willen und gesunden Menschenverstand einsetzen, um dieser Neigung Einhalt zu gebieten. Also versuche ich es.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00104_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00105_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Manchmal denke ich, wenn ich nur wohlauf genug wäre, um ein wenig zu schreiben, würde es den Druck der Gedanken lindern und mich ausruhen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00106_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00107_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber ich merke, dass ich ziemlich müde werde, wenn ich es versuche.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00108_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00109_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist so entmutigend, keinerlei Rat und Gesellschaft bei meiner Arbeit zu haben. Wenn ich wirklich gesund bin, sagt John, werden wir Vetter Henry und Julia zu einem langen Besuch zu uns bitten. Aber er sagt, er würde ebenso gern Feuerwerk in meinen Kopfkissenbezug stecken, wie mir jetzt diese anregenden Leute um mich zu lassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00110_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00111_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich wünschte, ich würde schneller gesund.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00112_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00113_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber ich darf nicht daran denken. Diese Tapete sieht für mich aus, als wüsste sie, welch bösartigen Einfluss sie ausübt!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00114_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00115_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es gibt eine wiederkehrende Stelle, an der das Muster wie ein gebrochener Hals herabhängt und zwei knollige Augen einen verkehrt herum anstarren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00116_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00117_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich werde regelrecht zornig über die Unverschämtheit und die Endlosigkeit. Auf und ab und seitwärts kriechen sie, und diese absurden, starren Augen sind überall. Es gibt eine Stelle, wo zwei Bahnen nicht zusammenpassten, und die Augen wandern die Linie auf und ab, eines etwas höher als das andere.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00118_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00119_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich habe noch nie so viel Ausdruck in einem leblosen Ding gesehen, und wir alle wissen, wie viel Ausdruck sie haben! Als Kind lag ich wach und fand mehr Unterhaltung und Schrecken an kahlen Wänden und schlichten Möbeln, als die meisten Kinder in einem Spielzeugladen hätten finden können.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00120_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00121_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich erinnere mich, welch freundliches Zwinkern die Knäufe unserer großen alten Kommode hatten, und es gab einen Stuhl, der immer wie ein starker Freund schien.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00122_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00123_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich hatte das Gefühl, wenn eines der anderen Dinge zu grimmig aussah, könnte ich immer in diesen Stuhl hüpfen und in Sicherheit sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00124_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00125_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Möbel in diesem Zimmer sind nicht schlimmer als zusammengewürfelt, denn wir mussten alles von unten heraufbringen. Ich nehme an, als dies als Spielzimmer diente, mussten sie die Kinderzimmersachen hinausschaffen, und kein Wunder! Ich habe noch nie solche Verwüstungen gesehen, wie die Kinder sie hier angerichtet haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00126_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00127_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Tapete, wie ich schon sagte, ist stellenweise abgerissen, und sie klebt fester als ein Bruder – sie müssen sowohl Ausdauer als auch Hass besessen haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00128_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00129_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dann ist der Boden zerkratzt, zerschrammt und gesplittert, der Putz selbst ist da und dort herausgestochen, und dieses große, schwere Bett, das alles ist, was wir im Zimmer fanden, sieht aus, als hätte es Kriege durchgemacht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00130_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00131_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber das stört mich kein bisschen – nur die Tapete.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00132_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00133_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hier kommt Johns Schwester. Sie ist so ein liebes Mädchen und so fürsorglich mit mir! Ich darf sie mich nicht beim Schreiben erwischen lassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00134_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00135_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie ist eine vollendete und begeisterte Haushälterin und wünscht sich keinen besseren Beruf. Ich glaube wirklich, sie denkt, das Schreiben habe mich krank gemacht!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00136_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00137_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber ich kann schreiben, wenn sie fort ist, und sie von diesen Fenstern aus von weitem sehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00138_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00139_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es gibt eines, das auf die Straße blickt – eine herrliche, schattige, gewundene Straße – und ein anderes, das einfach über das Land schaut. Ein herrliches Land, voll großer Ulmen und samtiger Wiesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00140_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00141_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Diese Tapete hat eine Art Untermuster in einer anderen Farbnuance. Ein besonders irritierendes, denn man kann es nur in bestimmten Lichtverhältnissen sehen, und selbst dann nicht deutlich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00142_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00143_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber an den Stellen, wo sie nicht verblichen ist und wo die Sonne genau richtig hinfällt, kann ich eine seltsame, provozierende, formlose Gestalt erkennen. Sie scheint hinter diesem albernen und auffälligen vorderen Muster herumzuschleichen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00144_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00145_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da ist die Schwester auf der Treppe!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00146_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00147_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nun, der Vierte Juli ist vorüber! Die Leute sind fort und ich bin erschöpft. John dachte, es würde mir guttun, ein wenig Gesellschaft zu sehen, also hatten wir nur Mutter und Nellie und die Kinder für eine Woche zu Besuch.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00148_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00149_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Natürlich habe ich nichts gemacht. Jennie kümmert sich jetzt um alles.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00150_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00151_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber es ermüdete mich trotzdem.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00152_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00153_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "John sagt, wenn ich nicht schneller gesund werde, schickt er mich im Herbst zu Weir Mitchell.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00154_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00155_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber ich will ganz und gar nicht dorthin. Ich hatte eine Freundin, die einmal in seinen Händen war, und sie sagt, er sei genau wie John und mein Bruder, nur noch mehr!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00156_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00157_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Außerdem ist es solch eine Anstrengung, so weit zu fahren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00158_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00159_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich habe nicht das Gefühl, dass es der Mühe wert ist, für irgendetwas einen Finger zu rühren, und ich werde schrecklich reizbar und weinerlich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00160_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00161_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich weine über nichts, und weine die meiste Zeit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00162_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00163_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Natürlich tue ich es nicht, wenn John hier ist, oder sonst jemand, aber wenn ich allein bin.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00164_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00165_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und ich bin gerade jetzt recht viel allein. John wird sehr oft von ernsten Fällen in der Stadt festgehalten, und Jennie ist lieb und lässt mich allein, wenn ich es möchte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00166_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00167_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "So gehe ich ein wenig im Garten spazieren oder den reizenden Weg hinunter, sitze auf der Veranda unter den Rosen und liege hier oben recht viel herum.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00168_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00169_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich gewinne das Zimmer trotz der Tapete wirklich lieb. Vielleicht gerade wegen der Tapete.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00170_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00171_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es beschäftigt meinen Geist so sehr!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00172_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00173_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich liege hier auf diesem großen, unbeweglichen Bett – es ist festgenagelt, glaube ich – und folge stundenlang diesem Muster ringsum. Es ist so gut wie Gymnastik, das versichere ich Ihnen. Ich fange, sagen wir, am unteren Ende an, ganz in der Ecke dort drüben, wo es noch unberührt ist, und entscheide zum tausendsten Male, dass ich dieses sinnlose Muster zu irgendeiner Art von Schlussfolgerung verfolgen werde.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00174_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00175_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich verstehe ein wenig von den Prinzipien der Gestaltung, und ich weiß, dass dieses Ding nicht nach irgendwelchen Gesetzen der Ausstrahlung, der Abwechslung, der Wiederholung, der Symmetrie oder sonst etwas, wovon ich je gehört habe, angeordnet ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00176_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00177_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es wiederholt sich natürlich über jeden Streifen, aber ansonsten nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00178_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00179_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Auf eine Weise betrachtet, steht jeder Streifen für sich allein. Die aufgeblähten Kurven und Schnörkel – eine Art »herabgekommener Romanik« mit Delirium tremens – watscheln in isolierten Säulen der Dummheit auf und ab.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00180_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00181_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber andererseits verbinden sie sich diagonal. Die wuchernden Umrisse verlaufen in großen schrägen Wellen optischen Entsetzens, wie ein Haufen sich wälzender Meeresalgen in voller Jagd.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00182_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00183_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das Ganze verläuft auch horizontal – wenigstens scheint es so –, und ich erschöpfe mich dabei, die Richtung des Musters auf diese Weise zu erkennen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00184_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00185_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie haben einen horizontalen Streifen als Fries verwendet, und das trägt wunderbar zur Verwirrung bei.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00186_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00187_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es gibt ein Ende des Zimmers, wo es fast unversehrt ist. Dort, wenn die Kreuzlichter schwinden und die tiefstehende Sonne direkt darauf scheint, kann ich mir beinahe doch eine Ausstrahlung vorstellen. Die endlosen Grotesken scheinen sich um ein gemeinsames Zentrum zu bilden und in jähen Sprüngen gleicher Zerstreuung davonzustürzen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00188_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00189_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es macht mich müde, ihm zu folgen. Ich werde wohl ein Nickerchen machen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00190_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00191_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich weiß nicht, warum ich dies schreiben sollte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00192_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00193_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich will es nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00194_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00195_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich fühle mich nicht imstande.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00196_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00197_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und ich weiß, dass John es für absurd halten würde. Aber ich muss irgendwie sagen, was ich fühle und denke – es ist solch eine Erleichterung!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00198_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00199_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber die Anstrengung wird größer als die Erleichterung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00200_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00201_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die halbe Zeit bin ich jetzt fürchterlich träge und liege die ganze Zeit nur herum.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00202_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00203_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "John sagt, ich dürfe meine Kräfte nicht verlieren, darum lässt er mich Lebertran und alle möglichen Stärkungsmittel und dergleichen einnehmen, von Bier, Wein und blutigem Fleisch ganz zu schweigen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00204_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00205_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Lieber John! Er liebt mich sehr innig und hasst es, mich krank zu sehen. Neulich versuchte ich, ein richtiges, ernsthaftes, vernünftiges Gespräch mit ihm zu führen und ihm zu sagen, wie sehr ich wünschte, er würde mich meinen Vetter Henry und Julia besuchen lassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00206_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00207_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber er sagte, ich sei nicht imstande zu reisen, und würde es, einmal dort, nicht aushalten. Ich machte keine gute Fürsprache für mich, denn ich weinte, ehe ich zu Ende gekommen war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00208_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00209_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es wird mir zu einer großen Anstrengung, klar zu denken. Nur diese nervöse Schwäche, nehme ich an.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00210_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00211_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und der liebe John hob mich auf seine Arme, trug mich nach oben und legte mich aufs Bett. Er setzte sich zu mir und las mir vor, bis es meinen Kopf ermüdete.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00212_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00213_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er sagte, ich sei sein Liebling und sein Trost und alles, was er habe, und dass ich um seinetwillen auf mich achtgeben und gesund bleiben müsse.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00214_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00215_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er sagt, niemand außer mir selbst könne mir da heraushelfen. Ich müsse meinen Willen und meine Selbstbeherrschung gebrauchen und nicht zulassen, dass mich irgendwelche törichten Hirngespinste fortreißen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00216_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00217_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Einen Trost gibt es: das Baby ist wohlauf und glücklich und muss nicht dieses Kinderzimmer mit der scheußlichen Tapete bewohnen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00218_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00219_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hätten wir es nicht benutzt, so hätte es das gesegnete Kind getan! Welch glückliches Entkommen! Nein, ich würde mein Kind – ein empfindsames kleines Ding – um keinen Preis in einem solchen Zimmer wohnen lassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00220_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00221_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich habe früher nie daran gedacht, aber es ist ein Glück, dass John mich schließlich doch hierbehalten hat. Ich ertrage es viel leichter als ein Baby, siehst du.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00222_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00223_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Natürlich erwähne ich es ihnen gegenüber nie mehr – ich bin zu klug –, aber ich behalte es trotzdem im Auge.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00224_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00225_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es gibt Dinge in dieser Tapete, die niemand kennt außer mir, und die auch nie jemand kennen wird.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00226_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00227_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hinter jenem äußeren Muster werden die verschwommenen Gestalten jeden Tag klarer.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00228_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00229_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist immer dieselbe Gestalt, nur sind es sehr viele.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00230_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00231_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und es ist wie eine Frau, die sich duckt und hinter dem Muster umherkriecht. Ich mag es ganz und gar nicht. Ich frage mich – ich beginne zu denken – ich wünschte, John nähme mich von hier fort!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00232_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00233_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist so schwer, mit John über meinen Zustand zu sprechen, denn er ist so weise, und weil er mich so liebt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00234_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00235_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber ich versuchte es letzte Nacht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00236_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00237_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es war Mondschein. Der Mond scheint ringsum herein, genau wie die Sonne.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00238_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00239_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Manchmal hasse ich es, ihn anzuschauen. Es kriecht so langsam und kommt stets durch das eine oder andere Fenster herein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00240_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00241_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "John schlief, und ich mochte ihn nicht wecken, also verhielt ich mich still und beobachtete das Mondlicht auf jener wellenförmigen Tapete, bis mir unheimlich zumute wurde.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00242_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00243_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die schwache Gestalt dahinter schien das Muster zu rütteln, ganz als ob sie hinauswollte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00244_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00245_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich stand leise auf und ging hin, um zu fühlen und zu sehen, ob die Tapete sich bewegte. Als ich zurückkam, war John wach.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00246_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00247_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "\"Was ist, kleines Mädchen?\", sagte er. \"Lauf nicht so umher – du wirst dich noch erkälten.\"",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00248_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00249_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich dachte, es sei eine gute Gelegenheit zum Reden, also sagte ich ihm, dass es mir hier wirklich nicht besser gehe und dass ich wünschte, er brächte mich fort.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00250_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00251_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "„Aber, Liebling!“ sagte er. „Unser Mietvertrag läuft in drei Wochen aus, und ich sehe nicht, wie wir vorher fortkommen könnten.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00252_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00253_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "„Die Reparaturen zu Hause sind noch nicht fertig, und ich kann unmöglich jetzt die Stadt verlassen. Selbstverständlich, wenn du in Gefahr wärst, könnte und würde ich es, aber es geht dir wirklich besser, meine Liebe, ob du es nun siehst oder nicht. Ich bin Arzt, meine Liebe, und ich weiß es. Du nimmst zu und bekommst wieder Farbe, dein Appetit ist besser. Ich bin deinetwegen wirklich viel beruhigter.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00254_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00255_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "„Ich wiege kein bisschen mehr“, sagte ich, „nicht einmal so viel. Und mein Appetit ist vielleicht am Abend besser, wenn du hier bist, aber morgens, wenn du fort bist, ist er schlechter.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00256_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00257_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "„Gott segne ihr kleines Herz!“ sagte er und umarmte mich fest. „Sie darf so krank sein, wie sie möchte! Aber jetzt lasst uns die leuchtenden Stunden gut nutzen, indem wir schlafen gehen, und morgen früh reden wir darüber!“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00258_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00259_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "„Und du wirst nicht fortgehen?“ fragte ich düster.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00260_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00261_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "„Aber, wie könnte ich, meine Liebe? Es sind nur noch drei Wochen, und dann machen wir eine hübsche kleine Reise für ein paar Tage, während Jennie das Haus herrichtet. Wirklich, meine Liebe, es geht dir besser!“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00262_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00263_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "„Vielleicht körperlich besser“ – begann ich und hielt plötzlich inne. Er setzte sich kerzengerade auf und sah mich mit einem so strengen, vorwurfsvollen Blick an, dass ich kein Wort mehr sagen konnte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00264_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00265_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "„Mein Liebling“, sagte er, „ich bitte dich, um meinetwillen und um unseres Kindes willen, ebenso wie um deinetwillen, lass diesen Gedanken keinen einzigen Augenblick in deinen Sinn kommen! Es gibt nichts so Gefährliches, so Faszinierendes für ein Temperament wie das deine. Es ist ein falscher und törichter Einfall. Kannst du mir als Arzt nicht vertrauen, wenn ich dir das sage?“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00266_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00267_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Also sagte ich natürlich nichts mehr darüber, und ehe lange, schliefen wir ein. Er dachte, ich sei zuerst eingeschlafen, aber ich war es nicht – ich lag stundenlang da und versuchte zu entscheiden, ob sich das vordere Muster und das hintere Muster wirklich zusammen oder getrennt bewegten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00268_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00269_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bei Tageslicht, bei einem Muster wie diesem, fehlt es an einer logischen Abfolge, einem Trotz gegen das Gesetz. Es ist ein beständiges Ärgernis für einen normalen Verstand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00270_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00271_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Farbe ist abscheulich genug, unzuverlässig genug und wutbringend genug, aber das Muster ist quälend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00272_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00273_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Du denkst, du hast es gemeistert, aber gerade, wenn du ihm so richtig folgst, macht es einen Rückwärtssalto, und da stehst du. Es schlägt dir ins Gesicht, wirft dich nieder und zertrampelt dich. Es ist wie ein böser Traum.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00274_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00275_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das äußere Muster ist eine überladene Arabeske, die an einen Pilz erinnert. Wenn du dir einen Giftpilz in Gliedern vorstellen kannst, eine endlose Kette von Giftpilzen, die in unendlichen Windungen knospen und sprießen – nun, so ähnlich ist es.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00276_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00277_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das heißt, manchmal!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00278_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00279_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es gibt eine ausgeprägte Eigenart an dieser Tapete, etwas, das außer mir niemand zu bemerken scheint, und zwar, dass sie sich verändert, wenn das Licht sich verändert.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00280_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00281_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wenn die Sonne durch das Ostfenster hereinschießt – ich warte immer auf diesen ersten langen, geraden Strahl – verändert sie sich so schnell, dass ich es kaum glauben kann.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00282_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00283_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Darum beobachte ich sie immer.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00284_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00285_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bei Mondschein – der Mond scheint die ganze Nacht herein, wenn es einen Mond gibt – würde ich nicht erkennen, dass es dieselbe Tapete ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00286_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00287_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nachts, bei jeder Art von Licht – Dämmerlicht, Kerzenlicht, Lampenlicht und am schlimmsten bei Mondschein – wird sie zu Gittern! Ich meine das äußere Muster, und die Frau dahinter ist so deutlich wie nur möglich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00288_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00289_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Lange Zeit erkannte ich nicht, was das für ein Ding war, das dahinter zum Vorschein kam – dieses undeutliche Untermuster – aber jetzt bin ich ganz sicher, dass es eine Frau ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00290_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00291_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bei Tageslicht ist sie gedämpft, still. Ich vermute, es ist das Muster, das sie so unbeweglich hält. Es ist so rätselhaft. Es hält mich stundenlang still.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00292_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00293_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich lege mich jetzt so viel hin. John sagt, es tue mir gut, und ich solle so viel schlafen wie möglich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00294_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00295_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Tatsächlich hat er die Gewohnheit eingeführt, indem er mich nach jeder Mahlzeit eine Stunde liegen ließ.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00296_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00297_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist eine sehr schlechte Angewohnheit, da bin ich überzeugt, denn, siehst du, ich schlafe nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00298_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00299_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und das fördert die Heimlichtuerei, denn ich sage ihnen nicht, dass ich wach bin – o nein!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00300_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00301_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Tatsache ist, mir wird ein wenig bang vor John.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00302_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00303_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er erscheint mitunter recht sonderbar, und selbst Jennie trägt einen unerklärlichen Blick.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00304_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00305_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es kommt mir gelegentlich in den Sinn, rein als wissenschaftliche Hypothese, dass es vielleicht die Tapete ist!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00306_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00307_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich habe John belauscht, wenn er nicht wusste, dass ich zusah, und ich bin unter den harmlosesten Vorwänden plötzlich ins Zimmer getreten, und ich habe ihn mehrmals ertappt, wie er auf die Tapete starrte! Und Jennie auch. Einmal erwischte ich Jennie mit der Hand darauf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00308_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00309_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie wusste nicht, dass ich im Zimmer war, und als ich sie mit leiser, sehr leiser Stimme und in der beherrschtesten Weise, die mir möglich war, fragte, was sie mit der Tapete tue, wirbelte sie herum, als wäre sie beim Stehlen ertappt worden, und sah recht zornig aus – fragte mich, warum ich sie so erschrecken müsse!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00310_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00311_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dann sagte sie, die Tapete beflecke alles, was sie berühre, sie habe gelbe Schmierflecken auf all meinen und Johns Kleidern gefunden, und sie wünschte, wir wären vorsichtiger!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00312_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00313_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Klang das nicht harmlos? Aber ich weiß, sie studierte das Muster, und ich bin entschlossen, dass niemand außer mir es herausfindet!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00314_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00315_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das Leben ist jetzt viel aufregender als einst. Sehen Sie, ich habe etwas, das ich erwarten, auf das ich mich freuen, das ich beobachten kann. Ich esse wahrhaftig besser und bin ruhiger, als ich war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00316_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00317_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "John ist so erfreut, mich genesen zu sehen! Neulich lachte er ein wenig und sagte, ich schiene trotz meiner Tapete aufzublühen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00318_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00319_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich lachte es weg. Ich hatte nicht die Absicht, ihm zu sagen, dass es wegen der Tapete war – er würde mich verspotten. Er könnte mich am Ende gar fortbringen wollen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00320_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00321_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich will jetzt nicht fort, bis ich es ergründet habe. Noch eine Woche, und ich denke, das wird genügen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00322_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00323_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mir geht es so viel besser! Nachts schlafe ich kaum, denn es ist so fesselnd, die Entwicklungen zu verfolgen; aber am Tage schlafe ich recht viel.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00324_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00325_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Am Tage ist es ermüdend und verwirrend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00326_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00327_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ständig gibt es neue Pilzsprossen und neue Gelbtöne überall darauf. Ich kann ihrer nicht mehr Herr werden, so emsig ich es auch versucht habe.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00328_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00329_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist das sonderbarste Gelb, diese Tapete! Sie lässt mich an all die gelben Dinge denken, die ich je sah – nicht schöne wie Butterblumen, sondern alte, üble, schlechte gelbe Dinge.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00330_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00331_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber da ist noch etwas anderes an dieser Tapete – der Geruch! Ich bemerkte ihn, sobald wir das Zimmer betraten, doch bei so viel Luft und Sonne war er nicht schlimm. Nun haben wir eine Woche Nebel und Regen hinter uns, und ob die Fenster offen sind oder nicht, der Geruch ist da.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00332_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00333_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er kriecht durch das ganze Haus.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00334_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00335_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich finde ihn, wie er im Speisezimmer hängt, im Salon lauert, sich in der Diele versteckt, auf der Treppe auf mich lauert.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00336_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00337_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er dringt in mein Haar.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00338_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00339_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Selbst wenn ich ausreite, wenn ich plötzlich den Kopf wende und ihn unversehens ertappe – da ist dieser Geruch!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00340_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00341_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und ein so eigentümlicher Duft! Ich habe Stunden damit verbracht, ihn zu ergründen, herauszufinden, wonach er roch.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00342_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00343_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er ist nicht unangenehm – anfangs, und sehr sanft, doch es ist der feinste, hartnäckigste Duft, dem ich je begegnet bin.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00344_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00345_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bei diesem feuchten Wetter ist er entsetzlich. Ich erwache in der Nacht und finde ihn über mir hängend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00346_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00347_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Anfangs pflegte er mich zu stören. Ich dachte im Ernst daran, das Haus niederzubrennen – nur um dem Geruch beizukommen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00348_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00349_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber nun habe ich mich daran gewöhnt. Das Einzige, dem er meines Erachtens ähnelt, ist die Farbe der Tapete! Ein gelber Geruch.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00350_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00351_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es gibt einen sehr seltsamen Fleck an dieser Wand, tief unten, nahe der Fußleiste. Ein Streifen, der ringsum im Zimmer läuft. Er geht hinter jedes Möbelstück außer dem Bett – ein langer, gerader, gleichmäßiger Schmierfleck, als wäre er immer und immer wieder gerieben worden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00352_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00353_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich frage mich, wie er dorthin gelangte, wer ihn machte und warum. Rundherum und rundherum und rundherum – rundherum und rundherum und rundherum – mir wird ganz schwindelig!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00354_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00355_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich habe wirklich endlich etwas entdeckt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00356_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00357_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Durch so vieles Beobachten bei Nacht, wenn es sich so sehr verändert, habe ich es endlich herausgefunden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00358_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00359_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das vordere Muster bewegt sich tatsächlich – und kein Wunder! Die Frau dahinter schüttelt es!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00360_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00361_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Manchmal denke ich, es sind viele Frauen dahinter, und manchmal nur eine, und sie krabbelt schnell umher, und ihr Gekrabbel schüttelt das ganze Muster.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00362_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00363_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dann hält sie sich an den ganz hellen Stellen still, und an den ganz schattigen Stellen packt sie die Gitterstäbe und rüttelt kräftig daran.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00364_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00365_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und sie versucht immer hindurchzuklettern. Aber niemand könnte durch dieses Muster klettern. Es würgt so; ich glaube, darum hat es so viele Köpfe.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00366_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00367_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie kommen durch, aber dann würgt das Muster sie. Es dreht sie um und macht ihre Augen weiß!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00368_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00369_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wären diese Köpfe bedeckt oder abgenommen, es wäre nicht halb so schlimm.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00370_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00371_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich glaube, diese Frau kommt bei Tage heraus!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00372_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00373_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und ich will Ihnen sagen, warum – ganz im Vertrauen – ich habe sie gesehen!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00374_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00375_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich kann sie aus jedem einzelnen meiner Fenster sehen!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00376_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00377_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist dieselbe Frau, ich weiß es, denn sie kriecht stets, und die meisten Frauen kriechen nicht bei Tageslicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00378_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00379_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich sehe sie auf jenem langen schattigen Weg, auf und ab kriechend. Ich sehe sie in jenen dunklen Weinlauben, ringsumher im Garten kriechend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00380_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00381_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich sehe sie auf jener langen Straße unter den Bäumen, entlang kriechend, und wenn eine Kutsche kommt, versteckt sie sich unter den Brombeerranken.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00382_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00383_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich mache ihr nicht den geringsten Vorwurf. Es muss äußerst demütigend sein, beim Kriechen bei Tageslicht ertappt zu werden!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00384_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00385_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich verschließe stets die Tür, wenn ich bei Tage krieche. Nachts kann ich es nicht, denn ich weiß, John würde sofort Verdacht schöpfen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00386_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00387_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und John ist jetzt so seltsam, dass ich ihn nicht reizen will. Ich wünschte, er nähme ein anderes Zimmer! Überdies will ich nicht, dass jemand außer mir selbst diese Frau nachts herauslässt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00388_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00389_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich frage mich oft, ob ich sie aus allen Fenstern zugleich sehen könnte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00390_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00391_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch wie rasch ich mich auch wende, ich kann nur aus einem auf einmal sehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00392_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00393_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und obgleich ich sie stets sehe, mag sie doch schneller kriechen, als ich mich wenden kann!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00394_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00395_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich habe sie mitunter weit draußen im offenen Land beobachtet, so rasch kriechend wie ein Wolkenschatten bei starkem Wind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00396_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00397_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Könnte man nur dieses obere Muster von dem unteren abschälen! Ich gedenke, es Stück für Stück zu versuchen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00398_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00399_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich habe noch etwas Komisches herausgefunden, aber ich werde es diesmal nicht verraten! Es ist nicht gut, Leuten allzusehr zu vertrauen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00400_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00401_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es bleiben nur noch zwei Tage, um diese Tapete abzureißen, und ich glaube, John beginnt, es zu bemerken. Der Ausdruck in seinen Augen gefällt mir nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00402_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00403_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und ich hörte, wie er Jennie viele professionelle Fragen über mich stellte. Sie hatte einen sehr guten Bericht zu geben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00404_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00405_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie sagte, ich schlafe am Tage sehr viel.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00406_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00407_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "John weiß, dass ich nachts nicht sehr gut schlafe, so still ich auch bin!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00408_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00409_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er stellte mir auch alle möglichen Fragen und gab vor, sehr liebevoll und freundlich zu sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00410_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00411_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als ob ich ihn nicht durchschauen könnte!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00412_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00413_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch wundert es mich nicht, dass er sich so verhält, nachdem er drei Monate unter dieser Tapete geschlafen hat.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00414_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00415_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es interessiert mich nur, aber ich bin sicher, dass John und Jennie insgeheim davon beeinflusst werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00416_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00417_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hurra! Dies ist der letzte Tag, aber es ist genug. John bleibt über Nacht in der Stadt und wird erst heute Abend herauskommen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00418_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00419_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Jennie wollte bei mir schlafen – das schlaue Ding! Aber ich sagte ihr, ich würde ganz gewiss besser ruhen, eine Nacht ganz allein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00420_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00421_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das war klug, denn in Wahrheit war ich kein bisschen allein! Sobald Mondlicht war und das arme Ding zu kriechen und das Muster zu schütteln begann, stand ich auf und lief, um ihr zu helfen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00422_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00423_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich zog und sie schüttelte, ich schüttelte und sie zog, und vor dem Morgen hatten wir Meter dieser Tapete abgerissen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00424_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00425_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein Streifen etwa so hoch wie mein Kopf und halb um das Zimmer herum.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00426_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00427_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und dann, als die Sonne kam und jenes schreckliche Muster über mich zu lachen begann, erklärte ich, dass ich es heute noch beenden würde!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00428_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00429_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Morgen reisen wir ab, und sie bringen all meine Möbel wieder hinunter, um alles so zu hinterlassen, wie es vorher war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00430_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00431_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Jennie sah die Wand verblüfft an, aber ich sagte ihr fröhlich, ich hätte es aus reiner Boshaftigkeit gegen das garstige Ding getan.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00432_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00433_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie lachte und sagte, es würde ihr nichts ausmachen, es selbst zu tun, aber ich dürfe mich nicht überanstrengen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00434_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00435_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wie sie sich diesmal verriet!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00436_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00437_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber ich bin hier, und niemand außer mir rührt diese Tapete an – kein Lebender!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00438_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00439_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie versuchte, mich aus dem Zimmer zu bekommen – es war so offensichtlich! Aber ich sagte, es sei jetzt so still, leer und sauber, dass ich dachte, ich lege mich wieder hin und schlafe, so viel ich kann. Ich sagte ihr, sie solle mich nicht einmal zum Abendessen wecken – ich würde rufen, wenn ich erwachte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00440_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00441_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nun ist sie fort, die Diener sind fort, die Sachen sind fort, und es ist nichts übrig als jenes große, festgenagelte Bettgestell mit der Segeltuchmatratze, die wir darauf fanden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00442_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00443_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wir werden heute Nacht unten schlafen und morgen das Boot nach Hause nehmen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00444_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00445_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich genieße das Zimmer sehr, jetzt, da es wieder kahl ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00446_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00447_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wie diese Kinder hier herumgetobt sind!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00448_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00449_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dieses Bettgestell ist ja förmlich zernagt!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00450_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00451_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber ich muss mich an die Arbeit machen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00452_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00453_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich habe die Tür verschlossen und den Schlüssel auf den Vorderweg hinabgeworfen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00454_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00455_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich will nicht hinausgehen, und ich will niemanden hereinlassen, bis John kommt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00456_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00457_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich will ihn in Erstaunen versetzen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00458_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00459_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich habe hier oben ein Seil, das nicht einmal Jennie gefunden hat. Wenn diese Frau herauskommt und zu entkommen versucht, kann ich sie fesseln!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00460_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00461_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber ich vergaß, dass ich ohne etwas zum Daraufstellen nicht weit reichen kann!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00462_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00463_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dieses Bett rührt sich nicht!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00464_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00465_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich versuchte, es zu heben und zu schieben, bis ich wund war, und dann wurde ich so wütend, dass ich ein kleines Stück von einer Ecke abbiss – aber es tat meinen Zähnen weh.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00466_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00467_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dann riss ich alles Papier ab, das ich vom Boden aus erreichen konnte. Es klebt entsetzlich, und das Muster hat seine Freude daran! All diese erwürgten Köpfe und knollenartigen Augen und watschelnden Pilzgewächse kreischen vor Hohn!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00468_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00469_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich werde wütend genug, um etwas Verzweifeltes zu tun. Aus dem Fenster zu springen wäre eine ausgezeichnete Übung, aber die Gitterstäbe sind zu stark, um es auch nur zu versuchen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00470_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00471_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Außerdem würde ich es nicht tun. Natürlich nicht. Ich weiß sehr wohl, dass ein solcher Schritt unschicklich ist und missverstanden werden könnte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00472_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00473_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich mag nicht einmal aus den Fenstern sehen – es gibt so viele von diesen kriechenden Frauen, und sie kriechen so schnell.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00474_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00475_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich frage mich, ob sie alle so aus dieser Tapete hervorkommen wie ich?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00476_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00477_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber ich bin nun sicher befestigt mit meinem gut versteckten Seil – du wirst mich nicht da hinaus auf die Straße bringen!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00478_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00479_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich nehme an, ich werde hinter das Muster zurückkehren müssen, wenn die Nacht kommt, und das ist schwer!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00480_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00481_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist so angenehm, hier in diesem großen Zimmer zu sein und nach Belieben umherzukriechen!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00482_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00483_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich will nicht nach draußen. Ich werde es nicht tun, selbst wenn Jennie mich bittet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00484_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00485_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Denn draußen muss man auf dem Boden kriechen, und alles ist grün statt gelb.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00486_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00487_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber hier kann ich geschmeidig über den Boden kriechen, und meine Schulter passt genau in diesen langen Schmierfleck an der Wand entlang, sodass ich mich nicht verirren kann.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00488_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00489_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sieh da, da ist John an der Tür!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00490_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00491_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist zwecklos, junger Mann, du kannst sie nicht öffnen!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00492_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00493_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wie er doch ruft und hämmert!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00494_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00495_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Jetzt schreit er nach einem Beil.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00496_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00497_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es wäre eine Schande, diese schöne Tür aufzubrechen!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00498_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00499_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "»John, mein Lieber!«, sagte ich mit sanftester Stimme, »der Schlüssel ist unten bei der Vortreppe, unter einem Wegerichblatt!«",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00500_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00501_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das ließ ihn für einige Augenblicke verstummen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00502_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00503_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dann sagte er – tatsächlich ganz leise: »Mach die Tür auf, mein Liebling!«",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00504_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00505_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "»Ich kann nicht«, sagte ich. »Der Schlüssel ist unten an der Haustür unter einem Wegerichblatt!«",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00506_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00507_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und dann sagte ich es noch einmal, mehrmals, ganz sanft und langsam. Ich sagte es so oft, dass er nachsehen musste, und er fand ihn natürlich und trat ein. Er blieb jäh an der Tür stehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00508_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00509_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "»Was ist los?« schrie er. »Um Gottes willen, was tust du da!«",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00510_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00511_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich kroch ganz genauso weiter, aber ich blickte ihn über die Schulter an.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00512_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00513_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "»Ich bin endlich herausgekommen«, sagte ich, »trotz dir und Jane! Und ich habe das meiste Papier abgerissen, also könnt ihr mich nicht wieder hineinstecken!«",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00514_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00515_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nun, warum sollte dieser Mann in Ohnmacht gefallen sein? Aber er tat es, und zwar genau quer über meinen Weg an der Wand, so dass ich jedes Mal über ihn hinwegkriechen musste!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  }
+ ]
+}

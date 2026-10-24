@@ -1,0 +1,6164 @@
+{
+ "werk_id": "locke-wj_the-golden-journey-of-mr-paradyne",
+ "book_slug": "the-golden-journey-of-mr-paradyne",
+ "sprache": "de",
+ "titel": "Die goldene Reise des Mr. Paradyne",
+ "autor": "William John Locke",
+ "audio_vollstaendig": false,
+ "audio_count": 0,
+ "erstellt": "2026-10-10T17:28:42.067846Z",
+ "saetze": [
+  {
+   "tag_id": "c001_00001_h",
+   "typ": "h",
+   "kapitel": "Facing Page",
+   "text": "Gegenüberliegende Seite",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c001_00002_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Der junge Mann blieb plötzlich stehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00003_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er marschierte weiter auf der weißen, ehrbaren Straße.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00004_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Warum Chartres, Monsieur, zehn Kilometer.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00005_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er stopfte sich eine neue Pfeife.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00006_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das Pferd, ohne seine bewusste Führung, brachte den verwirrten Mann nach Chartres.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00007_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„_Tiens_, sie hatte einen Ehemann!“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00008_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Die Ebene, deren Horizont so weit ist wie der des offenen Ozeans.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00009_qt",
+   "typ": "qt",
+   "kapitel": "Facing Page",
+   "text": "_Die goldene Reise des Mr. Paradyne_",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c001_00010_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Mr. Cosmo Paradyne, K.C., erwachte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00011_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er erwachte zu einem intensiven Bewusstsein, hellwach zu sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00012_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war dunkel.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00013_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er verfluchte sein Pech, denn er wusste, dass die Schlaflosigkeit ihn für den Rest der Nacht beanspruchen würde.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00014_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "„Phillibert _gegen_ Phillibert, Cohen & Smith“ würde ihm bis zum Morgen durch den Kopf tanzen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00015_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er warf sich ungeduldig herum und fiel beinahe aus dem Bett.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00016_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Tatsächlich berührte ein Fuß den Boden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00017_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er schwang zur anderen Seite und stieß sofort gegen eine Holzwand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00018_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00019_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Eine Zeitlang lag er auf dem Rücken, die Hände über den Augen, und wunderte sich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00020_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dann lachte er in sich hinein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00021_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Natürlich, er lag in einer Schiffskoje.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00022_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Wie dumm, das nicht sofort zu begreifen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00023_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es waren die Pfingstferien, und er und seine Frau machten einen dringend nötigen Urlaub.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00024_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er drehte sich wieder um und richtete sich zum Schlafen ein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00025_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Aber der wichtige Testamentsprozess „Phillibert _gegen_ Phillibert, Cohen & Smith“ beunruhigte ihn.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00026_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er hätte vor Antritt der Reise den Antrag beim Richter des Kanzleigerichtshofs stellen sollen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00027_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Beim besten Willen konnte er sich nicht erinnern, es getan zu haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00028_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Für seine Mandantin war der Punkt von größter Bedeutung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00029_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00030_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er zermarterte sich das Gehirn.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00031_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Am Samstag hatte es in seinen Kanzleiräumen die Besprechung mit Miss Phillibert und Griffiths, ihrem Anwalt, gegeben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00032_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war vereinbart worden, dass er den Antrag am Montag stellen sollte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00033_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00034_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das war gestern gewesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00035_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00036_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war die seltsamste Sache der Welt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00037_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Selbst wenn er selbst den Termin vergessen hätte – ein höchst unwahrscheinlicher Fall –, hätte sein Bürovorsteher ihn daran erinnert; sein Bürovorsteher Gregson, ein blasser, präziser Mann, so unfehlbar und unerbittlich wie eine Maschine.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00038_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er zuckte mit den Schultern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00039_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er musste vor Gericht erschienen sein und es vergessen haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00040_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war höchste Zeit für ihn, sich auszuruhen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00041_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er hatte monatelang unter Hochdruck gearbeitet und war todmüde; erschöpft …",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00042_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dieser alte Narr von Phillibert stand gewiss unter unzulässigem Einfluss, als er das Testament machte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00043_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Der Brief von Mrs. Cohen …",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00044_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er warf sich ungeduldig herum.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00045_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er würde den Fall aus seinem Kopf verbannen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00046_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Der einzige Wert eines Urlaubs bestand darin, das Gehirn zu leeren und ihm Ruhe zu gönnen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00047_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er fasste den festen Entschluss zu schlafen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00048_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Die Decke rutschte, und er fror.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00049_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er verfluchte die Härte und Unbequemlichkeit von Schiffskojen, während er auf dem Boden danach tastete.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00050_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00051_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war ein sehr seltsames Schiff.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00052_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Kein Knarren des Holzwerks, kein Pochen der Maschinen, keine Bewegung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00053_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Die Totenstille wurde nur von einem sonderbaren, rhythmischen Mahlgeräusch unterbrochen, das wie das Plätschern träger Wellen gegen die Bordwand klang.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00054_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Entweder waren die Maschinen ausgefallen, oder das Schiff lag in einer Flaute oder im Nebel …",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00055_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er kuschelte sich in die wiedergefundene Decke, das gesamte Bettzeug, das das Schiff bot, und ergab sich den Umständen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00056_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Schließlich kam es auf die Erholung an.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00057_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Golf war nur ein Mittel, um Erholung zu erlangen, und Le Touquet …",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00058_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00059_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Le Touquet!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00060_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00061_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Der Gedanke traf ihn wie ein Hammer.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00062_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Was, um alles in der Welt, tat er mitten in der Nacht an Bord eines Schiffes auf dem Weg nach Le Touquet, das nur eine Taxifahrt von Boulogne entfernt war?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00063_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er schwang sich aus dem Bett, und als er aufstand, bemerkte er zum ersten Mal, dass seine Beine nackt waren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00064_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Seine Hände, die an seinem einzigen Kleidungsstück zupften, bewiesen, dass es ein Flanellhemd mit offenem Kragen war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00065_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Nie zuvor hatte der abenteuerlose Paradyne in einem Flanellhemd geschlafen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00066_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Als Nachtkleidung wäre ihm ein Plattenharnisch ebenso vertraut gewesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00067_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein Stück der Wahrheit blitzte in ihm auf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00068_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er war überhaupt nicht an Bord eines Schiffes.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00069_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Aber wo zum Teufel war er?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00070_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein krähender Hahn zerriss die Stille und sagte ihm, dass er auf festem Land war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00071_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00072_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Wo zum Teufel war er?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00073_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "In einem Zug?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00074_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er tastete um die Koje nach einem elektrischen Schalter und fand nichts, was an die Ausstattung eines Schlafwagens erinnerte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00075_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Seine nackten Füße traten auf nackte, sandige Bretter.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00076_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Eine ausgestreckte Hand stieß an etwas Kaltes und Hartes, schrammte seine Knöchel, die wiederum laut gegen einen ähnlichen Gegenstand schlugen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00077_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er stand still und schwitzte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00078_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00079_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Nach einer Weile, als seine Augen sich an die Dunkelheit gewöhnt hatten, erkannte er am Boden neben dem Kopfende der Koje einen meterlangen Streifen fahlen Lichts.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00080_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das bedeutete zumindest eine Tür.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00081_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er tastete, bis er einen Schlüssel in einem Schloss fand, drückte die geöffnete Tür nach außen und stand verblüfft auf der Schwelle, hinausblickend in eine fremde Welt im fahlsten Licht der Morgendämmerung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00082_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00083_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Da war eine Straße, die die nahe Ferne ins Nichts verschluckte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00084_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Vage Bäume ragten wie Wachtposten auf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00085_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Unmittelbar unterhalb von drei Holzstufen zu seinen Füßen erstreckte sich ein breiter Grasstreifen entlang der Straße.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00086_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Weit drüben über einer unendlichen Weite der Ebene schimmerte der matte zitronen- und grüngelbe Widerschein irgendeines Lichts.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00087_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das rhythmische Mahlgeräusch ging weiter.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00088_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es kam von irgendwo hinter ihm.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00089_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00090_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er stieg die drei Stufen hinab, erkannte, dass das, was er für ein Schiff gehalten hatte, nur eine Art Zigeunerwagen war, und dass das Geräusch von einem angebundenen Pferd stammte, das behaglich das Gras am Wegesrand kaute.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00091_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00092_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Der verwirrteste aller jungen und glänzenden Anführer der Anwaltschaft am Kanzleigerichtshof, nur mit einem Flanellhemd bekleidet, das ihm bis zu den Knien reichte – ein Kleidungsstück der Demut für einen Mann, der die Anstandsregeln des Lebens als Religion betrachtete –, kehrte zu den Stufen des Wagens zurück und erkannte im wachsenden Zwielicht, was sich darin befand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00093_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Töpfe und Pfannen und Besen und Bürsten hingen in einem albtraumhaften Durcheinander von Decke und Wänden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00094_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Die Koje war nur ein dünn gepolstertes Brett, die Decke ein dunkler Schrecken.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00095_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er trat ein, und seine Füße verfingen sich in etwas, das sich beim Bücken als Kleidungsstücke erwies.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00096_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er tastete und sammelte nach und nach ein Paar Baumwollsocken und eine Segeltuchhose ein, seltsam unvertraut; andererseits aber seine vertrauten Golfschuhe und seine Norfolk-Jacke.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00097_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er zog sich dankbar an, denn er zitterte in der Kälte der Morgendämmerung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00098_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00099_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er nahm beide Phänomene wahr: die Kälte und die Morgendämmerung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00100_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "In die Decke gehüllt saß er auf der Schwelle des absurden Gebildes, in dem er ohne Frage sein unmittelbares Dasein hatte, stützte den Kopf in die Hände und konzentrierte seinen Geist auf die Lösung des erstaunlichen Problems:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c001_00101_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Wo bin ich? Und was zum Teufel tue ich hier, wo immer ich bin?“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00102_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00103_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Gedächtnisverlust?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00104_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Nein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00105_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Absurd!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c001_00106_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er war Cosmo Paradyne, K.C., zweiundvierzig Jahre alt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00107_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sein ganzes bisheriges Leben lag als offenes Buch vor ihm.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00108_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Winchester; King’s College, Cambridge; die Anwaltschaft.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00109_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Von Kindheit an eine ehrenhafte Geschichte von Ehrgeiz, Arbeit und Erfolg.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00110_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er lief gewiss nicht wie ein Narr umher, ohne zu wissen, wer er war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00111_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00112_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Doch seine gegenwärtigen Umstände bedurften einer Erklärung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00113_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00114_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er wollte die Dinge bis Freitag zurückverfolgen – oder besser mit Freitag beginnen, dem Tag von Violas Hochzeit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00115_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Viola war seine Tochter, ein sehr junges und modernes Mädchen, das eine gesellschaftlich ausgezeichnete, wenn auch finanziell nicht glänzende Ehe geschlossen hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00116_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Da man nicht erwarten konnte, dass Earls und Richter und Kabinettsminister samt Gattinnen in Ealing auftauchten, wo er lebte, fand der Hochzeitsempfang im Hyde Park Hotel statt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00117_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es waren zwei- oder dreihundert Gäste, eine Kapelle und Champagner und Hochzeitsgeschenke und Detektive und Fotografen und Journalisten und ein junger Bräutigam mit einem „Honourable“ vor dem Namen; alles, was sich eine mädchenhafte Braut wünschen konnte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00118_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein großer Erfolg.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00119_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00120_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Als Cosmo Paradyne kam, um sich von seiner Tochter zu verabschieden, fiel ihm ein, dass er sie nur entfernt kannte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00121_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dennoch erfüllte er seine väterliche Pflicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00122_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Meine Liebe“, sagte er, „ich wünschte, du gingest nicht nach Indien, es ist so furchtbar weit weg.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00123_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Worauf sie lachte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00124_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Du hast doch nie angenommen, ich würde mein ganzes Leben in Ealing verbringen.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00125_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er zuckte mit den Schultern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00126_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Schließlich spielte es kaum eine Rolle, wo man lebte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00127_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00128_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er erinnerte sich an das Achselzucken und die Überlegung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00129_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Alles war vollkommen klar.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00130_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Seine Frau fuhr im Wagen nach Hause.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00131_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er nahm eine Droschke zu seinen Kanzleiräumen, wo Arbeit auf ihn wartete, Akten, die im Zusammenhang mit diesem höllischen „Phillibert gegen Phillibert, Cohen & Smith“ zu lesen waren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00132_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er nahm den Zug nach Ealing, zog sich um, speiste allein mit Martha.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00133_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das Abendessen war nicht besonders gut.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00134_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er war der letzte Mensch, der auf erlesene Kochkunst bestand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00135_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er hatte weder Zeit noch Gedanken für Tafelfreuden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00136_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Aber zähes Hammelfleisch war zähes Hammelfleisch; schlecht für die Verdauung und daher schlecht für die Arbeit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00137_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00138_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Seine Frau antwortete auf seine Klage mit ihrer schmallippigen, scharfen, endgültigen Stimme:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c001_00139_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ich finde, es ist ausgesprochen gutes Hammelfleisch.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00140_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Roach ist der beste Metzger der Gegend.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00141_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Wäre er es nicht, ginge ich nicht zu ihm.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00142_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00143_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er beharrte nicht auf dem Punkt, da er es vor vielen Jahren aufgegeben hatte, mit Martha zu streiten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00144_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er nahm ihr zusammenhangloses Gespräch über die Hochzeit wieder auf und erwähnte Violas verächtliche Ablehnung Ealings.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00145_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Vielleicht ist es ein bisschen vorstädtisch“, sagte er mit einem Lächeln.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00146_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Hier werde ich meine Tage beschließen“, erwiderte Martha.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00147_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Und hier hätte Viola, wenn sie nicht geheiratet hätte, die ihren beschlossen.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00148_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00149_skip",
+   "typ": "skip",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00150_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sie blickte mit dem Stolz der Besitzerin im ordentlichen Esszimmer umher, dessen Wände von düsteren Ölgemälden erdrückt wurden; zwei Ganzporträts ihres Vaters und ihrer Mutter, hässliche und Ehrfurcht gebietende Gestalten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00151_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Denn es war ihr eigenes Haus, ihr (zusammen mit anderen weltlichen Gütern) von ihrem Vater hinterlassen, einem wohlhabenden Anwalt, der Cosmo seine erste Fallakte gegeben hatte; und in dieses Haus war sie als Braut eingezogen; und in ihm hatte sie ihr eigenes tugendhaftes, pflichtbewusstes und strenges Leben aufgebaut und entfaltet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00152_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00153_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Du wirst doch nicht unzufrieden und willst dich verändern, hoffe ich?“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00154_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„O nein, nein“, erwiderte er hastig.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00155_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Es tut mir gut, außerhalb der Stadt zu leben.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00156_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Du bekommst deine frische Luft und dein Golf.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00157_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Das tue ich“, sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00158_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00159_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er erinnerte sich, dass er, als der Butler mit einem Käsesoufflé kam, abwinkte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00160_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ich versichere dir, daran ist nichts auszusetzen“, sagte seine Frau.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00161_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er fuhr sich mit der Hand über das faltige, glatt rasierte Gesicht und entschuldigte sich höflich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00162_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "In all den zwanzig Jahren seines Ehelebens hatte er sich nie mit Martha gestritten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00163_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er betrachtete sie als eine kosmische Bedingung seiner Existenz, wie Frühstück, Regen und Nebel, und, wiederum wie diese Phänomene, fern von seinen Lebensinteressen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00164_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er habe keinen Appetit, sagte er; sei zu müde zum Essen; hundemüde; sie möge ihm verzeihen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00165_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Natürlich tue ich das“, erwiderte sie höflich.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00166_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Aber trotzdem ist es nicht lustig, für einen toten Mann zu sorgen.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00167_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00168_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er war ein trockener, pragmatischer Mensch, gewohnt, die genaue Bedeutung von Worten zu deuten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00169_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Was meinst du damit?“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00170_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Nichts weiter als das, was ich gesagt habe, Cosmo.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00171_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00172_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Auf den Stufen des Wagens sitzend, wiederholte er, während diese Vorfälle ihm durch den Kopf gingen:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c001_00173_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ja, was zum Teufel meinte sie damit?“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00174_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00175_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er setzte seine Rückschau fort.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00176_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00177_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Nach der öden Mahlzeit zündete er sich seine Zigarre nach dem Essen an, sein einziges Zugeständnis an das Genussleben, und rauchte sie wie gewöhnlich in der Einsamkeit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00178_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Mrs. Paradyne erlaubte Zigaretten, bei notwendigen Anlässen, in ihrem Salon, aber niemals Zigarren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00179_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Da sie bitter schmeckte, warf er sie halb geraucht weg und gesellte sich zu seiner Frau, die er dabei antraf, wie sie an ihrem Sekretär Hochzeitsabrechnungen machte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00180_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Nach einer kurzen Weile wünschte er ihr gute Nacht, küsste eine halb abgewandte Wange und ging, nach unveränderlicher Gewohnheit, wenn er zu Hause war, in sein Arbeitszimmer, um zu arbeiten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00181_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er steckte mitten in einem Buch, _Die Beziehungen der Equity zum Common Law_, das, glänzend geschrieben, einem lange empfundenen Bedürfnis abhelfen würde.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00182_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er setzte sich und schlug sein Manuskript auf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00183_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00184_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dort versagte sein Gedächtnis.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00185_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Was war danach geschehen?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00186_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Instinktiv suchte er in seiner rechten Hosentasche nach seiner Pfeife.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00187_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er fand sie; aber er fand auch noch etwas anderes, das ihm gewaltiges Erstaunen bereitete.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00188_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war ein sehr kurzes, wenn auch recht kunstvoll gearbeitetes silbernes Flageolett.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00189_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00190_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das fahle Licht der Morgendämmerung hatte nun die Erde überzogen, sodass Gegenstände nah und fern sichtbar waren; aber in den nächsten Augenblicken sah er nur das helle, verlockende Instrument in seinen Händen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00191_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00192_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Nun war Cosmo Paradyne ein Musiker auf trockene, wissenschaftliche Weise; überdies eine Autorität auf dem Gebiet der Geschichte und Verwendung von Blasinstrumenten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00193_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er hatte die Ealinger Symphonische Gesellschaft gegründet und spielte etwa einmal im Monat Oboe oder Klarinette bei ihren Konzerten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00194_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er besaß eine ansehnliche Sammlung in seinem Arbeitszimmer.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00195_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Aber dieses silberne Flageolett hatte sich nie in seinem Besitz befunden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00196_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er hatte nie ein ähnliches gesehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00197_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00198_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er starrte es an, setzte es an die Lippen, und während seine Finger über Grifflöcher und Klappen glitten, begann er, ohne vorsätzlichen Willensakt, eine außergewöhnliche Melodie zu spielen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00199_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Doch nach einigen Phrasen sprang er mit einem Schauder des Schreckens auf und ließ das Flageolett ins Gras fallen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00200_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Wie war diese koboldhafte Melodie in seinen Kopf gekommen?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00201_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00202_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dann blitzte das zurückkehrende Gedächtnis ein klares Bild auf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00203_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00204_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er war über seinen _Beziehungen der Equity zum Common Law_ eingeschlafen und spät von klarer, seltsamer Musik vor dem Haus geweckt worden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00205_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sein Arbeitszimmer und sein Schlafzimmer, das daran angrenzte, lagen im Erdgeschoss.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00206_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das Fenster seines Arbeitszimmers stand offen zum Rasen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00207_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er trat hinaus, ging ein paar Schritte, und dort an der Ecke des Gebäudes, an der Biegung der Einfahrt, stand der Musiker.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00208_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er war ein gewöhnlicher junger Mann mit weichem Filzhut, und er spielte ein Flageolett, das im Sternenlicht silbern glänzte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00209_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Cosmo Paradyne stand benommen und fasziniert da, denn nie hatte er solche Wunder aus einem Flageolett gehört.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00210_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war wie der Gesang der Vögel; der Gesang der Bäume, der Bäche, der Wälder; der Gesang des Lachens, des zierlichen Übermuts, der elfenhaften Schelmerei.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00211_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Bald brach es in Triller einer so erlesenen Freude aus, dass ihm der Atem stockte; bald in Phrasen der Sehnsucht, die ihm das Herz ergriffen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00212_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Und alles beruhte auf einem _Motiv_, das er nie zuvor gehört hatte, von dem zu hören er nie geträumt hatte, einfach wie die Musik des Windes, doch subtil, als ob es auf den Strahlen eines Sterns spielte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00213_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00214_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Der junge Mann hörte plötzlich auf, trat vor, nahm seinen Hut ab und hielt ihn für ein Almosen hin.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00215_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ich bin froh, dass Sie mein Spiel nicht stört“, sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00216_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Viele Leute weisen mich ab.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00217_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Letzte Nacht hat jemand einen Hund auf mich gehetzt, was äußerst unangenehm war.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00218_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Aber Sie sind ein Musiker.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00219_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Ein außergewöhnlicher Musiker“, sagte Paradyne.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00220_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Der junge Mann lachte offen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00221_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Das glaube ich allerdings auch“, sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00222_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Und er bewegte seinen Hut ein oder zwei Zoll näher.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00223_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00224_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Diesem erstaunlichen Straßenmusiker einen bloßen Shilling zu geben, schien unmöglich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00225_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er nestelte an seiner Brieftasche und ließ eine Pfundnote in den Hut fallen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00226_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ich danke Ihnen, Sir, für Ihre Großzügigkeit“, sagte der junge Mann und steckte die Note ein.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00227_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er setzte seinen Hut mit Schwung auf und schickte sich an, sich abzuwenden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00228_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Entschuldigen Sie“, sagte Paradyne, „ich bin zufällig Amateurklarinettist, und ich glaubte, so viel wie irgendjemand Lebender über Musik für Blasinstrumente zu wissen; aber das Stück, das Sie gerade gespielt haben, kann ich nicht erkennen.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00229_skip",
+   "typ": "skip",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00230_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Das glaube ich gern“, erwiderte der junge Mann freundlich.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00231_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Es ist meine eigene Komposition, und sie ist noch nie auf Papier niedergeschrieben worden; geschweige denn für Amateure veröffentlicht – bei allem Respekt –, um sie zu verhunzen.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00232_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Nochmals, Sir, tausend Dank.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00233_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Gute Nacht.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00234_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00235_skip",
+   "typ": "skip",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00236_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er machte eine schwungvolle Verbeugung und marschierte davon.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00237_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Paradyne ging ins Haus, die Musik klang ihm durch den Kopf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00238_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00239_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Am nächsten Morgen ging er in seine Kanzleiräume.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00240_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war alles vollkommen klar.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00241_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Griffiths hatte seine ältere Mandantin, Miss Phillibert, zu einer Besprechung mitgebracht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00242_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00243_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Einen Moment.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00244_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er setzte sich wieder auf die Stufen des Wagens.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00245_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Etwas ziemlich Seltsames war geschehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00246_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ja.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00247_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Mitten in der Besprechung hatte er zu pfeifen begonnen und war erst wieder zu Sinnen gekommen, als er die schockierten Gesichtsausdrücke von Anwalt und Mandantin sah.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00248_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er hatte diese verdammte Melodie gepfiffen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00249_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00250_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er aß in seinem Club zu Mittag, an einem einsamen Tisch, da ihm nicht nach fröhlicher Gesellschaft zumute war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00251_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dann fuhr er nach Hause nach Ealing, wo er sich, krank und erschöpft, ins Bett legte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00252_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dort blieb er, trotz der Proteste seiner Frau.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00253_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Martha glaubte nicht daran, dass Leute im Bett blieben, es sei denn, sie bekämen Flecken oder zeigten deutliche körperliche Anzeichen von Krankheit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00254_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es brachte die Routine des Hauses durcheinander.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00255_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dennoch war er der Herr.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00256_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sie würde die nötigen Anordnungen treffen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00257_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Zum Abendessen bekam er eine Seezunge, die Martha gebraten nannte, die er aber mit schlichtem Humor als getrocknet bezeichnete; woraufhin sie hinausging und sich mit scharfer Höflichkeit von ihm verabschiedete.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00258_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00259_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Später kamen Dienstboten, um sein Bett zu machen und für seine nächtliche Bequemlichkeit zu sorgen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00260_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er stand auf, zog seinen Morgenrock an und fühlte sich nach der Ruhe viel besser.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00261_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er sagte dem Butler, er solle seine Golfsachen für den nächsten Tag – Sonntag – bereitlegen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00262_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er ging in sein Arbeitszimmer nebenan.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00263_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Da er nichts zu tun hatte, weil heute Abend keine Arbeit möglich war, dachte er an den frühen Aufbruch am Dienstag nach Boulogne.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00264_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Besser, jetzt alles vorzubereiten, denn keine Grundsätze im Leben sind wichtiger als Voraussicht und Methode.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00265_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "So sammelte er müßig aus den geistig geordneten und verschlossenen Schubladen, in denen sie lagen, sein Bündel Zehnpfundnoten, seinen Vorrat an französischem Geld vom letztjährigen Golfurlaub, seine gelben Cook’schen Fahrkarten, die er vor ein paar Tagen gekauft hatte, mit ihren Reservierungen für Pullman und Privatkabine, seinen Brief vom Hotel in Le Touquet, der seine Zimmerbestellung bestätigte, einen kleinen Stapel Visitenkarten, ein Rezept für ein Stärkungsmittel und ein anderes für Verdauungspillen sowie eine sehr schmutzige Karte, die in Tabellenform die mathematischen Regeln für den Bankhalterzug beim Chemin de Fer darlegte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00266_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Nachdem er das ganze Sortiment durchgesehen hatte, stopfte er es in seine spezielle lederne Reisebrieftasche, die er auf den Frisiertisch legte, nachdem er sein nun vorbereitetes Schlafzimmer betreten hatte, in der Absicht, sie in der Schublade einzuschließen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00267_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00268_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Nun, tat er es oder tat er es nicht?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00269_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er konnte sich nicht erinnern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00270_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00271_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Jedenfalls stand fest, dass er, als er sein Arbeitszimmer wieder betrat, um das Licht auszuschalten, bevor er zu Bett ging, den höllischen jungen Mann im Garten hörte, der seine phantastisch teuflische Melodie spielte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00272_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Wieder ging er hinaus – diesmal in Pyjama und Morgenrock –, und wieder stand er gebannt da, bis der Musiker endete und lächelnd mit ausgestrecktem Hut hervortrat.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00273_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Weiter, weiter“, rief Paradyne.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00274_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ach, ich habe nur ein Stück“, sagte der junge Mann, „und ich spiele es nur einmal.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00275_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Es tut mir leid——“ begann er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00276_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Bitte, keine Ursache.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00277_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ich muss ins Haus und——“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00278_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ich bitte Sie, nicht.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00279_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Werden Sie morgen Abend kommen?“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00280_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Der junge Mann legte den Kopf in einem humorvollen Winkel schief und lächelte, eine protestierende Hand erhebend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00281_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ich bin heute Abend nur gekommen, weil Sie meine Musik zu schätzen schienen.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00282_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Aber morgen——?",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00283_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Glauben Sie, ich werde mein Leben in Ealing verbringen?“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00284_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Die sehr Worte seiner Tochter Viola.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00285_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er hob die Hände an die Schläfen, als wollte er ein seltsames Schwanken beruhigen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00286_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er sagte:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c001_00287_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Wer sind Sie?",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00288_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Sagen Sie es mir.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00289_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Ich würde es sehr gern wissen.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00290_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ah, das ist mein Geheimnis“, lachte der junge Mann.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00291_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00292_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Und spöttisch setzte er das Flageolett an die Lippen und spielte ein paar Takte, das Motiv seiner Melodie.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00293_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Warten Sie, bitte“, rief Paradyne.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00294_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Sie interessieren mich außerordentlich.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00295_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Ich kann Sie nicht gehen lassen, ohne——ich bin gleich wieder da.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00296_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er bog um die Ecke, überquerte den Rasen und betrat das Haus durch die Glastür des Arbeitszimmers.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00297_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Als er zurückkehrte, eine Treasury-Note in der Hand, war der Musiker verschwunden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00298_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er öffnete das Holztor der kreisförmigen Einfahrt und blickte die Straße hinauf und hinunter, vergeblich nach dem Musiker suchend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00299_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00300_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "An Schlaf war nicht zu denken.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00301_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war eine heiße Nacht Anfang Juni.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00302_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Durch sein Gehirn klang die quälende Musik.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00303_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er stand auf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00304_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ich werde verrückt“, sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00305_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ich muss es mir ablaufen.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00306_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00307_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Nie in seinem ehrbaren Leben war er mitten in der Nacht aufgestanden, um einen Spaziergang zu machen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00308_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Aber jetzt tat er es.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00309_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er zog seine Golfkleidung an, die für ihn bereitlag, und ging durch sein Arbeitszimmer, schloss die Tür hinter sich ab und steckte den Schlüssel in die Tasche.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00310_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dann marschierte er los.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00311_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er marschierte die weiße, ehrbare Straße entlang, gesäumt von den Grundstücken ehrbarer Villen, schwang seinen Stock, mit einem Gefühl von Schuljungenfreiheit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00312_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Und plötzlich, in der Ferne, hörte er diese abscheuliche Melodie.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00313_skip",
+   "typ": "skip",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00314_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00315_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Und dann?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00316_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Und dann war alles leer.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00317_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Zwischen diesem Augenblick und seinem gegenwärtigen Erwachen war Leere, Nichts, Dunkelheit – wie immer man es nennen will.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00318_skip",
+   "typ": "skip",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00319_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00320_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er dachte es wie ein Jurist durch.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00321_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Da war das silberne Flageolett des jungen Mannes im Gras.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00322_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das bedeutete, er musste ihn eingeholt und irgendwie in Besitz des Instruments gelangt sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00323_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Möglicherweise war er eine Strecke mit ihm gewandert und unterwegs ohnmächtig geworden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00324_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ihm wurde klar, dass er am Rande eines Nervenzusammenbruchs gestanden hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00325_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Was konnte einfacher sein als diese Erklärung: Er war völlig zusammengebrochen, und sein Freund hatte ihn in diesen Zigeunerwagen gelegt, während er und der Besitzer zur nächsten Stadt gegangen waren, um medizinische Hilfe zu holen?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00326_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war also doch Sonntagmorgen, und sein wandelnder Schrecken – er könnte seinen Montagstermin vor dem Richter versäumt haben – war gegenstandslos.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00327_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Großartig“, sagte er, „großartig!“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00328_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er stand auf und schob die Hände in die Taschen seiner Norfolk-Jacke.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00329_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "In der linken Tasche fühlte er den Schlüssel zu seinem Arbeitszimmerfenster.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00330_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er lachte laut auf und nannte sich einen törichten Narren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00331_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00332_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war nun heller Tag.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00333_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein Holztor ein paar Meter vor ihm öffnete sich, und ein kleines Mädchen in einem blauen Kittel kam heraus, eine Flasche Milch in der Hand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00334_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sie kam auf ihn zu und sagte mit kindlicher, piepsender Stimme:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c001_00335_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "_Voici le lait, Monsieur._",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00336_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Was?“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00337_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war ein Brüllen der Fassungslosigkeit, und das Kind wich erschrocken zurück.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00338_skip",
+   "typ": "skip",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00339_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "_C'est le lait que Monsieur a commandé, hier soir._",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00340_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Mein Gott“, sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00341_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "_C'est six sous, Monsieur_,",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c001_00342_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "sagte das Kind und hielt die Hand auf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00343_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00344_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er war also doch in Frankreich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00345_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er brauchte die Sprache und Kleidung des Kindes nicht mehr, um sich davon zu überzeugen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00346_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein Blick über die endlose Ebene, spärlich mit rotgedeckten Bauernhöfen übersät und von schnurgeraden Pappelreihen durchzogen, die Straßen wie die vor ihm markierten, lieferte ihm den vollen Beweis.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00347_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Aber wie er nach Frankreich gelangt war und was er dort mit einem Zigeunerwagen und einem Pferd tat, davon hatte er keine Ahnung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00348_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Und wo in Frankreich war er?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00349_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Gewiss nicht in der Nähe von Le Touquet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00350_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Wohin führt diese Straße?“, fragte er und winkte mit der Hand.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00351_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Nun, nach Chartres, Monsieur.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00352_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Zehn Kilometer.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00353_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "Gehen Sie nicht zum Jahrmarkt?“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00354_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00355_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sie berührte eine Saite, die Echos aus dem Traumland weckte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00356_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sein Unterbewusstsein hatte, so schien es, schon vor langer Zeit die Tatsache des Jahrmarkts in Chartres registriert.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00357_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das Kind hielt noch immer die Hand auf und murmelte seinen Anspruch auf sechs Sous.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00358_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er fuhr mit der Hand in die Hosentasche und holte eine Handvoll französisches Geld hervor.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00359_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er gab ihr einen Franc und winkte sie fort.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00360_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sie lief davon, etwas erschrocken über seinen Wahnsinn, aber entzückt über seine Großzügigkeit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00361_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00362_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Ich gebe es auf“, sagte Cosmo Paradyne.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00363_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00364_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Aber das tat er nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00365_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "In der Brusttasche seiner Golfjacke fand er die Reisebrieftasche, die er an jenem Samstagabend in Ealing gefüllt hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00366_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er prüfte ihren Inhalt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00367_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Eine Fahrkarte erster Klasse von London nach Boulogne – das war offensichtlich die für Martha bestimmte; seine eigene musste er benutzt haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00368_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Drei Zehnpfundnoten – er hatte zehn in die Brieftasche gelegt, also musste er siebzig Pfund in englisches Geld umgewechselt haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00369_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein Bündel französischer Hundert-Franc-Noten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00370_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Karten und Rezepte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00371_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Die schmutzige Chemin-de-Fer-Karte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00372_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Außerdem ein oder zwei neue Dokumente.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00373_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das eine, ein schmutziges Stück groben Papiers, das er auseinanderfaltete, war eine Quittung auf Französisch, schlecht geschrieben und voller Rechtschreibfehler, über den Kauf des Wagens, des Bestands und des Pferdes.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00374_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sie war auf seinen Namen ausgestellt, Monsieur Cosmo Paradyne.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00375_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sie war ordnungsgemäß gestempelt, unterzeichnet Galéo Gaspard, und datiert auf den zwölften Juni.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00376_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er kratzte sich ratlos am Kopf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00377_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das war der Dienstag in der Pfingstwoche.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00378_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Die Daten in seinem Kopf waren klar.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00379_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Die Gerichte schlossen am achten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00380_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er hatte beschlossen, am fünften nach Le Touquet aufzubrechen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00381_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Die Nacht, in der er sein Haus verließ, den Schlüssel in der Tasche, war die von Samstag, dem zweiten Juni.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00382_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Zehn Tage waren also zwischen seinem mitternächtlichen Spaziergang und dem Kauf dieser lächerlichen Ausrüstung vergangen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00383_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00384_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein weiteres Dokument, mit dem Stempel der Republik versehen, war ein Gewerbeschein für Hausierer.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00385_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00386_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er seufzte und betrat den Wagen, der an Decke und Wänden mit Töpfen und Pfannen und bunten Tüchern behängt und mit ramponierten Kisten voll billiger Messerwaren vollgestopft war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00387_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Am Ende sah er einen Schrank, der, als er ihn öffnete, mit Lebensmitteln und Kochutensilien gefüllt war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00388_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Da war ein halber riesiger runder Laib Brot, Eier, Butter, Kaffee, gut zwölf Zoll mächtige Wurst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00389_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Auf dem Boden stand ein Blechkrug mit Wasser.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00390_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er fand auch ein einfaches Toilettenetui, das gewiss nie Ealing gesehen hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00391_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00392_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Für Cosmo Paradyne war die Geschichte der nächsten ein oder zwei Stunden ein Anhäufen von Überraschung auf Verblüffung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00393_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein Blick in einen kleinen Hängespiegel zeigte ein gebräuntes, fast jugendliches Gesicht und klare Augen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00394_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Seine Hände waren braun und die Handflächen seltsam verhärtet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00395_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Kaffee zu kochen und Eier zu kochen, um einen beispiellosen Hunger zu stillen, schien eine alltägliche Gewohnheit zu sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00396_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er aß die Speisen mit außerordentlichem Genuss.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00397_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Während er sich rasierte und wusch, lauerte im Hintergrund seines Geistes ein dumpfes Bewusstsein, dieselben Abläufe in derselben Umgebung seit langem durchgeführt zu haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00398_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er schien zu wissen, dass ganz unten im Schrank seine Golfstrümpfe, Knickerbocker und Mütze verstaut waren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00399_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein wissender Blick umher zeigte ihm auf einem Bord einen groben Bauernstrohhut mit schlaffer Krempe, den er als seine gewöhnliche tägliche Kopfbedeckung erkannte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00400_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er setzte ihn auf und trat in den frühen Morgensonnenschein hinaus und atmete tief die süße Luft ein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00401_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00402_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er lachte, berauscht von einer neuen Empfindung, als hätte er eine grundlegende körperliche Veränderung durchgemacht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00403_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Was war es?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00404_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er brauchte einige Zeit, um zu begreifen, dass er sich nie zuvor einer so überragenden und berauschenden Gesundheit bewusst gewesen war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00405_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war eine Freude, die Feder in seinem bloßen Schritt zu spüren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00406_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er zündete seine Pfeife an und starrte, die Hände in den Taschen, mit besitzergreifender Miene über die grenzenlose Landschaft der Beauce.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00407_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dann ging er um sein fahrendes Eigentum herum.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00408_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein grobknochiges braunes Pferd hörte auf zu kauen, als er sich näherte, und streckte eine neugierige Schnauze vor.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00409_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Hinten am Fahrzeug fand er einen Sack Futter und einen Holzeimer mit Wasser, woraus er für die Bedürfnisse des Tieres sorgte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00410_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00411_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er dachte einen Moment nach.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00412_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Da war ein Pferd, und da war ein Ding auf Rädern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00413_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das Logische war, das Pferd anzuspannen und weiterzufahren, zumal das Verharren in der Wildnis keinem irdischen Zweck diente.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00414_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Erst nachdem er das Tier auf die sachkundigste Weise zwischen die Deichseln gebracht hatte, begann er sich zu fragen, wie zum Teufel er das geschafft hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00415_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sein Leben hatte sich fern von Pferden abgespielt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00416_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er hatte nie eines gefahren oder geritten, geschweige denn angespannt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00417_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es war erstaunlich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00418_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00419_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er bückte sich und hob das silberne Flageolett auf, das er fast vergessen hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00420_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Wie ging die Melodie, die er an diesem Morgen gespielt hatte, jene, die ihm die klaren Bilder seines Gartens in Ealing zurückgebracht hatte?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00421_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er konnte sich nicht erinnern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00422_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Selbst mit dem Instrument an den Lippen und den Fingern auf den Klappen konnte er sie nicht wiederfinden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00423_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sie war verschwunden wie elfenhafte Musik, die man im Traum hört.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00424_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "„Es ist alles verdammt seltsam“, sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00425_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00426_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Seit einer Weile herrschte leichter Verkehr auf der endlosen Straße: Bauernkarren, schwerfällige Wagen und hier und da ein flinkes kleines, klappriges Automobil.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00427_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er kletterte auf den Sitz über den Deichseln, nahm die Zügel, und das Pferd setzte sich in stetigem Schritt in Bewegung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00428_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er zündete sich eine neue Pfeife an und rekonstruierte seine schwer fassbare Geschichte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00429_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Und nun, da sein Gehirn wieder in Ordnung war, richtete er es auf die Tatsachen, wie er sie kannte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00430_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Der Schlüssel in seiner Tasche und das bemerkenswert schmutzige Hemd, das er trug, bewiesen, dass er direkt von Ealing an seinen gegenwärtigen Ort nahe Chartres gereist war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00431_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er war also auf rätselhafte Weise aus seinem Zuhause verschwunden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00432_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er klammerte sich an die plötzliche Erkenntnis, was dies für Martha bedeutet haben musste.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00433_skip",
+   "typ": "skip",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00434_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00435_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er ließ die Zügel fallen und saß da, die Füße baumelnd, von Entsetzen ergriffen, während das Pferd stur weitertrottete.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00436_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "In den zwanzig Jahren ihres Ehelebens, während seiner kurzen und seltenen Abwesenheiten von zu Hause, hatte sie nie ohne vollständige Nachricht über seinen Aufenthaltsort bleiben müssen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00437_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sie musste außer sich vor Sorge gewesen sein, musste es noch immer sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00438_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er musste ihr sofort telegraphieren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00439_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Warum nicht diesen lächerlichen Zigeunerwagen auf der Straße stehen lassen und sich vom ersten vorbeikommenden Auto nach Chartres mitnehmen lassen?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c001_00440_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Möglicherweise hätte er dem Impuls nachgegeben, wenn gerade dann eines vorbeigekommen wäre.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00441_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Aber das waren Zeiten lange vor dem Krieg, als kleine, geschäftige Autos auf den Straßen Frankreichs noch nicht so zahlreich wie Ameisen waren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00442_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00443_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Bis eines klappernd vorbeifuhr, hatte sein präziser Verstand die Umstände bereits erfasst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00444_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Dass er der Held eines „rätselhaften Verschwindens“ sein sollte, war unglaublich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00445_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Martha, eine tüchtige Frau, hätte sofort die Polizei auf seine Spur gesetzt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00446_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ein bekannter Mann in Golfkleidung und ohne jedes Gepäck konnte nicht von London über Folkestone nach Boulogne gelangen, ohne tausend Spuren seines Vorbeikommens zu hinterlassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00447_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Menschen verschwanden nicht auf so einfache und beiläufige Weise.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00448_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Das empfindliche Netz der Zivilisation machte es unmöglich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00449_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Wäre er mit Gedächtnisverlust umhergeirrt, hätte irgendein taktvoller Bote ihn entdeckt und nach Hause gebracht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00450_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00451_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Nun, er würde sein Telegramm aufgeben, den Wagen dem ersten blinden Bettler überlassen und sofort nach England aufbrechen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00452_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Wie er sein Versäumnis in der Sache ‚Phillibert gegen Phillibert, Cohen & Smith‘ erklären sollte, wusste er nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00453_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Aber er konnte gewiss rechtzeitig zur Wiedereröffnung der Gerichte – den Trinity-Sitzungen – zurück sein und die nötigen Entschuldigungen der Geschicklichkeit seines vortrefflichen Bürovorstehers überlassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00454_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Ihm standen ein paar schwere Monate bevor.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00455_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Die alte Plackerei von sechzehn Stunden am Tag.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00456_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Gedächtnisverlust hin oder her, er musste einen wunderbaren Urlaub gehabt haben, um in diese Höchstform körperlicher Verfassung zu gelangen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00457_dl",
+   "typ": "dl",
+   "kapitel": "Facing Page",
+   "text": "‚Die arme alte Martha muss es erfahren‘, sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00458_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00459_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er befand sich plötzlich in einem niedrigen, weißgetünchten Dorf, das sich zu beiden Seiten der Straße hinzog.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00460_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Vor einem kleinen Café, das mit dem doppelten Würfelbecher geschmückt war, der anzeigte, dass es auch ein Tabakladen war, hing eine Reihe Zeitungen in einer Blechhalterung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00461_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Es fiel ihm ein, dass er seit einigen Tagen keine Zeitung mehr gesehen hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00462_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Er stieg ab und kaufte eine.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00463_p",
+   "typ": "p",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00464_s",
+   "typ": "s",
+   "kapitel": "Facing Page",
+   "text": "Sie trug das Datum des zehnten September.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00465_skip",
+   "typ": "skip",
+   "kapitel": "Facing Page",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c002_00001_h",
+   "typ": "h",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Verwirrter Mann nach Chartres]",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c002_00002_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Das Pferd trug den verwirrten Mann ohne bewusste Führung nach Chartres.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00003_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Dort sammelte er seinen neu gewonnenen Verstand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00004_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er nahm sein Mittagsmahl im Speiseraum eines bescheidenen Gasthofs ein, voller Landleute, die zum morgigen Jahrmarkt gekommen waren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00005_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Seinen Wohnwagen hatte er am Wegesrand der Platanenallee zurückgelassen, in der Obhut eines struppköpfigen Jungen, der zu einer Familie gehörte, die einen gelb-rot gestreiften Wagen besaß und offenbar einem ähnlichen Gewerbe nachging wie er selbst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00006_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "In jenen fernen, glückseligen Tagen erschien ein Fünf-Franken-Stück vor bescheidenen Augen riesig und silbrig.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00007_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er hatte das bescheidene Gasthaus instinktiv betreten, wie einer, der solche Unterkünfte gewohnt war, ohne einen Gedanken an das prätentiöse Hôtel du Grand Monarque am Hauptplatz zu verschwenden, wo die Vornehmen aller Nationen selbstverständlich ihre Mahlzeiten suchten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00008_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00009_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er setzte sich an einen überfüllten Tisch zwischen einen runzligen Bauern in blauer Bluse, mit kurzgeschorenem weißem Haar und einem Hals wie dem eines mausernden Papageis, der sich über einen schmuddeligen weißen Kragen reckte, um den ein halber Zoll schwarzes Band als Krawatte gebunden war, und eine dralle Bäuerin mit makelloser Haube, leuchtend seidenem Halstuch und großen goldenen Ohrringen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00010_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie aßen reichlich mit großem Geklapper und schnellen, geschickten Messerbewegungen, tranken den kleinen grauen, steinigen Wein und sprachen von Ernten und Vieh und Hochzeiten und Todesfällen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00011_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00012_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Und Paradyne, ebenso braun und staubig und mit ebenso wenig äußerem Anspruch auf Vornehmheit wie jeder von ihnen, ertappte sich dabei, wie er mit seinen Nachbarn über diese grundlegenden Dinge mit einer aus Gewohnheit geborenen Vertrautheit sprach.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00013_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Und dann von der Dame: „Ist der Herr fremd in dieser Gegend?“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00014_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Ja, er sei ein reisender Händler, ein Hausierer.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00015_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er verkaufe ein bisschen von allem und gehe dorthin, wo er den Markt für am besten halte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00016_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie meinte, da müsse man doch recht viel Geld verdienen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00017_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber für sich selbst möge sie das abenteuerliche Leben nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00018_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Nicht dass sie es versucht hätte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00019_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie könne sich Glück außerhalb der Familie nicht vorstellen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00020_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Nun, sie habe einen Mann – sie machte eine Kopfbewegung zu einem Nahrung vertilgenden Mann an ihrer Seite – und fünf Kinder.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00021_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie lebe in Gallardon, achtzehn Kilometer entfernt, und habe kein Verlangen zu reisen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00022_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Einmal sei sie in Paris gewesen; aber ach nein!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c002_00023_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Nein, wahrhaftig, die Familie sei das Einzige.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00024_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber er müsse doch irgendwo eine Familie haben?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00025_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00026_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Wie Petrus verneinte er sofort.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00027_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Nein, er sei allein, nehme sein Essen, wo er es finde.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00028_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Auf ihre gallische Art neckte sie ihn, er habe gewiss Familien entlang der Landstraßen Frankreichs verstreut.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00029_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Diese zarte Anschuldigung verneinte er erneut, worauf die Dame mit einem lachenden Blick aus dunklen Augen und einem „Ach, kommen Sie!“ ihm einen schelmischen Ellbogen in die Rippen stieß.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00030_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Und als ihr Mann ihre Aufmerksamkeit beanspruchte, sprach er mit dem alten Bauern über Wetter und Weizen und Äpfel und Rillettes, die Würste, die ihnen serviert wurden, und all die anderen Wunder der Beauce.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00031_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Und Cosmo Paradyne wusste, dass er seit drei Monaten dieses Leben unter freiem Himmel, auf der Erde, mit ursprünglichen Interessen führte und ihm auf seltsame Weise zum Opfer gefallen war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00032_skip",
+   "typ": "skip",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c002_00033_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00034_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Auf einem hastigen, sorgenvollen Urlaub hatte er Jahre zuvor mit seiner Frau Chartres besucht und seine intellektuelle Pilgerfahrt zur Kathedrale unternommen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00035_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00036_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Nebenbei sei hier betont, dass kein Haggis je dichter mit Innereien und Hafermehl gestopft war als Cosmo Paradyne mit Wissen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00037_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Seit seinen Tagen vor Winchester war er das Muster aller Prüflinge gewesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00038_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Seine Laufbahn war von meteorhafter Brillanz.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00039_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "In ihrem Verlauf hatte er sich zum leichten Meister dreier Fremdsprachen gemacht: Deutsch, Italienisch und Französisch.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00040_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sein musikalisches Ohr, seine einzige ästhetische Gabe, hatte deren Akzente aufgefangen und aufgesogen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00041_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Nach ein oder zwei Tagen unter fremdem Landvolk konnte er deren Tonfall nachahmen, und sein wunderbares Gedächtnis konnte die Mundartwörter speichern, die er aufschnappte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00042_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Ebenso beherrschte er die historische und archäologische Seite der Malerei und Architektur.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00043_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sein Geist war stets empfänglich für Fakten gewesen, und da er sie zäh festhielt, konnte er sie zu einem unvergänglichen Gebäude zusammenfügen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00044_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Ist es bei solchen Geistesgaben ein Wunder, dass er mit zweiundvierzig einer der führenden Köpfe der Kanzleigerichtsanwaltschaft war?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00045_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„Was für ein Richter wird der kleine Teufel erst sein, wenn er des Geldverdienens müde ist!“ sagten seine Kollegen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00046_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00047_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Bei seinem früheren Besuch der Kathedrale von Chartres gab Cosmo Paradyne daher, aus den gewaltigen Schätzen seiner Gelehrsamkeit schöpfend, seiner Frau einen genauen Bericht über die Geschichte des Bauwerks.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00048_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er zeigte ihr den Teil aus der Mitte des dreizehnten Jahrhunderts, die Glasmalereien derselben Zeit, den Renaissance-Lettner und den Unterschied zwischen der einen Turmspitze aus dem zwölften und der anderen aus dem sechzehnten Jahrhundert.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00049_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die Kathedrale war für ihn eine Anhäufung faszinierender Fakten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00050_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Martha hatte zerstreut zugehört und schließlich erwidert:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c002_00051_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„Ja. Das ist sehr interessant; aber ich finde sie trotzdem ziemlich hübsch.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00052_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00053_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Da er nichts zu tun hatte, schlenderte er über das ansteigende Gelände, von dem aus das gewaltige Bauwerk die Ebene beherrscht, deren Horizont so weit ist wie der des offenen Meeres.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00054_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Plötzlich fing das tückische Gedächtnis, das ihm in letzter Zeit übel mitspielte, ungerufen die Melodie der silbernen Flageolettflöte ein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00055_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er summte sie und schob sie etwas ungeduldig beiseite, als er in das Wunder der himmelstrebenden Pfeiler und Schäfte eintrat, der ungeheuren Räume und der farbigen Glasfenster, durch die die Sonne des Septembernachmittags unsagbar strömte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00056_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00057_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er saß auf einem Binsenstuhl nahe dem Taufbecken und trank die Herrlichkeit in sich hinein wie ein Mann, den ein lebenslanger Durst ausgedörrt hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00058_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er ging sehr müde hinaus, ließ den Kopf hängen und fühlte sich halb berauscht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00059_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er saß auf der niedrigen Brüstung des Vorplatzes und erinnerte sich an Worte von vor langer Zeit, die ihm durch den Kopf huschten: „Siehst du dieses Mauerwerk – nach dem Brand restauriert –“ und so weiter und so fort; und Marthas säuerliche Stimme: „Trotzdem ziemlich hübsch.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00060_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00061_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er breitete die Hände wie betrunken aus, stürzte erneut in die Kathedrale und gab sich der Unermesslichkeit ihrer Schönheit hin.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00062_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00063_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Später suchte er das Postamt auf, um die Antwort auf ein langes, erklärendes Telegramm zu erhalten, das er Martha aus dem Dorf geschickt hatte, wo er das Datum erfahren hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00064_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er musste Nachricht von ihr erhalten, bevor er die Heimreise antrat.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00065_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00066_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "In der Kathedrale war er so glücklich gewesen, durchtränkt von einer sinnlichen Umhüllung aus Schönheit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00067_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "In der kahlen Halle des Postamts, vor dem drahtumgitterten Schalterfenster, schrumpfte das Dasein zur Trostlosigkeit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00068_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00069_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Als Ausweis reichte er seinen Gewerbeschein für Hausierer durch die Öffnung und wartete, während gesucht wurde, mit einem grimmigen Lächeln im Gesicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00070_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Cosmo Paradyne, Kronanwalt, entwickelte einen Sinn für Humor.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00071_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Ein schäbiger Beamter in schmutzig-braunem Leinenkittel reichte ihm einen zugeklebten blauen Zettel.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00072_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00073_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er las:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c002_00074_qt",
+   "typ": "qt",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "‚Kann angesichts früherer Telegramme Geschichte von Gedächtnisverlust nicht glauben. Benehmen skandalös. Habe Fiktion von Nervenzusammenbruch und Auslandsurlaub der Familie zuliebe aufrechterhalten. Bin zur Vermeidung von Skandal bereit, dich zu empfangen. Drahte Ankunftsdatum, damit ich es vorher ankündigen kann. Martha.‘",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c002_00075_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00076_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er taumelte aus dem Postamt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00077_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Was waren die Telegramme, auf die sie anspielte?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00078_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00079_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Immerhin war seine Schlussfolgerung exakt gewesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00080_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Martha hatte gewusst, wo er war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00081_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Es hatte kein rätselhaftes Verschwinden gegeben, das eine Zeitungssensation hätte auslösen können.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00082_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Das war gut so.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00083_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Martha hatte auch sein Gesicht gewahrt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00084_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Zweifellos hatte der vortreffliche Gregson seine Fallakten mit zufriedenstellenden Erklärungen zurückgegeben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00085_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er konnte zurückkehren und seine Arbeit auf die natürlichste Weise der Welt wieder aufnehmen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00086_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er konnte zurückkehren und Martha wieder aufnehmen, die ‚bereit war, ihn zu empfangen‘.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00087_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00088_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er bemerkte, dass das Telegramm den Ortsnamen Paddington trug.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00089_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Es war typisch für Martha, dem Postamt von Ealing nicht zu trauen, sondern den Zug zu nehmen, um die Nachricht vom Londoner Kopfbahnhof zu senden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00090_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00091_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Martha war nicht mitfühlend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00092_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Offensichtlich misstraute sie ihm; und da ihr Geist auf der Spur eines imaginären Liebhabers war, würde sie einem Leben, das nur gegenseitige Gleichgültigkeit glatt gehalten hatte, noch eine Schärfe hinzufügen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00093_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Nun, er hatte gewiss eine geistige Störung erlitten, und wenn er jemandem gefolgt war, dann nicht einer Frau, sondern wohl dem unbeschwerten jungen Mann mit der silbernen Flageolettflöte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00094_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber Martha würde es nie glauben, selbst wenn er ihr das Instrument zeigte und die bezaubernde Melodie spielte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00095_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00096_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Es dämmerte bereits, als er seinen Wagen am Wegesrand der Platanenallee erreichte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00097_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Seine Nachbarn versicherten ihm höflich, sie hätten eifersüchtig über seinen Besitz gewacht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00098_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie hatten das Pferd getränkt und gefüttert und das Gefährt bewacht, als wäre es die Bundeslade gewesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00099_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Paradyne spendete dem struppköpfigen Jungen erneut ein Trinkgeld.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00100_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die Familie lag auf dem Gras und aß ihr Abendmahl.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00101_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Der Anblick erinnerte ihn an seinen eigenen gesunden Hunger.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00102_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er schloss seine Tür auf und holte seinen groben Essensvorrat hervor, dessen Hauptteil seine handfeste dreißig Zentimeter lange Wurst und eine Flasche Rotwein waren, die er zusammen mit zwei weiteren, sicherheitshalber in seine Golfknickerbocker gewickelt, entdeckte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00103_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er saß auf den Stufen und aß sein Abendbrot mit einem Genuss, der in seiner Erinnerung nie körperliche Dinge begleitet hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00104_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er hatte die Männer verachtet, die ihre Zeit und ihre Worte an den Geschmack von Speisen und Wein verschwendeten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00105_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er konnte alten Port nicht von neuem unterscheiden, und es war ihm gleichgültig gewesen, ob er ihn mit Walnüssen oder Makrelen trank.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00106_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber an jenem Abend dämmerte ihm eine große Wahrheit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00107_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die salzige, würzige, knoblauchige Wurst und der junge, grobe Wein waren im himmlischen Speisekeller füreinander vorherbestimmt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00108_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er aß und trank mit fast zitternder Freude.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00109_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00110_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er stopfte seine Pfeife mit billigem französischem Tabak, und die ersten Züge harmonierten mit dem Wein und der Wurst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00111_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Ihr Duft vermischte sich mit dem von Staub und Tieren und dem warmen Septembergeruch, der in der hereinbrechenden Nacht von der nahen Stadt und der weiten, umgebenden Ebene aufstieg.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00112_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00113_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„Mein Gott“, sagte er, „es ist gut, am Leben zu sein.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00114_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00115_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Und während er es sagte, blitzte in seiner Erinnerung Marthas unerklärliche Worte in der Nacht von Violas Hochzeit auf: „—es ist nicht lustig, sich um einen toten Mann zu kümmern.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00116_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00117_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„Was zum Teufel hat sie damit gemeint?“ hatte er sich gefragt.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00118_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00119_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Nun kam ein Schimmer der Antwort in Form einer anderen Frage: War er so sicher, dass er damals und überhaupt sein ganzes Leben zuvor nicht ein toter Mann gewesen war?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00120_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00121_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Der Satz beunruhigte ihn eine Weile.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00122_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er hatte das dumpfe, unbehagliche Gefühl, ihn, wie Violas und des jungen Mannes Bemerkung über Ealing, in den vergessenen Telegrammen verwendet zu haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00123_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Nun gut.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00124_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er zuckte mit den Schultern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00125_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Was machte es schon?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00126_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "In ein oder zwei Tagen musste er unweigerlich erfahren, was sie bedeuteten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00127_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die Schönheit der Nacht genügte für jetzt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00128_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Schönheit war eine verdammt seltsame Sache.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00129_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er dachte darüber nach.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00130_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er hatte sie natürlich als intellektuelle Idee gekannt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00131_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber jetzt war sie eine emotionale Angelegenheit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00132_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie zupfte an Dingen tief in ihm und schlug Saiten an, die er sich nie vorgestellt hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00133_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die Kathedrale.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00134_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Diese träumerische, fruchtbare Ebene, die auf das bald aufsteigende Mondlicht wartete.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00135_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00136_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Ja, er musste zurück.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00137_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber die Dinge würden nie mehr ganz dieselben sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00138_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00139_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die freundlichen Nachbarn im gelb-rot gestreiften Wagen machten sich reisefertig.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00140_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie mussten laut Polizeivorschrift früh einen Platz auf dem Jahrmarkt beziehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00141_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie rieten dem Herrn, dasselbe zu tun.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00142_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Der Herr, zufrieden rauchend, erwiderte, er habe noch reichlich Zeit, und sah ihnen beim Aufbruch zu.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00143_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie verabschiedeten sich höflich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00144_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00145_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Als Letzte tat dies die offensichtliche Schwester des struppköpfigen Jungen, ein halbzigeunerisches Mädchen Anfang zwanzig, kunstlos in schmutzige und spärliche Kleidung gehüllt, aber prächtig in den fließenden Konturen ihrer geschmeidigen Jugend und in ihrer derben Lieblichkeit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00146_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„_A demain, Monsieur._“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00147_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„_A demain et bonsoir, Mademoiselle_“, sagte er mit einem Lächeln und einer Verbeugung.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00148_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie zögerte einen Augenblick und hielt ihn mit halb spöttischen, halb verlockenden Augen fest.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00149_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Dann, mit einem ironischen Kopfwerfen, wandte sie sich um und verschwand in der Dämmerung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00150_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Erst als sie fort war, wurde ihm bewusst, dass sein Blick während des Essens mit Wohlgefallen und Nachdenklichkeit auf ihr geruht hatte; und nun war ihr erstaunliches Bild seinem Geist eingeprägt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00151_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie war nur ein schlampiges wildes Ding, ungewaschen, ungepflegt; der einzige äußere malerische Zug an ihr war ein flammend orangefarbenes Halstuch; sie lebte am Rande der Zivilisation, möglicherweise ohne nennenswerte Moral.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00152_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber, Gott!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c002_00153_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie war lebendig!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c002_00154_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00155_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Zum ersten Mal in seinem beengten Dasein wurde er sich intensiv des Wunders der Frau als herrlicher Frau bewusst, ihres Wunders als elementare Ergänzung des Mannes.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00156_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Es war nur das Aufblitzen eines dunkeläugigen Frauenzimmers vor seinem Blick gewesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00157_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber das Aufblitzen weckte ihn, sodass er nach Luft schnappte, für die gewaltigen Möglichkeiten des Lebens.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00158_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Gott!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c002_00159_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Dieses Mädchen war lebendig in all ihrem sinnlichen und animalischen Geheimnis.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00160_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Und er – er schlug sich an die Stirn – auch er war lebendig.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00161_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Kraftvoll lebendig.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00162_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Der Gedanke schlich sich in sein Gehirn: Martha – Martha, die ihn verspottet hatte, ein toter Mann zu sein – war sie je etwas anderes gewesen als eine tote Frau?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00163_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Was von dem körperlichen Geheimnis des Fleisches, das dieses unbedeutende Mädchen plötzlich verkündet hatte, hätte er je von der kalten und säuerlichen Frau zu erahnen geträumt, deren Lippen, konventionell geküsst, so unempfänglich gewesen waren wie der Saum ihres Gewandes?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00164_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Nichts.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00165_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Als Frau, neu offenbart, war Martha tot.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00166_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Und sie liebte ihren lebendigen Tod, sonnte sich darin, bemühte sich, alle, die ihr nahe kamen, im Bereich seines Mehltaus zu halten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00167_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00168_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Seine Ohren hörten das Tosen, und seine Augen sahen das Aufwühlen der gewaltigen Wasser seltsamer Gefühle und wilder Leidenschaften und unerträglicher Freuden, die stets gegen die dürre Festung geschlagen hatten, in der er sich mit seinem kahlen und gleichgültigen Dasein zufriedengegeben hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00169_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00170_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er wischte sich den Schweiß von der Stirn und lehnte niedergeschlagen am Türrahmen des Wagens.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00171_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Was für eine gewaltige und furchtbare Macht das Schicksal war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00172_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Kein Wunder, dass die Griechen ihre Götter davor niederbeugen ließen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00173_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die Ironie darin.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00174_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Wieder eine griechische Idee.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00175_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die Griechen hatten recht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00176_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Wie sonst sollte er die erschütternde Lage erklären, in der er sich befand?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00177_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Was außer der unerbittlichen Grausamkeit des Schicksals zwang ihn, in dem Augenblick, da die Welt sich in Begriffen vitaler Schönheit und unendlichen Sinns offenbarte, zurückzukehren – denn zurückkehren musste er – zu dem alten, verdorrten Leben in Ealing und dem Mehltau Marthas und der Routine hirnermüdender, nervenverkümmernder, seelentötender, sinnloser Plackerei am Kanzleigerichtshof?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00178_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Welche einzige Stunde des Glücks hatte er, ein intellektueller Automat, je daraus gewonnen?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00179_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Was hatte sein hirnverengtes Leben enthalten, das sich mit dem morgendlichen Schauer intensiver körperlicher Frische vergleichen ließ, mit dem abendlichen Sprung ins Unbekannte der Leidenschaft?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00180_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00181_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„Oh, verdammt!“, sagte er mutlos.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00182_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00183_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Seiner Pflicht als Ehemann und Mann mit schweren Verantwortungen gemäß sollte er eigentlich schon jetzt auf dem Weg nach Paris sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00184_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber er war zu müde im Geist gewesen, um die Anstrengung zu machen; jedenfalls zu verliebt in die seltsame Freiheit des Tages.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00185_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Außerdem, wie hätte er Wagen und Pferd herrenlos zurücklassen können?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00186_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Den Wagen hätte er vielleicht aufgegeben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00187_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sein Wert war für einen Mann seines Vermögens bedeutungslos.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00188_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber das Pferd war ein lebendiges Wesen, ein Geschöpf mit empfindsamem Gefühl, wie ein Hund.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00189_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Es rieb seine Schnauze an seinem Arm, als wolle es Zuneigung zeigen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00190_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er musste anständig und redlich für das Pferd sorgen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00191_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die freundliche Begegnung des Abends hatte ihm den Weg gezeigt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00192_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Morgen, auf dem Jahrmarkt, würde er die ganze Ausrüstung für ein Butterbrot an seine freundlichen Nachbarn verkaufen; und dann die strenge und unerbittliche Reise zurück nach England.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00193_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00194_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Der allmähliche Verkehr in Richtung Jahrmarkt zog an ihm vorbei.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00195_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber er hörte ihn nicht, in seine verzweifelten Gedanken gehüllt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00196_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die Nacht schritt voran.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00197_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Der Vollmond ging auf und zeichnete, durch das überwölbende Laubdach scheinend, phantastische Muster auf die weiße Straße.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00198_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00199_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aus seiner Brusttasche zog er schließlich die silberne Flageolettflöte und betrachtete sie in wehmütiger Verwirrung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00200_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er setzte sie an die Lippen, zuerst müßig, dann mit einem bebenden Gefühl der Meisterschaft.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00201_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Und siehe!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c002_00202_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er spielte die ganze Melodie von Anfang bis Ende durch, mit ihrem Vogelgesang und ihrem elfenhaften Lachen und ihren Sehnsüchten und ihrem spukenden Spott, genau wie der junge Mann sie im Sternenlicht seines Gartens gespielt hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00203_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Und während er spielte, wurde sein Herz in einer seltsamen Verzückung emporgehoben, wie sie – so erinnerte er sich nun dunkel – ihn schon einmal beseelt hatte, als er die Flageolettflöte an die Lippen gesetzt hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00204_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er griff nach einer flüchtigen Erinnerung und hielt sie fest und starrte mit offenem Mund und weit aufgerissenen Augen vor sich hin.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00205_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00206_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Ein Stück Brachland am Straßenrand unter dem Sternenlicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00207_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Es sah aus wie eine Ziegelei.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00208_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie saßen auf verstreutem Schutt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00209_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er konnte gerade das klare, humorvolle Gesicht des jungen Mannes erkennen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00210_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„Mein Herr, für meine Musik nehme ich, was Ihr zu geben beliebt.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00211_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber meine Flageolettflöte kann kein Geld kaufen.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00212_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Andererseits: Dem, der meine Komposition fehlerlos durchspielen kann, überlasse ich sie gern.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00213_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00214_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Ja; er hatte sie von Anfang bis Ende durchgespielt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00215_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00216_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Der junge Mann verbeugte sich:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c002_00217_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„Sie gehört Euch“, sagte er....",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00218_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„Aber was werdet Ihr ohne sie tun?“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00219_skip",
+   "typ": "skip",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c002_00220_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00221_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„Ich habe eine neue Melodie im Kopf, besser geeignet für die Piccoloflöte, die ich in der Tasche trage und die ich als Instrument ohnehin bevorzuge.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00222_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "„Diese“, lachte Paradyne und befühlte die silbernen Klappen und Löcher, „ist gut genug für mich.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00223_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "‚Vielleicht für jetzt.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00224_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber Ihr werdet anspruchsvoller werden.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00225_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie hat nichts von der Weichheit des Waldlands.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00226_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die Hirten des Theokrit, wenn Ihr Euch erinnert, bliesen nicht in Metall, sondern in Schilfrohr, das aus lebendigen Dingen wuchs.‘",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00227_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00228_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er zog die schlichteste kleine Piccoloflöte der Welt hervor.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00229_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Paradyne streckte eine Hand aus.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00230_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Der junge Mann lachte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00231_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "‚Noch nicht‘, sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00232_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Dann plötzlich: ‚Wohin geht Ihr?‘",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00233_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "‚Spazieren.‘",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00234_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "‚Ich auch.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00235_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Erst durch Frankreich.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00236_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Dann durch Italien, dann Sizilien.‘",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00237_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "‚Frankreich, Italien, Sizilien—‘ das schwache Echo seiner gemurmelten Antwort schwebte zurück.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00238_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "‚Glücklicher junger Mann!‘",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00239_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "‚Warum solltet Ihr weniger glücklich sein als ich?",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c002_00240_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die Straße ist offen.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00241_dl",
+   "typ": "dl",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Kommt mit mir‘, sagte der junge Mann und legte ihm eine Hand auf den Arm.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c002_00242_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00243_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Dann, wie immer, schloss sich der Riss im Vorhang, der die vergangenen drei Monate verhüllt hatte, plötzlich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00244_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber die Vision war, soweit sie reichte, verblüffend vollständig gewesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00245_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00246_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er lachte laut auf, während er die schimmernde Flöte betrachtete, und sein Lachen war erfüllt vom Schauer des Stolzes.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00247_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sie war ihm nicht als etwas Erhandeltes und schäbig Gekauftes zugekommen, sondern als Preis eines Spielmanns, wie er ihm in den Zeiten, von denen Theokrit sang, von einem herausfordernden Gott hätte verliehen werden können.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00248_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00249_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Frankreich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00250_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Italien.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00251_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Sizilien.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00252_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "_Theokrit_ – ‚O Sänger der Persephone—‘",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00253_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Wie ging Wildes Villanelle?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c002_00254_qt",
+   "typ": "qt",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "‚Slim Lacon hält eine Ziege für dich,\nFür dich warten die fröhlichen Hirten;\nO Sänger der Persephone!\nErinnerst du dich Siziliens?‘",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c002_00255_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00256_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er wiederholte den letzten Vierzeiler zwei- oder dreimal und genoss seinen Geschmack.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00257_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Dann, plötzlich von neuer Kraft und neuem Vorsatz beseelt, sprang er zu Boden, spannte das Pferd vor den Wagen und machte sich auf den Weg die mondhelle Allee hinunter zur Stadt Chartres.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00258_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Aber er blieb nicht auf dem Jahrmarkt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00259_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Er fuhr hindurch, warf einen humorvollen Blick auf den gelb-rot gestreiften Wagen, in dem das lebhafte Mädchen vermutlich schlief, küsste mit den Fingern in ihre Richtung wie zu einem Symbol und setzte seinen langsamen Weg durch die engen Gassen der schlafenden Stadt fort.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00260_p",
+   "typ": "p",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00261_s",
+   "typ": "s",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "Die Morgendämmerung fand ihn, mit den leuchtenden Augen eines Menschen, der zur Verheißung des Lebens erwacht ist, auf einem unwiderruflichen Weg nach Süden zockelnd, um in diesem Leben niemals umzukehren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00262_skip",
+   "typ": "skip",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c002_00263_tt",
+   "typ": "tt",
+   "kapitel": "Bewildered Man to Chartres]",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c003_00001_h",
+   "typ": "h",
+   "kapitel": "A Christmas Mystery",
+   "text": "Ein Weihnachtsgeheimnis",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c003_00002_s",
+   "typ": "s",
+   "kapitel": "A Christmas Mystery",
+   "text": "Von WILLIAM J. LOCKE. Mit farbigen Illustrationen von W. W. Lendon. Zweite Auflage. Groß-Quart. 6 Shilling netto.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00003_dl",
+   "typ": "dl",
+   "kapitel": "A Christmas Mystery",
+   "text": "„Eine ergreifende kleine Weihnachtsgeschichte.“ – Evening Standard.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c003_00004_dl",
+   "typ": "dl",
+   "kapitel": "A Christmas Mystery",
+   "text": "„Mr. Locke hat eine erlesene kleine Phantasie geschaffen, die jede empfindsame Seele erschauern und erweichen wird. Ein Werk, vollkommen in seiner Art und aufs einfühlsamste illustriert.“ – Daily Mail.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c004_00001_h",
+   "typ": "h",
+   "kapitel": "The Belovéd Vagabond",
+   "text": "Der geliebte Vagabund",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c004_00002_s",
+   "typ": "s",
+   "kapitel": "The Belovéd Vagabond",
+   "text": "Von WILLIAM J. LOCKE. Mit sechzehn Farbillustrationen und zahlreichen Illustrationen im Text von Jean Dulac. Format 4to. 12s. 6d. netto.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00003_dl",
+   "typ": "dl",
+   "kapitel": "The Belovéd Vagabond",
+   "text": "„M. Dulac hat seine Arbeit gut gemacht, mit einem Verständnis und einem Humor, die ihm zur Ehre gereichen.“ – _Daily Telegraph._",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c005_00001_h",
+   "typ": "h",
+   "kapitel": "The Temptation of St. Anthony",
+   "text": "Die Versuchung des heiligen Antonius",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c005_00002_tt",
+   "typ": "tt",
+   "kapitel": "The Temptation of St. Anthony",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c005_00003_p",
+   "typ": "p",
+   "kapitel": "The Temptation of St. Anthony",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c005_00004_s",
+   "typ": "s",
+   "kapitel": "The Temptation of St. Anthony",
+   "text": "Eine prachtvolle bibliophile Ausgabe von Flauberts Meisterwerk, in unkonventioneller Manier illustriert von Jean de Bosschère, dessen Zeichnungen bereits die Bodley-Head-Ausgabe des „Goldenen Esels“ zierten (inzwischen vergriffen).",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c006_00001_h",
+   "typ": "h",
+   "kapitel": "AT THE SIGN of the REINE PÉDAUQUE",
+   "text": "IM ZEICHEN DER „REINE PÉDAUQUE“",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c006_00002_s",
+   "typ": "s",
+   "kapitel": "AT THE SIGN of the REINE PÉDAUQUE",
+   "text": "Von ANATOLE FRANCE. Mit 12 Illustrationen in Photogravüre und zahlreichen Illustrationen im Text von Frank C. Papé, Illustrator von „Jurgen“. Mitteloktav. 16s. netto.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c006_00003_p",
+   "typ": "p",
+   "kapitel": "AT THE SIGN of the REINE PÉDAUQUE",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c006_00004_s",
+   "typ": "s",
+   "kapitel": "AT THE SIGN of the REINE PÉDAUQUE",
+   "text": "Anatole Frances Meisterwerk, illustriert mit dem ihm eigenen Geist und Wagemut von dem Künstler, dessen Arbeit in Cabells „Jurgen“ solches Aufsehen erregte. Die Einführung von Mr. Wm. J. Locke sowie eine eigens überarbeitete Übersetzung sind weitere Vorzüge dieses prächtigen Bandes.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00001_h",
+   "typ": "h",
+   "kapitel": "The Revolt of the Angels",
+   "text": "Der Aufstand der Engel",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c007_00002_s",
+   "typ": "s",
+   "kapitel": "The Revolt of the Angels",
+   "text": "Von ANATOLE FRANCE. Übersetzt von Mrs. Wilfrid Jackson. Illustriert in Photogravüre und Schwarz-Weiß von Frank C. Papé. Einheitlich ausgestattet mit der illustrierten Ausgabe von „Zum Zeichen der Königin Pédauque“. Mittleres Oktavformat. 16 Shilling netto.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00003_p",
+   "typ": "p",
+   "kapitel": "The Revolt of the Angels",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c007_00004_s",
+   "typ": "s",
+   "kapitel": "The Revolt of the Angels",
+   "text": "Ein Meisterwerk der modernen Literatur, illustriert von einem ausdrucksstarken Künstler, dem es vollkommen gelungen ist, die unverblümte Satire und die furchtlose Philosophie des französischen Meisters zu vermitteln.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00001_h",
+   "typ": "h",
+   "kapitel": "The Rubáiyát of Umar Khaiyám",
+   "text": "Das Rubáiyát des Umar Khaiyám",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c008_00002_s",
+   "typ": "s",
+   "kapitel": "The Rubáiyát of Umar Khaiyám",
+   "text": "Aus dem Französischen des J. B. Nicolas ins Englische übertragen, nebst einem Wiederabdruck des französischen Textes, von Frederick Baron Corvo.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00003_s",
+   "typ": "s",
+   "kapitel": "The Rubáiyát of Umar Khaiyám",
+   "text": "Mit farbigen Illustrationen von Hamzeh Carr.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00004_s",
+   "typ": "s",
+   "kapitel": "The Rubáiyát of Umar Khaiyám",
+   "text": "Mit einer Einleitung von E. Heron-Allen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00005_s",
+   "typ": "s",
+   "kapitel": "The Rubáiyát of Umar Khaiyám",
+   "text": "Imperial 8vo.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00006_s",
+   "typ": "s",
+   "kapitel": "The Rubáiyát of Umar Khaiyám",
+   "text": "£1 1s.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00007_p",
+   "typ": "p",
+   "kapitel": "The Rubáiyát of Umar Khaiyám",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c008_00008_s",
+   "typ": "s",
+   "kapitel": "The Rubáiyát of Umar Khaiyám",
+   "text": "Eine neue Ausgabe einer bemerkenswerten französischen Übertragung des Dichters, mit eigenwilligen Illustrationen in orientalischer Manier.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00001_h",
+   "typ": "h",
+   "kapitel": "The Twilight of the Gods",
+   "text": "Die Götterdämmerung",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c009_00002_s",
+   "typ": "s",
+   "kapitel": "The Twilight of the Gods",
+   "text": "Von RICHARD GARNETT. Mit einer Einleitung von T. E. Lawrence und 28 Illustrationen in Photogravüre sowie Verzierungen von Henry Keen. Mittleres Oktavformat. £1 1s. netto.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00003_s",
+   "typ": "s",
+   "kapitel": "The Twilight of the Gods",
+   "text": "„Die Götterdämmerung“ hat seit jeher das Lob und die Bewunderung anspruchsvoller Leser gefunden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00004_s",
+   "typ": "s",
+   "kapitel": "The Twilight of the Gods",
+   "text": "Ihr Verfasser, der wohlbekannte Gelehrte und Leiter der Druckschriftenabteilung des Britischen Museums, wird oft als „der englische Anatole France“ bezeichnet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00005_s",
+   "typ": "s",
+   "kapitel": "The Twilight of the Gods",
+   "text": "Dieses Buch besitzt in der Tat viel von der Gelehrsamkeit und Ironie des französischen Meisters, doch hat es auch einen unverkennbaren eigenen Reiz, der es auf seine Weise zu einem Klassiker macht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00006_s",
+   "typ": "s",
+   "kapitel": "The Twilight of the Gods",
+   "text": "Die vorliegende Ausgabe enthält eine bemerkenswerte Einleitung von T. E. Lawrence, dem berühmten Helden Arabiens, und ist von einem jungen Künstler von echter Originalität illustriert.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00007_s",
+   "typ": "s",
+   "kapitel": "The Twilight of the Gods",
+   "text": "ALADDIN",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00008_s",
+   "typ": "s",
+   "kapitel": "The Twilight of the Gods",
+   "text": "Mit farbigen und schwarzweißen Illustrationen von S. Hulme Beaman. Quartformat. 6s. netto.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00009_s",
+   "typ": "s",
+   "kapitel": "The Twilight of the Gods",
+   "text": "Eine ansprechend illustrierte Ausgabe einer ewig frischen Geschichte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c010_00001_h",
+   "typ": "h",
+   "kapitel": "John Lane the Bodley Head Ltd., Vigo St., W.1",
+   "text": "John Lane the Bodley Head Ltd., Vigo St., W.1",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c010_00002_p",
+   "typ": "p",
+   "kapitel": "John Lane the Bodley Head Ltd., Vigo St., W.1",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c010_00003_s",
+   "typ": "s",
+   "kapitel": "John Lane the Bodley Head Ltd., Vigo St., W.1",
+   "text": "Offensichtliche Fehler in Akzenten und Zeichensetzung wurden in dieser Fassung stillschweigend korrigiert, geringfügige Unstimmigkeiten jedoch wie gedruckt beibehalten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c010_00004_p",
+   "typ": "p",
+   "kapitel": "John Lane the Bodley Head Ltd., Vigo St., W.1",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c010_00005_s",
+   "typ": "s",
+   "kapitel": "John Lane the Bodley Head Ltd., Vigo St., W.1",
+   "text": "Einige Abbildungen wurden geringfügig verschoben, um besser ins E-Book-Format zu passen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  }
+ ]
+}

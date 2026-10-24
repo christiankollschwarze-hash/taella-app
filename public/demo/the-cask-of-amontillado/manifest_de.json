@@ -1,0 +1,2036 @@
+{
+ "werk_id": "poe-ea_the-cask-of-amontillado",
+ "book_slug": "the-cask-of-amontillado",
+ "sprache": "de",
+ "titel": "Das Fass Amontillado",
+ "autor": "Edgar Allan Poe",
+ "audio_vollstaendig": false,
+ "audio_count": 0,
+ "erstellt": "2026-10-10T16:30:11.135243Z",
+ "saetze": [
+  {
+   "tag_id": "c001_00002_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich hatte Fortunatos tausendfache Kränkungen ertragen, so gut ich konnte; doch als er mich beleidigte, schwor ich Rache.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00003_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ihr, die meine Seele so gut kennt, werdet nicht glauben, dass ich irgendeine Drohung ausstieß.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00004_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Am Ende würde ich gerächt sein; dies stand unwiderruflich fest – doch gerade die Gewissheit dessen schloss jedes Wagnis aus.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00005_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich musste nicht nur strafen, sondern strafen, ohne selbst ergriffen zu werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00006_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein Unrecht ist nicht gesühnt, wenn der, der es vergilt, seinerseits bestraft wird.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00007_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist ebenso wenig gesühnt, wenn der Rächer sich dem, der das Unrecht beging, nicht als solcher zu erkennen gibt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00008_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00009_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es versteht sich, dass ich Fortunato durch Wort oder Tat keinerlei Anlass gegeben hatte, an meinem Wohlwollen zu zweifeln.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00010_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich fuhr fort, wie es meine Gewohnheit war, ihm ins Gesicht zu lächeln, und er sah nicht, dass mein Lächeln nun dem Gedanken an seine Vernichtung galt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00011_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00012_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hatte eine schwache Seite – dieser Fortunato –, obwohl er in anderer Hinsicht ein Mann war, den man achten und sogar fürchten musste.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00013_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er brüstete sich mit seiner Kennerschaft im Wein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00014_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wenige Italiener besitzen den wahren Geist des Kenners.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00015_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Zumeist ist ihre Begeisterung aufgesetzt, um der Zeit und Gelegenheit zu dienen – um die britischen und österreichischen Millionäre zu täuschen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00016_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In Malerei und Edelsteinen war Fortunato, wie seine Landsleute, ein Schwindler – doch in Sachen alter Weine war er aufrichtig.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00017_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hierin unterschied ich mich nicht sehr von ihm: Ich selbst war bewandert in italienischen Jahrgängen und kaufte in großem Umfang, wann immer ich konnte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00018_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00019_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es war um die Dämmerung, an einem Abend während des wilden Wahnsinns der Karnevalszeit, als ich meinen Freund traf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00020_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er begrüßte mich mit übermäßiger Wärme, denn er hatte viel getrunken.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00021_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Mann trug ein Narrenkostüm.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00022_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hatte ein eng anliegendes Gewand aus bunten Streifen an, und auf dem Kopf saß ihm eine kegelförmige Kappe mit Schellen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00023_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich war so erfreut, ihn zu sehen, dass ich dachte, ich würde nie aufhören, ihm die Hand zu schütteln.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00024_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00025_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Mein lieber Fortunato, Ihr seid glücklich getroffen. Wie bemerkenswert wohl Ihr heute ausseht! Doch ich habe ein Fass erhalten, das angeblich Amontillado sein soll, und ich hege Zweifel.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00026_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00027_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Wie?\" sagte er. \"Amontillado? Ein Fass? Unmöglich! Und mitten im Karneval!\"",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c001_00028_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00029_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ich hege Zweifel\", erwiderte ich, \"und ich war töricht genug, den vollen Amontillado-Preis zu zahlen, ohne Euch zu fragen. Ihr wart nirgends zu finden, und ich fürchtete, ein gutes Geschäft zu verlieren.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00030_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00031_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Amontillado!\"",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c001_00032_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00033_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ich hege Zweifel.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00034_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00035_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Amontillado!\"",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c001_00036_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00037_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Und ich muss sie ausräumen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00038_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00039_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Amontillado!\"",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c001_00040_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00041_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Da Ihr beschäftigt seid, bin ich auf dem Weg zu Luchesi. Wenn irgendjemand einen kritischen Geschmack besitzt, so ist er es. Er wird mir sagen—\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00042_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00043_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Luchesi kann Amontillado nicht von Sherry unterscheiden.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00044_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00045_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Und doch behaupten manche Narren, sein Geschmack komme dem Eurigen gleich.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00046_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00047_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Kommt, lasst uns gehen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00048_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00049_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Wohin?\"",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00050_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00051_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Zu Euren Gewölben.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00052_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00053_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Mein Freund, nein; ich will Eure Gutmütigkeit nicht ausnutzen. Ich sehe, Ihr habt eine Verabredung. Luchesi—\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00054_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00055_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ich habe keine Verabredung; kommt.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00056_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00057_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Mein Freund, nein. Es ist nicht die Verabredung, sondern die strenge Kälte, unter der Ihr, wie ich sehe, leidet. Die Gewölbe sind unerträglich feucht. Sie sind mit Salpeter überzogen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00058_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00059_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Lasst uns dennoch gehen. Die Kälte ist nichts. Amontillado! Man hat Euch betrogen. Und was Luchesi betrifft, er kann Sherry nicht von Amontillado unterscheiden.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00060_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00061_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mit diesen Worten ergriff Fortunato meinen Arm.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00062_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich setzte eine Maske aus schwarzer Seide auf, zog einen Mantel dicht um meinen Leib und ließ mich von ihm zu meinem Palazzo eilen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00063_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00064_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es waren keine Diener im Haus; sie hatten sich davongestohlen, um das Fest zu feiern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00065_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich hatte ihnen gesagt, ich würde nicht vor dem Morgen zurückkehren, und hatte ihnen streng befohlen, das Haus nicht zu verlassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00066_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich wusste, diese Befehle genügten, um ihr unmittelbares Verschwinden zu gewährleisten, jeden Einzelnen, sobald ich den Rücken gewandt hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00067_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00068_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich nahm zwei Fackeln aus ihren Haltern, reichte Fortunato eine und geleitete ihn mit Verbeugungen durch mehrere Zimmer bis zu dem Torbogen, der in die Gewölbe führte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00069_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich stieg eine lange, gewundene Treppe hinab und bat ihn, vorsichtig zu sein, während er folgte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00070_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Schließlich erreichten wir den Grund und standen gemeinsam auf dem feuchten Boden der Katakomben der Montresors.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00071_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00072_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Gang meines Freundes war unsicher, und die Schellen an seiner Kappe klingelten, während er sich bewegte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00073_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00074_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Das Fass\", sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00075_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00076_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Es ist weiter hinten\", sagte ich; \"doch seht das weiße, spinnwebartige Gewächs, das an diesen Höhlenwänden glänzt.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00077_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00078_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er wandte sich mir zu und blickte mir in die Augen mit zwei trüben Kugeln, die vor Trunkenheit tränten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00079_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00080_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Salpeter?\" fragte er endlich.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00081_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00082_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Salpeter\", erwiderte ich. \"Wie lange habt Ihr schon diesen Husten?\"",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00083_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00084_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Hust! hust! hust! – hust! hust! hust! – hust! hust! hust! – hust! hust! hust! – hust! hust! hust!\"",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c001_00085_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00086_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mein armer Freund konnte viele Minuten lang nicht antworten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00087_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00088_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Es ist nichts\", sagte er endlich.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00089_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00090_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Kommt\", sagte ich entschlossen, \"wir kehren um; Eure Gesundheit ist kostbar. Ihr seid reich, geachtet, bewundert, geliebt; Ihr seid glücklich, wie ich es einst war. Ihr seid ein Mann, den man vermissen würde. Für mich ist es ohne Belang. Wir kehren um; Ihr werdet krank werden, und ich kann nicht verantwortlich sein. Außerdem ist da Luchesi—\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00091_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00092_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Genug\", sagte er; \"der Husten ist nichts; er wird mich nicht töten. Ich werde nicht an einem Husten sterben.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00093_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00094_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Wahr – wahr\", erwiderte ich; \"und wahrlich, ich wollte Euch nicht unnötig beunruhigen – doch Ihr solltet gehörige Vorsicht walten lassen. Ein Schluck von diesem Medoc wird uns vor der Feuchtigkeit schützen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00095_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00096_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hier schlug ich einer Flasche den Hals ab, die ich aus einer langen Reihe ihrer Gefährten nahm, die auf dem Moder lagen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00097_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00098_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Trinkt\", sagte ich und reichte ihm den Wein.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00099_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00100_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hob ihn mit einem listigen Grinsen an die Lippen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00101_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hielt inne und nickte mir vertraulich zu, während seine Schellen klingelten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00102_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00103_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ich trinke\", sagte er, \"auf die Begrabenen, die rings um uns ruhen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00104_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00105_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Und ich auf Euer langes Leben.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00106_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00107_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er nahm wieder meinen Arm, und wir gingen weiter.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00108_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00109_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Diese Gewölbe\", sagte er, \"sind weitläufig.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00110_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00111_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Die Montresors\", erwiderte ich, \"waren ein großes und zahlreiches Geschlecht.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00112_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00113_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ich vergesse Euer Wappen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00114_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00115_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ein riesiger menschlicher Fuß aus Gold, auf blauem Feld; der Fuß zertritt eine sich aufbäumende Schlange, deren Fänge in die Ferse geschlagen sind.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00116_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00117_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Und das Motto?\"",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00118_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00119_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Niemand greift mich ungestraft an.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00120_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00121_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Gut!\" sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00122_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00123_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Wein funkelte in seinen Augen, und die Schellen klingelten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00124_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Meine eigene Einbildungskraft wurde warm vom Medoc.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00125_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wir waren durch Wände aus aufgetürmten Gebeinen, zwischen denen Fässer und große Tonnen lagen, in die tiefsten Winkel der Katakomben gelangt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00126_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich hielt erneut inne, und diesmal wagte ich es, Fortunato am Arm oberhalb des Ellbogens zu fassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00127_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00128_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Der Salpeter!\" sagte ich; \"seht, er nimmt zu. Er hängt wie Moos an den Gewölben. Wir sind unter dem Flussbett. Die Tropfen der Feuchtigkeit rinnen zwischen den Gebeinen. Kommt, wir kehren um, ehe es zu spät ist. Euer Husten—\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00129_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00130_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Es ist nichts\", sagte er; \"lasst uns weitergehen. Doch zuerst noch ein Schluck von dem Medoc.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00131_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00132_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich schlug eine Flasche De Grave auf und reichte sie ihm.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00133_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er leerte sie in einem Atemzug.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00134_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seine Augen blitzten in wildem Licht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00135_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er lachte und warf die Flasche mit einer Geste empor, die ich nicht verstand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00136_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00137_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich sah ihn verwundert an.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00138_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er wiederholte die Bewegung – eine groteske.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00139_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00140_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ihr versteht nicht?\" sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00141_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00142_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Nein\", erwiderte ich.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00143_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00144_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Dann seid Ihr nicht von der Bruderschaft.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00145_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00146_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Wie?\"",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00147_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00148_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ihr seid nicht einer von den Freimaurern.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00149_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00150_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Doch, doch\", sagte ich; \"doch, doch.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00151_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00152_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ihr? Unmöglich! Ein Freimaurer?\"",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00153_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00154_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ein Freimaurer\", erwiderte ich.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00155_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00156_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ein Zeichen\", sagte er, \"ein Zeichen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00157_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00158_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Es ist dies\", antwortete ich und zog eine Maurerkelle aus den Falten meines Mantels hervor.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00159_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00160_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ihr scherzt\", rief er und trat ein paar Schritte zurück. \"Doch lasst uns zum Amontillado schreiten.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00161_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00162_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"So sei es\", sagte ich, steckte das Werkzeug wieder unter meinen Mantel und bot ihm erneut meinen Arm.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00163_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er stützte sich schwer darauf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00164_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wir setzten unseren Weg fort auf der Suche nach dem Amontillado.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00165_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wir gingen durch eine Reihe niedriger Bögen, stiegen hinab, gingen weiter, stiegen abermals hinab und gelangten in eine tiefe Gruft, in der die Verderbtheit der Luft unsere Fackeln eher glühen als flammen ließ.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00166_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00167_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Am entlegensten Ende der Gruft zeigte sich eine weitere, weniger geräumige.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00168_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ihre Wände waren mit menschlichen Überresten verkleidet, die nach Art der großen Katakomben von Paris bis zum Gewölbe über uns aufgeschichtet waren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00169_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Drei Seiten dieser inneren Gruft waren noch auf diese Weise geschmückt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00170_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Von der vierten Seite waren die Gebeine herabgeworfen worden und lagen verstreut auf der Erde, wobei sie an einer Stelle einen Hügel von einiger Größe bildeten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00171_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Innerhalb der so durch das Verrücken der Gebeine freigelegten Wand gewahrten wir eine noch tiefere Nische, etwa vier Fuß tief, drei Fuß breit und sechs oder sieben Fuß hoch.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00172_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie schien zu keinem besonderen Zweck errichtet worden zu sein, sondern bildete lediglich den Zwischenraum zwischen zwei der gewaltigen Stützpfeiler des Daches der Katakomben und wurde von einer ihrer umgebenden Wände aus massivem Granit begrenzt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00173_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00174_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Vergebens versuchte Fortunato, seine trübe Fackel hebend, in die Tiefe der Nische zu spähen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00175_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das schwache Licht erlaubte uns nicht, ihr Ende zu erkennen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00176_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00177_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "„Schreitet voran“, sagte ich; „hierin ist der Amontillado. Was Luchesi betrifft—“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00178_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er ist ein Ignorant“, unterbrach mich mein Freund, während er unsicheren Schrittes vorwärts trat und ich ihm unmittelbar auf den Fersen folgte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00179_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Im Nu hatte er das Ende der Nische erreicht, und da er seinen Weg durch den Felsen versperrt fand, stand er stumpf verwirrt da.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00180_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Einen Augenblick später hatte ich ihn an den Granit gekettet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00181_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In dessen Oberfläche befanden sich zwei eiserne Klammern, etwa zwei Fuß voneinander entfernt, waagerecht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00182_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Von der einen hing eine kurze Kette, von der anderen ein Vorhängeschloss.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00183_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich warf die Glieder um seine Taille, und es war das Werk weniger Sekunden, sie zu sichern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00184_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war zu bestürzt, um Widerstand zu leisten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00185_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich zog den Schlüssel ab und trat aus der Nische zurück.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00186_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00187_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "„Fahrt mit der Hand“, sagte ich, „über die Wand; Ihr könnt nicht umhin, den Salpeter zu fühlen. Wahrlich, es ist sehr feucht. Noch einmal lasst mich Euch anflehen, umzukehren. Nein? Dann muss ich Euch wahrhaftig verlassen. Doch zuvor muss ich Euch alle kleinen Aufmerksamkeiten erweisen, die in meiner Macht stehen.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00188_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00189_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "„Der Amontillado!“ rief mein Freund, noch nicht von seinem Erstaunen erholt.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00190_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00191_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "„Wahr“, erwiderte ich; „der Amontillado.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00192_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00193_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Während ich diese Worte sprach, machte ich mich an dem Haufen von Gebeinen zu schaffen, von dem ich bereits gesprochen habe.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00194_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich warf sie beiseite und legte bald eine Menge Bausteine und Mörtel frei.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00195_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mit diesen Materialien und mit Hilfe meiner Maurerkelle begann ich eifrig, den Eingang der Nische zu vermauern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00196_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00197_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Kaum hatte ich die erste Schicht des Mauerwerks gelegt, als ich entdeckte, dass Fortunatos Trunkenheit weitgehend verflogen war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00198_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das erste Anzeichen dafür war ein leises, klagendes Stöhnen aus der Tiefe der Nische.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00199_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es war nicht der Schrei eines Betrunkenen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00200_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dann folgte ein langes, hartnäckiges Schweigen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00201_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich legte die zweite Schicht und die dritte und die vierte; dann hörte ich das wütende Rasseln der Kette.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00202_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Lärm dauerte mehrere Minuten, während derer ich, um ihm mit größerer Genugtuung zu lauschen, meine Arbeit einstellte und mich auf die Gebeine setzte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00203_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als endlich das Klirren verebbte, nahm ich die Maurerkelle wieder auf und vollendete ohne Unterbrechung die fünfte, die sechste und die siebte Schicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00204_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Mauer war nun fast auf Brusthöhe.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00205_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich hielt erneut inne, hielt die Fackel über das Mauerwerk und warf ein paar schwache Strahlen auf die Gestalt darin.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00206_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00207_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Eine Folge lauter, schriller Schreie, die plötzlich aus der Kehle der gefesselten Gestalt brachen, schien mich gewaltsam zurückzustoßen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00208_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Für einen kurzen Augenblick zögerte ich – ich zitterte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00209_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich zog mein Rapier und begann, mit ihm in der Nische umherzutasten; doch ein Augenblick der Besinnung beruhigte mich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00210_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich legte meine Hand auf das feste Gefüge der Katakomben und fühlte mich zufrieden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00211_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich trat wieder an die Mauer.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00212_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich antwortete auf das Geschrei dessen, der da lärmte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00213_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich hallte es wider – ich half ihm – ich übertraf es an Umfang und Stärke.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00214_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich tat dies, und der Lärmende wurde still.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00215_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00216_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es war nun Mitternacht, und meine Aufgabe näherte sich dem Ende.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00217_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich hatte die achte, die neunte und die zehnte Schicht vollendet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00218_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich hatte einen Teil der letzten und elften fertiggestellt; es blieb nur noch ein einziger Stein einzusetzen und zu verputzen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00219_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich kämpfte mit seinem Gewicht; ich setzte ihn teilweise an seinen vorgesehenen Platz.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00220_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch nun kam aus der Nische ein leises Lachen, das mir die Haare zu Berge stehen ließ.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00221_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ihm folgte eine traurige Stimme, die ich nur mit Mühe als die des edlen Fortunato erkannte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00222_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Stimme sagte –",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00223_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ha! ha! ha! – he! he! he! – ein wirklich guter Scherz in der Tat – ein vortrefflicher Spaß. Wir werden manch herzhaftes Lachen darüber haben im Palazzo – he! he! he! – bei unserem Wein – he! he! he!\"",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c001_00224_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00225_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Der Amontillado!\" sagte ich.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00226_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00227_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"He! he! he! – he! he! he! – ja, der Amontillado. Aber wird es nicht spät? Werden sie nicht im Palazzo auf uns warten, die Lady Fortunato und die anderen? Lasst uns gehen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00228_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00229_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Ja\", sagte ich, \"lasst uns gehen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00230_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00231_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "\"Um der Liebe Gottes willen, Montresor!\"",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c001_00232_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00233_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "„Ja“, sagte ich, „um der Liebe Gottes willen!“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00234_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00235_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch auf diese Worte lauschte ich vergebens auf eine Antwort.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00236_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich wurde ungeduldig.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00237_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich rief laut –",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00238_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00239_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "„Fortunato!“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00240_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00241_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Keine Antwort.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00242_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich rief erneut –",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00243_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00244_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "„Fortunato –“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00245_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00246_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Noch immer keine Antwort.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00247_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich stieß eine Fackel durch die verbliebene Öffnung und ließ sie hineinfallen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00248_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Zur Antwort kam nur ein Klingeln der Schellen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00249_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mein Herz wurde krank ob der Feuchtigkeit der Katakomben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00250_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich beeilte mich, mein Werk zu vollenden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00251_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich zwang den letzten Stein an seinen Platz; ich verputzte ihn.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00252_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gegen das neue Mauerwerk errichtete ich erneut den alten Wall aus Gebeinen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00253_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seit einem halben Jahrhundert hat kein Sterblicher sie gestört.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00254_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In pace requiescat!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  }
+ ]
+}

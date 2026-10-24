@@ -1,0 +1,4622 @@
+{
+ "werk_id": "irving-w_the-legend-of-sleepy-hollow",
+ "book_slug": "the-legend-of-sleepy-hollow",
+ "sprache": "de",
+ "titel": "Die Legende von Sleepy Hollow",
+ "autor": "Washington Irving",
+ "audio_vollstaendig": true,
+ "audio_count": 502,
+ "erstellt": "2026-10-16T05:08:30.664681Z",
+ "modus": "",
+ "sprecher_geschlecht": {},
+ "saetze": [
+  {
+   "tag_id": "c001_00001_h",
+   "typ": "h",
+   "kapitel": "",
+   "text": "Die Sage von der verschlafenen Schlucht",
+   "audio_path": "audio/de/c001_00001_h.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00002_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "von Washington Irving",
+   "audio_path": "audio/de/c001_00002_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00003_qt",
+   "typ": "qt",
+   "kapitel": "",
+   "text": "AUFGEFUNDEN UNTER DEN PAPIEREN DES VERSTORBENEN DIEDRICH KNICKERBOCKER.",
+   "audio_path": "audio/de/c001_00003_qt.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00004_ep",
+   "typ": "ep",
+   "kapitel": "",
+   "text": "Ein holdes Land des dösenden Haupts es war,\nVon Träumen, die dem halbgeschlossnen Auge gleiten;\nUnd hellen Schlössern in den Wolken, hell und klar,\nDie ewig glühend um den Sommerhimmel schreiten.",
+   "audio_path": "audio/de/c001_00004_ep.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00005_h",
+   "typ": "h",
+   "kapitel": "",
+   "text": "Schloss Trägheit",
+   "audio_path": "audio/de/c001_00005_h.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00006_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00007_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Im Herzen einer jener geräumigen Buchten, die die östliche Küste des Hudson einkerben, an jener breiten Ausdehnung des Flusses, die von den alten holländischen Seefahrern das Tappan-Meer genannt wird, liegt ein kleiner Marktflecken oder ländlicher Hafen.",
+   "audio_path": "audio/de/c001_00007_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00008_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hier refften sie stets klug die Segel und beteten um den Schutz des heiligen Nikolaus, wenn sie vorüberfuhren.",
+   "audio_path": "audio/de/c001_00008_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00009_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Einige nennen diesen Ort Greensburgh, doch ist er allgemeiner und eigentlich als Tarry Town bekannt.",
+   "audio_path": "audio/de/c001_00009_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00010_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Man erzählt, dass der Name in früheren Tagen von den guten Hausfrauen der benachbarten Landschaft vergeben worden sei, aufgrund der tief verwurzelten Gewohnheit ihrer Ehemänner, an Markttagen im Dorfgasthaus zu verweilen.",
+   "audio_path": "audio/de/c001_00010_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00011_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wie dem auch sei, ich verbürge mich nicht für die Wahrheit, sondern erwähne es bloß der Genauigkeit und Authentizität halber.",
+   "audio_path": "audio/de/c001_00011_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00012_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Unweit dieses Dorfes, vielleicht etwa zwei Meilen entfernt, liegt ein kleines Tal, oder vielmehr eine Mulde zwischen hohen Hügeln, einer der stillsten Orte der ganzen Welt.",
+   "audio_path": "audio/de/c001_00012_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00013_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein kleiner Bach gleitet hindurch, mit gerade genug Gemurmel, um einen in den Schlaf zu wiegen; und das gelegentliche Pfeifen einer Wachtel oder das Klopfen eines Spechts ist beinahe das einzige Geräusch, das jemals die gleichförmige Stille unterbricht.",
+   "audio_path": "audio/de/c001_00013_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00014_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00015_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich erinnere mich, dass, als ich ein Knabe war, mein erstes Eichhörnchenjagd-Abenteuer in einem Hain hoher Walnussbäume stattfand, die eine Seite des Tales beschatten.",
+   "audio_path": "audio/de/c001_00015_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00016_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich war zur Mittagszeit hineingewandert, als die ganze Natur besonders still ist, und erschrak vor dem Knall meiner eigenen Büchse, als sie die sonntägliche Stille ringsum zerriss und von den zornigen Echos langgezogen und zurückgeworfen wurde.",
+   "audio_path": "audio/de/c001_00016_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00017_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sollte ich mir je eine Zuflucht wünschen, wohin ich mich vor der Welt und ihren Zerstreuungen stehlen und den Rest eines ruhelosen Lebens ruhig verträumen könnte, so wüsste ich keine verheißungsvollere als dieses kleine Tal.",
+   "audio_path": "audio/de/c001_00017_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00018_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00019_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aufgrund der träumerischen Stille des Ortes und des eigentümlichen Charakters seiner Bewohner, die von den ursprünglichen holländischen Siedlern abstammen, ist dieses abgelegene Tal seit langem unter dem Namen SLEEPY HOLLOW bekannt.",
+   "audio_path": "audio/de/c001_00019_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00020_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seine ländlichen Burschen werden im ganzen umliegenden Land die Sleepy-Hollow-Jungen genannt.",
+   "audio_path": "audio/de/c001_00020_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00021_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein schläfriger, träumerischer Einfluss scheint über dem Land zu hängen und die Atmosphäre selbst zu durchdringen.",
+   "audio_path": "audio/de/c001_00021_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00022_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Einige sagen, der Ort sei in den frühen Tagen der Besiedlung von einem hochdeutschen Doktor verhext worden; andere, ein alter Indianerhäuptling, der Prophet oder Zauberer seines Stammes, habe dort seine Ratsversammlungen abgehalten, ehe das Land von Meister Hendrick Hudson entdeckt wurde.",
+   "audio_path": "audio/de/c001_00022_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00023_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gewiss ist, dass der Ort noch immer unter dem Einfluss einer betörenden Macht steht, die einen Bann über die Sinne der guten Leute wirft und sie veranlasst, in einem steten Tagtraum umherzuwandeln.",
+   "audio_path": "audio/de/c001_00023_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00024_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie neigen zu allerlei wundersamen Überzeugungen, sind Trancezuständen und Visionen unterworfen und sehen häufig seltsame Erscheinungen und hören Musik und Stimmen in der Luft.",
+   "audio_path": "audio/de/c001_00024_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00025_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die gesamte Nachbarschaft ist reich an örtlichen Geschichten, verwunschenen Orten und dämmerigem Aberglauben.",
+   "audio_path": "audio/de/c001_00025_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00026_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sternschnuppen und gleißende Meteore erscheinen über dem Tal häufiger als über jedem anderen Teil der Landschaft, und die Nachtmahr mit ihrem neunfachen Gefolge scheint es zum bevorzugten Schauplatz ihrer Tänze zu machen.",
+   "audio_path": "audio/de/c001_00026_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00027_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00028_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch der vorherrschende Geist, der diese verzauberte Gegend heimsucht und der Oberbefehlshaber aller Mächte der Luft zu sein scheint, ist die Erscheinung einer kopflosen Gestalt zu Pferde.",
+   "audio_path": "audio/de/c001_00028_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00029_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Einige sagen, es sei der Geist eines hessischen Soldaten, dessen Haupt von einer Kanonenkugel in irgendeiner namenlosen Schlacht des Unabhängigkeitskrieges hinweggerissen wurde.",
+   "audio_path": "audio/de/c001_00029_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00030_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Landleute sehen ihn dann und wann, wie er im Düster der Nacht dahineilt, als flöge er auf den Schwingen des Windes.",
+   "audio_path": "audio/de/c001_00030_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00031_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seine Heimsuchungen sind nicht auf das Tal allein beschränkt, sondern erstrecken sich mitunter auch auf die nahegelegenen Straßen und besonders auf die Umgebung einer Kirche unweit von hier.",
+   "audio_path": "audio/de/c001_00031_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00032_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In der Tat haben einige der verlässlichsten Lokalhistoriker die verstreuten Tatsachen über dieses Gespenst sorgsam gesammelt und miteinander verglichen.",
+   "audio_path": "audio/de/c001_00032_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00033_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie behaupten, der Leib des hessischen Soldaten sei auf dem Kirchhof begraben, und der Geist reite allnächtlich zum Schlachtfeld hinaus, um sein Haupt zu suchen.",
+   "audio_path": "audio/de/c001_00033_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00034_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die rasende Eile, mit der er zuweilen durch die Hollow fegt, gleich einem mitternächtlichen Sturmwind, rührt daher, dass er verspätet ist und eilig vor Tagesanbruch zum Kirchhof zurückkehren muss.",
+   "audio_path": "audio/de/c001_00034_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00035_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00036_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dies ist im Wesentlichen der Kern dieses sagenhaften Aberglaubens, der den Stoff für manch wilde Geschichte in jener schattigen Gegend geliefert hat; und das Gespenst ist an jedem ländlichen Herdfeuer als der Kopflose Reiter von Sleepy Hollow bekannt.",
+   "audio_path": "audio/de/c001_00036_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00037_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00038_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bemerkenswert ist, dass die erwähnte Neigung, Gesichte zu sehen, sich keineswegs auf die eingesessenen Talbewohner beschränkt, sondern von jedem, der eine Zeitlang dort weilt, unbewusst angenommen wird.",
+   "audio_path": "audio/de/c001_00038_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00039_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wie hellwach jemand auch gewesen sein mag, ehe er diese schläfrige Gegend betrat, binnen Kurzem atmet er mit Gewissheit den betörenden Einfluss der Luft ein und beginnt, phantasievoll zu werden, Träume zu träumen und Erscheinungen zu sehen.",
+   "audio_path": "audio/de/c001_00039_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00040_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00041_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich erwähne diesen friedvollen Flecken mit allem nur erdenklichen Lob.",
+   "audio_path": "audio/de/c001_00041_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00042_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gerade in solch kleinen, abgeschiedenen holländischen Tälern, die sich hie und da im großen Staate New York verborgen finden, bleiben Bevölkerung, Sitten und Bräuche beständig, während der gewaltige Strom der Wanderung und des Fortschritts unbeachtet an ihnen vorübersaust und in anderen Teilen dieses rastlosen Landes unablässigen Wandel schafft.",
+   "audio_path": "audio/de/c001_00042_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00043_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie gleichen jenen kleinen Winkeln stillen Wassers neben einem reißenden Flusse, worin wir Stroh und Blasen ruhig vor Anker liegen oder in ihrem winzigen Hafen langsam kreisen sehen, ungestört vom Drängen der vorüberziehenden Strömung.",
+   "audio_path": "audio/de/c001_00043_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00044_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wenngleich viele Jahre vergangen sind, seit ich durch die schläfrigen Schatten von Sleepy Hollow wandelte, frage ich mich, ob ich wohl nicht noch immer dieselben Bäume und dieselben Familien in seinem geschützten Schoße dahinvegetieren fände.",
+   "audio_path": "audio/de/c001_00044_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00045_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00046_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In diesem abgelegenen Winkel lebte vor etwa dreißig Jahren ein ehrenwerter Geselle namens Ichabod Crane.",
+   "audio_path": "audio/de/c001_00046_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00047_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er weilte – oder, wie er es ausdrückte, „säumte“ – in Sleepy Hollow, um die Kinder der Gegend zu unterrichten.",
+   "audio_path": "audio/de/c001_00047_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00048_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er stammte aus Connecticut, einem Staat, der die Nation ebenso mit Pionieren des Geistes wie mit Pionieren der Wälder versorgt und alljährlich seine Legionen von Grenzwaldläufern und Landschulmeistern aussendet.",
+   "audio_path": "audio/de/c001_00048_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00049_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Name Crane passte zu seiner Erscheinung.",
+   "audio_path": "audio/de/c001_00049_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00050_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war groß, jedoch über die Maßen schlaksig, mit schmalen Schultern, langen Armen und Beinen, Händen, die eine Meile weit aus den Ärmeln baumelten, und Füßen, die man als Schaufeln hätte verwenden können; sein ganzer Körperbau schien nur lose zusammengefügt.",
+   "audio_path": "audio/de/c001_00050_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00051_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Kopf war klein und oben flach, mit riesigen Ohren, großen glasigen grünen Augen und einer langen, schnepfenartigen Nase.",
+   "audio_path": "audio/de/c001_00051_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00052_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es sah aus wie eine Wetterfahne, die auf seinem spindeldürren Halse hockte und anzeigte, woher der Wind wehte.",
+   "audio_path": "audio/de/c001_00052_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00053_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hättet ihr ihn an einem windigen Tag auf dem Kamm eines Hügels dahinschreiten sehen, die Kleider um ihn bauschend und flatternd, so hättet ihr ihn für den Geist der Hungersnot halten können, der zur Erde herabsteigt, oder für eine Vogelscheuche, die aus einem Kornfeld entlaufen ist.",
+   "audio_path": "audio/de/c001_00053_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00054_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00055_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Schulhaus war ein niedriges, einräumiges Gebäude, grob aus Baumstämmen gezimmert; die Fenster waren teils verglast, teils mit Blättern aus alten Schreibheften geflickt.",
+   "audio_path": "audio/de/c001_00055_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00056_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "War die Schule aus, so wurde es auf sinnreiche Weise gesichert, indem man einen biegsamen Zweig um die Türklinke wand und Pfähle gegen die Fensterläden stemmte.",
+   "audio_path": "audio/de/c001_00056_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00057_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "So konnte ein Dieb zwar leicht hinein, aber nur mit Mühe wieder hinausgelangen – ein Gedanke, den der Baumeister Yost Van Houten vermutlich vom Geheimnis einer Aalfalle entlehnt hatte.",
+   "audio_path": "audio/de/c001_00057_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00058_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das Schulhaus stand an einem recht einsamen, doch anmutigen Fleck, genau am Fuße eines waldigen Hügels, mit einem Bächlein in der Nähe und einer stattlichen Birke, die an einem Ende ragte.",
+   "audio_path": "audio/de/c001_00058_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00059_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "An einem schläfrigen Sommertag konnte man das leise Gemurmel der Schülerstimmen vernehmen, während sie ihre Lektionen lernten, gleich dem Summen eines Bienenstocks, dann und wann unterbrochen von der gebieterischen Stimme des Schulmeisters, drohend oder befehlend, oder vielleicht vom fürchterlichen Klang des Birkenstocks, mit dem er einen säumigen Schüler den blumigen Pfad des Wissens entlangtrieb.",
+   "audio_path": "audio/de/c001_00059_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00060_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Um die Wahrheit zu sagen, er war ein gewissenhafter Mann und hatte stets jene goldene Regel vor Augen: „Wer die Rute schont, verdirbt das Kind.“",
+   "audio_path": "audio/de/c001_00060_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00061_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabod Cranes Zöglinge wurden ganz gewiss nicht verdorben.",
+   "audio_path": "audio/de/c001_00061_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00062_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00063_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch glaube niemand, er sei einer jener grausamen Schultyrannen gewesen, die an den Qualen ihrer Schutzbefohlenen Gefallen finden.",
+   "audio_path": "audio/de/c001_00063_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00064_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Im Gegenteil, er übte Gerechtigkeit mit bedächtigem Urteil eher als mit Strenge und nahm die Bürde vom Rücken der Schwachen, um sie den Starken aufzubürden.",
+   "audio_path": "audio/de/c001_00064_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00065_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein schwächliches kleines Bürschchen, das beim leisesten Wink der Rute zusammenzuckte, ward mit Nachsicht übergangen; doch der Gerechtigkeit war Genüge getan, indem man einem zähen, starrköpfigen, breitgesäßigen holländischen Rangen eine doppelte Dosis verabreichte, der unter der Birke schmollte, sich aufblies und störrisch mürrisch ward.",
+   "audio_path": "audio/de/c001_00065_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00066_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "All dies nannte er: „seine Pflicht gegenüber den Eltern tun.“",
+   "audio_path": "audio/de/c001_00066_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00067_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und niemals erteilte er eine Strafe, ohne danach dem geschundenen Rangen in vermeintlich tröstlicher Weise zu versichern, „er werde dessen gedenken und ihm dafür danken den längsten Tag, den er zu leben habe.“",
+   "audio_path": "audio/de/c001_00067_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00068_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00069_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "War die Schulzeit vorüber, so gab er sogar den Gefährten und Spielkameraden der größeren Knaben ab.",
+   "audio_path": "audio/de/c001_00069_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00070_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "An Feiertagnachmittagen begleitete er die kleineren Kinder nach Hause – jene, die zufällig hübsche Schwestern oder tüchtige Hausfrauenmütter mit wohlbestückten Vorratsschränken hatten.",
+   "audio_path": "audio/de/c001_00070_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00071_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In der Tat brauchte er es, sich mit seinen Schülern gut zu stellen.",
+   "audio_path": "audio/de/c001_00071_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00072_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das Einkommen aus seiner Schule war gering und hätte kaum ausgereicht, ihm das tägliche Brot zu sichern, denn er war ein gewaltiger Esser und besaß, obgleich schlaksig, den dehnbaren Magen einer Anakonda.",
+   "audio_path": "audio/de/c001_00072_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00073_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Um seinen Lebensunterhalt aufzubessern, ward er jedoch, dem ländlichen Brauch jener Gegend gemäß, bei den Bauern, deren Kinder er unterrichtete, beherbergt und beköstigt.",
+   "audio_path": "audio/de/c001_00073_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00074_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er wohnte der Reihe nach bei ihnen, eine Woche um die andere, und zog so die Runde durch die Nachbarschaft, all seine weltliche Habe in ein baumwollenes Schnupftuch gebunden.",
+   "audio_path": "audio/de/c001_00074_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00075_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00076_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Damit all dies den Geldbeuteln seiner ländlichen Gönner nicht allzu sehr zur Last fiele – die geneigt sind, Schulkosten als schwere Bürde und Schulmeister als bloße Drohnen zu betrachten –, wusste er sich auf mancherlei Weise ebenso nützlich wie angenehm zu machen.",
+   "audio_path": "audio/de/c001_00076_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00077_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bisweilen half er den Bauern bei den leichteren Arbeiten auf ihren Höfen: Er half Heu machen, Zäune ausbessern, Pferde zur Tränke führen, Kühe von der Weide treiben und Holz für das Winterfeuer spalten.",
+   "audio_path": "audio/de/c001_00077_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00078_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Auch legte er all die gebieterische Würde und unumschränkte Autorität ab, mit der er sein kleines Königreich, die Schule, beherrschte, und ward wundersam sanft und einschmeichelnd.",
+   "audio_path": "audio/de/c001_00078_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00079_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er fand Gunst in den Augen der Mütter, indem er die Kinder hätschelte, besonders die jüngsten; und gleich dem kühnen Löwen, der einst großmütig ein Lamm hütete, saß er da, ein Kind auf dem Knie, und wiegte mit dem Fuß stundenlang eine Wiege.",
+   "audio_path": "audio/de/c001_00079_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00080_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00081_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Zusätzlich zu seinen anderen Obliegenheiten war er der Gesangsmeister der Gegend und verdiente manch blankes Schillingstück, indem er die jungen Leute im Psalmengesang unterwies.",
+   "audio_path": "audio/de/c001_00081_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00082_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "An Sonntagen war es eine Angelegenheit nicht geringer Eitelkeit für ihn, mit einer auserlesenen Sängerschar an der Spitze der Kirchenempore seinen Platz einzunehmen.",
+   "audio_path": "audio/de/c001_00082_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00083_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dort trug er, in seinem eigenen Sinn, vollends den Siegespreis über den Pfarrer davon.",
+   "audio_path": "audio/de/c001_00083_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00084_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gewiss ist, dass seine Stimme weithin über die gesamte übrige Gemeinde hinausschallte.",
+   "audio_path": "audio/de/c001_00084_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00085_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sonderbar zittrige Töne sind noch immer in jener Kirche zu vernehmen, und man mag sie sogar eine halbe Meile weit hören, ganz bis zur gegenüberliegenden Seite des Mühlteichs, an einem stillen Sonntagmorgen.",
+   "audio_path": "audio/de/c001_00085_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00086_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Diese zitternden Töne sollen in gerader Linie von der Nase Ichabod Cranes abstammen.",
+   "audio_path": "audio/de/c001_00086_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00087_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "So kam der würdige Schulmeister durch allerlei kleine Behelfe, auf jene findige Weise, die man gemeinhin „mit Haken und Ösen“ nennt, leidlich genug zurecht.",
+   "audio_path": "audio/de/c001_00087_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00088_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er galt bei allen, die nichts von der Arbeit des Geistes verstanden, als ein Mann von wunderbar mühelosem Leben.",
+   "audio_path": "audio/de/c001_00088_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00089_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00090_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In einer ländlichen Gegend ist der Schulmeister für gewöhnlich ein Mann von einiger Bedeutung bei den Frauen.",
+   "audio_path": "audio/de/c001_00090_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00091_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er wird als eine etwas müßiggängerische, herrschaftliche Figur angesehen, von weit besserem Geschmack und feinerer Bildung als die rauen Landburschen, und an Gelehrsamkeit steht er gleich nach dem Pfarrer.",
+   "audio_path": "audio/de/c001_00091_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00092_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seine Ankunft an einem Hoftisch beim Tee ist daher geeignet, einiges Aufsehen und vielleicht eine zusätzliche Schüssel Kuchen oder Süßigkeiten oder gar das Vorzeigen einer silbernen Teekanne zu veranlassen.",
+   "audio_path": "audio/de/c001_00092_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00093_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Unser Mann der Wissenschaften war demnach besonders glücklich, ein Lächeln von allen Mädchen des Landes zu empfangen.",
+   "audio_path": "audio/de/c001_00093_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00094_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wie tat er sich unter ihnen auf dem Kirchhof zwischen den Sonntagsgottesdiensten hervor!",
+   "audio_path": "audio/de/c001_00094_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00095_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er pflückte ihnen Trauben von den wilden Reben, die die Bäume überwucherten, trug ihnen zur Belustigung sämtliche Grabschriften von den Grabsteinen vor oder lustwandelte mit einer ganzen Schar von ihnen am Ufer des nahen Mühlteichs entlang.",
+   "audio_path": "audio/de/c001_00095_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00096_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Währenddessen hingen die scheueren Landeier schafsinnig zurück und beneideten seine überlegene Feinheit und Manieren.",
+   "audio_path": "audio/de/c001_00096_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00097_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00098_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Zufolge seines halb wandernden Lebens glich er auch einer reisenden Zeitung und trug die gesamte Fracht des örtlichen Klatsches von Haus zu Haus, so dass sein Erscheinen stets mit Genugtuung begrüßt ward.",
+   "audio_path": "audio/de/c001_00098_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00099_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Frauen schätzten ihn zudem als einen Mann von großer Gelehrsamkeit, denn er hatte mehrere Bücher ganz durchgelesen und war ein gründlicher Meister von Cotton Mathers „Geschichte der Hexerei in Neuengland“ – woran er, nebenbei bemerkt, gar fest und mächtig glaubte.",
+   "audio_path": "audio/de/c001_00099_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00100_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00101_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In der Tat war er ein sonderbares Gemisch von kleiner Schlauheit und einfältiger Leichtgläubigkeit.",
+   "audio_path": "audio/de/c001_00101_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00102_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Hunger nach dem Wunderbaren und seine Fähigkeit, es zu verdauen, waren gleichermaßen außergewöhnlich, und beides war während seines Aufenthalts in dieser verhexten Gegend noch stärker geworden.",
+   "audio_path": "audio/de/c001_00102_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00103_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Keine Geschichte war zu grob oder ungeheuerlich für seinen grenzenlosen Glauben.",
+   "audio_path": "audio/de/c001_00103_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00104_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Oft war es sein Vergnügen, nachdem die Schule am Nachmittag entlassen war, sich auf das üppige Kleebett neben dem kleinen Bach auszustrecken, der am Schulhaus vorbei murmelte, und dort über alten Mathers schrecklichen Erzählungen zu brüten, bis die wachsende Dämmerung des Abends die Seite vor seinen Augen zu einem Nebelfleck werden ließ.",
+   "audio_path": "audio/de/c001_00104_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00105_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Machte er sich dann auf den Weg durch Sumpf und Bach und düsteres Waldland zu dem Bauernhof, wo er gerade zur Herberge war, so versetzte jeder Laut der Natur zu dieser unheimlichen Stunde seine erregte Einbildungskraft in Flattern: das Klagen der Ziegenmelker vom Hügelhang, der unheilvolle Schrei der Kröte, jenes Vorboten des Sturms, das schaurige Rufen der Schleiereule oder das plötzliche Rascheln von Vögeln, die aus ihrem Schlaf im Dickicht aufgescheucht wurden.",
+   "audio_path": "audio/de/c001_00105_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00106_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Leuchtkäfer auch, die an den dunkelsten Orten am hellsten funkelten, ließen ihn dann und wann zusammenfahren, wenn einer von ungewöhnlichem Glanz über seinen Pfad blitzte.",
+   "audio_path": "audio/de/c001_00106_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00107_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Stieß zufällig ein großer, plumper Käfer brummend durch die Luft an ihn, so war der arme Mensch bereit, den Geist aufzugeben, denn er glaubte, der Schlag einer Hexe habe ihn getroffen.",
+   "audio_path": "audio/de/c001_00107_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00108_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seine einzige Wehr bei solchen Gelegenheiten war, Psalmweisen zu singen, entweder um seine Gedanken zu betäuben oder um böse Geister zu vertreiben.",
+   "audio_path": "audio/de/c001_00108_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00109_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die braven Leute von Sleepy Hollow, die abends vor ihren Türen saßen, wurden oft von Schrecken erfüllt, wenn sie seine näselnde Melodie, „in verbundener Süße lang hingezogen“, vom fernen Hügel her oder die dämmrige Straße entlang treiben hörten.",
+   "audio_path": "audio/de/c001_00109_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00110_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00111_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Eine andere Quelle furchtsamen Vergnügens war es für ihn, lange Winterabende bei den alten holländischen Weibern zuzubringen.",
+   "audio_path": "audio/de/c001_00111_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00112_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie saßen spinnend am Feuer, während eine Reihe von Äpfeln bratend und zischend auf dem Herd lag.",
+   "audio_path": "audio/de/c001_00112_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00113_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er lauschte ihren wunderbaren Geschichten von Geistern und Kobolden, von verwunschenen Feldern, verwunschenen Bächen, verwunschenen Brücken und verwunschenen Häusern – und besonders vom kopflosen Reiter oder dem Galoppierenden Hessen der Hollow, wie sie ihn bisweilen nannten.",
+   "audio_path": "audio/de/c001_00113_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00114_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er wiederum ergötzte sie nicht minder mit seinen eigenen Geschichten von Hexerei und von den schrecklichen Vorzeichen und unheimlichen Erscheinungen und Tönen in der Luft, wie sie in der frühen Zeit Connecticuts üblich waren.",
+   "audio_path": "audio/de/c001_00114_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00115_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er erschreckte sie gar übel mit seinen Theorien über Kometen und Sternschnuppen sowie mit der erschreckenden Tatsache, dass die Welt sich ganz gewiss drehe und sie die halbe Zeit kopfüber stünden!",
+   "audio_path": "audio/de/c001_00115_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00116_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00117_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch wenn all dies auch sein Vergnügen hatte – behaglich eingekuschelt in die Kaminecke eines vom knisternden Holzfeuer durchglühten Zimmers, wo kein Gespenst sein Antlitz zu zeigen wagte –, so ward es doch teuer bezahlt mit den Schrecken seines Heimwegs.",
+   "audio_path": "audio/de/c001_00117_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00118_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Welch furchtbare Gestalten und Schatten umstellten seinen Pfad im fahlen, gespenstischen Licht einer Schneenacht!",
+   "audio_path": "audio/de/c001_00118_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00119_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mit welch bangem Blick beäugte er jeden zitternden Lichtstrahl, der von einem fernen Fenster über die leeren Felder strömte!",
+   "audio_path": "audio/de/c001_00119_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00120_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wie oft jagte ihm ein schneebedeckter Strauch Schrecken ein, der gleich einem in Leichentuch gehüllten Geist mitten auf seinem Wege stand!",
+   "audio_path": "audio/de/c001_00120_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00121_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wie oft schrak er mit kaltem Schauder beim Klang seiner eigenen Schritte auf der froststarrenden Kruste unter den Füßen zurück und fürchtete, über die Schulter zu schauen, aus Angst, er könne ein fremdes Wesen dicht hinter sich aufstampfen sehen!",
+   "audio_path": "audio/de/c001_00121_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00122_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und wie oft stürzte ihn ein plötzlicher, in den Bäumen heulender Windstoß in völliges Entsetzen, da er glaubte, es sei der Galoppierende Hesse auf einem seiner nächtlichen Streifzüge!",
+   "audio_path": "audio/de/c001_00122_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00123_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00124_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "All dies waren indes bloße Schrecken der Nacht, Hirngespinste, die in der Dunkelheit wandeln.",
+   "audio_path": "audio/de/c001_00124_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00125_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hatte zu seiner Zeit manches Gespenst gesehen und war mehr als einmal auf seinen einsamen Streifzügen vom Satan in mancherlei Gestalt heimgesucht worden.",
+   "audio_path": "audio/de/c001_00125_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00126_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch das Tageslicht setzte all diesen Übeln ein Ende.",
+   "audio_path": "audio/de/c001_00126_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00127_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hätte ein behagliches Leben geführt, ungeachtet des Teufels und all seiner Werke, wäre ihm nicht ein Wesen in die Quere gekommen, das dem sterblichen Menschen mehr Plage bereitet als Geister, Kobolde und das ganze Geschlecht der Hexen zusammengenommen – und das war eine Frau.",
+   "audio_path": "audio/de/c001_00127_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00128_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00129_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Unter den Schülern, die sich einen Abend in der Woche versammelten, um seinen Unterricht im Psalmengesang zu empfangen, war Katrina Van Tassel, die Tochter und einziges Kind eines wohlhabenden holländischen Bauern.",
+   "audio_path": "audio/de/c001_00129_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00130_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie war ein blühendes Mädchen, gerade achtzehn Jahr alt.",
+   "audio_path": "audio/de/c001_00130_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00131_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie war rundlich wie ein Rebhuhn und so reif, weich und rosenwangig wie nur einer der Pfirsiche ihres Vaters.",
+   "audio_path": "audio/de/c001_00131_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00132_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie war allenthalben bekannt, nicht nur ihrer Schönheit wegen, sondern auch ob ihrer großen Erwartungen.",
+   "audio_path": "audio/de/c001_00132_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00133_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie war überdies ein wenig eine Kokette, wie man schon an ihrer Kleidung sehen konnte, die alte und neue Moden mischte, um ihre Reize bestens zur Geltung zu bringen.",
+   "audio_path": "audio/de/c001_00133_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00134_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie trug Geschmeide aus reinem gelbem Gold, das ihre Ururgroßmutter aus Saardam mitgebracht hatte, ein verführerisches Busentuch aus alter Zeit und dazu einen herausfordernd kurzen Unterrock, um den hübschesten Fuß und Knöchel der ganzen Gegend zu zeigen.",
+   "audio_path": "audio/de/c001_00134_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00135_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00136_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabod Crane hatte ein weiches und törichtes Herz für die Weiber, und es ist kein Wunder, dass ein so verführerischer Happen bald sein Auge auf sich zog – besonders nachdem er sie im Hause ihres Vaters besucht hatte.",
+   "audio_path": "audio/de/c001_00136_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00137_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der alte Baltus Van Tassel war das vollkommene Bild eines gedeihenden, zufriedenen und freigebigen Bauern.",
+   "audio_path": "audio/de/c001_00137_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00138_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Zwar ließ er selten seine Blicke oder Gedanken über die Grenzen seines eigenen Anwesens schweifen; doch innerhalb dieser Grenzen war alles behaglich, glücklich und in bester Ordnung.",
+   "audio_path": "audio/de/c001_00138_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00139_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war zufrieden mit seinem Wohlstand, doch nicht stolz darauf, und rühmte sich der herzhaften Fülle mehr als des Stils, in dem er lebte.",
+   "audio_path": "audio/de/c001_00139_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00140_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Gehöft lag am Ufer des Hudson, in einem jener grünen, geschützten, fruchtbaren Winkel, wo holländische Bauern gerne nisten.",
+   "audio_path": "audio/de/c001_00140_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00141_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Eine mächtige Ulme breitete ihre breiten Äste über das Haus; zu ihren Füßen sprudelte eine Quelle des weichsten, süßesten Wassers in einen kleinen Brunnen, aus einem Fass gefertigt, und funkelte dann durch das Gras zu einem nahen Bächlein, das plaudernd durch Erlen und Zwergweiden eilte.",
+   "audio_path": "audio/de/c001_00141_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00142_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nahebei stand eine gewaltige Scheune, die als Kirche hätte dienen können; jedes Fenster und jede Ritze schien von den Schätzen des Hofes zu bersten.",
+   "audio_path": "audio/de/c001_00142_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00143_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Dreschflegel hallte geschäftig von morgens bis abends darin wider; Schwalben und Mauersegler schwirrten zwitschernd um die Dachtraufen; und Reihen von Tauben genossen den Sonnenschein auf dem Dach.",
+   "audio_path": "audio/de/c001_00143_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00144_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Manche hatten ein Auge nach oben gerichtet, als beobachteten sie das Wetter; manche hatten die Köpfe unter den Flügeln oder in der Brust vergraben; andere plusterten sich auf, gurrten und verbeugten sich vor den Gefährten.",
+   "audio_path": "audio/de/c001_00144_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00145_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Glatte, unbeholfene Schweine grunzten in der Ruhe und Fülle ihrer Koben, aus denen hin und wieder Scharen von Ferkeln ausbrachen, wie um die Luft zu schnuppern.",
+   "audio_path": "audio/de/c001_00145_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00146_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein stattliches Geschwader schneeweißer Gänse segelte auf einem angrenzenden Teich und geleitete ganze Flotten von Enten; Regimenter von Truthähnen kollerten durch den Hof, und Perlhühner schritten umher wie übellaunige Hausfrauen, mit ihrem mürrischen, unzufriedenen Schrei.",
+   "audio_path": "audio/de/c001_00146_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00147_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Vor der Scheunentür stolzierte der stattliche Hahn, dieses Muster eines Gatten, eines Kriegers und eines feinen Herrn.",
+   "audio_path": "audio/de/c001_00147_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00148_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er schlug mit den glänzenden Flügeln und krähte mit dem Stolz und der Freude seines Herzens – zuweilen die Erde mit den Füßen aufkratzend, um dann großmütig seine ewig hungrige Familie von Weibern und Kindern herbeizurufen, auf dass sie den reichen Bissen genössen, den er entdeckt hatte.",
+   "audio_path": "audio/de/c001_00148_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00149_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00150_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dem Schulmeister wässerte der Mund, als er auf diese prächtige Verheißung üppiger Winterkost blickte.",
+   "audio_path": "audio/de/c001_00150_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00151_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In seiner gierigen Einbildung sah er jedes Bratferkel mit einem Pudding im Bauch und einem Apfel im Maul umherlaufen; die Tauben waren behaglich in einer kommoden Pastete gebettet und mit einer Krustendecke zugedeckt; die Gänse schwammen in ihrer eigenen Tunke, und die Enten paarten sich traulich in Schüsseln wie behäbige Ehepaare mit einer schicklichen Portion Zwiebelsauce.",
+   "audio_path": "audio/de/c001_00151_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00152_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In den Schweinen sah er bereits die künftige glatte Speckseite und den saftigen, würzigen Schinken herausgeschnitten; jeden Truthahn erblickte er zierlich gebunden, mit dem Magen unter dem Flügel und vielleicht einer Kette schmackhafter Würste; und selbst der strahlende Chantecler lag ausgestreckt auf dem Rücken in einer Beischüssel, die Klauen erhoben, als flehe er um Gnade, die sein chevaleresker Geist im Leben niemals erbeten hätte.",
+   "audio_path": "audio/de/c001_00152_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00153_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00154_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Während der entzückte Ichabod all dies sich ausmalte, ließ er seine großen grünen Augen über die reichen Weiden, die fruchtbaren Felder von Weizen, Roggen, Buchweizen und Mais und die mit roten Früchten überladenen Obstgärten schweifen, die das behagliche Heim Van Tassels umgaben.",
+   "audio_path": "audio/de/c001_00154_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00155_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Herz sehnte sich nach der jungen Frau, die einst diese Ländereien erben sollte.",
+   "audio_path": "audio/de/c001_00155_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00156_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seine Einbildungskraft weitete sich bei dem Gedanken, wie leicht sie sich in bare Münze verwandeln ließen und das Geld in weite Strecken wilden Landes und hölzerne Herrenhäuser in der Wildnis angelegt werden könnte.",
+   "audio_path": "audio/de/c001_00156_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00157_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ja, seine geschäftige Einbildungskraft ließ seine Hoffnungen bereits wirklich erscheinen und zeigte ihm die liebliche Katrina mit einer ganzen Kinderschar, oben auf einem Wagen voller Hausrat, während Töpfe und Kessel darunter baumelten.",
+   "audio_path": "audio/de/c001_00157_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00158_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er sah sich selbst auf einer langsampassigen Stute reiten, ein Fohlen hinterdrein, unterwegs nach Kentucky, Tennessee – oder wer weiß wohin!",
+   "audio_path": "audio/de/c001_00158_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00159_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00160_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als er das Haus betrat, war sein Herz vollends gewonnen.",
+   "audio_path": "audio/de/c001_00160_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00161_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es war eines jener weiträumigen Bauernhäuser mit hohem Giebel, aber sanft abfallendem Dach, erbaut in dem Stil, der von den ersten holländischen Siedlern überliefert war.",
+   "audio_path": "audio/de/c001_00161_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00162_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die niedrigen, vorspringenden Traufen bildeten vorn eine Veranda, die bei schlechtem Wetter geschlossen werden konnte.",
+   "audio_path": "audio/de/c001_00162_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00163_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Darunter hingen Dreschflegel, Zaumzeug, mancherlei Ackergerät und Netze zum Fischen im nahen Fluss.",
+   "audio_path": "audio/de/c001_00163_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00164_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bänke zogen sich an den Seiten hin zum sommerlichen Sitzen; ein großes Spinnrad am einen Ende und ein Butterfass am andern zeigten die vielerlei Nutzbarkeit dieser wichtigen Veranda.",
+   "audio_path": "audio/de/c001_00164_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00165_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Von dieser Veranda aus trat der staunende Ichabod in die Halle, die die Mitte des Hauses und den Hauptwohnraum bildete.",
+   "audio_path": "audio/de/c001_00165_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00166_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hier blendeten Reihen glänzender Zinnteller auf einem langen Sideboard sein Auge.",
+   "audio_path": "audio/de/c001_00166_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00167_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In einer Ecke stand ein gewaltiger Sack Wolle, bereit zum Verspinnen; in der anderen ein Ballen Leinen-Wollzeug, frisch vom Webstuhl.",
+   "audio_path": "audio/de/c001_00167_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00168_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Maiskolben und Schnüre getrockneter Äpfel und Pfirsiche hingen in bunten Girlanden an den Wänden, untermischt mit dem Leuchten roter Paprikaschoten.",
+   "audio_path": "audio/de/c001_00168_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00169_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Eine angelehnte Tür ließ ihn in die beste Stube lugen, wo klauenfüßige Stühle und dunkle Mahagonitische wie Spiegel glänzten.",
+   "audio_path": "audio/de/c001_00169_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00170_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Feuerböcke mit Schaufel und Zange schimmerten hinter einem Schirm aus Spargelkraut hervor.",
+   "audio_path": "audio/de/c001_00170_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00171_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Falsche Orangen und Kaurimuscheln zierten den Kaminsims; Schnüre verschiedenfarbiger Vogeleier hingen darüber.",
+   "audio_path": "audio/de/c001_00171_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00172_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein großes Straußenei hing von der Mitte des Zimmers herab, und ein Eckschrank, der geflissentlich offen gelassen war, enthüllte unermessliche Schätze an altem Silber und sorgsam geflicktem Porzellan.",
+   "audio_path": "audio/de/c001_00172_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00173_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00174_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Von dem Augenblick an, da Ichabod sein Auge auf diese köstlichen Gefilde geworfen hatte, war sein Seelenfrieden zerstört.",
+   "audio_path": "audio/de/c001_00174_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00175_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein einziger Gedanke war, wie er die Zuneigung der unvergleichlichen Tochter Van Tassels gewinnen könnte.",
+   "audio_path": "audio/de/c001_00175_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00176_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch dies Bestreben bereitete ihm mehr wirkliche Schwierigkeiten, als ein fahrender Ritter von ehedem sie für gewöhnlich zu bestehen hatte.",
+   "audio_path": "audio/de/c001_00176_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00177_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Jene Helden hatten selten mit etwas Schlimmerem zu kämpfen als mit Riesen, Zauberern, Feuerdrachen und ähnlichen leicht zu besiegenden Feinden.",
+   "audio_path": "audio/de/c001_00177_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00178_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie brauchten nur Tore von Eisen, Türen von Erz und diamantenharte Mauern zu durchdringen, um zum Burgfried zu gelangen, wo die Dame gefangen saß.",
+   "audio_path": "audio/de/c001_00178_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00179_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "All dies vollbrachten sie so leicht, wie man sich einen Weg ins Innere einer Weihnachtspastete bahnt.",
+   "audio_path": "audio/de/c001_00179_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00180_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dann reichte ihnen die Dame ihre Hand als selbstverständliche Sache.",
+   "audio_path": "audio/de/c001_00180_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00181_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabod dagegen musste sich den Weg in das Herz eines kokettierenden Landmädchens bahnen.",
+   "audio_path": "audio/de/c001_00181_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00182_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie war umgeben von einem Labyrinth von Launen und Grillen, die stets neue Hindernisse darboten.",
+   "audio_path": "audio/de/c001_00182_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00183_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er musste auch einer Menge sehr wirklicher, leibhaftiger Nebenbuhler standhalten: den zahlreichen ländlichen Verehrern, die jeden Zugang zu ihrem Herzen bewachten.",
+   "audio_path": "audio/de/c001_00183_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00184_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie hielten mit argwöhnischer, zorniger Wachsamkeit aufeinander, waren aber jederzeit bereit, sich gegen einen neuen Mitbewerber zu verbünden.",
+   "audio_path": "audio/de/c001_00184_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00185_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00186_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Unter diesen Nebenbuhlern war der gefährlichste ein stämmiger, lärmender, zechender junger Bursche namens Abraham, oder, der holländischen Abkürzung folgend, Brom Van Brunt.",
+   "audio_path": "audio/de/c001_00186_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00187_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war der Held der Gegend, dessen Kraft- und Waghalsigkeitsstücke in der ganzen Landschaft berühmt waren.",
+   "audio_path": "audio/de/c001_00187_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00188_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war breitschultrig und doppelgelenkig, mit kurzem, krausem schwarzem Haar und einem derben, aber nicht unangenehmen Gesicht, das eine Mischung von Spaß und Übermut zeigte.",
+   "audio_path": "audio/de/c001_00188_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00189_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wegen seines herkulischen Körperbaus und seiner großen Leibeskraft hatte er den Spitznamen BROM BONES erlangt, unter dem ihn jedermann kannte.",
+   "audio_path": "audio/de/c001_00189_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00190_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Berühmt war er für seine meisterhafte Reitkunst, so geschickt wie ein Tartar.",
+   "audio_path": "audio/de/c001_00190_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00191_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er führte bei allen Pferderennen und Hahnenkämpfen den Vorsitz, und da körperliche Stärke im Landleben stets Autorität verleiht, diente er bei jedem Streit als Schiedsrichter.",
+   "audio_path": "audio/de/c001_00191_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00192_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er setzte den Hut auf die Seite geneigt und verkündete seine Entscheidungen mit einer Miene, die keinen Widerspruch oder Einspruch duldete.",
+   "audio_path": "audio/de/c001_00192_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00193_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war stets zu Kampf oder toller Lustbarkeit bereit, hatte aber mehr Übermut als Bosheit in seinem Wesen.",
+   "audio_path": "audio/de/c001_00193_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00194_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Trotz all seiner anmaßenden Rauheit besaß er einen starken Zug spielerischen Frohsinns im Herzen.",
+   "audio_path": "audio/de/c001_00194_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00195_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er zählte drei oder vier vertraute Kumpane, die zu ihm als ihrem Vorbild aufblickten und die er bei seinen Streifzügen durch die Gegend anführte, wo er bei jeder Fehde oder Lustbarkeit meilenweit in der Runde erschien.",
+   "audio_path": "audio/de/c001_00195_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00196_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bei kaltem Wetter kennzeichnete ihn eine Pelzmütze, gekrönt von einem prahlerischen Fuchsschwanz.",
+   "audio_path": "audio/de/c001_00196_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00197_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wenn die Leute bei einem ländlichen Fest in der Ferne jenes wohlbekannte Abzeichen erblickten, wie es zwischen einer Gruppe verwegener Reiter auf und ab wippte, machten sie sich stets auf einen Sturm gefasst.",
+   "audio_path": "audio/de/c001_00197_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00198_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Manchmal hörte man seine Bande um Mitternacht an Bauernhäusern vorbeipreschen, johlend und schreiend wie eine Schar Don-Kosaken.",
+   "audio_path": "audio/de/c001_00198_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00199_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Alte Frauen, aus dem Schlaf geschreckt, lauschten, bis der lärmende Tumult vorüber war, und riefen dann aus: „Ah, da zieht Brom Bones mit seiner Bande!“",
+   "audio_path": "audio/de/c001_00199_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00200_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Nachbarn betrachteten ihn mit einer Mischung aus Scheu, Bewunderung und Wohlwollen.",
+   "audio_path": "audio/de/c001_00200_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00201_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wann immer ein wilder Streich oder eine ländliche Rauferei in der Nähe geschah, schüttelten sie die Köpfe und erklärten, dass Brom Bones dahintersteckte.",
+   "audio_path": "audio/de/c001_00201_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00202_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00203_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dieser wilde Held hatte seit einiger Zeit die blühende Katrina als Ziel seiner derben Annäherungsversuche auserkoren.",
+   "audio_path": "audio/de/c001_00203_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00204_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Obgleich sein Liebesspiel eher den sanften Liebkosungen und Zuneigungen eines Bären glich, wurde gemunkelt, dass sie seine Hoffnungen nicht gänzlich entmutigte.",
+   "audio_path": "audio/de/c001_00204_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00205_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gewiss war sein Werben ein Zeichen für die Nebenbuhler, sich zurückzuziehen; niemand verspürte Neigung, einen verliebten Löwen herauszufordern.",
+   "audio_path": "audio/de/c001_00205_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00206_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "So sehr, dass, wenn sein Pferd an einem Sonntagabend an Van Tassels Zaun gebunden gesehen ward – ein sicheres Zeichen, dass sein Besitzer drinnen auf Freiersfüßen stand oder „sparkte“ –, alle anderen Freier verzweifelt vorübergingen und ihre Liebesmüh anderswohin trugen.",
+   "audio_path": "audio/de/c001_00206_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00207_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00208_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Solcherart war der furchtbare Nebenbuhler, mit dem Ichabod Crane sich messen musste.",
+   "audio_path": "audio/de/c001_00208_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00209_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Alles in allem hätte ein beherzterer Mann sich vom Wettstreit zurückgezogen, und ein klügerer hätte aufgegeben.",
+   "audio_path": "audio/de/c001_00209_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00210_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch Ichabod besaß eine glückliche Mischung aus Biegsamkeit und Beharrlichkeit.",
+   "audio_path": "audio/de/c001_00210_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00211_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "An Leib und Gemüt glich er einer Gliederweiche – nachgiebig, doch zäh; er bog sich, doch brach er nie.",
+   "audio_path": "audio/de/c001_00211_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00212_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er beugte sich unter dem leisesten Druck, doch sobald dieser nachließ – schnapp! – stand er wieder aufrecht und trug sein Haupt so hoch wie zuvor.",
+   "audio_path": "audio/de/c001_00212_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00213_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00214_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Offen seinen Nebenbuhler herauszufordern wäre Wahnsinn gewesen.",
+   "audio_path": "audio/de/c001_00214_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00215_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er ließ sich in der Liebe so wenig in die Schranken weisen wie jener stürmische Liebhaber Achilles.",
+   "audio_path": "audio/de/c001_00215_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00216_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Also machte Ichabod seine Annäherungsversuche auf stille, feinsinnig einnehmende Weise.",
+   "audio_path": "audio/de/c001_00216_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00217_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Unter dem Deckmantel seiner Rolle als Gesangsmeister besuchte er das Bauernhaus oft.",
+   "audio_path": "audio/de/c001_00217_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00218_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nicht, dass er von neugierigen Eltern irgend zu befürchten gehabt hätte, die so oft eine Schranke auf dem Pfad der Liebenden sind.",
+   "audio_path": "audio/de/c001_00218_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00219_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Balt Van Tassel war eine gemütliche, nachsichtige Seele; er liebte seine Tochter noch mehr als seine Pfeife, und, wie ein vernünftiger Mann und ausgezeichneter Vater, ließ er ihr in allem ihren Willen.",
+   "audio_path": "audio/de/c001_00219_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00220_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein arbeitsames kleines Weib hatte ebenfalls genug zu tun, das Haus zu führen und ihr Federvieh zu versorgen; denn, wie sie weise bemerkte, Enten und Gänse sind törichte Geschöpfe und müssen beaufsichtigt werden, aber Mädchen können auf sich selbst achtgeben.",
+   "audio_path": "audio/de/c001_00220_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00221_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Während die geschäftige Frau also im Hause herumwerkelte oder an einem Ende der Veranda ihr Spinnrad drehte, saß der gute Balt am anderen Ende und rauchte seine Abendpfeife.",
+   "audio_path": "audio/de/c001_00221_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00222_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er beobachtete die Heldentaten eines kleinen hölzernen Kriegers, der, mit einem Schwert in jeder Hand, tapfer gegen den Wind auf dem Giebel der Scheune kämpfte.",
+   "audio_path": "audio/de/c001_00222_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00223_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Unterdessen hofierte Ichabod die Tochter an der Quelle unter der großen Ulme oder beim Lustwandeln in der Dämmerung – jener Stunde, die den beredten Worten eines Liebhabers so hold ist.",
+   "audio_path": "audio/de/c001_00223_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00224_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00225_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich gestehe, ich weiß nicht, wie Frauenherzen umworben und gewonnen werden.",
+   "audio_path": "audio/de/c001_00225_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00226_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mir sind sie stets Rätsel und Gegenstände der Bewunderung gewesen.",
+   "audio_path": "audio/de/c001_00226_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00227_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Manche Herzen scheinen nur eine verwundbare Stelle zu haben, eine Tür des Zugangs; andere hingegen haben tausend Wege und können auf tausend verschiedene Arten erobert werden.",
+   "audio_path": "audio/de/c001_00227_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00228_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die erstere Art zu gewinnen ist ein großer Triumph der Geschicklichkeit.",
+   "audio_path": "audio/de/c001_00228_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00229_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch die letztere Art in Besitz zu halten, ist ein noch größerer Beweis strategischer Meisterschaft, denn man muss die Festung an jeder Tür und jedem Fenster verteidigen.",
+   "audio_path": "audio/de/c001_00229_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00230_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "So verdient ein Mann, der tausend gewöhnliche Herzen gewinnt, einigen Ruhm.",
+   "audio_path": "audio/de/c001_00230_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00231_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch wahrlich ein Held ist der Mann, der das Herz einer Koketten unangefochten beherrscht.",
+   "audio_path": "audio/de/c001_00231_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00232_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gewiss war dies nicht der Fall bei dem furchterregenden Brom Bones.",
+   "audio_path": "audio/de/c001_00232_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00233_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Von dem Augenblick an, da Ichabod Crane seine Avancen machte, schwanden Broms Aussichten sichtlich.",
+   "audio_path": "audio/de/c001_00233_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00234_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Pferd ward am Sonntagabend nicht mehr am Zaun angebunden gesehen, und eine erbitterte Fehde entbrannte allmählich zwischen ihm und dem Schulmeister von Sleepy Hollow.",
+   "audio_path": "audio/de/c001_00234_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00235_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00236_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Brom besaß ein gewisses Maß an rauer Ritterlichkeit in seinem Wesen.",
+   "audio_path": "audio/de/c001_00236_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00237_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hätte es vorgezogen, die Sache zum offenen Kriege zu bringen und ihre Ansprüche auf die Dame nach Art jener bündigsten und einfachsten Denker, der fahrenden Ritter von ehedem, zu entscheiden – durch Einzelkampf.",
+   "audio_path": "audio/de/c001_00237_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00238_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch Ichabod war sich der überlegenen Stärke seines Widersachers zu sehr bewusst, um sich ihm im Kampf zu stellen.",
+   "audio_path": "audio/de/c001_00238_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00239_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hatte belauscht, wie Bones prahlte, er würde »den Schulmeister zusammenfalten und auf ein Brett seines eigenen Schulhauses legen«, und er war zu vorsichtig, ihm die Gelegenheit dazu zu geben.",
+   "audio_path": "audio/de/c001_00239_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00240_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Diese hartnäckig friedfertige Haltung war äußerst aufreizend.",
+   "audio_path": "audio/de/c001_00240_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00241_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ließ Brom keine andere Wahl, als auf seinen Vorrat an bäuerlichem Humor zurückzugreifen und seinem Rivalen derbe Streiche zu spielen.",
+   "audio_path": "audio/de/c001_00241_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00242_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabod wurde zum Ziel schrulliger Verfolgung durch Bones und seine Schar rauer Reiter.",
+   "audio_path": "audio/de/c001_00242_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00243_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie suchten sein einst friedliches Reich heim, räucherten seine Singschule aus, indem sie den Schornstein verstopften, brachen nachts in das Schulhaus ein, trotz seiner furchterregenden Sicherungen aus Gerte und Fensterstangen, und kehrten das Unterste zuoberst.",
+   "audio_path": "audio/de/c001_00243_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00244_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der arme Schulmeister begann zu glauben, dass alle Hexen der Gegend dort ihre Versammlungen abhielten.",
+   "audio_path": "audio/de/c001_00244_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00245_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch was noch ärgerlicher war: Brom ergriff jede Gelegenheit, ihn vor seiner Angebeteten lächerlich zu machen.",
+   "audio_path": "audio/de/c001_00245_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00246_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er besaß einen nichtsnutzigen Hund, dem er beibrachte, auf das lächerlichste zu heulen, und stellte ihn als Ichabods Rivalen vor, um sie im Psalmengesang zu unterweisen.",
+   "audio_path": "audio/de/c001_00246_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00247_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00248_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "So gingen die Dinge eine Zeitlang fort, ohne dass sich im Ansehen der Rivalen etwas Wesentliches änderte.",
+   "audio_path": "audio/de/c001_00248_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00249_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "An einem schönen Herbstnachmittag saß Ichabod in nachdenklicher Stimmung, thronend auf seinem hohen Schemel.",
+   "audio_path": "audio/de/c001_00249_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00250_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Von dort aus wachte er gewöhnlich über alle Angelegenheiten seines kleinen literarischen Reiches.",
+   "audio_path": "audio/de/c001_00250_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00251_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In der Hand hielt er ein Lineal, jenes Zepter der despotischen Macht; die Birkenrute der Gerechtigkeit ruhte auf drei Nägeln hinter dem Thron, ein stetiger Schrecken für Übeltäter.",
+   "audio_path": "audio/de/c001_00251_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00252_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Auf dem Pult vor ihm lagen diverse verbotene Gegenstände und Spielzeuge, beschlagnahmt von faulen Jungen: halbverzehrte Äpfel, Pusterohre, Windrädchen, Fliegenkäfige und ganze Armeen munterer kleiner Papierhähne.",
+   "audio_path": "audio/de/c001_00252_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00253_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Offenbar hatte soeben eine furchtbare Züchtigung stattgefunden, denn seine Schüler waren alle eifrig auf ihre Bücher konzentriert oder flüsterten heimlich dahinter, mit einem Auge auf den Meister.",
+   "audio_path": "audio/de/c001_00253_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00254_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Eine Art summende Stille erfüllte das Schulzimmer.",
+   "audio_path": "audio/de/c001_00254_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00255_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie wurde plötzlich durch das Erscheinen eines Schwarzen in grober leinener Jacke und Hosen unterbrochen, der einen kümmerlichen Hut mit runder Krone trug, gleich Merkurs Kappe.",
+   "audio_path": "audio/de/c001_00255_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00256_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er saß auf dem Rücken eines zerzausten, halbgezähmten wilden Fohlens, das er mit einem als Halfter dienenden Strick lenkte.",
+   "audio_path": "audio/de/c001_00256_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00257_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er kam klappernd zur Schultür heran mit einer Einladung für Ichabod, an einer Lustbarkeit, einem »Quiltfest«, teilzunehmen, das an jenem Abend bei Mynheer Van Tassel stattfinden sollte.",
+   "audio_path": "audio/de/c001_00257_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00258_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nachdem er seine Botschaft mit wichtiger Miene und bemühter feiner Sprache überbracht hatte, wie ein Schwarzer bei solch geringfügigen Botengängen sie an den Tag legen mochte, stürzte er über den Bach und ward bald gesehen, wie er voller Wichtigkeit und Eilfertigkeit seines Auftrags die Schlucht hinaufstob.",
+   "audio_path": "audio/de/c001_00258_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00259_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00260_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nun herrschte reges Treiben und Lärm in dem zuvor so stillen Schulzimmer.",
+   "audio_path": "audio/de/c001_00260_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00261_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Schüler wurden ohne Aufenthalt für Kleinigkeiten durch die Lektionen gehetzt.",
+   "audio_path": "audio/de/c001_00261_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00262_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Flinken übersprangen die Hälfte unbeschadet, und die Langsamen erhielten dann und wann einen scharfen Schlag auf das Hinterteil, um ihr Tempo zu beschleunigen oder ihnen über ein schweres Wort hinwegzuhelfen.",
+   "audio_path": "audio/de/c001_00262_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00263_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bücher wurden beiseitegeschleudert, ohne in die Regale geräumt zu werden, Tintenfässer umgeworfen, Bänke umgestürzt.",
+   "audio_path": "audio/de/c001_00263_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00264_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die ganze Schule ward eine Stunde vor der gewohnten Zeit losgelassen, und brach hervor wie eine Legion junger Kobolde, jauchzend und lärmend auf dem Dorfanger vor Freude über die frühe Freiheit.",
+   "audio_path": "audio/de/c001_00264_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00265_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00266_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der galante Ichabod verbrachte nun mindestens eine zusätzliche halbe Stunde mit der Vorbereitung, bürstete und polierte seinen besten – und in Wahrheit einzigen – Anzug von rostigem Schwarz und ordnete sein Haar mit Hilfe eines zerbrochenen Spiegelstücks, das im Schulhaus hing.",
+   "audio_path": "audio/de/c001_00266_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00267_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Damit er vor seiner Dame in der echten Manier eines Kavalieres erscheinen möge, borgte er sich ein Pferd von dem Bauern, bei dem er zu Gast war, einem übellaunigen alten Holländer namens Hans Van Ripper, und ritt, solchermaßen schmuck beritten, aus wie ein fahrender Ritter auf Abenteuersuche.",
+   "audio_path": "audio/de/c001_00267_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00268_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch geziemt es sich, im echten Geist einer romantischen Geschichte, dass ich einigen Bericht von der Gestalt und Ausrüstung meines Helden und seines Rosses gebe.",
+   "audio_path": "audio/de/c001_00268_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00269_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das Tier, das er ritt, war ein abgetakeltes Ackerpferd, das fast alles überlebt hatte außer seiner Bösartigkeit.",
+   "audio_path": "audio/de/c001_00269_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00270_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war hager und zottig, mit einem Schafshals und einem Kopf wie ein Hammer; seine rostfarbene Mähne und sein Schweif waren mit Kletten verfilzt und verknotet; ein Auge hatte seine Pupille verloren und starrte glasig und gespenstisch, doch das andere hatte das Glitzern eines leibhaftigen Teufels.",
+   "audio_path": "audio/de/c001_00270_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00271_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dennoch musste er in seiner Zeit Feuer und Muth besessen haben, wenn wir nach dem Namen urteilen dürfen, den er trug: Gunpowder.",
+   "audio_path": "audio/de/c001_00271_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00272_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In der That war er einst des Meisters, des cholerischen Van Ripper, Lieblingspferd gewesen, der selbst ein wilder Reiter war und sehr wahrscheinlich etwas von seinem eigenen Geist in das Tier gegossen hatte; denn so alt und abgetakelt er auch aussah, so steckte doch mehr von einem lauernden Teufel in ihm als in jedem jungen Stutfohlen der ganzen Gegend.",
+   "audio_path": "audio/de/c001_00272_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00273_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00274_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabod war eine passende Gestalt für ein solches Ross.",
+   "audio_path": "audio/de/c001_00274_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00275_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er ritt mit kurzen Steigbügeln, die seine Knie fast bis an den Sattelknauf brachten; seine spitzen Ellenbogen standen ab wie die einer Heuschrecke; seine Peitsche hielt er senkrecht in der Hand, wie ein Zepter.",
+   "audio_path": "audio/de/c001_00275_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00276_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wenn sein Pferd dahinzottelte, so glich die Bewegung seiner Arme nicht wenig dem Flattern eines Paares Flügel.",
+   "audio_path": "audio/de/c001_00276_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00277_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein kleiner Wollhut ruhte auf seiner Nasenspitze – denn so mochte man seinen schmalen Stirnstreifen wohl nennen –, und die Schöße seines schwarzen Rockes flatterten fast bis an den Schweif des Pferdes.",
+   "audio_path": "audio/de/c001_00277_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00278_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Solchermaßen war die Erscheinung Ichabods und seines Rosses, als sie aus dem Thor von Hans Van Ripper schlurften, und es war fürwahr eine solche Erscheinung, wie man sie selten am hellichten Tage erblickt.",
+   "audio_path": "audio/de/c001_00278_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00279_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00280_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es war, wie ich gesagt, ein schöner Herbsttag; der Himmel klar und heiter, und die Natur trug jenes reiche, goldene Gewand, das wir stets mit der Vorstellung des Überflusses verbinden.",
+   "audio_path": "audio/de/c001_00280_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00281_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Wälder hatten ihr gesetztes Braun und Gelb angelegt, indes manche Bäume zarterer Art vom Frost in leuchtende Farbtöne von Orange, Purpur und Scharlach getaucht worden waren.",
+   "audio_path": "audio/de/c001_00281_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00282_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ziehende Linien wilder Enten erschienen hoch in der Luft; das Bellen der Eichhörnchen war aus den Hainen von Buche und Hickory zu hören, und der träumerische Pfiff der Wachtel drang von Zeit zu Zeit vom benachbarten Stoppelfeld herüber.",
+   "audio_path": "audio/de/c001_00282_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00283_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00284_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die kleinen Vögel hielten ihre Abschiedsfeste.",
+   "audio_path": "audio/de/c001_00284_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00285_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mitten in ihrer Lustbarkeit flatterten sie, zwitschernd und sich tummelnd, von Busch zu Busch und von Baum zu Baum, unberechenbar ob der schieren Fülle und Vielfalt um sie her.",
+   "audio_path": "audio/de/c001_00285_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00286_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da war das ehrliche Rotkehlchen, das Lieblingsziel junger Jäger, mit seinem lauten, klagenden Ruf.",
+   "audio_path": "audio/de/c001_00286_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00287_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da waren die schnatternden Amseln, die in dunklen Wolken flogen.",
+   "audio_path": "audio/de/c001_00287_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00288_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da war der Goldflügelspecht mit seinem purpurnen Schopf, dem breiten schwarzen Kehlfleck und dem prächtigen Gefieder.",
+   "audio_path": "audio/de/c001_00288_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00289_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da war der Zedernseidenschwanz mit seinen rotgespitzten Flügeln, dem gelbspitzenden Schwanz und seiner kleinen monteiroartigen Federkappe.",
+   "audio_path": "audio/de/c001_00289_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00290_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und da war der Blauhäher, jener lärmende Prahlhans, in seinem leuchtend hellblauen Rock und weißem Unterzeug, kreischend und schwatzend, nickend, wippend und sich verneigend und so tuend, als stehe er mit jedem Singvogel des Haines auf vertrautem Fuße.",
+   "audio_path": "audio/de/c001_00290_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00291_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00292_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Während Ichabod langsam seines Weges zottelte, schweifte sein Auge, stets wachsam für jedes Zeichen von Nahrungsfülle, mit Entzücken über die Schätze des heiteren Herbstes.",
+   "audio_path": "audio/de/c001_00292_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00293_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Auf allen Seiten erblickte er einen gewaltigen Vorrat an Äpfeln: einige hingen in schwerer Fülle an den Bäumen, andere waren in Körbe und Fässer für den Markt gesammelt, wieder andere lagen in reichen Haufen für die Mostpresse aufgeschichtet.",
+   "audio_path": "audio/de/c001_00293_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00294_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Weiterhin sah er große Felder indianischen Korns, dessen goldene Kolben aus ihren laubigen Verstecken hervorlugten und Kuchen sowie schnellen Maisbrei verhießen.",
+   "audio_path": "audio/de/c001_00294_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00295_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gelbe Kürbisse lagen darunter, kehrten ihre schönen runden Bäuche der Sonne entgegen und boten die Aussicht auf die üppigsten Pasteten.",
+   "audio_path": "audio/de/c001_00295_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00296_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bald kam er an den duftenden Buchweizenfeldern vorbei, die einen honigartigen Geruch verströmten.",
+   "audio_path": "audio/de/c001_00296_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00297_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bei ihrem Anblick beschlich ihn eine sanfte Vorfreude auf zarte, wohlgebutterte Pfannkuchen, mit Honig oder Melassesirup übergossen, von der feinen, kleinen Grübchenhand Katrina Van Tassels.",
+   "audio_path": "audio/de/c001_00297_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00298_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00299_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "So nährte er sein Gemüt mit mancherlei süßen Gedanken und »gezuckerten Mutmaßungen«, während er am Hang einer Hügelkette entlangwanderte, die auf einige der schönsten Ansichten des mächtigen Hudson hinausblickte.",
+   "audio_path": "audio/de/c001_00299_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00300_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Sonne wälzte ihre breite Scheibe langsam westwärts hinab.",
+   "audio_path": "audio/de/c001_00300_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00301_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die weite Fläche des Tappan-Meeres lag still und gläsern da, bis auf ein sanftes Wogen hier und dort, das den blauen Schatten des fernen Berges kräuselte und dehnte.",
+   "audio_path": "audio/de/c001_00301_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00302_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Einige bernsteinfarbene Wolken standen am Himmel, ohne einen Lufthauch, der sie bewegte.",
+   "audio_path": "audio/de/c001_00302_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00303_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Horizont besaß einen feinen Goldton, der allmählich in ein reines Apfelgrün und aus diesem in das tiefe Blau der Himmelsmitte überging.",
+   "audio_path": "audio/de/c001_00303_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00304_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein schräger Sonnenstrahl verweilte auf den bewaldeten Kämmen der Steilfelsen, die mancherorts den Fluss überhingen, und verlieh dem Dunkelgrau und Purpur ihrer Felswände größere Tiefe.",
+   "audio_path": "audio/de/c001_00304_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00305_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In der Ferne trödelte eine Schaluppe und ließ sich langsam mit der Flut hinabtreiben.",
+   "audio_path": "audio/de/c001_00305_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00306_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ihr Segel hing nutzlos am Mast.",
+   "audio_path": "audio/de/c001_00306_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00307_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da der Widerschein des Himmels auf dem stillen Wasser glänzte, schien es, als schwebe das Fahrzeug frei in der Luft.",
+   "audio_path": "audio/de/c001_00307_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00308_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00309_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es war gegen Abend, als Ichabod auf dem Schlosse des Heer Van Tassel ankam, das er gedrängt voll mit dem Stolz und der Blüte der umliegenden Landschaft vorfand.",
+   "audio_path": "audio/de/c001_00309_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00310_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Alte Farmer waren eine hagere, ledergesichtige Rasse in hausgewebten Röcken und Hosen, blauen Strümpfen, riesigen Schuhen und prächtigen Zinnschnallen.",
+   "audio_path": "audio/de/c001_00310_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00311_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ihre munteren, wettergegerbten kleinen Ehefrauen trugen eng gefältelte Hauben, kurze Kleider mit langer Taille und selbstgesponnene Unterröcke, Scheren und Nadelkissen sowie bunte Kattuntaschen, die außen herabhingen.",
+   "audio_path": "audio/de/c001_00311_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00312_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mollige junge Frauen waren fast so altmodisch gekleidet wie ihre Mütter, außer wo ein Strohhut, ein feines Band oder vielleicht ein weißes Kleid städtische Mode andeutete.",
+   "audio_path": "audio/de/c001_00312_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00313_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Söhne trugen kurze, eckig geschnittene Röcke mit Reihen gewaltiger Messingknöpfe, und ihr Haar war zumeist nach der Mode der Zeit zu einem Zopf gebunden – besonders, wenn sie eine Aalhaut zu diesem Zwecke bekommen konnten, die im ganzen Lande als kräftiges Nähr- und Stärkungsmittel des Haares geschätzt ward.",
+   "audio_path": "audio/de/c001_00313_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00314_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00315_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Brom Bones jedoch war der Held des Schauplatzes.",
+   "audio_path": "audio/de/c001_00315_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00316_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war auf seinem Lieblingspferd, Draufgänger, zur Versammlung gekommen – einem Geschöpf, gleich ihm selbst voller Feuer und Übermut und eines, das niemand außer ihm zu bändigen vermochte.",
+   "audio_path": "audio/de/c001_00316_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00317_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In der Tat war er dafür bekannt, übellaunige Tiere zu bevorzugen, die zu allerlei Tücken neigten, so dass der Reiter stets um sein Genick fürchten musste.",
+   "audio_path": "audio/de/c001_00317_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00318_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein sanftes, wohldressiertes Pferd erachtete er als eines mutigen Burschen unwürdig.",
+   "audio_path": "audio/de/c001_00318_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00319_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00320_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mit Freuden würde ich verweilen, um all die Verlockungen zu schildern, die sich dem entzückten Blick meines Helden darboten, als er das herrschaftliche Staatszimmer von Van Tassels Anwesen betrat.",
+   "audio_path": "audio/de/c001_00320_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00321_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nicht die Reize der Schar draller Mädchen mit ihrer üppigen Schau rosenwangiger Gesichter und weißer Haut; sondern die reichlichen Verlockungen einer echt holländischen ländlichen Teetafel, zur segensreichen Zeit des Herbstes.",
+   "audio_path": "audio/de/c001_00321_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00322_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Solch gehäufte Platten mit Kuchen von mancherlei, fast unbeschreiblichen Arten, wie sie nur erfahrene holländische Hausfrauen kennen!",
+   "audio_path": "audio/de/c001_00322_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00323_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da war der gewaltige Doughnut, der zarte Oly Koek und der knusprige, zerfallende Kruller; süße Kuchen und Mürbekuchen, Ingwerkuchen und Honigkuchen und die ganze Familie der Kuchen.",
+   "audio_path": "audio/de/c001_00323_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00324_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und dann gab es Apfelpasteten, Pfirsichpasteten und Kürbispasteten; dazu Scheiben von Schinken und Rauchfleisch; außerdem köstliche Schüsseln mit eingemachten Pflaumen, Pfirsichen, Birnen und Quitten; nicht zu vergessen gebratene Maifische und gebratene Hühner; samt Schüsseln mit Milch und Sahne – alles kunterbunt durcheinandergemischt, ungefähr wie ich es aufgezählt habe, mit der mütterlichen Teekanne, die ihre Dampfwolken aus der Mitte aufsteigen ließ – Gott segne diesen Anblick!",
+   "audio_path": "audio/de/c001_00324_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00325_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mir fehlt es an Atem und Zeit, dieses Bankett gebührend zu erörtern, und ich bin allzu begierig, mit meiner Geschichte fortzufahren.",
+   "audio_path": "audio/de/c001_00325_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00326_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Glücklicherweise hatte Ichabod Crane es nicht so eilig wie sein Geschichtsschreiber, und er ließ jeder Köstlichkeit volle Gerechtigkeit widerfahren.",
+   "audio_path": "audio/de/c001_00326_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00327_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00328_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war ein gutmütiges und dankbares Geschöpf.",
+   "audio_path": "audio/de/c001_00328_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00329_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Herz weitete sich, während sein Magen sich mit guten Dingen füllte, und seine Laune hob sich mit dem Essen, wie es bei manchen Männern beim Trinken der Fall ist.",
+   "audio_path": "audio/de/c001_00329_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00330_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er konnte nicht umhin, seine großen Augen beim Essen rundum schweifen zu lassen und bei dem Gedanken zu schmunzeln, er könne eines Tages Herr all dieser Szenerie von fast unvorstellbarem Luxus und Glanz sein.",
+   "audio_path": "audio/de/c001_00330_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00331_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dann, dachte er, wie bald würde er dem alten Schulhaus den Rücken kehren; Hans Van Ripper und jedem anderen knauserigen Kostgeber ins Gesicht schnippen; und jeden wandernden Schulmeister, der es wagte, ihn Kamerad zu nennen, vor die Tür stoßen!",
+   "audio_path": "audio/de/c001_00331_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00332_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00333_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der alte Baltus Van Tassel bewegte sich unter seinen Gästen mit einem Gesicht, das vor Zufriedenheit und guter Laune strahlte, rund und fröhlich wie ein Erntemond.",
+   "audio_path": "audio/de/c001_00333_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00334_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seine gastfreundlichen Gesten waren knapp, aber ausdrucksstark: ein Händedruck, ein Klaps auf die Schulter, ein lautes Lachen und die dringende Aufforderung, »zuzulangen und sich zu bedienen«.",
+   "audio_path": "audio/de/c001_00334_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00335_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00336_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und nun rief der Klang der Musik aus dem Gemeinschaftsraum oder Flur jedermann zum Tanz.",
+   "audio_path": "audio/de/c001_00336_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00337_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Musikant war ein alter, grauhaariger Schwarzer, der seit mehr als einem halben Jahrhundert als fahrender Musikus der Gegend diente.",
+   "audio_path": "audio/de/c001_00337_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00338_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Instrument war so alt und ramponiert wie er selbst.",
+   "audio_path": "audio/de/c001_00338_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00339_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Meist kratzte er auf zwei oder drei Saiten herum.",
+   "audio_path": "audio/de/c001_00339_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00340_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bei jedem Bogenstrich nickte er mit dem Kopf beinah bis auf den Boden, und er stampfte mit dem Fuß auf, sobald ein neues Paar ansetzte.",
+   "audio_path": "audio/de/c001_00340_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00341_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00342_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabod war auf sein Tanzen ebenso stolz wie auf seine gesanglichen Fähigkeiten.",
+   "audio_path": "audio/de/c001_00342_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00343_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Kein Glied, keine Faser seines Körpers war müßig.",
+   "audio_path": "audio/de/c001_00343_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00344_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seinen lose gefügten Leib in voller Bewegung zu sehen, wie er durch den Raum polterte, man hätte meinen können, Sankt Vitus selbst, der gesegnete Schutzpatron des Tanzes, träte leibhaftig vor einem auf.",
+   "audio_path": "audio/de/c001_00344_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00345_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war die Bewunderung aller Schwarzen, die, vom Hof und der Nachbarschaft zusammengeströmt – jeden Alters und jeder Größe –, an jeder Tür und jedem Fenster standen und eine Pyramide glänzender schwarzer Gesichter bildeten.",
+   "audio_path": "audio/de/c001_00345_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00346_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Voller Entzücken starrten sie auf die Szene, rollten ihre weißen Augen und zeigten Reihen schimmernder Zähne von einem Ohr zum andern.",
+   "audio_path": "audio/de/c001_00346_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00347_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Wie hätte der Züchtiger von Schulbuben anders als munter und fröhlich sein können?",
+   "audio_path": "audio/de/c001_00347_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00348_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Dame seines Herzens war seine Tanzpartnerin und lächelte huldvoll auf all seine verliebten Blicke.",
+   "audio_path": "audio/de/c001_00348_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00349_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Unterdessen saß Brom Bones, tief von Liebe und Eifersucht getroffen, brütend für sich allein in einer Ecke.",
+   "audio_path": "audio/de/c001_00349_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00350_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00351_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als der Tanz endete, ließ sich Ichabod zu einer Gruppe der klügeren, älteren Leute treiben.",
+   "audio_path": "audio/de/c001_00351_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00352_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie saßen mit dem alten Van Tassel an einem Ende der Veranda, rauchten, schwatzten von vergangenen Zeiten und holten lange Geschichten über den Krieg hervor.",
+   "audio_path": "audio/de/c001_00352_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00353_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00354_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Zu der Zeit, von der ich spreche, war diese Gegend einer jener hochbegünstigten Orte, reich an Geschichte und großen Männern.",
+   "audio_path": "audio/de/c001_00354_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00355_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die britische und die amerikanische Linie waren während des Krieges in der Nähe verlaufen; sie war daher der Schauplatz von Überfällen gewesen und ward von Flüchtlingen, Cowboys und allerlei Grenzstrolchen heimgesucht.",
+   "audio_path": "audio/de/c001_00355_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00356_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gerade genug Zeit war vergangen, dass jeder Geschichtenerzähler seine Erzählung mit ein wenig schicklicher Erdichtung aufputzen und sich in der Trübung seines Gedächtnisses selbst zum Helden jeder Heldentat machen konnte.",
+   "audio_path": "audio/de/c001_00356_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00357_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00358_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da war die Geschichte von Doffue Martling, einem großen, blaubärtigen Holländer.",
+   "audio_path": "audio/de/c001_00358_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00359_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hatte beinahe eine britische Fregatte mit einer alten eisernen Neunpfünderkanone von einem Erdwall aus genommen, nur dass seine Kanone beim sechsten Schuss zerbarst.",
+   "audio_path": "audio/de/c001_00359_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00360_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und da war ein alter Herr, der namenlos bleiben soll, da er ein zu reicher Mynheer ist, um beiläufig erwähnt zu werden.",
+   "audio_path": "audio/de/c001_00360_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00361_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In der Schlacht von White Plains, ein ausgezeichneter Meister der Fechtkunst, parierte er eine Musketenkugel mit einem Degen – so sehr, dass er tatsächlich spürte, wie sie um die Klinge zischte und vom Griff abprallte.",
+   "audio_path": "audio/de/c001_00361_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00362_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als Beweis war er jederzeit bereit, den Degen vorzuzeigen, dessen Griff leicht verbogen war.",
+   "audio_path": "audio/de/c001_00362_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00363_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es gab mehrere andere, die auf dem Felde ebenso groß gewesen waren, und nicht einer unter ihnen, der nicht überzeugt gewesen wäre, dass er eine beträchtliche Hand dabei im Spiel gehabt hatte, den Krieg zu einem glücklichen Ende zu führen.",
+   "audio_path": "audio/de/c001_00363_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00364_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00365_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber all dies war nichts im Vergleich zu den Geschichten von Geistern und Erscheinungen, die nun folgten.",
+   "audio_path": "audio/de/c001_00365_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00366_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Gegend ist reich an sagenhaften Schätzen dieser Art.",
+   "audio_path": "audio/de/c001_00366_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00367_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Örtliche Geschichten und Aberglauben gedeihen am besten in diesen geschützten, seit langem besiedelten Winkeln; sie werden jedoch von den umherziehenden Menschenmassen, die die Bevölkerung der meisten unserer ländlichen Orte ausmachen, mit Füßen getreten.",
+   "audio_path": "audio/de/c001_00367_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00368_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Überdies gibt es in den meisten unserer Dörfer keine Ermutigung für Gespenster.",
+   "audio_path": "audio/de/c001_00368_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00369_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Toten haben kaum Zeit gehabt, ihr erstes Schläfchen zu beenden und sich in ihren Gräbern umzudrehen, ehe ihre überlebenden Freunde aus der Nachbarschaft fortgezogen sind.",
+   "audio_path": "audio/de/c001_00369_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00370_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sodass sie, wenn sie nachts aufstehen, um ihre Runde zu machen, keine Bekannten mehr haben, die sie besuchen könnten.",
+   "audio_path": "audio/de/c001_00370_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00371_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dies ist vielleicht der Grund, warum wir so selten von Gespenstern hören, außer in unseren alteingesessenen holländischen Gemeinden.",
+   "audio_path": "audio/de/c001_00371_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00372_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00373_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die unmittelbare Ursache jedoch für das Vorherrschen übernatürlicher Geschichten in diesen Teilen war ohne Zweifel die Nähe von Sleepy Hollow.",
+   "audio_path": "audio/de/c001_00373_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00374_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es lag eine Ansteckung in der Luft selbst, die aus jener verwunschenen Gegend herüberwehte; sie atmete eine Atmosphäre von Träumen und Einbildungen aus, die das ganze Land befiel.",
+   "audio_path": "audio/de/c001_00374_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00375_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mehrere Leute aus Sleepy Hollow waren bei Van Tassel zugegen und teilten wie gewöhnlich eifrig ihre wilden und wundersamen Legenden mit.",
+   "audio_path": "audio/de/c001_00375_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00376_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Viele düstere Geschichten wurden erzählt von Leichenzügen und von klagenden Rufen und Wehklagen, die man um den großen Baum herum hörte und sah, wo der unglückliche Major André gefangen genommen wurde.",
+   "audio_path": "audio/de/c001_00376_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00377_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Jener Baum stand noch immer in der Nachbarschaft.",
+   "audio_path": "audio/de/c001_00377_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00378_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Man erwähnte auch die Frau in Weiß, die in der finsteren Schlucht am Rabenfelsen umging und die man oft in Winternächten vor einem Sturm kreischen hörte, nachdem sie dort im Schnee umgekommen war.",
+   "audio_path": "audio/de/c001_00378_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00379_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Hauptteil der Geschichten drehte sich jedoch um das Lieblingsgespenst von Sleepy Hollow, den Kopflosen Reiter.",
+   "audio_path": "audio/de/c001_00379_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00380_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Man hatte ihn in letzter Zeit mehrmals gehört, wie er die Gegend durchstreifte, und es hieß, er binde sein Pferd allnächtlich zwischen den Gräbern auf dem Kirchhof an.",
+   "audio_path": "audio/de/c001_00380_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00381_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00382_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die abgeschiedene Lage dieser Kirche scheint sie stets zu einem bevorzugten Aufenthaltsort ruheloser Geister gemacht zu haben.",
+   "audio_path": "audio/de/c001_00382_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00383_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie steht auf einer Anhöhe, umgeben von Robinien und hochragenden Ulmen, zwischen denen hindurch ihre sauberen, weißgetünchten Wände bescheiden hervorschimmern, gleich christlicher Reinheit, die durch die Schatten der Abgeschiedenheit strahlt.",
+   "audio_path": "audio/de/c001_00383_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00384_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein sanfter Hang fällt von ihr zu einem silbernen Wasserspiegel ab, gesäumt von hohen Bäumen, zwischen denen man hin und wieder einen Blick auf die blauen Hügel des Hudson erhaschen kann.",
+   "audio_path": "audio/de/c001_00384_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00385_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Betrachtet man seinen grasbewachsenen Hof, wo die Sonnenstrahlen so still zu schlummern scheinen, so möchte man meinen, dass dort wenigstens die Toten in Frieden ruhen könnten.",
+   "audio_path": "audio/de/c001_00385_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00386_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Auf einer Seite der Kirche erstreckt sich eine weite, bewaldete Mulde, an der entlang ein breiter Bach zwischen geborstenen Felsen und umgestürzten Baumstämmen tost.",
+   "audio_path": "audio/de/c001_00386_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00387_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Über eine tiefe, schwarze Stelle des Baches, nicht weit von der Kirche, war früher eine hölzerne Brücke geschlagen; der Weg, der zu ihr führte, und die Brücke selbst waren dicht von überhängenden Bäumen beschattet, die selbst am Tage eine Düsternis darüber warfen, bei Nacht aber eine furchtbare Finsternis schufen.",
+   "audio_path": "audio/de/c001_00387_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00388_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dies war einer der bevorzugten Aufenthaltsorte des Kopflosen Reiters und der Ort, an dem man ihm am häufigsten begegnete.",
+   "audio_path": "audio/de/c001_00388_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00389_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Man erzählte die Geschichte vom alten Brouwer, einem höchst verstockten Geisterskeptiker, wie er dem Kopflosen Reiter begegnete, der von einem Streifzug nach Sleepy Hollow zurückkehrte, und gezwungen ward, hinter ihm aufzusitzen; wie sie über Busch und Gestrüpp, über Hügel und Sumpf galoppierten, bis sie die Brücke erreichten; da verwandelte sich der Reiter plötzlich in ein Skelett, warf den alten Brouwer in den Bach und sprang mit einem Donnerschlag über die Baumkronen davon.",
+   "audio_path": "audio/de/c001_00389_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00390_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00391_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dieser Geschichte wurde sogleich ein dreifach wunderbares Abenteuer von Brom Bones entgegengesetzt, der den Galoppierenden Hessen als reinen Schwindel abtat.",
+   "audio_path": "audio/de/c001_00391_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00392_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er behauptete, eines Nachts, als er vom nahen Dorf Sing Sing zurückkehrte, sei er von diesem mitternächtlichen Reiter eingeholt worden; er habe ihm ein Wettrennen um eine Bowle Punsch angeboten und hätte gewiss gewonnen, denn Daredevil ließ das Geisterpferd gänzlich hinter sich – doch gerade als sie die Kirchenbrücke erreichten, scheute der Hesse und verschwand in einem Feuerblitz.",
+   "audio_path": "audio/de/c001_00392_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00393_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00394_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "All diese Geschichten, erzählt in jenem schläfrigen Unterton, den Männer annehmen, wenn sie im Dunkeln sprechen, wobei die Gesichter der Zuhörer nur gelegentlich vom Schein einer Pfeife erhellt wurden, machten einen tiefen Eindruck auf Ichabod.",
+   "audio_path": "audio/de/c001_00394_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00395_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er erwiderte die Gefälligkeit mit langen Auszügen aus seinem geschätzten Autor Cotton Mather und fügte viele wundersame Begebenheiten hinzu, die sich in seinem Heimatstaat Connecticut zugetragen hatten, sowie schreckliche Erscheinungen, die er auf seinen nächtlichen Wanderungen rund um Sleepy Hollow gesehen hatte.",
+   "audio_path": "audio/de/c001_00395_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00396_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00397_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Gesellschaft löste sich nun allmählich auf.",
+   "audio_path": "audio/de/c001_00397_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00398_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die alten Bauern sammelten ihre Familien in ihren Wagen, und man konnte sie noch eine Weile entlang der hohlen Wege und über die fernen Hügel rumpeln hören.",
+   "audio_path": "audio/de/c001_00398_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00399_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Einige der jungen Frauen schwangen sich auf den Soziussitz hinter ihre bevorzugten Verehrer, und ihr unbeschwertes Lachen, das sich mit dem Hufgeklapper vermischte, hallte durch die stillen Waldungen, wurde leiser und leiser, bis es allmählich erstarb – und der Schauplatz so vieler Kurzweil und Fröhlichkeit war wieder still und verlassen.",
+   "audio_path": "audio/de/c001_00399_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00400_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nur Ichabod blieb, wie es ländliche Liebhaber tun, zurück, um eine vertrauliche Unterredung mit der Erbin zu führen, völlig überzeugt, dass er sich nun auf dem geraden Wege zum Erfolg befand.",
+   "audio_path": "audio/de/c001_00400_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00401_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Was bei diesem Gespräch vorfiel, will ich nicht vorgeben zu wissen, denn in Wahrheit weiß ich es nicht.",
+   "audio_path": "audio/de/c001_00401_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00402_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Irgendetwas jedoch, fürchte ich, muss schiefgelaufen sein, denn er kam gewiss nach keiner langen Weile mit einem recht elenden und niedergeschlagenen Gesicht wieder heraus.",
+   "audio_path": "audio/de/c001_00402_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00403_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Oh, diese Frauen! diese Frauen!",
+   "audio_path": "audio/de/c001_00403_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00404_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Konnte das Mädchen etwa eines ihrer koketten Spielchen getrieben haben?",
+   "audio_path": "audio/de/c001_00404_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00405_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "War ihre Ermutigung des armen Schulmeisters alles nur ein bloßes Gaukelspiel, um sich des Sieges über seinen Nebenbuhler zu versichern?",
+   "audio_path": "audio/de/c001_00405_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00406_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Weiß der Himmel allein, ich nicht!",
+   "audio_path": "audio/de/c001_00406_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00407_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es genüge zu sagen, dass Ichabod sich mit der Miene eines Hühnerdiebes davonstahl, statt mit jener eines Mannes, der das Herz einer holden Dame erobert.",
+   "audio_path": "audio/de/c001_00407_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00408_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ohne sich rechts oder links nach dem Anblick ländlichen Wohlstands umzusehen, an dem er sich so oft geweidet hatte, ging er stracks zum Stall und weckte mit etlichen herzhaften Schlägen und Tritten sein Pferd aufs Gröbste aus seinem behaglichen Quartier, wo es tief geschlafen und von Bergen von Korn und Hafer und ganzen Tälern von Timotheusgras und Klee geträumt hatte.",
+   "audio_path": "audio/de/c001_00408_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00409_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00410_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es war die betörende Stunde der Nacht, als Ichabod, schweren Herzens und niedergeschlagen, seinen Heimweg entlang der Hänge der hohen Hügel nahm, die sich über Tarry Town erheben – dieselben Hügel, die er an jenem Nachmittag so vergnügt überquert hatte.",
+   "audio_path": "audio/de/c001_00410_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00411_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Stunde war so düster wie er selbst.",
+   "audio_path": "audio/de/c001_00411_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00412_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Weit unter ihm dehnte sich das Tappan-Meer als eine dunkle, verschwommene Wasserwüste, hie und da vom hohen Mast einer Schaluppe durchsetzt, die still nahe dem Ufer vor Anker lag.",
+   "audio_path": "audio/de/c001_00412_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00413_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In der Totenstille der Mitternacht konnte er sogar das Bellen eines Wachhundes vom jenseitigen Ufer des Hudson vernehmen; doch der Klang war so vage und matt, dass er ihm nur bewusst machte, wie weit er sich von jenem treuen Gefährten des Menschen befand.",
+   "audio_path": "audio/de/c001_00413_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00414_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dann und wann ließ auch ein zufällig erwachter Hahn ein langes, gedehntes Krähen ertönen, weit, weit entfernt von irgendeinem Bauernhaus in den Hügeln – doch es war in seinen Ohren wie ein Laut aus einem Traum.",
+   "audio_path": "audio/de/c001_00414_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00415_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Keinerlei Lebenszeichen war um ihn, ausgenommen das gelegentliche melancholische Gezirp einer Grille oder das kehlige Gequak eines Ochsenfrosches aus einem benachbarten Sumpf, als schliefe dieser unruhig und hätte sich jäh in seinem Bette umgewandt.",
+   "audio_path": "audio/de/c001_00415_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00416_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00417_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "All die Geister- und Koboldgeschichten, die er an jenem Nachmittag gehört hatte, drängten sich nun in sein Gedächtnis.",
+   "audio_path": "audio/de/c001_00417_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00418_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Nacht wurde finsterer und finsterer; die Sterne schienen tiefer in den Himmel zu sinken, und treibende Wolken verbargen sie bisweilen vor seinem Blick.",
+   "audio_path": "audio/de/c001_00418_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00419_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nie zuvor hatte er sich so einsam und trübselig gefühlt.",
+   "audio_path": "audio/de/c001_00419_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00420_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Überdies näherte er sich eben dem Ort, an dem so viele der Spukgeschichten ihren Schauplatz hatten.",
+   "audio_path": "audio/de/c001_00420_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00421_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In der Mitte der Straße stand ein gewaltiger Tulpenbaum, der sich wie ein Riese über alle anderen Bäume der Gegend erhob und eine Art Wahrzeichen bildete.",
+   "audio_path": "audio/de/c001_00421_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00422_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seine Äste waren knorrig und phantastisch, dick genug, um Stämme gewöhnlicher Bäume abzugeben; sie wanden sich fast bis zur Erde hinab und erhoben sich dann wieder in die Luft.",
+   "audio_path": "audio/de/c001_00422_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00423_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war mit der tragischen Geschichte des unglückseligen André verknüpft, der in der Nähe gefangen genommen worden war, und hieß allenthalben Major Andrés Baum.",
+   "audio_path": "audio/de/c001_00423_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00424_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das einfache Volk betrachtete ihn mit einer Mischung aus Ehrfurcht und Aberglauben, teils aus Mitleid mit dem Schicksal seines unglückseligen Namensvetters, teils wegen der Geschichten von seltsamen Erscheinungen und klagenden Wehrufen, die man sich über ihn erzählte.",
+   "audio_path": "audio/de/c001_00424_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00425_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00426_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als Ichabod sich diesem furchterregenden Baume näherte, begann er zu pfeifen.",
+   "audio_path": "audio/de/c001_00426_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00427_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er glaubte, sein Pfeifen werde erwidert, doch es war bloß ein Windstoß, der scharf durch die trockenen Äste strich.",
+   "audio_path": "audio/de/c001_00427_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00428_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Etwas näher kommend, dünkte es ihn, er sähe etwas Weißes in der Mitte des Baumes hängen.",
+   "audio_path": "audio/de/c001_00428_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00429_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hielt inne und hörte auf zu pfeifen; doch als er genauer hinsah, erkannte er, dass es eine Stelle war, wo der Baum vom Blitz versengt und das weiße Holz freigelegt war.",
+   "audio_path": "audio/de/c001_00429_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00430_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Plötzlich vernahm er ein Stöhnen – seine Zähne klapperten, und seine Knie schlugen gegen den Sattel.",
+   "audio_path": "audio/de/c001_00430_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00431_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es war nur das Reiben eines gewaltigen Astes an einem anderen, während sie sich im Lufthauch wiegten.",
+   "audio_path": "audio/de/c001_00431_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00432_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er passierte den Baum wohlbehalten, doch neue Gefahren lagen vor ihm.",
+   "audio_path": "audio/de/c001_00432_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00433_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00434_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Etwa zweihundert Yard von dem Baum entfernt überquerte ein kleiner Bach die Straße und floss in eine sumpfige, dichtbewaldete Schlucht, die als Wileys Sumpf bekannt war.",
+   "audio_path": "audio/de/c001_00434_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00435_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein paar rohe Baumstämme, nebeneinander gelegt, dienten als Brücke über diesen Bach.",
+   "audio_path": "audio/de/c001_00435_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00436_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "An der Seite des Weges, wo der Bach in den Wald eintrat, warf eine Gruppe von Eichen und Kastanien, dicht mit wildem Wein verfilzt, eine höhlenartige Düsternis darüber.",
+   "audio_path": "audio/de/c001_00436_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00437_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das Überqueren dieser Brücke war die härteste Mutprobe.",
+   "audio_path": "audio/de/c001_00437_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00438_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Genau an dieser Stelle wurde der unglückliche André gefangen genommen; unter dem Schutze jener Kastanien und Ranken versteckten sich handfeste Farmer und überraschten ihn.",
+   "audio_path": "audio/de/c001_00438_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00439_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Seitdem gilt der Bach als verwunschen, und jeder Schulknabe, der ihn nach Einbruch der Dunkelheit allein überqueren muß, empfindet entsetzliche Furcht.",
+   "audio_path": "audio/de/c001_00439_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00440_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00441_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als er sich dem Bach näherte, begann sein Herz zu pochen.",
+   "audio_path": "audio/de/c001_00441_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00442_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch er raffte all seinen Mut zusammen, gab seinem Pferd ein Dutzend Tritte in die Rippen und versuchte, forsch über die Brücke zu stürmen.",
+   "audio_path": "audio/de/c001_00442_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00443_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber anstatt vorwärts zu gehen, wich das starrköpfige alte Tier seitwärts aus und rannte mit der Flanke in den Zaun.",
+   "audio_path": "audio/de/c001_00443_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00444_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabods Ängste wuchsen mit dem Verzug.",
+   "audio_path": "audio/de/c001_00444_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00445_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er riß die Zügel nach der anderen Seite und trat heftig mit dem entgegengesetzten Fuß zu.",
+   "audio_path": "audio/de/c001_00445_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00446_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es war vergebens.",
+   "audio_path": "audio/de/c001_00446_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00447_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Pferd setzte sich zwar in Bewegung, aber nur, um über den Weg in ein Dickicht aus Brombeerranken und Erlenbüschen zu stürzen.",
+   "audio_path": "audio/de/c001_00447_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00448_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Schulmeister gebrauchte nun Peitsche und Absatz an den hungrigen Rippen des alten Schießpulvers.",
+   "audio_path": "audio/de/c001_00448_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00449_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das Pferd stürmte vorwärts, schnaubend und prustend, kam aber genau an der Brücke jäh zum Stehen und hätte seinen Reiter beinahe kopfüber abgeworfen.",
+   "audio_path": "audio/de/c001_00449_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00450_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gerade da drang ein platschender Schritt neben der Brücke an Ichabods empfindliches Ohr.",
+   "audio_path": "audio/de/c001_00450_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00451_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Im dunklen Schatten des Hains, am Rande des Baches, erblickte er etwas Gewaltiges, Mißgestaltetes, hoch Aufragendes.",
+   "audio_path": "audio/de/c001_00451_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00452_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es rührte sich nicht, sondern schien sich im Düster zu ducken, gleich einem riesenhaften Ungeheuer, bereit, auf den Wanderer loszuspringen.",
+   "audio_path": "audio/de/c001_00452_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00453_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00454_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dem verängstigten Schulmeister sträubte sich das Haar vor Entsetzen.",
+   "audio_path": "audio/de/c001_00454_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00455_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Was sollte er tun?",
+   "audio_path": "audio/de/c001_00455_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00456_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Umzukehren und zu fliehen, war nun zu spät; und außerdem, welche Aussicht hatte man, einem Geist oder Kobold zu entkommen, sofern es das war, der auf den Schwingen des Windes reiten konnte?",
+   "audio_path": "audio/de/c001_00456_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00457_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Also, mit zur Schau getragenem Mute, fragte er in stammelnden Tönen: „Wer bist du?“",
+   "audio_path": "audio/de/c001_00457_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00458_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er erhielt keine Antwort.",
+   "audio_path": "audio/de/c001_00458_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00459_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er wiederholte die Frage mit noch erregterer Stimme.",
+   "audio_path": "audio/de/c001_00459_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00460_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Noch immer keine Antwort.",
+   "audio_path": "audio/de/c001_00460_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00461_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Noch einmal drosch er auf die Flanken des widerspenstigen Schießpulvers ein und brach, die Augen schließend, mit unwillkürlicher Inbrunst in eine Psalmmelodie aus.",
+   "audio_path": "audio/de/c001_00461_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00462_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Genau in diesem Augenblick setzte sich das schattenhafte Objekt des Schreckens in Bewegung, und mit einem Krabbeln und einem Satz stand es plötzlich mitten auf der Straße.",
+   "audio_path": "audio/de/c001_00462_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00463_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Obwohl die Nacht dunkel und trübselig war, konnte man die Gestalt des Unbekannten nun doch einigermaßen erkennen.",
+   "audio_path": "audio/de/c001_00463_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00464_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er schien ein großer Reiter zu sein, auf einem kraftvoll gebauten schwarzen Pferd.",
+   "audio_path": "audio/de/c001_00464_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00465_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er machte keine Anstalten zum Angriff noch zur Freundlichkeit, sondern hielt sich an der anderen Straßenseite, trabte auf der blinden Seite des alten Gunpowder entlang, der nun seine Angst und Störrigkeit überwunden hatte.",
+   "audio_path": "audio/de/c001_00465_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00466_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00467_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabod hatte kein Gefallen an diesem seltsamen mitternächtlichen Gefährten und erinnerte sich an Brom Bones’ Abenteuer mit dem Galoppierenden Hessen.",
+   "audio_path": "audio/de/c001_00467_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00468_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er trieb sein Pferd zu schnellerem Tempo an, in der Hoffnung, den Fremden hinter sich zu lassen.",
+   "audio_path": "audio/de/c001_00468_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00469_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch der Fremde beschleunigte sein Pferd, um mit seinem Schritt gleichzuziehen.",
+   "audio_path": "audio/de/c001_00469_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00470_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabod zügelte sein Pferd und verfiel in Schritt, in dem Gedanken zurückzufallen, aber der andere tat dasselbe.",
+   "audio_path": "audio/de/c001_00470_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00471_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ihm begann das Herz zu sinken.",
+   "audio_path": "audio/de/c001_00471_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00472_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er versuchte, seine Psalmmelodie erneut anzustimmen, doch seine trockene Zunge klebte ihm am Gaumen, und er konnte keinen einzigen Ton singen.",
+   "audio_path": "audio/de/c001_00472_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00473_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es lag etwas in dem mürrischen, störrischen Schweigen dieses beharrlichen Gefährten, das geheimnisvoll und entsetzlich war.",
+   "audio_path": "audio/de/c001_00473_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00474_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bald ward es auf entsetzliche Weise erklärt.",
+   "audio_path": "audio/de/c001_00474_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00475_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als sie eine Anhöhe erklommen und die Gestalt des Mitreisenden sich als Silhouette gegen den Himmel abzeichnete – von riesenhafter Größe und in einen Mantel gehüllt –, war Ichabod von Entsetzen getroffen, als er sah, dass er keinen Kopf hatte!",
+   "audio_path": "audio/de/c001_00475_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00476_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Entsetzen wuchs, als er bemerkte, dass der Kopf, der auf seinen Schultern hätte ruhen sollen, vorn auf dem Sattelknauf vor ihm getragen ward.",
+   "audio_path": "audio/de/c001_00476_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00477_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sein Schrecken schlug in Verzweiflung um.",
+   "audio_path": "audio/de/c001_00477_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00478_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er ließ einen Hagel von Tritten und Schlägen auf Gunpowder niederprasseln, in der Hoffnung, plötzlich loszupreschen und seinem Gefährten zu entkommen.",
+   "audio_path": "audio/de/c001_00478_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00479_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch das Gespenst sprang dicht neben ihm vorwärts.",
+   "audio_path": "audio/de/c001_00479_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00480_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "So stoben sie dahin, über Stock und Stein – Steine flogen und Funken sprühten bei jedem Satz.",
+   "audio_path": "audio/de/c001_00480_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00481_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabods dünne Kleider flatterten in der Luft, während er seinen langen, hageren Leib in seiner verzweifelten Flucht weit über den Kopf seines Pferdes streckte.",
+   "audio_path": "audio/de/c001_00481_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00482_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00483_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie hatten nun die Straße erreicht, die nach Sleepy Hollow abzweigt.",
+   "audio_path": "audio/de/c001_00483_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00484_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch Gunpowder, der von einem Dämon besessen schien, blieb nicht darauf, sondern wandte sich in die entgegengesetzte Richtung und stürzte kopfüber den Hügel hinab zur Linken.",
+   "audio_path": "audio/de/c001_00484_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00485_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dieser Weg führt etwa eine Viertelmeile durch eine sandige, von Bäumen beschattete Mulde.",
+   "audio_path": "audio/de/c001_00485_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00486_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er überquert die in Koboldgeschichten berühmte Brücke, und gleich dahinter erhebt sich ein grüner Hügel, auf dem die weißgetünchte Kirche steht.",
+   "audio_path": "audio/de/c001_00486_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00487_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00488_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bis jetzt hatte die Panik des Pferdes dem ungeübten Reiter einen scheinbaren Vorteil bei der Verfolgungsjagd verschafft.",
+   "audio_path": "audio/de/c001_00488_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00489_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Doch gerade als er die Hälfte der Mulde erreichte, rissen die Sattelgurte, und er fühlte, wie der Sattel unter ihm nachgab und zu rutschen begann.",
+   "audio_path": "audio/de/c001_00489_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00490_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er packte den Sattelknauf und versuchte ihn festzuhalten, aber es half nichts.",
+   "audio_path": "audio/de/c001_00490_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00491_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er hatte gerade noch Zeit, sich zu retten, indem er die Arme um den Hals des alten Gunpowder warf, als der Sattel zu Boden fiel und er hörte, wie er von seinem Verfolger zertrampelt wurde.",
+   "audio_path": "audio/de/c001_00491_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00492_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Einen Augenblick lang durchzuckte ihn die Furcht vor Hans Van Rippers Zorn – es war schließlich sein Sonntagssattel.",
+   "audio_path": "audio/de/c001_00492_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00493_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Aber dies war keine Zeit für kleine Sorgen; der Kobold war ihm dicht auf den Fersen.",
+   "audio_path": "audio/de/c001_00493_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00494_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Und da er ein ungeschickter Reiter war, hatte er große Mühe, sich im Sattel zu halten.",
+   "audio_path": "audio/de/c001_00494_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00495_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Bald rutschte er auf die eine Seite, bald auf die andere.",
+   "audio_path": "audio/de/c001_00495_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00496_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Manchmal wurde er auf dem hohen Rückenkamm seines Pferdes so heftig durchgerüttelt, dass er wahrhaftig fürchtete, es würde ihn entzweispalten.",
+   "audio_path": "audio/de/c001_00496_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00497_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00498_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Eine Lichtung zwischen den Bäumen ermutigte ihn nun und gab ihm Hoffnung, dass die Kirchenbrücke nahe war.",
+   "audio_path": "audio/de/c001_00498_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00499_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das zitternde Spiegelbild eines silbernen Sterns im Schoß des Baches verriet ihm, dass er sich nicht irrte.",
+   "audio_path": "audio/de/c001_00499_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00500_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er sah die Kirchenmauern schwach unter den Bäumen dahinter schimmern.",
+   "audio_path": "audio/de/c001_00500_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00501_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er erinnerte sich an die Stelle, wo Brom Bones’ gespenstischer Nebenbuhler verschwunden war.",
+   "audio_path": "audio/de/c001_00501_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00502_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "»Wenn ich nur diese Brücke erreiche«, dachte Ichabod, »bin ich in Sicherheit.«",
+   "audio_path": "audio/de/c001_00502_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00503_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da hörte er den schwarzen Hengst dicht hinter sich keuchen und schnauben; er bildete sich sogar ein, seinen heißen Atem zu spüren.",
+   "audio_path": "audio/de/c001_00503_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00504_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ein abermaliger plötzlicher Tritt in die Rippen, und der alte Gunpowder sprang auf die Brücke.",
+   "audio_path": "audio/de/c001_00504_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00505_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er donnerte über die hallenden Planken und erreichte die andere Seite.",
+   "audio_path": "audio/de/c001_00505_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00506_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Nun blickte Ichabod zurück, um zu sehen, ob sein Verfolger, wie die Legende sagte, in einem Ausbruch von Feuer und Schwefel verschwinden würde.",
+   "audio_path": "audio/de/c001_00506_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00507_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Genau da sah er den Kobold sich in den Steigbügeln erheben, im Begriff, seinen Kopf nach ihm zu schleudern.",
+   "audio_path": "audio/de/c001_00507_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00508_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabod versuchte, dem schrecklichen Wurfgeschoss auszuweichen, aber es war zu spät.",
+   "audio_path": "audio/de/c001_00508_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00509_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es traf seinen Schädel mit gewaltigem Krachen.",
+   "audio_path": "audio/de/c001_00509_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00510_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er wurde kopfüber in den Staub geschleudert, und Gunpowder, der schwarze Hengst und der Koboldreiter fegten wie ein Wirbelwind vorbei.",
+   "audio_path": "audio/de/c001_00510_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00511_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00512_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Am nächsten Morgen fand man das alte Pferd ohne Sattel, den Zaum unter den Füßen, wie es friedlich das Gras am Tor seines Herrn abrupfte.",
+   "audio_path": "audio/de/c001_00512_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00513_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ichabod erschien nicht zum Frühstück; die Essenszeit kam, aber noch immer kein Ichabod.",
+   "audio_path": "audio/de/c001_00513_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00514_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Jungen versammelten sich am Schulhaus und schlenderten müßig die Ufer des Baches entlang; aber kein Schulmeister war da.",
+   "audio_path": "audio/de/c001_00514_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00515_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hans Van Ripper begann nun, sich wegen des Schicksals des armen Ichabod und seines Sattels Sorgen zu machen.",
+   "audio_path": "audio/de/c001_00515_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00516_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Eine Nachforschung wurde eingeleitet, und nach gründlichem Suchen stieß man auf seine Spur.",
+   "audio_path": "audio/de/c001_00516_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00517_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "An einer Wegstrecke, die zur Kirche führte, fanden sie den Sattel in den Schmutz getreten.",
+   "audio_path": "audio/de/c001_00517_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00518_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Spuren von Pferdehufen, tief in die Straße eingedrückt und offenbar in rasender Eile gemacht, ließen sich bis zur Brücke verfolgen.",
+   "audio_path": "audio/de/c001_00518_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00519_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Jenseits davon, am Ufer einer breiten Stelle des Bachs, wo das Wasser tief und schwarz dahinfloss, fanden sie den Hut des unglücklichen Ichabod und dicht daneben einen zertrümmerten Kürbis.",
+   "audio_path": "audio/de/c001_00519_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00520_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00521_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Bach wurde durchsucht, doch der Leib des Schulmeisters war nicht zu entdecken.",
+   "audio_path": "audio/de/c001_00521_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00522_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hans Van Ripper, als Vollstrecker seines Nachlasses, untersuchte das Bündel, das all seine weltliche Habe enthielt.",
+   "audio_path": "audio/de/c001_00522_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00523_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Sie bestanden aus zweieinhalb Hemden; zwei Halsbinden; ein oder zwei Paar wollenen Strümpfen; einer alten Kniehose aus Kord; einem rostigen Rasiermesser; einem Buch mit Psalmmelodien voller Eselsohren; und einer zerbrochenen Stimmflöte.",
+   "audio_path": "audio/de/c001_00523_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00524_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Bücher und das Mobiliar des Schulhauses gehörten der Gemeinde, mit Ausnahme von Cotton Mathers „Geschichte der Hexerei in Neuengland“, einem „Neuengland-Almanach“ und einem Buch über Träume und Wahrsagerei.",
+   "audio_path": "audio/de/c001_00524_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00525_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "In jenem letzteren Buch lag ein Blatt Kanzleipapier, vielfach bekritzelt und bekleckst, von mehreren vergeblichen Versuchen, Verse zu Ehren der Erbin Van Tassels zu verfassen.",
+   "audio_path": "audio/de/c001_00525_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00526_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Diese Zauberbücher und das poetische Geschmiere wurden von Hans Van Ripper auf der Stelle ins Feuer geworfen.",
+   "audio_path": "audio/de/c001_00526_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00527_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Von Stund an beschloss er, seine Kinder nicht mehr zur Schule zu schicken, und sagte, er habe noch nie erlebt, dass aus all dem Lesen und Schreiben etwas Gutes käme.",
+   "audio_path": "audio/de/c001_00527_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00528_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Was immer der Schulmeister an Geld besaß – und er hatte seinen Vierteljahreslohn erst ein oder zwei Tage zuvor erhalten –, musste er zum Zeitpunkt seines Verschwindens bei sich getragen haben.",
+   "audio_path": "audio/de/c001_00528_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00529_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00530_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das geheimnisvolle Ereignis gab am folgenden Sonntag in der Kirche Anlass zu vielerlei Mutmaßungen.",
+   "audio_path": "audio/de/c001_00530_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00531_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gruppen von Schaulustigen und Klatschbasen versammelten sich auf dem Kirchhof, an der Brücke und an der Stelle, wo Hut und Kürbis gefunden worden waren.",
+   "audio_path": "audio/de/c001_00531_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00532_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Geschichten von Brouwer, von Bones und eine ganze Sammlung anderer wurden wieder wachgerufen.",
+   "audio_path": "audio/de/c001_00532_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00533_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als sie sie alle sorgfältig erwogen und mit den Einzelheiten des gegenwärtigen Falles verglichen hatten, schüttelten sie die Köpfe und kamen zu dem Schluss, dass Ichabod von dem Galoppierenden Hessen davongetragen worden sei.",
+   "audio_path": "audio/de/c001_00533_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00534_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Da er ein Junggeselle war und niemandem Geld schuldete, machte sich niemand weiter Sorgen um ihn.",
+   "audio_path": "audio/de/c001_00534_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00535_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Schule wurde in einen anderen Teil der Hollow verlegt, und ein anderer Lehrer nahm seine Stelle ein.",
+   "audio_path": "audio/de/c001_00535_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00536_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00537_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Allerdings brachte ein alter Bauer, der einige Jahre später New York besucht hatte und von dem dieser Bericht des gespenstischen Abenteuers stammte, die Nachricht mit, dass Ichabod Crane noch am Leben sei.",
+   "audio_path": "audio/de/c001_00537_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00538_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er habe die Gegend teils aus Furcht vor dem Kobold und Hans Van Ripper verlassen, teils aus Verlegenheit über die plötzliche Abweisung durch die Erbin.",
+   "audio_path": "audio/de/c001_00538_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00539_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war in einen fernen Landesteil gezogen, hatte dort gleichzeitig Schule gehalten und Jura studiert, war als Anwalt zugelassen worden, wandte sich der Politik zu, betrieb Wahlkampf, schrieb für die Zeitungen und wurde schließlich Richter am Zehn-Pfund-Gericht.",
+   "audio_path": "audio/de/c001_00539_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00540_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Auch Brom Bones, der kurz nach dem Verschwinden seines Rivalen die blühende Katrina triumphierend zum Altar geführt hatte, machte, wie man bemerkte, jedes Mal, wenn die Geschichte von Ichabod erzählt wurde, ein sehr wissendes Gesicht.",
+   "audio_path": "audio/de/c001_00540_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00541_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er brach jedes Mal in ein herzliches Lachen aus, sobald der Kürbis erwähnt wurde.",
+   "audio_path": "audio/de/c001_00541_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00542_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Dies brachte einige zu der Vermutung, er wisse mehr über die Sache, als er zu erzählen beliebte.",
+   "audio_path": "audio/de/c001_00542_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00543_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00544_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die alten Bauernweiber jedoch, die die besten Richter in solchen Dingen sind, behaupten bis zum heutigen Tage, dass Ichabod auf übernatürliche Weise entrückt worden sei.",
+   "audio_path": "audio/de/c001_00544_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00545_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ist eine Lieblingsgeschichte, die in der Nachbarschaft oft am winterlichen Abendfeuer erzählt wird.",
+   "audio_path": "audio/de/c001_00545_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00546_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die Brücke wurde mehr denn je zum Gegenstand abergläubischer Scheu.",
+   "audio_path": "audio/de/c001_00546_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00547_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das mag der Grund sein, warum man in jüngeren Jahren den Weg so verlegt hat, dass er die Kirche entlang des Mühlteichufers erreicht.",
+   "audio_path": "audio/de/c001_00547_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00548_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Das Schulhaus, nunmehr verlassen, verfiel bald.",
+   "audio_path": "audio/de/c001_00548_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00549_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es ging das Gerücht, dass der Geist des unglücklichen Schulmeisters darin umgehe.",
+   "audio_path": "audio/de/c001_00549_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00550_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Pflugjunge, der an einem stillen Sommerabend auf dem Heimweg trödelte, bildete sich oft ein, aus der Ferne seine Stimme zu hören, wie sie eine schwermütige Psalmweise in der stillen Einsamkeit von Sleepy Hollow sang.",
+   "audio_path": "audio/de/c001_00550_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00551_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00552_h",
+   "typ": "h",
+   "kapitel": "",
+   "text": "Nachschrift.",
+   "audio_path": "audio/de/c001_00552_h.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00553_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Gefunden in der Handschrift von Herrn Knickerbocker.",
+   "audio_path": "audio/de/c001_00553_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00554_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00555_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Die soeben erzählte Geschichte wird fast wortwörtlich so wiedergegeben, wie ich sie auf einer Korporationsversammlung in der alten Stadt Manhattoes vernahm.",
+   "audio_path": "audio/de/c001_00555_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00556_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Viele der weisesten und erlauchtesten Bürger waren zugegen.",
+   "audio_path": "audio/de/c001_00556_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00557_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Erzähler war ein freundlicher, schäbiger, gentlemanhafter alter Bursche in pfeffer-und-salz-farbener Kleidung, mit einem traurig-humorvollen Gesicht.",
+   "audio_path": "audio/de/c001_00557_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00558_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Ich hatte den starken Verdacht, dass er arm war – er gab sich solche Mühe, unterhaltsam zu sein.",
+   "audio_path": "audio/de/c001_00558_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00559_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als er seine Geschichte beendet hatte, erhob sich viel Gelächter und Beifall, besonders von zwei oder drei stellvertretenden Ratsherren, die die meiste Zeit geschlafen hatten.",
+   "audio_path": "audio/de/c001_00559_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00560_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Es gab indessen einen großen, dürr aussehenden alten Herrn mit buschig überhängenden Augenbrauen.",
+   "audio_path": "audio/de/c001_00560_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00561_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er bewahrte die ganze Zeit über eine ernste und ziemlich strenge Miene.",
+   "audio_path": "audio/de/c001_00561_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00562_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Hin und wieder verschränkte er die Arme, neigte den Kopf und blickte zu Boden, als wälze er einen Zweifel in seinem Geiste.",
+   "audio_path": "audio/de/c001_00562_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00563_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er war einer jener vorsichtigen Männer, die niemals lachen, es sei denn auf festem Grund – wenn sie die Vernunft und das Gesetz auf ihrer Seite haben.",
+   "audio_path": "audio/de/c001_00563_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00564_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Als das Lachen der übrigen Gesellschaft verebbt war und wieder Stille einkehrte, stützte er einen Arm auf die Lehne seines Stuhles und stemmte die andere Hand in die Hüfte.",
+   "audio_path": "audio/de/c001_00564_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00565_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Mit einem leichten, doch überaus weisen Nicken und gerunzelter Stirn verlangte er zu wissen, was die Moral der Geschichte sei und was sie zu beweisen beabsichtige.",
+   "audio_path": "audio/de/c001_00565_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00566_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00567_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der Geschichtenerzähler, der gerade ein Glas Wein zur Erquickung nach seinen Anstrengungen an die Lippen setzte, hielt einen Augenblick inne.",
+   "audio_path": "audio/de/c001_00567_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00568_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Er blickte seinen Frager mit unendlicher Ehrerbietung an und, das Glas langsam auf den Tisch senkend, bemerkte, dass die Geschichte aufs logischste zu beweisen gedenke –",
+   "audio_path": "audio/de/c001_00568_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00569_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "„Dass es keine Lebenslage ohne ihre Vorteile und Freuden gibt – vorausgesetzt, wir nehmen einen Spaß, wie er sich bietet:\n\n„Dass mithin derjenige, der mit Gespensterreitern um die Wette reitet, wohl eine raue Fahrt zu gewärtigen hat.\n\n„Ergo, dass einem ländlichen Schulmeister die Hand einer holländischen Erbin verweigert zu werden, ein sicherer Schritt zu hohem Staatsamt ist.“",
+   "audio_path": "audio/de/c001_00569_dl.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00570_p",
+   "typ": "p",
+   "kapitel": "",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00571_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Der vorsichtige alte Herr zog nach dieser Erklärung die Brauen zehnfach finsterer zusammen, höchst verwirrt durch die Beweisführung des Syllogismus.",
+   "audio_path": "audio/de/c001_00571_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00572_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Unterdessen, so dachte ich, beäugte ihn der in Pfeffer-und-Salz mit einer Art triumphierenden Grinsens.",
+   "audio_path": "audio/de/c001_00572_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00573_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "Endlich bemerkte er, dass dies alles recht schön sei, doch halte er die Geschichte für ein wenig übertrieben – es gebe ein oder zwei Punkte, an denen er seine Zweifel hege.",
+   "audio_path": "audio/de/c001_00573_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00574_dl",
+   "typ": "dl",
+   "kapitel": "",
+   "text": "„Meiner Treu, mein Herr,“ erwiderte der Geschichtenerzähler, „was das betrifft, so glaube ich selbst nicht die Hälfte davon.“",
+   "audio_path": "audio/de/c001_00574_dl.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00575_s",
+   "typ": "s",
+   "kapitel": "",
+   "text": "D. K.",
+   "audio_path": "audio/de/c001_00575_s.wav",
+   "pause_after_ms": 0
+  },
+  {
+   "tag_id": "c001_00576_h",
+   "typ": "h",
+   "kapitel": "",
+   "text": "ENDE.",
+   "audio_path": "audio/de/c001_00576_h.wav",
+   "pause_after_ms": 0
+  }
+ ]
+}

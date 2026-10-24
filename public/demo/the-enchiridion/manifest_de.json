@@ -1,0 +1,6316 @@
+{
+ "werk_id": "epictetus_the-enchiridion",
+ "book_slug": "the-enchiridion",
+ "sprache": "de",
+ "titel": "Handbüchlein der Moral",
+ "autor": "Epictetus",
+ "audio_vollstaendig": false,
+ "audio_count": 0,
+ "erstellt": "2026-10-10T18:28:07.766079Z",
+ "saetze": [
+  {
+   "tag_id": "c001_00001_h",
+   "typ": "h",
+   "kapitel": "Note on the Text",
+   "text": "Anmerkung zum Text",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c001_00002_s",
+   "typ": "s",
+   "kapitel": "Note on the Text",
+   "text": "Der Text der zweiten Auflage ist ein Nachdruck der ersten Auflage, abgesehen von einigen geringfügigen Korrekturen in Stil, Zeichensetzung und Rechtschreibung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00003_s",
+   "typ": "s",
+   "kapitel": "Note on the Text",
+   "text": "Diese wurden überarbeitet, um dem heutigen amerikanischen Sprachgebrauch zu entsprechen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00004_p",
+   "typ": "p",
+   "kapitel": "Note on the Text",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00005_s",
+   "typ": "s",
+   "kapitel": "Note on the Text",
+   "text": "Die Redaktion des Verlags hat einige erläuternde Anmerkungen hinzugefügt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00006_s",
+   "typ": "s",
+   "kapitel": "Note on the Text",
+   "text": "Diese stehen in eckigen Klammern und sind mit „Anm. d. Red.“ gekennzeichnet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00007_p",
+   "typ": "p",
+   "kapitel": "Note on the Text",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00008_s",
+   "typ": "s",
+   "kapitel": "Note on the Text",
+   "text": "O.P.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00001_h",
+   "typ": "h",
+   "kapitel": "Introduction",
+   "text": "Einleitung",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c002_00002_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Das kleine Buch des Epiktet mit dem Titel _Enchiridion_ oder „Handbüchlein“ hat eine unverhältnismäßig große Rolle im Aufstieg moderner Haltungen und der modernen Philosophie gespielt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00003_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Sobald es in die Volkssprachen übersetzt war, wurde es ein Bestseller unter unabhängigen Intellektuellen, antichristlichen Denkern und Philosophen subjektiver Prägung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00004_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Montaigne besaß ein Exemplar des _Enchiridion_ unter seinen Büchern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00005_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Pascal verwarf voller Heftigkeit den größenwahnsinnigen Stolz des stoischen Philosophen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00006_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Friedrich der Große führte das Buch auf allen Feldzügen mit sich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00007_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Es war eine Quelle der Inspiration und Ermutigung für Anthony, Earl of Shaftesbury, in der schweren Krankheit, die erst mit seinem Tod endete; viele Seiten seiner Tagebücher enthalten Passagen, die aus dem _Enchiridion_ abgeschrieben sind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00008_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Es wurde von schottischen Philosophen wie Francis Hutcheson, Adam Smith und Adam Ferguson studiert und ausgiebig zitiert, die die stoische Moralphilosophie wegen ihrer Versöhnung von sozialer Abhängigkeit und persönlicher Unabhängigkeit schätzten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00009_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00010_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Dass es in den Jahrhunderten der Wiedergeburt, die den Anbruch des modernen Zeitalters markierten, eine Wiedergeburt des Stoizismus gab, war kein bloßer Zufall.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00011_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Philosophische, moralische und soziale Bedingungen der Zeit wirkten zusammen, um sie hervorzurufen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00012_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die römische Stoa war in Zeiten des Despotismus entwickelt worden als eine Philosophie einsamer und mutiger Seelen, die die erlösende Kraft der philosophischen Vernunft in allen moralischen und sozialen Zwecken des Lebens erkannt hatten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00013_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Philosophie als Lebensform macht den Menschen frei.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00014_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Sie ist der letzte Widerstand der Freiheit in einer Welt der Knechtschaft.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00015_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Viele Elemente des neuen Zeitalters führten zu einem Denken, das strukturelle Verwandtschaft mit der römischen Stoa besaß.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00016_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die Moderne hatte den unabhängigen Denker geschaffen, den freien Intellektuellen in einer säkularen Zivilisation.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00017_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die Moderne hatte mittelalterliche Freiheiten zerstört und den neuen Despotismus des absoluten, von der kirchlichen Autorität gestützten Staates errichtet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00018_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die modernen Philosophien setzten die Grundtendenz des Stoizismus fort, indem sie das subjektive Bewusstsein zum Fundament der Philosophie machten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00019_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die stoische Betonung moralischer Probleme war zudem anziehend in einer Epoche raschen Übergangs, in der alle Werte, die zuvor als selbstverständlich gegolten hatten, in Frage gestellt und neu bedacht wurden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00020_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00021_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Es ist zwar interessant zu beobachten, wie vielfältig die Wirkungen waren, die dieser kleine Band, dieser Inbegriff des stoischen Systems der Moralphilosophie, hervorbrachte; doch erscheinen diese Wirkungen noch bemerkenswerter, wenn man bedenkt, dass er nicht als philosophische Abhandlung über den Stoizismus für Studenten gedacht war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00022_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Er sollte vielmehr ein Leitfaden für den fortgeschrittenen Schüler des Stoizismus sein, um ihm die besten Wege zum Ziel zu zeigen, ein wahrer Philosoph zu werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00023_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "So nehmen Epiktet und sein _Enchiridion_ eine einzigartige Stellung in der römischen Stoa ein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00024_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Seneca und Marc Aurel hatten die stoische Philosophie als das angemessenste System gewählt, um ihre existenziellen Probleme der Unabhängigkeit, der Einsamkeit und der Geschichte auszudrücken.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00025_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Bei diesem Unternehmen machte Seneca als Nebenprodukt seines Bewusstseins der Dekadenz gewaltige Fortschritte hin zu Einsichten der Sozialpsychologie (darin stand er Nietzsche nahe), doch war er nicht in erster Linie an der Einheit des stoischen Systems interessiert.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00026_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Marc Aurel verwandelte die philosophische Lehre in die Lebensordnung des einsamen Herrschers.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00027_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Im Gegensatz zu beiden lehrte Epiktet die stoische Philosophie als Lehre und als Lebensform.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00028_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Das _Enchiridion_ ist eine Zusammenfassung der theoretischen und der angewandten Stoa.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00029_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00030_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Epiktet war der Sohn einer Sklavin, geboren zwischen 50 und 60 n. Chr. in Hierapolis in Phrygien.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00031_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Wir wissen nicht, wie er nach Rom kam.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00032_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Er war dort Sklave eines angesehenen Freigelassenen Neros, der als Sekretär des Kaisers diente.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00033_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Noch während seiner Dienstzeit hörte Epiktet Vorlesungen bei Musonius Rufus, dem angesehenen stoischen Philosophen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00034_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Musonius war beeindruckt von der aufrichtigen und dynamischen Persönlichkeit des jungen Sklaven und bildete ihn zum stoischen Philosophen aus.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00035_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Epiktet wurde freigelassen und begann, an Straßenecken und auf dem Markt Philosophie zu lehren, hatte jedoch keinen Erfolg.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00036_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Unter der Herrschaft Domitians wurde Epiktet zusammen mit vielen anderen Philosophen aus Rom verbannt, wahrscheinlich zwischen 89 und 92 n. Chr.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00037_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Er ging nach Nikopolis, gegenüber von Aktium in Epirus, wo er eine eigene Schule führte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00038_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Er war so angesehen und hochgeschätzt, dass er dem Ort den Ruf als Stadt der Schule Epiktets verschaffte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00039_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Studenten kamen aus Athen und Rom, um seine Lehrveranstaltungen zu besuchen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00040_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Privatleute kamen, um seinen Rat und seine Anleitung zu erbitten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00041_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Einige seiner Schüler kehrten in ihre Heimat zurück, um die traditionellen Laufbahnen einzuschlagen, zu denen sie gesellschaftlich verpflichtet waren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00042_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Andere nahmen die philosophische Lebensform an, um in den Bereich der stoischen Freiheit zu entkommen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00043_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00044_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Unter den Schülern war ein junger Römer, Flavius Arrian, der in Nikopolis Kurse belegte, als Epiktet bereits alt war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00045_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Flavius, geboren 108 n. Chr., gehörte zu den Vertrauten Hadrians, der ihn 130 n. Chr. zum Konsul machte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00046_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Er studierte wahrscheinlich zwischen 123 und 126 n. Chr. bei Epiktet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00047_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die informellen philosophischen Gespräche, die Epiktet mit seinen Schülern führte, faszinierten ihn.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00048_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Selbstverständlich gab es auch systematische Kurse in den Gebieten der Philosophie.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00049_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Doch waren es die informellen Unterredungen, die Arrian davon überzeugten, dass er endlich einen stoischen Sokrates oder einen stoischen Diogenes entdeckt hatte, der nicht bloß eine Lehre vortrug, sondern auch die Wahrheit lebte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00050_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Arrian zeichnete viele der Unterredungen und informellen Gespräche Epiktets mit seinen vertrauten Schülern auf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00051_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Er schrieb sie in Kurzschrift mit, um die unbeschreibliche Lebendigkeit, Anmut und den Witz des geliebten Lehrers nicht zu verlieren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00052_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Arrian zog sich nach dem Tod Hadrians im Jahr 138 n. Chr. ins Privatleben zurück und widmete sich seiner literarischen Arbeit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00053_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Er veröffentlichte seine Aufzeichnungen über die Lehre Epiktets unter dem Titel: _Lehrgespräche in vier Büchern_.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00054_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Das _Enchiridion_, das ebenfalls von Arrian zusammengestellt wurde, ist eine kurze Zusammenfassung der Grundgedanken der stoischen Philosophie und eine Einführung in die Techniken, die erforderlich sind, um die stoische Philosophie in eine Lebensform zu verwandeln.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00055_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00056_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Wir besitzen also keine Originalschriften Epiktets.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00057_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Wie G. H. Mead in jüngerer Zeit war er ganz den menschlichen und intellektuellen Problemen seiner Schüler hingegeben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00058_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Er überließ es ihnen, das zu bewahren, was sie für die bleibende Botschaft des Lehrers hielten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00059_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Im Gegensatz zu Seneca und Marc Aurel hatte Epiktet keinen subjektiven Zugang zu den stoischen Lehren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00060_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die Moralphilosophie stand im Mittelpunkt seiner Lehre, und die Erkenntnistheorie war nur ein Mittel.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00061_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Man darf sogar sagen, dass er die Physik oder Kosmologie zu leicht nahm.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00062_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Wenn man dies zugesteht, muss man einräumen, dass er ganz von den Grundlagen des stoischen Denkens, wie sie im _Enchiridion_ dargelegt sind, in Anspruch genommen ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00063_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Epiktets Persönlichkeit ist vollständig aufgehoben im Akt des Denkens, der die Übereinstimmung mit der Natur herstellt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00064_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00065_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Ein bemerkenswerter Unterschied zwischen den *Lehrgesprächen* und dem *Enchiridion* sollte erwähnt werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00066_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die *Lehrgespräche* sind ein lebendiges Bild des Lehrers in Aktion; sie zeigen den Prozess des Philosophierens, nicht das fertige Produkt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00067_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Sie zeigen den begeisterten und nüchternen, den realistischen und gefühlsbetonten Moralisten in ständig wechselnden Perspektiven.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00068_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Diese Perspektiven werden von den wechselnden Schülern mit ihren verschiedenen Anliegen, Problemen und Fragen geprägt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00069_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Seine Lehren und seine Formulierungen beziehen sich unmittelbar auf die verschiedenen Lebenslagen, in denen die Schüler die stoische Lehre des Meisters anwenden und einüben sollen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00070_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Keine menschliche Lage wird ausgelassen; als Anleitung zum Handeln hat Philosophie für alle Bedeutung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00071_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Ob die Schüler eine Abendgesellschaft besuchen müssen, ob sie sich unter Wettkämpfern in einem Stadion oder in einem Schwimmbecken befinden, ob sie bei Hofe oder in einem Amt erscheinen müssen, ob sie in Gesellschaft ihrer Mütter und Schwestern oder von Freundinnen sind – in allen menschlichen Lagen weiß der Philosoph den richtigen Rat für den philosophischen Lehrling.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00072_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "So stellt Arrian in den *Lehrgesprächen* die einzigartige Individualität des Philosophen und seiner angewandten moralischen Methode im lebendigen Kontakt mit verschiedenen Schülern in konkreten Situationen dar.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00073_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Epiktet als Lehrer nimmt sehr moderne Erziehungsmethoden vorweg in seiner Beachtung der Struktur von Situationen und der wechselnden Perspektiven in menschlichen Beziehungen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00074_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00075_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Nichts dergleichen zeigt sich im _Enchiridion_.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00076_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Verschwunden ist der stoische Philosoph als lebendiger Geist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00077_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Was bleibt, ist der lebendige Geist des Stoizismus.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00078_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Das _Enchiridion_ ist ein Handbuch für den kämpfenden Offizier.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00079_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Dieser Vergleich sollte ernst genommen werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00080_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die römischen Stoiker prägten die Formel: _Vivere militare!_ (Leben heißt Soldat sein.)",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00081_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Der Schüler der Philosophie ist ein einfacher Soldat, der fortschreitende Stoiker ein Unteroffizier, und der Philosoph ist der kämpfende Offizier.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00082_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Aus diesem Grund verwenden alle römischen Stoiker Metaphern und Bilder aus dem Militärleben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00083_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Lehrlinge der stoischen Philosophie werden als Boten beschrieben, als Späher Gottes, als Vertreter der göttlichen Natur.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00084_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Der fortgeschrittene Schüler, der dem Ziel, ein Philosoph zu sein, nahe ist, hat den Rang eines Offiziers.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00085_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Er ist bereits fähig, innere Freiheit und Unabhängigkeit zu errichten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00086_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Er versteht die grundlegende stoische Wahrheit des subjektiven Bewusstseins, die darin besteht, zu unterscheiden, was in unserer Macht steht und was nicht in unserer Macht steht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00087_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Nicht in unserer Macht stehen alle Elemente, die unsere Umwelt ausmachen, wie Reichtum, Gesundheit, Ansehen, soziales Prestige, Macht, das Leben derer, die wir lieben, und der Tod.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00088_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "In unserer Macht stehen unser Denken, unsere Absichten, unsere Wünsche, unsere Entscheidungen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00089_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Diese ermöglichen es uns, uns selbst zu beherrschen und uns zu Elementen und Teilen des Universums der Natur zu machen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00090_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Dieses Wissen von uns selbst macht uns frei in einer Welt der Abhängigkeiten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00091_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Diese Überlegenheit unserer Kräfte befähigt uns, in Übereinstimmung mit der Natur zu leben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00092_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die rationale Philosophie der Beherrschung des Selbst und der Anpassung an das Ganze schließt eine Askese des Gefühls- und Empfindungslebens ein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00093_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Der Philosoph muss seine Leidenschaften, seine Liebe, seine Zärtlichkeit zu jeder Zeit prüfen und beherrschen, um stets bereit zu sein für den unvermeidlichen Augenblick des Abschieds.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00094_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die Stoiker praktizierten einen Jesuitismus _avant la lettre_.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00095_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Sie vermochten in der Welt zu leben, als lebten sie nicht in ihr.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00096_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Für den Stoiker ist das Leben ein Feldlager, ein Schauspiel auf der Bühne, ein Gastmahl, zu dem wir geladen sind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00097_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Das _Enchiridion_ zeigte in Kürze die Techniken an, die der Philosoph anwenden sollte, um die verschiedenen Rollen gut zu spielen, die Gott denen zuweisen mag, die er liebt, den stoischen Philosophen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00098_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Von den Regeln des gesellschaftlichen Umgangs bis zu den Empfehlungen sexueller Askese vor der Ehe und der Methode des wahren Denkens findet der fortgeschrittene Stoiker in diesem winzigen Band alle Grundsätze der Vollkommenheit und alle Vorschriften zur Verwirklichung philosophischer Grundsätze in seinem Verhalten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00099_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00100_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "So war das _Enchiridion_ befreiend für alle Intellektuellen, die aus ihm lernten, dass es philosophische Wege der Selbsterlösung gibt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00101_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Seit dieser Zeit konnte der weltliche Denker frohlocken, weil er keiner göttlichen Gnade bedurfte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00102_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Epiktet hatte ihn gelehrt, dass die philosophische Vernunft ihn frei machen könne und dass er fähig sei, sich selbst durch gesundes Denken zu erlösen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00103_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00104_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "In den stoischen Unterscheidungen von Persönlichkeit und Welt, von Ich und Mein, von subjektivem Bewusstsein und der Welt der Objekte, von Freiheit und Abhängigkeit finden wir die Grundelemente moderner Philosophien des Rationalismus und des objektiven Idealismus oder Pantheismus implizit enthalten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00105_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Aus diesem Grund gibt es eine fortwährende Wiedergeburt der Stoa von Descartes, Grotius und Bischof Butler bis zu Montesquieu, Adam Smith und Kant.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00106_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "In dieser langen Entwicklung der Neuzeit spielte das winzige _Enchiridion_ des Epiktet eine bemerkenswerte Rolle.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00107_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00108_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die Übersetzungen Epiktets und aller anderen Stoiker hatten die weiteste Wirkung auf Philosophen, Theologen und Laien-Denker.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00109_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Sie wurden studiert von der Geistlichkeit der verschiedenen christlichen Konfessionen, von den Wissenschaftlern, die nach einer natürlichen Religion strebten, und von den unabhängigen Philosophen, die bestrebt waren, die Philosophie von der Religion zu trennen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00110_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Es gab viele herausragende Bischöfe in der katholischen und anglikanischen Kirche, die bestrebt waren, die Überlieferungen der römischen Stoa in eine christliche Stoa zu verwandeln.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00111_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Unter den calvinistischen Konfessionen gab es viele Denker, die mit den stoischen Moralprinzipien sympathisierten wegen deren Lob der Strenge des Lebens und der Beherrschung der Leidenschaften.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00112_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Ebenso verbreiteten die Anhänger der natürlichen Religion den Stoizismus als das ideale Muster einer allgemeingültigen und verständlichen Religion.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00113_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Die wiedererstandene Stoa hatte drei Funktionen im Aufstieg der modernen Welt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00114_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "Erstens versöhnte sie die christlichen Überlieferungen mit den modernen rationalistischen Philosophien; zweitens errichtete sie ein ideales Muster natürlicher Religion; und drittens eröffnete sie den Weg zur Autonomie der Moral.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00115_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00116_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "ALBERT SALOMON",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00117_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00118_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "The New School",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00119_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00120_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "for Social Research",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00121_p",
+   "typ": "p",
+   "kapitel": "Introduction",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c002_00122_s",
+   "typ": "s",
+   "kapitel": "Introduction",
+   "text": "_Juli 1948_",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00001_h",
+   "typ": "h",
+   "kapitel": "Selected Bibliography",
+   "text": "Ausgewählte Bibliographie",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c003_00002_qt",
+   "typ": "qt",
+   "kapitel": "Selected Bibliography",
+   "text": "_Epiktet: Leben und Werk_",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c003_00003_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Arnim, Hans V., „Epictetos“ in Pauli-Wissowa (Hg.), _Real-Encyclopaedie der classischen Altertumswissenschaft_, VI, Sp. 126–131.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00004_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00005_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Arnold, E. V., „Epictetus“ in Hastings, _Encyclopedia of Religion and Ethics_, 1912. Bd. V, S. 323, 324.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00006_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00007_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Bonhoeffer, A., _Epiktet und die Stoa_. Stuttgart, 1890.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00008_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00009_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "——, _Ethik des Stoikers Epiktet_. Stuttgart, 1894.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00010_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00011_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "——, _Epiktet und das Neue Testament_. Giessen, 1911.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00012_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00013_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Bruns, Ivo, _De schola Epicteti_. Kiel, 1897.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00014_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00015_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Bultmann, Rudolf, „Das religiöse Moment in der ethischen Unterweisung des Epiktets und das Neue Testament,“ _Zeitschrift für die neutestamentliche Wissenschaft und die Kunde des Urchristentums_, Bd. XIII, 1912; S. 97–110; 177–191.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00016_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00017_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Colardeau, Th., _Etude sur Epictète_. Paris, 1903.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00018_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00019_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Hartmann, K., „Arrian und Epiktet,“ _Neue Jahrbücher für das klassische Altertum_, Bd. XV, 1905.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00020_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00021_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Jagu, Amand, _Epictète et Platon_. Paris, 1944.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00022_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00023_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Lagrange, M. J., „La philosophie religieuse d’Epictète et le Christianisme,“ _Revue Biblique_, Bd. IX, 1912; S. 5–21, 192–212.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00024_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00025_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Oldfather, W. A., „Introduction“ zu _Epictetus_, „Loeb Classics,“ Bd. I.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00026_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00027_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Souilhé, J., „Introduction“ zu _Entretiens_. Paris, 1943.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00028_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00029_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Weber, Louis, „La morale d’Epictète et les besoins présents de l’enseignment moral,“ _Revue de Métaphysique et de Morale_, 1905, S. 830–858; 1906, S. 342–360; 1907, S. 327–347; 1909, S. 203–326.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00030_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00031_qt",
+   "typ": "qt",
+   "kapitel": "Selected Bibliography",
+   "text": "_Hauptwerke zum Stoizismus und zu verwandten Fragen_",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c003_00032_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00033_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Arnold, E. V., _Roman Stoicism_. Cambridge, E., 1911.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00034_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00035_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Bevan, E., _Stoics and Sceptics_. Oxford, 1913.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00036_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00037_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Brochard, V., _Etudes de philosophie ancienne et de philosophie moderne_, Paris, 1912.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00038_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00039_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Hicks, R. D., _Stoic and Epicurean_. New York, 1910.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00040_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00041_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Martha, C., _Les moralistes sur l’Empire Romain_. Paris, 1886.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00042_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00043_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Murray, Gilbert, _Stoic, Christian, Humanist_. London, 1940.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00044_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00045_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Robin, L., _La morale antique_. Paris, 1938, S. 57, 130, 152, 167.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00046_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00047_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Wendland, Paul, _Philo und die cynisch-stoische Diatribe_. Berlin, 1895.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00048_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00049_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "——, _Die hellenistische Kultur in ihren Beziehungen zum Judentum und Christentum_. Tübingen, 1912.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00050_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00051_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Zanta, L., _La renaissance du Stoicisme au XVIième siècle_. Paris, 1914.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00052_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00053_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Zeller, E., _The Stoics, Epicureans, and Sceptics_. London, 1892.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00054_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00055_qt",
+   "typ": "qt",
+   "kapitel": "Selected Bibliography",
+   "text": "_Einfluss des Stoizismus_",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c003_00056_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00057_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Busson, Henry, _La pensée religieuse Française de Charron à Pascal_. Paris, 1933. Kap. VIII: Stoiciens et Epicuriens, S. 379–429.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00058_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00059_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Dilthey, Wilhelm, _Gesammelte Werke_, Bd. II. „Einfluss der Stoa auf die Ausbildung des natürlichen Systems der Geisteswissenschaften,“ S. 153–162; „Anthropologie, Stoa und natürliches System im XVII. Jahrhundert,“ S. 439–457.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00060_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00061_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Groethuysen, Bernard, _Philosophische Anthropologie_. München, 1928. (Kap. „Die römisch-griechische Lebensphilosophie.“)",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00062_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00063_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Rand, B., _The Life, Letters, etc. of Anthony, Earl of Shaftesbury_. London, 1900.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00064_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00065_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Saunders, Jason L., _Justus Lipsius. The Philosophy of Renaissance Stoicism_. New York, 1955.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00066_p",
+   "typ": "p",
+   "kapitel": "Selected Bibliography",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00067_s",
+   "typ": "s",
+   "kapitel": "Selected Bibliography",
+   "text": "Wenley, R. M., _Stoicism and Its Influence_. New York, 1927.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00001_h",
+   "typ": "h",
+   "kapitel": "The Enchiridion",
+   "text": "Das Enchiridion",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c004_00002_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Es gibt Dinge, die in unserer Macht stehen, und es gibt Dinge, die jenseits unserer Macht stehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00003_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "In unserer Macht stehen Meinung, Streben, Begehren, Abneigung und, mit einem Wort, alles, was unsere eigenen Angelegenheiten sind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00004_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Jenseits unserer Macht stehen Körper, Besitz, Ansehen, Amt und, mit einem Wort, alles, was nicht eigentlich unsere eigenen Angelegenheiten sind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00005_p",
+   "typ": "p",
+   "kapitel": "The Enchiridion",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c004_00006_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Nun sind die Dinge, die in unserer Macht stehen, von Natur aus frei, uneingeschränkt, ungehindert.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00007_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Jene aber, die jenseits unserer Macht stehen, sind schwach, abhängig, eingeschränkt, fremd.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00008_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Bedenken Sie also: Wenn Sie den von Natur aus abhängigen Dingen Freiheit zuschreiben und das, was anderen gehört, für Ihr eigenes halten, werden Sie gehindert werden, Sie werden klagen, Sie werden beunruhigt sein, Sie werden Götter und Menschen tadeln.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00009_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Wenn Sie aber nur das für Ihr eigenes halten, was Ihr eigenes ist, und das, was anderen gehört, so betrachten, wie es wirklich ist, dann wird Sie niemand je zwingen, niemand wird Sie einschränken.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00010_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Sie werden niemanden tadeln, Sie werden niemanden anklagen, Sie werden nichts gegen Ihren Willen tun.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00011_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Niemand wird Ihnen schaden, Sie werden keinen Feind haben, noch werden Sie irgendein Leid erleiden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00012_p",
+   "typ": "p",
+   "kapitel": "The Enchiridion",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c004_00013_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Da Sie also nach so großen Dingen streben, bedenken Sie, dass Sie sich keinerlei Neigung, wie gering auch immer, zur Erlangung der anderen gestatten dürfen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00014_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Sondern Sie müssen einige von ihnen gänzlich aufgeben und die übrigen für jetzt zurückstellen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00015_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Wenn Sie aber diese haben wollen und zugleich Macht und Reichtum besitzen möchten, werden Sie vielleicht das Letztere verfehlen, indem Sie das Erstere suchen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00016_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Und Sie werden gewiss jenes verfehlen, wodurch allein Glück und Freiheit erlangt werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00017_p",
+   "typ": "p",
+   "kapitel": "The Enchiridion",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c004_00018_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Trachten Sie also sogleich danach, zu jedem unerfreulichen Scheinbild sagen zu können: „Sie sind nur ein Scheinbild und keineswegs die wirkliche Sache.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00019_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Und dann prüfen Sie es nach jenen Regeln, die Sie haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00020_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Und zuerst und vor allem danach: ob es die Dinge betrifft, die in unserer eigenen Macht stehen, oder jene, die es nicht sind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00021_s",
+   "typ": "s",
+   "kapitel": "The Enchiridion",
+   "text": "Und wenn es irgendetwas jenseits unserer Macht betrifft, seien Sie bereit zu sagen, dass es nichts für Sie ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c005_00001_h",
+   "typ": "h",
+   "kapitel": "Ii",
+   "text": "Ii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c005_00002_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Bedenke, dass Begehren bedeutet, erlangen zu wollen, wonach Sie sich sehnen, und Abneigung bedeutet, vermeiden zu wollen, was Ihnen zuwider ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c005_00003_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Wer nicht erlangt, was er begehrt, ist enttäuscht, und wer dem begegnet, was er zu vermeiden sucht, ist elend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c005_00004_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Wenn Sie nur solche unerwünschten Dinge meiden, die Sie beherrschen können, werden Sie niemals auf etwas stoßen, dem Sie zu entgehen versuchen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c005_00005_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Versuchen Sie aber, Krankheit, Tod oder Armut zu meiden, so laufen Sie Gefahr, sich elend zu machen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c005_00006_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Hören Sie also auf, Ihre Abneigung auf alles zu richten, was außerhalb Ihrer Macht steht, und richten Sie sie stattdessen auf unerwünschte Dinge, die in Ihrer Macht stehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c005_00007_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Halten Sie das Begehren vorerst gänzlich zurück.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c005_00008_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Wenn Sie irgendetwas außerhalb Ihrer eigenen Macht begehren, sind Sie zwangsläufig enttäuscht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c005_00009_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Und über die Dinge, die in Ihrer Macht stehen und die eigentlichen Gegenstände des Begehrens sind, sind Sie noch nicht sicher.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c005_00010_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Wo es praktisch notwendig ist, dass Sie etwas verfolgen oder meiden, tun Sie selbst das mit Sorgfalt, Sanftmut und Maß.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c006_00001_h",
+   "typ": "h",
+   "kapitel": "Iii",
+   "text": "III",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c006_00002_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Hinsichtlich aller Dinge, die entweder den Geist erfreuen oder zum Nutzen beitragen oder zärtlich geliebt werden, erinnern Sie sich daran, welcher Natur sie sind, angefangen bei den geringsten Kleinigkeiten: Wenn Sie einen liebgewonnenen Becher haben, dass er nur ein Becher ist, an dem Sie hängen – denn so können Sie es ertragen, wenn er zerbricht; wenn Sie Ihr Kind oder Ihre Frau umarmen, dass Sie einen Sterblichen umarmen – und so können Sie es ertragen, wenn einer von beiden stirbt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00001_h",
+   "typ": "h",
+   "kapitel": "Iv",
+   "text": "IV",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c007_00002_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Wenn du irgendeine Handlung unternimmst, erinnere dich daran, welcher Art diese Handlung ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00003_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Wenn du baden gehst, stelle dir vor, was im Bade gewöhnlich geschieht: die einen spritzen, andere drängen, andere schimpfen, andere stehlen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00004_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Und du wirst diese Handlung sicherer ausführen, wenn du dir sagst: „Ich will jetzt baden und meinen eigenen Willen in Übereinstimmung mit der Natur bewahren.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00005_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Und so bei jeder anderen Handlung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00006_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Denn auf diese Weise wirst du, wenn dir beim Baden etwas in die Quere kommt, sagen können: „Ich wollte nicht nur baden, sondern auch meinen eigenen Willen in Übereinstimmung mit der Natur bewahren; und ich werde ihn nicht so bewahren, wenn ich über das, was geschieht, verdrießlich bin.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00007_p",
+   "typ": "p",
+   "kapitel": "Iv",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c007_00008_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Nicht die Dinge beunruhigen die Menschen, sondern die Ansichten, die sie von den Dingen haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00009_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "So ist der Tod nichts Furchtbares, sonst hätte er es auch dem Sokrates geschienen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00010_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Sondern der Schrecken besteht in unserer Vorstellung vom Tod, dass er furchtbar sei.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00011_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Wenn wir also gehindert oder beunruhigt oder betrübt werden, lass uns niemals andere anklagen, sondern uns selbst – das heißt unsere eigenen Ansichten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c007_00012_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Es ist die Art eines ungebildeten Menschen, andere für sein eigenes Unglück zu tadeln; eines Menschen, der mit der Bildung beginnt, sich selbst zu tadeln; und eines vollkommen gebildeten Menschen, weder andere noch sich selbst zu tadeln.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00001_h",
+   "typ": "h",
+   "kapitel": "Vi",
+   "text": "VI",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c008_00002_s",
+   "typ": "s",
+   "kapitel": "Vi",
+   "text": "Sei nicht stolz auf irgendeine Vortrefflichkeit, die nicht deine eigene ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00003_s",
+   "typ": "s",
+   "kapitel": "Vi",
+   "text": "Wenn ein Pferd stolz wäre und sagte: „Ich bin schön“, so ließe sich das ertragen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00004_s",
+   "typ": "s",
+   "kapitel": "Vi",
+   "text": "Wenn du aber stolz bist und sagst: „Ich habe ein schönes Pferd“, so wisse, dass du nur wegen des Vorzugs des Pferdes stolz bist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00005_s",
+   "typ": "s",
+   "kapitel": "Vi",
+   "text": "Was also ist dein eigen?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c008_00006_s",
+   "typ": "s",
+   "kapitel": "Vi",
+   "text": "Der Gebrauch der Erfahrungen des Lebens.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c008_00007_s",
+   "typ": "s",
+   "kapitel": "Vi",
+   "text": "Wenn du also auf diese Weise in Übereinstimmung mit der Natur handelst, wirst du einigen Grund zum Stolz haben; denn du wirst auf ein Gut stolz sein, das wahrhaft dein eigen ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00001_h",
+   "typ": "h",
+   "kapitel": "Vii",
+   "text": "VII",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c009_00002_s",
+   "typ": "s",
+   "kapitel": "Vii",
+   "text": "Denken Sie an eine Seereise.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00003_s",
+   "typ": "s",
+   "kapitel": "Vii",
+   "text": "Wenn das Schiff vor Anker liegt und Sie an Land gehen, um Wasser zu holen, mögen Sie sich unterwegs damit vergnügen, eine Muschel oder einen Trüffel aufzulesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00004_s",
+   "typ": "s",
+   "kapitel": "Vii",
+   "text": "Doch Ihre Gedanken sollten auf das Schiff gerichtet bleiben, und Sie sollten ständig wachsam sein, falls der Kapitän ruft.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00005_s",
+   "typ": "s",
+   "kapitel": "Vii",
+   "text": "Dann müssen Sie all jene Dinge zurücklassen, damit Sie nicht wie ein Schaf gefesselt an Bord getragen werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00006_s",
+   "typ": "s",
+   "kapitel": "Vii",
+   "text": "Ebenso ist im Leben nichts einzuwenden, wenn Ihnen statt eines Trüffels oder einer Muschel so etwas wie eine Frau oder ein Kind gewährt wird.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00007_s",
+   "typ": "s",
+   "kapitel": "Vii",
+   "text": "Doch wenn der Kapitän ruft, laufen Sie zum Schiff, lassen Sie all diese Dinge zurück und blicken Sie niemals zurück.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00008_s",
+   "typ": "s",
+   "kapitel": "Vii",
+   "text": "Und wenn Sie alt sind, entfernen Sie sich nie weit vom Schiff, damit Sie nicht fehlen, wenn nach Ihnen gerufen wird.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00009_p",
+   "typ": "p",
+   "kapitel": "Vii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c009_00010_s",
+   "typ": "s",
+   "kapitel": "Vii",
+   "text": "Verlangen Sie nicht, dass die Ereignisse so geschehen, wie Sie es wünschen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c009_00011_s",
+   "typ": "s",
+   "kapitel": "Vii",
+   "text": "Wünschen Sie vielmehr, dass sie so geschehen, wie sie geschehen, und es wird Ihnen wohlergehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c010_00001_h",
+   "typ": "h",
+   "kapitel": "Ix",
+   "text": "Ix",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c010_00002_s",
+   "typ": "s",
+   "kapitel": "Ix",
+   "text": "Krankheit begrenzt den Körper, nicht aber den Willen, es sei denn, der Wille wählt es, begrenzt zu sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c010_00003_s",
+   "typ": "s",
+   "kapitel": "Ix",
+   "text": "Lahmheit begrenzt das Bein, nicht aber den Willen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c010_00004_s",
+   "typ": "s",
+   "kapitel": "Ix",
+   "text": "Sagen Sie sich dies über alles, was geschieht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c010_00005_s",
+   "typ": "s",
+   "kapitel": "Ix",
+   "text": "Denn Sie werden finden, dass es etwas anderes begrenzt, nicht aber wahrhaft Sie selbst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c010_00006_p",
+   "typ": "p",
+   "kapitel": "Ix",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c010_00007_s",
+   "typ": "s",
+   "kapitel": "Ix",
+   "text": "Wann immer etwas geschieht, denken Sie daran, sich nach innen zu wenden und zu fragen, welche Fähigkeit Sie besitzen, damit umzugehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c010_00008_s",
+   "typ": "s",
+   "kapitel": "Ix",
+   "text": "Begegnen Sie einem schönen Menschen, werden Sie finden, dass Selbstbeherrschung die nötige Fähigkeit ist; ist es Schmerz, dann Mut; ist es Kränkung, dann Geduld.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c010_00009_s",
+   "typ": "s",
+   "kapitel": "Ix",
+   "text": "Wenn Sie dies zur Gewohnheit machen, werden die Ereignisse des Lebens Sie nicht überwältigen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c011_00001_h",
+   "typ": "h",
+   "kapitel": "Xi",
+   "text": "Xi",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c011_00002_s",
+   "typ": "s",
+   "kapitel": "Xi",
+   "text": "Sage niemals von einer Sache: „Ich habe sie verloren“, sondern vielmehr: „Ich habe sie zurückgegeben.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c011_00003_s",
+   "typ": "s",
+   "kapitel": "Xi",
+   "text": "Ist dein Kind gestorben?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c011_00004_s",
+   "typ": "s",
+   "kapitel": "Xi",
+   "text": "Es ist zurückgegeben worden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c011_00005_s",
+   "typ": "s",
+   "kapitel": "Xi",
+   "text": "Ist deine Frau gestorben?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c011_00006_s",
+   "typ": "s",
+   "kapitel": "Xi",
+   "text": "Sie ist zurückgegeben worden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c011_00007_s",
+   "typ": "s",
+   "kapitel": "Xi",
+   "text": "Ist dir dein Besitz genommen worden?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c011_00008_s",
+   "typ": "s",
+   "kapitel": "Xi",
+   "text": "Auch das ist zurückgegeben worden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c011_00009_s",
+   "typ": "s",
+   "kapitel": "Xi",
+   "text": "„Aber es war ein schlechter Mensch, der ihn genommen hat.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c011_00010_s",
+   "typ": "s",
+   "kapitel": "Xi",
+   "text": "Was kümmert es dich, durch wen der Geber ihn zurückgefordert hat?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c011_00011_s",
+   "typ": "s",
+   "kapitel": "Xi",
+   "text": "Solange er dir erlaubt, es zu haben, behandle es als etwas, das nicht dein eigen ist, wie Reisende in einer Herberge.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c012_00001_h",
+   "typ": "h",
+   "kapitel": "Xii",
+   "text": "XII",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c012_00002_s",
+   "typ": "s",
+   "kapitel": "Xii",
+   "text": "Wenn Sie sich bessern wollen, schlagen Sie sich Gedanken aus dem Sinn wie diese: „Wenn ich meine Geschäfte vernachlässige, werde ich mich nicht mehr ernähren können; wenn ich meinen Diener nicht bestrafe, wird er zu nichts taugen.“ Denn es wäre besser, frei von Kummer und Furcht Hungers zu sterben, als in Wohlstand mit beunruhigtem Gemüt zu leben. Und es ist besser, dass Ihr Diener schlecht ist, als dass Sie unglücklich sind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c012_00003_p",
+   "typ": "p",
+   "kapitel": "Xii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c012_00004_s",
+   "typ": "s",
+   "kapitel": "Xii",
+   "text": "Beginnen Sie also mit den kleinen Dingen. Wird ein wenig Öl verschüttet oder ein wenig Wein gestohlen? Sagen Sie sich: „Das ist der Preis für Frieden und Ruhe; und nichts ist umsonst zu haben.“ Und wenn Sie Ihren Diener rufen, so bedenken Sie, dass er vielleicht nicht kommt, wenn Sie rufen; oder, wenn er kommt, dass er vielleicht nicht tut, was Sie wünschen. Aber es ist keineswegs wünschenswert für ihn und sehr unerwünscht für Sie, dass es in seiner Macht stünde, Ihnen irgendeine Störung zu verursachen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c013_00001_h",
+   "typ": "h",
+   "kapitel": "Xiii",
+   "text": "XIII",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c013_00002_s",
+   "typ": "s",
+   "kapitel": "Xiii",
+   "text": "Willst du dich bessern, so sei bereit, in äußeren Dingen für töricht und einfältig gehalten zu werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c013_00003_p",
+   "typ": "p",
+   "kapitel": "Xiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c013_00004_s",
+   "typ": "s",
+   "kapitel": "Xiii",
+   "text": "Wünsche nicht, den Anschein zu erwecken, als wüsstest du etwas; und selbst wenn du anderen bedeutend erscheinst, traue diesem Eindruck nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c013_00005_p",
+   "typ": "p",
+   "kapitel": "Xiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c013_00006_s",
+   "typ": "s",
+   "kapitel": "Xiii",
+   "text": "Denn dessen sei gewiss: Es ist nicht leicht, deinen Willen in Übereinstimmung mit der Natur zu halten und zugleich die äußeren Dinge zu sichern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c013_00007_p",
+   "typ": "p",
+   "kapitel": "Xiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c013_00008_s",
+   "typ": "s",
+   "kapitel": "Xiii",
+   "text": "Richtest du dich auf das eine, wirst du notwendig das andere vernachlässigen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c014_00001_h",
+   "typ": "h",
+   "kapitel": "Xiv",
+   "text": "Xiv",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c014_00002_s",
+   "typ": "s",
+   "kapitel": "Xiv",
+   "text": "Wenn Sie wünschen, dass Ihre Kinder, Ihre Frau und Ihre Freunde ewig leben, sind Sie töricht; denn Sie wünschen, was nicht in Ihrer Macht steht, und dass Ihnen gehöre, was anderen zukommt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c014_00003_s",
+   "typ": "s",
+   "kapitel": "Xiv",
+   "text": "Ebenso sind Sie töricht, wenn Sie wünschen, Ihr Diener möge ohne Fehler sein; denn Sie wünschen, dass das Laster nicht Laster sei, sondern etwas anderes.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c014_00004_s",
+   "typ": "s",
+   "kapitel": "Xiv",
+   "text": "Wenn Sie aber wünschen, in Ihrem Begehren nicht enttäuscht zu werden, so steht das in Ihrer Macht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c014_00005_s",
+   "typ": "s",
+   "kapitel": "Xiv",
+   "text": "Üben Sie sich also in dem, was in Ihrer Macht steht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c014_00006_s",
+   "typ": "s",
+   "kapitel": "Xiv",
+   "text": "Herr über einen Menschen ist, wer ihm geben oder nehmen kann, was jener begehrt oder meidet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c014_00007_s",
+   "typ": "s",
+   "kapitel": "Xiv",
+   "text": "Wer also frei sein will, soll nichts wünschen und nichts meiden, was von anderen abhängt; sonst muss er notwendig ein Sklave sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c015_00001_h",
+   "typ": "h",
+   "kapitel": "Xv",
+   "text": "XV",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c015_00002_s",
+   "typ": "s",
+   "kapitel": "Xv",
+   "text": "Denke daran, daß du dich wie bei einem Gastmahl verhalten mußt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c015_00003_s",
+   "typ": "s",
+   "kapitel": "Xv",
+   "text": "Wird dir etwas gereicht?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c015_00004_s",
+   "typ": "s",
+   "kapitel": "Xv",
+   "text": "Strecke deine Hand aus und nimm ein bescheidenes Teil.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c015_00005_s",
+   "typ": "s",
+   "kapitel": "Xv",
+   "text": "Geht es an dir vorüber?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c015_00006_s",
+   "typ": "s",
+   "kapitel": "Xv",
+   "text": "Halte es nicht auf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c015_00007_s",
+   "typ": "s",
+   "kapitel": "Xv",
+   "text": "Ist es noch nicht bei dir?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c015_00008_s",
+   "typ": "s",
+   "kapitel": "Xv",
+   "text": "Verlange nicht voll Begierde danach, sondern warte, bis es zu dir gelangt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c015_00009_s",
+   "typ": "s",
+   "kapitel": "Xv",
+   "text": "So halte es auch mit Kindern, der Frau, dem Amt, dem Reichtum; und du wirst irgendwann würdig sein, mit den Göttern zu speisen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c015_00010_s",
+   "typ": "s",
+   "kapitel": "Xv",
+   "text": "Und wenn du die Dinge, die dir vorgesetzt werden, nicht einmal nimmst, sondern sogar auf sie verzichten kannst, dann wirst du nicht nur würdig sein, mit den Göttern zu speisen, sondern auch mit ihnen zu herrschen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c015_00011_s",
+   "typ": "s",
+   "kapitel": "Xv",
+   "text": "Denn dadurch wurden Diogenes und Heraklit und andere ihresgleichen mit Recht göttlich und als solche anerkannt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c016_00001_h",
+   "typ": "h",
+   "kapitel": "Xvi",
+   "text": "XVI",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c016_00002_s",
+   "typ": "s",
+   "kapitel": "Xvi",
+   "text": "Wenn du jemanden in Trauer weinen siehst, sei es, weil sein Sohn in die Fremde gegangen ist oder weil er Verluste in seinen Geschäften erlitten hat, so hüte dich, von dem überwältigt zu werden, was als das Unglück erscheint.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c016_00003_p",
+   "typ": "p",
+   "kapitel": "Xvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c016_00004_s",
+   "typ": "s",
+   "kapitel": "Xvi",
+   "text": "Unterscheide vielmehr und sei bereit zu sagen: „Was diesen Menschen schmerzt, ist nicht das Ereignis selbst – ein anderer könnte davon nicht getroffen sein –, sondern die Art, wie er es zu betrachten wählt.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c016_00005_p",
+   "typ": "p",
+   "kapitel": "Xvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c016_00006_s",
+   "typ": "s",
+   "kapitel": "Xvi",
+   "text": "Im Gespräch jedoch zögere nicht, ihm dort zu begegnen, wo er steht, und, wenn nötig, mit ihm zu trauern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c016_00007_p",
+   "typ": "p",
+   "kapitel": "Xvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c016_00008_s",
+   "typ": "s",
+   "kapitel": "Xvi",
+   "text": "Aber hüte dich, auch innerlich zu trauern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c017_00001_h",
+   "typ": "h",
+   "kapitel": "Xvii",
+   "text": "XVII",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c017_00002_s",
+   "typ": "s",
+   "kapitel": "Xvii",
+   "text": "Bedenken Sie, daß Sie ein Schauspieler sind in einem Drama, wie es der Verfasser wählt – ist es kurz, dann in einem kurzen; ist es lang, dann in einem langen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c017_00003_s",
+   "typ": "s",
+   "kapitel": "Xvii",
+   "text": "Ist es sein Wille, daß Sie einen Armen, einen Krüppel, einen Herrscher oder einen einfachen Bürger spielen, so sehen Sie zu, daß Sie gut spielen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c017_00004_s",
+   "typ": "s",
+   "kapitel": "Xvii",
+   "text": "Denn dies ist Ihre Sache – die Ihnen zugeteilte Rolle gut zu spielen; sie aber zu wählen, steht einem anderen zu.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c018_00001_h",
+   "typ": "h",
+   "kapitel": "Xviii",
+   "text": "XVIII",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c018_00002_s",
+   "typ": "s",
+   "kapitel": "Xviii",
+   "text": "Wenn ein Rabe einmal unheilvoll krächzt, lassen Sie sich nicht von den Erscheinungen überwältigen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c018_00003_p",
+   "typ": "p",
+   "kapitel": "Xviii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c018_00004_s",
+   "typ": "s",
+   "kapitel": "Xviii",
+   "text": "Denken Sie vielmehr klar und sagen Sie: »Nichts ist mir vorhergesagt – nicht für meinen unbedeutenden Körper, mein Eigentum, meinen Ruf, meine Kinder oder meine Frau.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c018_00005_s",
+   "typ": "s",
+   "kapitel": "Xviii",
+   "text": "Für mich sind alle Zeichen glücklich, wenn ich sie dazu erwähle.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c018_00006_s",
+   "typ": "s",
+   "kapitel": "Xviii",
+   "text": "Was auch geschieht, es liegt an mir, daraus einen Nutzen zu ziehen.«",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c019_00001_h",
+   "typ": "h",
+   "kapitel": "Xix",
+   "text": "XIX",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c019_00002_s",
+   "typ": "s",
+   "kapitel": "Xix",
+   "text": "Du kannst unbesiegbar sein, wenn du dich niemals auf einen Kampf einlässt, bei dem der Sieg nicht in deiner eigenen Macht steht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c019_00003_p",
+   "typ": "p",
+   "kapitel": "Xix",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c019_00004_s",
+   "typ": "s",
+   "kapitel": "Xix",
+   "text": "Wenn du also jemanden siehst, der wegen Ehren oder Macht berühmt ist oder aus irgendeinem anderen Grund hohes Ansehen genießt, hüte dich, dich vom Schein blenden zu lassen und diesen Menschen glücklich zu nennen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c019_00005_p",
+   "typ": "p",
+   "kapitel": "Xix",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c019_00006_s",
+   "typ": "s",
+   "kapitel": "Xix",
+   "text": "Denn wenn das Wesen des Guten in dem liegt, was in unserer eigenen Macht steht, wird es keinen Raum für Neid oder Rivalität geben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c019_00007_p",
+   "typ": "p",
+   "kapitel": "Xix",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c019_00008_s",
+   "typ": "s",
+   "kapitel": "Xix",
+   "text": "Du aber wünsche dir nicht, Feldherr, Senator oder Konsul zu sein, sondern frei zu sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c019_00009_p",
+   "typ": "p",
+   "kapitel": "Xix",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c019_00010_s",
+   "typ": "s",
+   "kapitel": "Xix",
+   "text": "Der einzige Weg dorthin besteht darin, die Dinge geringzuschätzen, die nicht in unserer eigenen Macht stehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c020_00001_h",
+   "typ": "h",
+   "kapitel": "Xx",
+   "text": "Xx",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c020_00002_s",
+   "typ": "s",
+   "kapitel": "Xx",
+   "text": "Bedenke, dass nicht der Mensch dir Unrecht tut, der dich beschimpft oder schlägt, sondern deine eigene Meinung, dass diese Dinge beleidigend seien.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c020_00003_s",
+   "typ": "s",
+   "kapitel": "Xx",
+   "text": "Wenn dich also jemand reizt, so wisse, dass es deine eigene Vorstellung ist, die dich reizt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c020_00004_s",
+   "typ": "s",
+   "kapitel": "Xx",
+   "text": "Darum versuche zuallererst, dich nicht vom bloßen Anschein fortreißen zu lassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c020_00005_s",
+   "typ": "s",
+   "kapitel": "Xx",
+   "text": "Denn wenn du erst einmal Zeit gewinnst und zögerst, wirst du dich leichter beherrschen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c021_00001_h",
+   "typ": "h",
+   "kapitel": "Xxi",
+   "text": "XXI.",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c021_00002_s",
+   "typ": "s",
+   "kapitel": "Xxi",
+   "text": "Lassen Sie Tod und Verbannung und alles andere, was furchtbar scheint, täglich vor Ihren Augen stehen, den Tod aber vor allem; und Sie werden niemals einen niedrigen oder feigen Gedanken fassen noch irgendetwas allzu begierig begehren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c022_00001_h",
+   "typ": "h",
+   "kapitel": "Xxii",
+   "text": "Xxii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c022_00002_s",
+   "typ": "s",
+   "kapitel": "Xxii",
+   "text": "Wenn du wahrhaft nach Weisheit verlangst, so rüste dich von Anfang an darauf, dass die Menge lacht und spottet und sagt: „Auf einmal ist er uns als Philosoph zurückgekommen“; und: „Woher kommt dieser hochmütige Blick?“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c022_00003_p",
+   "typ": "p",
+   "kapitel": "Xxii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c022_00004_s",
+   "typ": "s",
+   "kapitel": "Xxii",
+   "text": "Du aber setze nicht wirklich eine hochmütige Miene auf, sondern halte fest an dem, was dir das Beste scheint, als einer, der von Gott in diese besondere Rolle gestellt ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c022_00005_p",
+   "typ": "p",
+   "kapitel": "Xxii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c022_00006_s",
+   "typ": "s",
+   "kapitel": "Xxii",
+   "text": "Denn bedenke: Wenn du dabei bleibst, werden eben die, die zuerst über dich spotteten, dich später bewundern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c022_00007_s",
+   "typ": "s",
+   "kapitel": "Xxii",
+   "text": "Lässt du dich aber von ihnen besiegen, wirst du doppelten Spott ernten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c023_00001_h",
+   "typ": "h",
+   "kapitel": "Xxiii",
+   "text": "XXIII",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c023_00002_s",
+   "typ": "s",
+   "kapitel": "Xxiii",
+   "text": "Wenn du je deine Aufmerksamkeit auf äußere Erscheinungen richtest, nur um jemandem zu gefallen, so sei versichert, daß du deinen Lebensplan verdorben hast.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c023_00003_p",
+   "typ": "p",
+   "kapitel": "Xxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c023_00004_s",
+   "typ": "s",
+   "kapitel": "Xxiii",
+   "text": "Begnüge dich also in allem damit, ein Philosoph zu sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c023_00005_s",
+   "typ": "s",
+   "kapitel": "Xxiii",
+   "text": "Und wenn du einem anderen als ein solcher erscheinen willst, so erscheine dir selbst so, und das wird genug sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00001_h",
+   "typ": "h",
+   "kapitel": "Xxiv",
+   "text": "XXIV.",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c024_00002_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Lassen Sie sich nicht von Gedanken dieser Art beunruhigen: „Ich werde in Schande leben und nirgends etwas gelten.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00003_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Denn wenn Schande ein Übel ist, können Sie so wenig durch einen anderen in ein Übel geraten, wie Sie durch einen anderen in Niedertracht geraten können.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00004_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Ist es denn überhaupt Ihre Sache, Macht zu erlangen oder zu einem Gastmahl geladen zu werden?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00005_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Keineswegs.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00006_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Wie also ist dies eine Schande?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00007_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Und wie soll es wahr sein, dass Sie nirgends etwas gelten werden, wo Sie doch nur in dem etwas gelten sollen, was in Ihrer eigenen Macht steht und worin Sie von größter Bedeutung sein können?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00008_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "„Aber meinen Freunden wird nicht geholfen werden.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00009_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Was meinen Sie mit ‚nicht geholfen‘?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00010_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Sie werden kein Geld von Ihnen erhalten, und Sie werden sie nicht zu römischen Bürgern machen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00011_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Wer hat Ihnen denn gesagt, dass dies zu den Dingen gehört, die in unserer Macht stehen, und nicht vielmehr zu den Angelegenheiten anderer?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00012_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Und wer kann einem anderen geben, was er selbst nicht hat?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00013_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "„Nun, so erwerben Sie es doch, damit auch wir Anteil daran haben.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00014_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Wenn ich es erwerben kann, während ich meine Ehre, meine Treue und meine Selbstachtung bewahre, so zeigen Sie mir den Weg, und ich werde es erwerben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00015_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Wenn Sie aber verlangen, dass ich mein eigenes wahres Gut verliere, damit Sie erlangen, was kein Gut ist, so bedenken Sie, wie unvernünftig und töricht Sie sind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00016_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Und was hätten Sie lieber: eine Summe Geldes oder einen treuen und ehrenhaften Freund?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00017_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "So helfen Sie mir lieber, diesen Charakter zu gewinnen, als von mir zu verlangen, dass ich das tue, wodurch ich ihn verlieren könnte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00018_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Nun, aber mein Vaterland, sagen Sie, wird, soweit es an mir liegt, ohne Beistand sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00019_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Was für ein Beistand ist das wiederum, den Sie meinen?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00020_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Es wird keine Säulenhallen und Bäder von Ihnen erhalten?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00021_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Und was macht das aus?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00022_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Nun, ein Schmied versorgt es auch nicht mit Schuhen und ein Schuster nicht mit Waffen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00023_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Es genügt, wenn jeder sein eigenes Geschäft vollständig verrichtet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00024_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Und wenn Sie ihm einen anderen treuen und ehrenhaften Bürger verschafften, wäre der ihm nicht von Nutzen?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c024_00025_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Ja.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00026_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Also bist auch du selbst ihm nicht unnütz.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00027_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "„Welchen Platz also“, sagst du, „soll ich im Staat einnehmen?“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00028_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Welchen Platz du einnehmen kannst, während du deine Treue und Ehre bewahrst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c024_00029_s",
+   "typ": "s",
+   "kapitel": "Xxiv",
+   "text": "Wenn du aber, indem du ihm nützen willst, diese verlierst, wie kannst du deinem Vaterland dienen, wenn du treulos und schamlos geworden bist?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c025_00001_h",
+   "typ": "h",
+   "kapitel": "Xxv",
+   "text": "Xxv",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c025_00002_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Wird einem anderen bei einem Gastmahl ein besserer Platz zugewiesen als Ihnen, oder wird ihm mehr Höflichkeit erwiesen oder vertraulichere Unterredung anvertraut?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c025_00003_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Wenn diese Dinge gut sind, sollten Sie sich freuen, dass der andere sie hat.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00004_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Wenn sie schlecht sind, seien Sie nicht betrübt, dass Sie sie nicht haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00005_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Und bedenken Sie, dass Sie nicht erwarten können, mit anderen um äußere Vorteile zu wetteifern, ohne dieselben Mittel anzuwenden, um sie zu erlangen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00006_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Denn wie könnte jemand, der sich weigert, an der Tür eines Menschen zu warten, ihm aufzuwarten und ihn zu loben, einen gleichen Anteil erwarten wie einer, der all dies tut?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c025_00007_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Sie sind also ungerecht und unvernünftig, wenn Sie den Preis, für den diese Dinge verkauft werden, nicht zahlen wollen und sie dennoch umsonst haben möchten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00008_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Für wie viel wird denn Salat verkauft?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c025_00009_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Für einen Obolus, zum Beispiel.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00010_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Wenn ein anderer einen Obolus zahlt und den Salat nimmt, Sie aber nicht zahlen und ohne ihn gehen, so bilden Sie sich nicht ein, er habe einen Vorteil über Sie gewonnen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00011_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Denn so wie er den Salat hat, so haben Sie noch den Obolus, den Sie nicht gegeben haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00012_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "So verhält es sich auch im vorliegenden Fall: Sie sind nicht zu einem solchen Gastmahl eingeladen worden, weil Sie dem Betreffenden nicht den Preis gezahlt haben, für den ein Mahl verkauft wird.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00013_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Es wird für Lob verkauft; es wird für Aufwartung verkauft.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00014_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Geben Sie ihm also den Wert, wenn es Ihnen die Sache wert ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00015_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Wollen Sie aber das eine nicht zahlen und das andere dennoch erhalten, so sind Sie unvernünftig und töricht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c025_00016_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Haben Sie denn nichts anstelle des Mahles?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c025_00017_s",
+   "typ": "s",
+   "kapitel": "Xxv",
+   "text": "Ja, gewiss haben Sie etwas – Sie brauchen niemanden zu loben, den Sie nicht loben mögen, und Sie brauchen sich die Grobheit seiner Diener nicht gefallen zu lassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c026_00001_h",
+   "typ": "h",
+   "kapitel": "Xxvi",
+   "text": "Xxvi",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c026_00002_s",
+   "typ": "s",
+   "kapitel": "Xxvi",
+   "text": "Der Wille der Natur lässt sich aus Dingen verstehen, über die wir alle einig sind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c026_00003_s",
+   "typ": "s",
+   "kapitel": "Xxvi",
+   "text": "Wenn zum Beispiel das Kind unseres Nachbarn einen Becher oder etwas Ähnliches zerbricht, sagen wir sogleich: „So etwas geschieht nun einmal.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c026_00004_s",
+   "typ": "s",
+   "kapitel": "Xxvi",
+   "text": "Sei also gewiss: Wenn dein eigener Becher auf dieselbe Weise zerbricht, solltest du ebenso empfinden wie damals, als der Becher eines anderen zerbrach.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c026_00005_s",
+   "typ": "s",
+   "kapitel": "Xxvi",
+   "text": "Wende dies nun auf größere Dinge an.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c026_00006_s",
+   "typ": "s",
+   "kapitel": "Xxvi",
+   "text": "Ist einem anderen sein Kind oder seine Frau gestorben?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c026_00007_s",
+   "typ": "s",
+   "kapitel": "Xxvi",
+   "text": "Es gibt niemanden, der nicht sagte: „Das gehört zum Menschsein.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c026_00008_s",
+   "typ": "s",
+   "kapitel": "Xxvi",
+   "text": "Stirbt aber jemandem das eigene Kind, ruft er sogleich: „Ach, wie elend ich bin!“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c026_00009_s",
+   "typ": "s",
+   "kapitel": "Xxvi",
+   "text": "Wir sollten stets daran denken, wie wir empfinden, wenn wir hören, dass anderen dasselbe widerfährt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c026_00010_p",
+   "typ": "p",
+   "kapitel": "Xxvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c026_00011_s",
+   "typ": "s",
+   "kapitel": "Xxvi",
+   "text": "Wie ein Ziel nicht aufgestellt wird, damit man es verfehlt, so existiert das Wesen des Bösen nicht in der Welt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c027_00001_h",
+   "typ": "h",
+   "kapitel": "Xxviii",
+   "text": "Xxviii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c027_00002_s",
+   "typ": "s",
+   "kapitel": "Xxviii",
+   "text": "Wenn jemand Ihren Körper einem beliebigen Passanten auslieferte, wären Sie gewiss empört.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c027_00003_p",
+   "typ": "p",
+   "kapitel": "Xxviii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c027_00004_s",
+   "typ": "s",
+   "kapitel": "Xxviii",
+   "text": "Warum also empfinden Sie keine Scham, wenn Sie Ihren eigenen Geist jedem Tadler überlassen und zulassen, dass Sie beunruhigt und verwirrt werden?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c028_00001_h",
+   "typ": "h",
+   "kapitel": "Xxix[2]",
+   "text": "Xxix[2]",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c028_00002_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Bei jeder Sache bedenke, was vorhergeht und was folgt, und dann erst gehe sie an.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00003_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Andernfalls wirst du zwar anfangs mit Eifer beginnen, ohne an die Folgen zu denken, wenn diese aber eintreten, wirst du dich schmählich zurückziehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00004_dl",
+   "typ": "dl",
+   "kapitel": "Xxix[2]",
+   "text": "„Ich möchte bei den Olympischen Spielen siegen.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c028_00005_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Aber bedenke, was vorhergeht und was folgt, und dann, wenn es zu deinem Vorteil ist, nimm die Sache auf dich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00006_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Du musst dich Regeln fügen, eine Diät einhalten, dich üppiger Speisen enthalten; deinen Körper üben, ob du willst oder nicht, zu festgesetzter Stunde, in Hitze und Kälte; du darfst kein kaltes Wasser trinken und bisweilen keinen Wein – mit einem Wort, du musst dich deinem Trainer übergeben wie einem Arzt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00007_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Dann, im Kampf, magst du in einen Graben geworfen werden, dir den Arm verrenken, den Knöchel verstauchen, reichlich Staub schlucken, Schläge erhalten [für Unachtsamkeit] und am Ende den Sieg verlieren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00008_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Wenn du dies alles zusammengerechnet hast und deine Neigung dennoch anhält, dann mache dich an den Wettkampf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00009_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Andernfalls, merke es dir, wirst du dich wie Kinder verhalten, die bald Ringer spielen, bald Gladiatoren, bald Trompete blasen und bald eine Tragödie aufführen, wenn sie gerade solche Schauspiele gesehen und bewundert haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00010_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "So wirst auch du bald ein Ringer sein, bald ein Gladiator; jetzt ein Philosoph, jetzt ein Redner; aber nichts mit Ernst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00011_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Wie ein Affe ahmst du alles nach, was du siehst, und bald gefällt dir dies, bald das, doch sobald es vertraut wird, verliert es deine Gunst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00012_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Denn du hast nie etwas mit Sorgfalt begonnen, auch nicht, nachdem du die ganze Sache überschaut und geprüft hast, sondern leichtsinnig und mit halbem Eifer.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00013_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "So haben manche, wenn sie einen Philosophen gesehen und einen Mann wie Euphrates[3] reden gehört haben – obwohl, freilich, wer kann reden wie er? –, den Wunsch, ebenfalls Philosophen zu sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00014_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Bedenke zuerst, Mensch, was die Sache ist und was deine eigene Natur zu tragen vermag.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00015_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Wenn du ein Ringer sein willst, bedenke deine Schultern, deinen Rücken, deine Schenkel; denn verschiedene Menschen sind für Verschiedenes gemacht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00016_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Glaubst du, du könnest so handeln wie jetzt und ein Philosoph sein, könnest essen, trinken, zürnen, unzufrieden sein wie jetzt?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c028_00017_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Du musst Wache halten, dich mühen, gewisse Begierden überwinden, deine Bekannten verlassen, von deinem Sklaven verachtet, von denen, die dir begegnen, ausgelacht werden; in allem schlechter wegkommen als andere – in Ämtern, in Ehren, vor Gericht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00018_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Wenn du dies alles vollständig bedacht hast, dann tritt heran, wenn du willst – das heißt, wenn du durch den Verzicht darauf gesonnen bist, Heiterkeit, Freiheit und Ruhe zu erkaufen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00019_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Wenn nicht, so komm nicht hierher; sei nicht wie die Kinder bald ein Philosoph, dann ein Steuereintreiber, dann ein Redner und dann einer von Caesars Beamten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00020_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Diese Dinge sind nicht miteinander vereinbar.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00021_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Du musst ein Mensch sein, entweder gut oder schlecht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c028_00022_s",
+   "typ": "s",
+   "kapitel": "Xxix[2]",
+   "text": "Du musst entweder deine eigene Vernunft pflegen oder die äußeren Dinge; dich entweder auf das Innere oder das Äußere richten – das heißt, entweder ein Philosoph sein oder einer aus der Menge.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c029_00001_h",
+   "typ": "h",
+   "kapitel": "Xxx",
+   "text": "Xxx",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c029_00002_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Pflichten werden immer durch Beziehungen bestimmt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c029_00003_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Ist ein bestimmter Mann Ihr Vater?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c029_00004_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Dann ist darin eingeschlossen, dass Sie für ihn sorgen, sich ihm in allen Dingen fügen und seine Kritik und Zurechtweisung geduldig annehmen sollen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c029_00005_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Aber er ist ein schlechter Vater.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c029_00006_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Besteht Ihre natürliche Bindung dann zu einem guten Vater?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c029_00007_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Nein, sondern zu einem Vater.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c029_00008_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Ist ein Bruder ungerecht?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c029_00009_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Nun, so bewahren Sie Ihr eigenes gerechtes Verhältnis ihm gegenüber.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c029_00010_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Bedenken Sie nicht, was er tut, sondern was Sie tun müssen, um Ihren eigenen Willen in einem Zustand zu halten, der der Natur entspricht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c029_00011_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Denn ein anderer kann Sie nicht verletzen, wenn Sie es nicht zulassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c029_00012_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Sie werden verletzt, wenn Sie einwilligen, verletzt zu werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c029_00013_s",
+   "typ": "s",
+   "kapitel": "Xxx",
+   "text": "Wenn Sie sich auf diese Weise also daran gewöhnen, die Beziehungen des Nachbarn, des Bürgers und des Befehlshabers zu betrachten, können Sie aus jeder die entsprechenden Pflichten ableiten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00001_h",
+   "typ": "h",
+   "kapitel": "Xxxi",
+   "text": "Xxxi",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c030_00002_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Sei versichert, dass das Herz der Frömmigkeit gegenüber den Göttern hierin liegt: richtige Meinungen über sie zu bilden, dass sie sind und das All gerecht und gut lenken.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00003_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Und festige dich in diesem Entschluss, ihnen zu gehorchen, ihnen nachzugeben und ihnen in allen Ereignissen willig zu folgen, als einer, der von der vollkommensten Weisheit regiert wird.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00004_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Denn auf diese Weise werden Sie niemals die Götter tadeln oder sie beschuldigen, Sie zu vernachlässigen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00005_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Und dies kann auf keine andere Weise erreicht werden, als indem Sie sich von den Dingen zurückziehen, die nicht in unserer eigenen Macht stehen, und indem Sie Gut und Böse allein in jene setzen, die es sind.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00006_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Denn wenn Sie irgendwelche anderen Dinge für gut oder böse halten, ist es unvermeidlich, dass Sie, wenn Sie in dem, was Sie wünschen, enttäuscht werden oder dem begegnen, was Sie meiden möchten, diejenigen tadeln und beschuldigen, die es verursacht haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00007_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Denn jedes Lebewesen ist von Natur aus dazu gebildet, Dinge, die schädlich erscheinen, und alles, was sie verursacht, zu fliehen und zu hassen und das, was nützlich erscheint, und alles, was es verursacht, zu verfolgen und zu bewundern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00008_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Es ist also unmöglich, dass einer, der glaubt, geschädigt zu sein, sich über den freut, der ihn, wie er meint, schädigt, ebenso wie es unmöglich ist, sich über den Schaden selbst zu freuen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00009_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Daher wird auch ein Vater von seinem Sohn beschimpft, wenn er ihm nicht die Dinge gibt, die gut zu sein scheinen; und dies machte Polyneikes und Eteokles[4] zu gegenseitigen Feinden – dass die Herrschaft beiden gut schien.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00010_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Aus diesem Grund beschimpft der Bauer die Götter; und ebenso tun es der Seemann, der Kaufmann oder die, die Frau oder Kind verloren haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00011_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Denn wo unser Interesse liegt, dorthin ist auch die Frömmigkeit gerichtet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00012_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "So dass, wer sorgfältig darauf achtet, sein Begehren und seine Abneigungen zu ordnen, wie er soll, dadurch auch auf die Frömmigkeit achtet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c030_00013_s",
+   "typ": "s",
+   "kapitel": "Xxxi",
+   "text": "Es obliegt aber auch jedem, Trankopfer und Opfer und Erstlingsgaben nach den Bräuchen seines Landes darzubringen, rein und nicht nachlässig noch fahrlässig; nicht geizig, aber auch nicht verschwenderisch.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00001_h",
+   "typ": "h",
+   "kapitel": "Xxxii",
+   "text": "Xxxii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c031_00002_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Wenn du dich der Wahrsagerei zuwendest, so bedenke, dass du nicht weißt, was geschehen wird, und dass du hingehst, um es vom Wahrsager zu erfahren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00003_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Wenn du aber einen philosophischen Geist hast, so weißt du schon vorher, welcher Art die Sache ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00004_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Denn wenn sie zu den Dingen gehört, die nicht in deiner eigenen Macht stehen, kann sie keinesfalls gut oder böse sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00005_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Bringe also weder Begierde noch Furcht mit zum Wahrsager.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00006_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Andernfalls wirst du ihm zitternd entgegentreten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00007_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Verstehe vielmehr zuerst klar, dass jedes Ereignis gleichgültig ist und nichts für dich bedeutet, welcher Art es auch sein mag.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00008_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Denn es wird in deiner Macht stehen, guten Gebrauch davon zu machen, und niemand kann dies verhindern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00009_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Dann tritt mit Zuversicht zu den Göttern als deinen Ratgebern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00010_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Und wenn dir danach ein Rat gegeben wird, so erinnere dich, welche Ratgeber du gewählt hast und wessen Rat du missachten wirst, wenn du ungehorsam bist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00011_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Gehe zur Wahrsagerei, wie Sokrates es vorschrieb: nur in Fällen, wo sich die ganze Frage auf den Ausgang bezieht und wo weder die Vernunft noch irgendeine andere Kunst einen Weg bietet, die vorliegende Sache zu ergründen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00012_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Wenn es daher unsere Pflicht ist, die Gefahr eines Freundes oder unseres Vaterlandes zu teilen, sollten wir das Orakel nicht darüber befragen, ob wir sie teilen sollen oder nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00013_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Denn selbst wenn der Wahrsager dich warnt, dass die Vorzeichen ungünstig seien, so bedeutet dies nichts anderes, als dass Tod, Verletzung oder Verbannung vorhergesagt wird.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00014_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Aber wir haben die Vernunft in uns, und sie weist uns an, unserem Freund und unserem Vaterland auch mit diesen Gefahren beizustehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c031_00015_s",
+   "typ": "s",
+   "kapitel": "Xxxii",
+   "text": "Höre also auf den größeren Wahrsager, den pythischen Gott, der einst den Mann aus dem Tempel warf, der seinen Freund nicht gerettet hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00001_h",
+   "typ": "h",
+   "kapitel": "Xxxiii",
+   "text": "Xxxiii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c032_00002_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Bestimme zuerst für dich selbst einen Charakter und eine Haltung, die du sowohl im Alleinsein als auch im Umgang mit anderen beibehalten kannst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00003_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00004_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Sei meist still oder sage nur das Notwendige, und das in wenigen Worten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00005_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Wir mögen uns gelegentlich, wenn die Gelegenheit es verlangt, mit Maßen am Gespräch beteiligen, doch lass es nicht auf gewöhnliche Themen abgleiten wie Gladiatoren, Pferderennen, Wettkampfsieger, Speise oder Trank – die vulgären Gegenstände des Geredes – und schon gar nicht auf andere Menschen, weder um sie zu tadeln, zu loben noch um Vergleiche anzustellen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00006_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Wenn du kannst, lenke das Gespräch deiner Gesellschaft durch dein eigenes Beispiel auf angemessene Gegenstände; solltest du dich aber unter Fremden wiederfinden, so bleibe still.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00007_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00008_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Lass dein Lachen nicht laut, häufig oder übermäßig sein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00009_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00010_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Vermeide Schwüre nach Möglichkeit gänzlich; jedenfalls meide sie, so weit du es vermagst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00011_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00012_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Meide öffentliche und vulgäre Vergnügungen; wenn dich aber je ein Anlass dorthin ruft, halte deine Aufmerksamkeit wach, damit du nicht unbemerkt in Vulgarität abgleitest.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00013_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Denn sei versichert: Selbst wenn ein Mensch in sich völlig rein ist, so wird, wenn sein Gefährte verdorben ist, auch der, der mit ihm Umgang pflegt, verdorben werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00014_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00015_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Sorge für die Bedürfnisse des Körpers nur, soweit es die unbedingte Notwendigkeit verlangt, wie Speise, Trank, Kleidung, Wohnung und Diener.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00016_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Alles aber, was auf Pracht und Luxus zielt, schneide ab.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00017_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00018_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Vor der Ehe hüte dich mit aller Kraft vor unerlaubten geschlechtlichen Beziehungen zu Frauen, doch sei nicht unfreundlich oder hart zu denen, die dazu verleitet werden, und prahle nicht häufig damit, dass du selbst dich anders verhältst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00019_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00020_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Wenn dir jemand sagt, ein gewisser Mensch rede schlecht über dich, so entschuldige dich nicht wegen dessen, was über dich gesagt wird, sondern antworte: „Er kannte meine übrigen Fehler nicht, sonst hätte er nicht nur diese erwähnt.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00021_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00022_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Es ist nicht nötig, dass du oft bei öffentlichen Schauspielen erscheinst; wenn es aber je einen passenden Anlass für dich gibt, dort zu sein, so erscheine nicht besorgter um irgendeinen anderen als um dich selbst – das heißt, wünsche, dass die Dinge genau so sind, wie sie sind, und dass nur der Beste gewinnt; dann wird nichts gegen dich laufen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00023_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Enthalte dich aber gänzlich des Schreiens, des Spottens und heftiger Gemütsbewegungen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00024_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Und wenn du gehst, sprich nicht ausführlich über das Geschehene und über das, was nichts zu deiner eigenen Besserung beiträgt; denn solches Gerede würde den Anschein erwecken, du seist von dem Schauspiel geblendet gewesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00025_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00026_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Sei nicht rasch oder eifrig darin, private Rezitationen zu besuchen; wenn du aber hingehst, bewahre deinen Ernst und deine Würde, während du es zugleich vermeidest, dich unangenehm zu machen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00027_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00028_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Wenn du im Begriff bist, jemanden zu treffen, und besonders jemanden, der dir überlegen scheint, so stelle dir vor, wie Sokrates oder Zenon sich in einem solchen Fall verhalten würden, und du wirst nicht ratlos sein, was immer geschehen mag, angemessen zu behandeln.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00029_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00030_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Wenn du vor jemanden in Machtstellung treten sollst, so stelle dir vor, dass du ihn vielleicht nicht zu Hause antriffst, dass du abgewiesen wirst, dass dir die Türen nicht geöffnet werden, dass er dich nicht bemerkt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00031_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Wenn es trotz alledem deine Pflicht ist zu gehen, so ertrage, was geschieht, und sage niemals zu dir selbst: „Das war so viel nicht wert“; denn das ist vulgär und gleicht einem Menschen, der von äußeren Dingen verwirrt ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00032_p",
+   "typ": "p",
+   "kapitel": "Xxxiii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c032_00033_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "In Gesellschaft vermeide es, zu oft oder zu viel über deine eigenen Taten und Gefahren zu sprechen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00034_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "So angenehm es dir auch sein mag, die Risiken zu erwähnen, die du bestanden hast, so wenig angenehm ist es für andere, von deinen Abenteuern zu hören.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00035_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Vermeide es auch, Leute zum Lachen bringen zu wollen; denn das kann dich leicht in Vulgarität führen und dich in der Achtung deiner Bekannten herabsetzen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00036_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Annäherungen an unanständige Rede sind gleichermaßen gefährlich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c032_00037_s",
+   "typ": "s",
+   "kapitel": "Xxxiii",
+   "text": "Wenn daher etwas Derartiges geschieht, nutze die erste geeignete Gelegenheit, um den zu tadeln, der so spricht, oder zeige wenigstens durch Schweigen, Erröten und einen ernsten Blick, dass dir solches Gerede missfällt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c033_00001_h",
+   "typ": "h",
+   "kapitel": "Xxxiv",
+   "text": "Xxxiv",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c033_00002_s",
+   "typ": "s",
+   "kapitel": "Xxxiv",
+   "text": "Wenn Sie vom Anblick irgendeiner verheißenen Lust geblendet werden, hüten Sie sich, von ihr fortgerissen zu werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c033_00003_p",
+   "typ": "p",
+   "kapitel": "Xxxiv",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c033_00004_s",
+   "typ": "s",
+   "kapitel": "Xxxiv",
+   "text": "Lassen Sie die Sache warten, bis Sie bereit sind, und gönnen Sie sich einigen Aufschub.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c033_00005_p",
+   "typ": "p",
+   "kapitel": "Xxxiv",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c033_00006_s",
+   "typ": "s",
+   "kapitel": "Xxxiv",
+   "text": "Dann rufen Sie sich beide Zeitpunkte vor Augen: die Zeit, da Sie die Lust genießen werden, und die Zeit, da Sie sie bereuen und sich selbst tadeln werden, nachdem Sie sie genossen haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c033_00007_p",
+   "typ": "p",
+   "kapitel": "Xxxiv",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c033_00008_s",
+   "typ": "s",
+   "kapitel": "Xxxiv",
+   "text": "Halten Sie dagegen, wie Sie sich freuen und sich selbst loben werden, wenn Sie sich zurückhalten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c033_00009_p",
+   "typ": "p",
+   "kapitel": "Xxxiv",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c033_00010_s",
+   "typ": "s",
+   "kapitel": "Xxxiv",
+   "text": "Und selbst wenn es zu dieser Zeit eine angemessene Lust zu sein scheint, geben Sie acht, dass ihre Reize und Verlockungen Sie nicht überwältigen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c033_00011_p",
+   "typ": "p",
+   "kapitel": "Xxxiv",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c033_00012_s",
+   "typ": "s",
+   "kapitel": "Xxxiv",
+   "text": "Halten Sie dagegen, wieviel besser es ist, zu wissen, dass Sie einen so großen Sieg errungen haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c034_00001_h",
+   "typ": "h",
+   "kapitel": "Xxxv",
+   "text": "Xxxv",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c034_00002_s",
+   "typ": "s",
+   "kapitel": "Xxxv",
+   "text": "Wenn Sie klar entschieden haben, dass etwas getan werden soll, zögern Sie nie, es offen zu tun, selbst wenn andere Sie missverstehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c034_00003_s",
+   "typ": "s",
+   "kapitel": "Xxxv",
+   "text": "Ist die Handlung falsch, unterlassen Sie sie ganz.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c034_00004_s",
+   "typ": "s",
+   "kapitel": "Xxxv",
+   "text": "Ist sie richtig, was fürchten Sie jene, die Sie zu Unrecht tadeln?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c035_00001_h",
+   "typ": "h",
+   "kapitel": "Xxxvi",
+   "text": "Xxxvi",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c035_00002_s",
+   "typ": "s",
+   "kapitel": "Xxxvi",
+   "text": "Die Aussage „Entweder ist es Tag oder es ist Nacht“ taugt gut für ein Entweder-oder-Argument, aber keineswegs für ein Sowohl-als-auch.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c035_00003_p",
+   "typ": "p",
+   "kapitel": "Xxxvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c035_00004_s",
+   "typ": "s",
+   "kapitel": "Xxxvi",
+   "text": "Ebenso entspricht es bei einem Mahl dem Verlangen des Körpers, den größten Anteil zu nehmen, doch es steht gänzlich im Widerspruch zum geselligen Geist der Zusammenkunft.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c035_00005_p",
+   "typ": "p",
+   "kapitel": "Xxxvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c035_00006_s",
+   "typ": "s",
+   "kapitel": "Xxxvi",
+   "text": "Wenn Sie also mit einem anderen essen, denken Sie daran, nicht nur zu bedenken, was die Speise vor Ihnen Ihrem Körper wert ist, sondern auch den Wert, Ihrem Gastgeber die gebührende Höflichkeit zu erweisen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c036_00001_h",
+   "typ": "h",
+   "kapitel": "Xxxvii",
+   "text": "Xxxvii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c036_00002_s",
+   "typ": "s",
+   "kapitel": "Xxxvii",
+   "text": "Wenn du eine Rolle übernommen hast, die über deine Kraft geht, so hast du dich in jener erniedrigt und eine aufgegeben, der du gewachsen gewesen wärst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c037_00001_h",
+   "typ": "h",
+   "kapitel": "Xxxviii",
+   "text": "Xxxviii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c037_00002_s",
+   "typ": "s",
+   "kapitel": "Xxxviii",
+   "text": "So wie du beim Gehen darauf achtest, nicht auf einen Nagel zu treten oder dir den Fuß zu verrenken, so achte ebenso darauf, den leitenden Teil deines Geistes nicht zu verletzen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c037_00003_p",
+   "typ": "p",
+   "kapitel": "Xxxviii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c037_00004_s",
+   "typ": "s",
+   "kapitel": "Xxxviii",
+   "text": "Und wenn wir uns bei jeder Handlung davor hüteten, würden wir jedes Beginnen sicherer angehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c038_00001_h",
+   "typ": "h",
+   "kapitel": "Xxxix",
+   "text": "Xxxix",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c038_00002_s",
+   "typ": "s",
+   "kapitel": "Xxxix",
+   "text": "Der Körper ist das rechte Maß für seinen Besitz, wie der Fuß das rechte Maß für den Schuh ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c038_00003_p",
+   "typ": "p",
+   "kapitel": "Xxxix",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c038_00004_s",
+   "typ": "s",
+   "kapitel": "Xxxix",
+   "text": "Bleiben Sie dabei stehen, werden Sie das angemessene Maß bewahren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c038_00005_s",
+   "typ": "s",
+   "kapitel": "Xxxix",
+   "text": "Gehen Sie aber darüber hinaus, werden Sie fortgerissen wie über einen Abhang.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c038_00006_p",
+   "typ": "p",
+   "kapitel": "Xxxix",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c038_00007_s",
+   "typ": "s",
+   "kapitel": "Xxxix",
+   "text": "Beim Schuh etwa wird er, wenn Sie über das dem Fuß Passende hinausgehen, zuerst vergoldet, dann purpurn und dann mit Edelsteinen besetzt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c038_00008_s",
+   "typ": "s",
+   "kapitel": "Xxxix",
+   "text": "Denn was einmal das rechte Maß überschreitet, hat keine Grenze mehr.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c039_00001_h",
+   "typ": "h",
+   "kapitel": "Xl",
+   "text": "Xl",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c039_00002_s",
+   "typ": "s",
+   "kapitel": "Xl",
+   "text": "Frauen werden von ihrem vierzehnten Lebensjahr an von den Männern mit dem Titel „Geliebte“ geschmeichelt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c039_00003_p",
+   "typ": "p",
+   "kapitel": "Xl",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c039_00004_s",
+   "typ": "s",
+   "kapitel": "Xl",
+   "text": "Da sie also wahrnehmen, daß sie nur als geeignet angesehen werden, den Männern Vergnügen zu bereiten, beginnen sie, sich zu schmücken, und setzen darin all ihre Hoffnung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c039_00005_p",
+   "typ": "p",
+   "kapitel": "Xl",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c039_00006_s",
+   "typ": "s",
+   "kapitel": "Xl",
+   "text": "Es lohnt sich daher, darauf hinzuwirken, daß sie sich nur insoweit geehrt fühlen, als sie in ihrem Auftreten schön und in ihrer Sittsamkeit tugendhaft erscheinen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c040_00001_h",
+   "typ": "h",
+   "kapitel": "Xli",
+   "text": "Xli",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c040_00002_s",
+   "typ": "s",
+   "kapitel": "Xli",
+   "text": "Es ist ein Zeichen eines schwachen Geistes, zu viel Zeit auf die Belange des Körpers zu verwenden, etwa übermäßige Übung, Essen und Trinken und andere leibliche Bedürfnisse.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c040_00003_p",
+   "typ": "p",
+   "kapitel": "Xli",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c040_00004_s",
+   "typ": "s",
+   "kapitel": "Xli",
+   "text": "Diese Dinge sollten nur so weit getan werden, wie nötig, während unsere Hauptkraft der Vernunft gelten soll.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c041_00001_h",
+   "typ": "h",
+   "kapitel": "Xlii",
+   "text": "Xlii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c041_00002_s",
+   "typ": "s",
+   "kapitel": "Xlii",
+   "text": "Wenn jemand Sie schlecht behandelt oder schlecht über Sie spricht, denken Sie daran, dass er so handelt oder spricht, weil er glaubt, es sei das Richtige für ihn.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c041_00003_s",
+   "typ": "s",
+   "kapitel": "Xlii",
+   "text": "Er kann nicht dem folgen, was Ihnen richtig erscheint, sondern nur dem, was ihm richtig erscheint.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c041_00004_s",
+   "typ": "s",
+   "kapitel": "Xlii",
+   "text": "Wenn er also nach falschen Vorstellungen urteilt, ist er derjenige, der Schaden nimmt, denn er ist derjenige, der getäuscht wird.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c041_00005_s",
+   "typ": "s",
+   "kapitel": "Xlii",
+   "text": "Denn wenn jemand eine wahre Aussage für falsch hält, wird die Aussage nicht verletzt; nur der Mensch wird getäuscht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c041_00006_s",
+   "typ": "s",
+   "kapitel": "Xlii",
+   "text": "Wenn Sie von diesen Grundsätzen ausgehen, werden Sie einen Menschen, der Sie beleidigt, geduldig ertragen, denn Sie werden bei jeder Gelegenheit sagen: „So schien es ihm.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c042_00001_h",
+   "typ": "h",
+   "kapitel": "Xliii",
+   "text": "Xliii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c042_00002_s",
+   "typ": "s",
+   "kapitel": "Xliii",
+   "text": "Jedes Ding hat zwei Henkel: einen, an dem es sich tragen lässt, und einen, an dem es sich nicht tragen lässt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c042_00003_s",
+   "typ": "s",
+   "kapitel": "Xliii",
+   "text": "Wenn Ihr Bruder unrecht handelt, fassen Sie die Sache nicht am Henkel seines Unrechts, denn an diesem Henkel lässt sie sich nicht tragen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c042_00004_s",
+   "typ": "s",
+   "kapitel": "Xliii",
+   "text": "Fassen Sie sie vielmehr am entgegengesetzten Henkel – dass er Ihr Bruder ist, dass er mit Ihnen aufgewachsen ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c042_00005_s",
+   "typ": "s",
+   "kapitel": "Xliii",
+   "text": "So werden Sie sie so fassen, wie sie getragen werden soll.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c043_00001_h",
+   "typ": "h",
+   "kapitel": "Xliv",
+   "text": "Xliv",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c043_00002_s",
+   "typ": "s",
+   "kapitel": "Xliv",
+   "text": "Diese Argumente haben keinen logischen Zusammenhang: „Ich bin reicher als du, also bin ich dir überlegen.“ „Ich bin beredter als du, also bin ich dir überlegen.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c043_00003_s",
+   "typ": "s",
+   "kapitel": "Xliv",
+   "text": "Der wahre logische Zusammenhang ist vielmehr dieser: „Ich bin reicher als du, also muss mein Besitz den deinen übertreffen.“ „Ich bin beredter als du, also muss mein Stil den deinen übertreffen.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c043_00004_s",
+   "typ": "s",
+   "kapitel": "Xliv",
+   "text": "Du aber bestehst schließlich weder in Besitz noch in Stil.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c044_00001_h",
+   "typ": "h",
+   "kapitel": "Xlv",
+   "text": "XLV",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c044_00002_s",
+   "typ": "s",
+   "kapitel": "Xlv",
+   "text": "Badet jemand in Eile? Sagen Sie nicht, dass er es schlecht tut, sondern dass er es hastig tut.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c044_00003_s",
+   "typ": "s",
+   "kapitel": "Xlv",
+   "text": "Trinkt jemand viel Wein? Sagen Sie nicht, dass er schlecht handelt, sondern dass er viel trinkt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c044_00004_s",
+   "typ": "s",
+   "kapitel": "Xlv",
+   "text": "Denn wenn Sie seine Beweggründe nicht vollkommen verstehen, wie sollten Sie wissen, ob er schlecht handelt?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c044_00005_s",
+   "typ": "s",
+   "kapitel": "Xlv",
+   "text": "Auf diese Weise werden Sie nicht Gefahr laufen, sich irgendwelchen Eindrücken hinzugeben, außer solchen, die Sie vollständig verstehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c045_00001_h",
+   "typ": "h",
+   "kapitel": "Xlvi",
+   "text": "Xlvi",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c045_00002_s",
+   "typ": "s",
+   "kapitel": "Xlvi",
+   "text": "Nennen Sie sich niemals einen Philosophen und sprechen Sie vor Unwissenden nicht viel über Ihre Grundsätze, sondern zeigen Sie sie durch Ihr Handeln.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c045_00003_p",
+   "typ": "p",
+   "kapitel": "Xlvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c045_00004_s",
+   "typ": "s",
+   "kapitel": "Xlvi",
+   "text": "Halten Sie etwa bei einem Gastmahl keinen Vortrag darüber, wie man essen sollte, sondern essen Sie, wie es sich gehört.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c045_00005_p",
+   "typ": "p",
+   "kapitel": "Xlvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c045_00006_s",
+   "typ": "s",
+   "kapitel": "Xlvi",
+   "text": "Denken Sie daran, dass auch Sokrates jede Zurschaustellung dieser Art vermied.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c045_00007_s",
+   "typ": "s",
+   "kapitel": "Xlvi",
+   "text": "Wenn Leute zu ihm kamen und ihn baten, sie bei Philosophen einzuführen, nahm er sie einfach mit und führte sie ein; so gut ertrug er es, übersehen zu werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c045_00008_p",
+   "typ": "p",
+   "kapitel": "Xlvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c045_00009_s",
+   "typ": "s",
+   "kapitel": "Xlvi",
+   "text": "Sollte unter Unwissenden einmal ein Gespräch über Grundsätze aufkommen, so schweigen Sie zumeist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c045_00010_p",
+   "typ": "p",
+   "kapitel": "Xlvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c045_00011_s",
+   "typ": "s",
+   "kapitel": "Xlvi",
+   "text": "Es ist eine große Gefahr, voreilig auszuwerfen, was noch nicht verdaut ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c045_00012_p",
+   "typ": "p",
+   "kapitel": "Xlvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c045_00013_s",
+   "typ": "s",
+   "kapitel": "Xlvi",
+   "text": "Und wenn Ihnen jemand sagt, Sie wüssten nichts, und Sie sind darüber nicht verärgert, dann können Sie sicher sein, dass Sie mit Ihrer Arbeit wirklich begonnen haben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c045_00014_p",
+   "typ": "p",
+   "kapitel": "Xlvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c045_00015_s",
+   "typ": "s",
+   "kapitel": "Xlvi",
+   "text": "Denn Schafe werfen das Gras nicht hastig wieder aus, um den Hirten zu zeigen, wie viel sie gefressen haben, sondern, indem sie ihre Nahrung innerlich verdauen, bringen sie sie äußerlich als Wolle und Milch hervor.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c045_00016_p",
+   "typ": "p",
+   "kapitel": "Xlvi",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c045_00017_s",
+   "typ": "s",
+   "kapitel": "Xlvi",
+   "text": "Ebenso machen Sie vor Unwissenden kein Schaugepränge mit Ihren Grundsätzen, sondern zeigen Sie die Handlungen, zu denen ihre Verdauung führt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c046_00001_h",
+   "typ": "h",
+   "kapitel": "Xlvii",
+   "text": "Xlvii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c046_00002_s",
+   "typ": "s",
+   "kapitel": "Xlvii",
+   "text": "Wenn du gelernt hast, deinen Körper einfach zu ernähren, so bilde dir darauf nichts ein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c046_00003_s",
+   "typ": "s",
+   "kapitel": "Xlvii",
+   "text": "Und wenn du Wasser trinkst, sage nicht bei jeder Gelegenheit: „Ich trinke Wasser.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c046_00004_s",
+   "typ": "s",
+   "kapitel": "Xlvii",
+   "text": "Bedenke zuerst, wie viel einfacher die Armen leben als wir und wie viel geduldiger sie Entbehrungen ertragen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c046_00005_s",
+   "typ": "s",
+   "kapitel": "Xlvii",
+   "text": "Wenn du dich zu irgendeiner Zeit durch Übung an Arbeit und Entbehrung gewöhnen willst, so tue es um deinetwillen und nicht, um andere zu beeindrucken.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c046_00006_s",
+   "typ": "s",
+   "kapitel": "Xlvii",
+   "text": "Versuche keine großen Heldentaten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c046_00007_s",
+   "typ": "s",
+   "kapitel": "Xlvii",
+   "text": "Wenn du aber sehr durstig bist, so spüle dir nur den Mund mit Wasser und sage es niemandem.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c047_00001_h",
+   "typ": "h",
+   "kapitel": "Xlviii",
+   "text": "Xlviii",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c047_00002_s",
+   "typ": "s",
+   "kapitel": "Xlviii",
+   "text": "Der Zustand und das Kennzeichen eines gewöhnlichen Menschen ist, dass er weder Hilfe noch Schaden je von sich selbst erwartet, sondern nur von äußeren Dingen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c047_00003_p",
+   "typ": "p",
+   "kapitel": "Xlviii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c047_00004_s",
+   "typ": "s",
+   "kapitel": "Xlviii",
+   "text": "Der Zustand und das Kennzeichen eines Philosophen ist, dass er alle Hilfe und allen Schaden von sich selbst erwartet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c047_00005_p",
+   "typ": "p",
+   "kapitel": "Xlviii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c047_00006_s",
+   "typ": "s",
+   "kapitel": "Xlviii",
+   "text": "Die Merkmale eines Fortschreitenden sind, dass er niemanden tadelt, niemanden lobt, niemanden beschuldigt, niemanden anklagt; nichts über sich selbst sagt, als wäre er jemand oder wüsste etwas.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c047_00007_p",
+   "typ": "p",
+   "kapitel": "Xlviii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c047_00008_s",
+   "typ": "s",
+   "kapitel": "Xlviii",
+   "text": "Wenn er in irgendeiner Sache behindert oder eingeschränkt wird, klagt er sich selbst an; und wenn er gelobt wird, lächelt er in sich hinein über den, der ihn lobt; und wenn er getadelt wird, verteidigt er sich nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c047_00009_p",
+   "typ": "p",
+   "kapitel": "Xlviii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c047_00010_s",
+   "typ": "s",
+   "kapitel": "Xlviii",
+   "text": "Sondern er geht umher mit der Vorsicht eines Genesenden, bedacht darauf, nichts zu stören, was sich gut entwickelt, aber noch nicht ganz gesichert ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c047_00011_p",
+   "typ": "p",
+   "kapitel": "Xlviii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c047_00012_s",
+   "typ": "s",
+   "kapitel": "Xlviii",
+   "text": "Er zügelt das Begehren; seine Abneigung richtet er nur auf das, was den rechten Gebrauch unseres eigenen Willens vereitelt; seine Kräfte setzt er in allen Dingen maßvoll ein; wenn er einfältig oder unwissend erscheint, kümmert es ihn nicht; und, mit einem Wort, er wacht über sich selbst wie über einen Feind und einen, der im Hinterhalt liegt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c048_00001_h",
+   "typ": "h",
+   "kapitel": "Xlix",
+   "text": "Xlix",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c048_00002_s",
+   "typ": "s",
+   "kapitel": "Xlix",
+   "text": "Wenn jemand stolz darauf ist, die Werke des Chrysipp verstehen und erklären zu können, so sage dir selbst: „Hätte Chrysipp nicht unklar geschrieben, so hätte dieser Mensch nichts, worauf er stolz sein könnte. Was aber will ich? Die Natur verstehen und ihr folgen. Ich frage also, wer sie erklärt. Höre ich, dass Chrysipp es tut, wende ich mich an ihn. Ich verstehe seine Schriften nicht. Also suche ich jemanden, der sie erklärt.“ Bis hierher gibt es nichts, worauf man stolz sein könnte. Und wenn ich einen Ausleger finde, so bleibt noch, seine Lehren in die Tat umzusetzen. Dies allein ist es, worauf es ankommt. Bewundere ich aber nur die Erklärung, was werde ich dann anderes als ein Sprachgelehrter statt eines Philosophen? Der einzige Unterschied ist, dass ich statt Homer den Chrysipp erkläre. Wenn mich also jemand bittet, ihm Chrysipp vorzulesen, so schäme ich mich, wenn ich keine Handlungen vorweisen kann, die seinen Lehren entsprechen und mit ihnen übereinstimmen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c048_00003_p",
+   "typ": "p",
+   "kapitel": "Xlix",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c048_00004_s",
+   "typ": "s",
+   "kapitel": "Xlix",
+   "text": "Welche Grundsätze du auch angenommen hast, halte sie wie Gesetze, als wäre es unrecht, sie zu brechen. Achte nicht darauf, was irgendjemand über dich sagt, denn das ist nicht deine Sache. Wie lange willst du noch warten, ehe du die besten Verbesserungen von dir selbst verlangst und niemals gegen die Urteile der Vernunft verstößt? Du hast die philosophischen Grundsätze empfangen, mit denen du vertraut sein solltest, und du bist mit ihnen vertraut gewesen. Auf welchen anderen Lehrer wartest du also noch, um diesen Aufschub deiner Besserung zu entschuldigen? Du bist kein Knabe mehr, sondern ein erwachsener Mann. Wenn du nachlässig und träge bleibst, immer Aufschub an Aufschub, Vorsatz an Vorsatz fügst und einen Tag nach dem anderen festsetzt, um dich um dich selbst zu kümmern, wirst du still fortfahren, nichts zu vollbringen. Lebend und sterbend wirst du im Geiste gewöhnlich bleiben. So halte dich jetzt für würdig, als ein erwachsener Mann zu leben, der Fortschritte macht. Was dir das Beste scheint, sei dir ein unverbrüchliches Gesetz. Und wenn irgendeine Erfahrung von Schmerz oder Lust, Ruhm oder Schande vor dich tritt, so denke daran, dass jetzt der Wettkampf ist, jetzt die Olympischen Spiele gekommen sind und nicht aufgeschoben werden können. Denke daran, dass durch ein einziges Versagen und eine Niederlage Ehre verloren oder gewonnen werden kann. So wurde Sokrates vollkommen, indem er sich durch alles verbesserte und allein der Vernunft folgte. Und obwohl du noch kein Sokrates bist, solltest du doch leben wie einer, der einer zu werden versucht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00001_h",
+   "typ": "h",
+   "kapitel": "Li",
+   "text": "Li",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c049_00002_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Das erste und notwendigste Thema in der Philosophie ist die praktische Anwendung der Grundsätze, wie etwa: „Wir sollen nicht lügen.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00003_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Das zweite ist das der Beweise, wie etwa: „Warum sollen wir nicht lügen?“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00004_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Das dritte ist das, was den beiden anderen Kraft und logischen Zusammenhang verleiht, wie etwa: „Warum ist dies ein Beweis?“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00005_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Denn was ist ein Beweis?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c049_00006_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Was ist eine Folgerung?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c049_00007_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Was ist ein Widerspruch?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c049_00008_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Was ist Wahrheit?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c049_00009_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Was ist Falschheit?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c049_00010_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Der dritte Punkt ist also notwendig um des zweiten willen, und der zweite um des ersten willen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00011_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Der notwendigste aber, und der, auf dem wir ruhen sollten, ist der erste.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00012_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Wir aber tun gerade das Gegenteil.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00013_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Denn wir verbringen unsere ganze Zeit mit dem dritten Punkt und verwenden all unseren Eifer darauf und vernachlässigen den ersten gänzlich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00014_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Daher sind wir, während wir lügen, zugleich sehr bereit zu zeigen, wie bewiesen wird, dass Lügen unrecht ist.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00015_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00016_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Bei allen Gelegenheiten sollten wir diese Sinnsprüche zur Hand haben:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c049_00017_qt",
+   "typ": "qt",
+   "kapitel": "Li",
+   "text": "Führe mich, Zeus, und du, o Schicksal,\nWohin auch immer eure Ratschlüsse mein Los bestimmt haben.\nIch folge willig; und täte ich es nicht,\nmüsste ich, ruchlos und elend, dennoch folgen.[8]",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c049_00018_qt",
+   "typ": "qt",
+   "kapitel": "Li",
+   "text": "Wer dem Geschick geziemend sich fügt, der gilt\nals weise unter den Menschen und kennt die Gesetze des Himmels.[9]",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c049_00019_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00020_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Und dieser dritte:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c049_00021_qt",
+   "typ": "qt",
+   "kapitel": "Li",
+   "text": "„O Kriton, wenn es den Göttern so gefällt, so sei es also.“[10]",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c049_00022_qt",
+   "typ": "qt",
+   "kapitel": "Li",
+   "text": "„Anytos und Meletos können mich zwar töten; doch schaden können sie mir nicht.“[11]",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c049_00023_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00024_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Fußnoten",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00025_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00026_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[1]Glückseligkeit, die Wirkung der Tugend, ist das Ziel, das Gott uns zum Anstreben gesetzt hat.",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00027_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Dass wir es verfehlen, ist kein Werk von Ihm; auch nicht eigentlich etwas Wirkliches, sondern ein bloßes Negatives und ein Versagen unsererseits.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00028_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00029_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[2][Kapitel XV des dritten Buches der _Unterredungen_, das, mit Ausnahme einiger ganz geringfügiger Abweichungen, dasselbe ist wie Kapitel XXIX des _Handbüchleins_.—Hrsg.]",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00030_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00031_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[3]Euphrates war ein Philosoph aus Syrien, dessen Charakter von Plinius dem Jüngeren, _Briefe_ I. 10, mit höchstem Lob beschrieben wird.",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00032_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00033_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[4][Die beiden verfeindeten Söhne des Ödipus, die einander im Kampf töteten.—Hrsg.]",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00034_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00035_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[5][Dies bezieht sich auf eine von Simplikios in seinem Kommentar zu dieser Stelle ausführlich wiedergegebene Anekdote von einem Mann, der auf dem Weg zum Orakel überfallen und getötet wurde, während sein Gefährte ihn im Stich ließ und im Tempel Zuflucht suchte, bis er von der Gottheit hinausgeworfen wurde.—Übers.]",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00036_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00037_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[6][Bezug genommen wird auf Zenon von Zypern (335–263 v. Chr.), den Begründer der stoischen Schule.—Hrsg.]",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00038_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00039_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[7][Chrysipp (ca. 280–207 v. Chr.) war ein stoischer Philosoph, der nach Kleanthes das Haupt der Stoa wurde.",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00040_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Seine Werke, die verloren sind, waren höchst einflussreich und wurden allgemein als die maßgebliche Auslegung der orthodoxen stoischen Philosophie anerkannt.—Hrsg.]",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00041_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00042_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[8]Kleanthes, bei Diogenes Laertios, zitiert auch von Seneca, Brief 107.",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00043_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00044_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[9]Euripides, Fragmente.",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00045_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00046_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[10]Platon, Kriton, Kap. XVII.",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00047_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00048_fn",
+   "typ": "fn",
+   "kapitel": "Li",
+   "text": "[11]Platon, Apologie, Kap. XVIII.",
+   "audio_path": "",
+   "pause_after_ms": 300
+  },
+  {
+   "tag_id": "c049_00049_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00050_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "The Library of Liberal Arts",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00051_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00052_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Aischylos: *Der gefesselte Prometheus*. Übers. E. B. Browning. (LLA 24) .40",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00053_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Alembert, d’: *Einleitung zur Enzyklopädie von 1751*. Übers. T. D. Lockwood. (LLA 88) .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00054_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Aristoteles: *Nikomachische Ethik*. Übers. M. Ostwald. (LLA 75) .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00055_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Über die Dichtkunst*. Übers. S. H. Butcher. (LLA 6) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00056_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*——: *Über Dichtung und Stil*. Übers. G. M. A. Grube. (LLA 68) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00057_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Augustinus: *Über die christliche Lehre*. Übers. D. W. Robertson, Jr. (LLA 80) .95",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00058_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Bacon: *Das neue Organon*. (LLA 97) 1.00",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00059_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Beccaria: *Über Verbrechen und Strafen*. Übers. H. Paolucci & V. Caporale. (LLA 107) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00060_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Bergson: *Eine Einführung in die Metaphysik*. Übers. T. E. Hulme. (LLA 10) .40",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00061_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Berkeley: *Ein Versuch über eine neue Theorie des Sehens & Die Theorie des Sehens verteidigt*. (LLA 83) .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00062_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Eine Abhandlung über die Prinzipien der menschlichen Erkenntnis*. (LLA 53) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00063_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Drei Dialoge zwischen Hylas und Philonous*. (LLA 39) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00064_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Boccaccio über die Dichtung.* Übers. C. G. Osgood. (LLA 82) *geb. $3.50* 1.25",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00065_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Boethius: *Der Trost der Philosophie*. Übers. R. H. Green. (LLA 86) .95",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00066_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Bonaventura: *Der Weg des Geistes zu Gott*. Übers. G. Boas. (LLA 32) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00067_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Bowman: *Die Absurdität des Christentums und andere Essays*. (LLA 56) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00068_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Bradley: *Ethische Studien (Ausgewählte Essays)*. (LLA 28) *geb. $2.00* .85",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00069_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Burke: *Über das Erhabene und Schöne*. (LLA 99) .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00070_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Betrachtungen über die Revolution in Frankreich*. (LLA 46) *geb. $3.50* 1.25",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00071_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Butler: *Fünf Predigten*. (LLA 21) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00072_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Calvin: *Über den christlichen Glauben*. (LLA 93) .95",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00073_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Über Gott und politische Pflicht*. (LLA 23) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00074_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Der Cid.* Übers. J. G. Markley. (LLA 77) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00075_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Cornford: *Platon und Parmenides*. (LLA 102) 1.60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00076_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Platons Kosmologie*. (LLA 101) 1.75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00077_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Platons Theorie der Erkenntnis*. (LLA 100) 1.75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00078_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Dante: *De vulgari eloquentia*. Übers. W. T. H. Jackson. (LLA 85) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00079_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Über die Weltherrschaft (De Monarchia)*. Übers. H. W. Schneider. (LLA 15) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00080_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Descartes: *Abhandlung über die Methode*. Übers. L. J. Lafleur. (LLA 19) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00081_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*——: *Abhandlung über die Methode und Meditationen*. Übers. L. J. Lafleur. (LLA 89) .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00082_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Meditationen*. Übers. L. J. Lafleur. (LLA 29) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00083_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Dostojewski: *Der Großinquisitor über die Natur des Menschen*. Übers. C. Garnett. (LLA 63) .40",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00084_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Dryden: *Ein Essay über die dramatische Dichtkunst*. (LLA 104) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00085_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Emerson: *Natur*. (LLA 2) .40",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00086_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Epiktet: *Das Handbüchlein*. Übers. T. W. Higginson. (LLA 8) .40",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00087_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Erasmus: *Zehn Kolloquien des Erasmus*. Übers. C. R. Thompson. (LLA 48) *geb. $3.00* .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00088_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Euripides: *Elektra*. Übers. M. Hadas. (LLA 26) .40",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00089_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Fichte: *Die Bestimmung des Menschen*. Übers. W. Smith. (LLA 50) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00090_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Goethe: *Faust I.* Übers. B. Q. Morgan. (LLA 33) *geb. $2.50* .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00091_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Grotius: *Prolegomena zum Recht des Krieges und des Friedens*. Übers. F. W. Kelsey. (LLA 65) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00092_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Hanslick: *Vom Musikalisch-Schönen*. (LLA 45) *geb. $2.50* .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00093_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Harrington: *Die politischen Schriften von James Harrington*. (LLA 38) *geb. $3.00* .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00094_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Hegel: *Die Vernunft in der Geschichte*. Übers. R. S. Hartman. (LLA 35) *geb. $2.75* .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00095_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Hesiod: *Theogonie*. Übers. N. O. Brown. (LLA 36) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00096_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Hobbes: *Leviathan I–II*. (LLA 69) 1.00",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00097_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Hume: *David Humes literarische Essays*. (LLA 84) .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00098_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *David Humes politische Essays*. (LLA 34) *geb. $3.00* .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00099_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Eine Untersuchung über den menschlichen Verstand*. (LLA 49) .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00100_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Eine Untersuchung über die Prinzipien der Moral*. (LLA 62) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00101_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Kant: *Kritik der ästhetischen Urteilskraft*. Übers. W. Cerf. (LLA 73) 1.25",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00102_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Kritik der praktischen Vernunft*. Übers. L. W. Beck. (LLA 52) .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00103_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Grundlegung zur Metaphysik der Sitten*. Übers. T. K. Abbott. (LLA 16) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00104_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Zum ewigen Frieden*. Übers. M. C. Smith. (LLA 3) .45",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00105_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Zum ewigen Frieden*. Übers. L. W. Beck. (LLA 54) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00106_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*——: *Zum ewigen Frieden und die Idee eines allgemeinen Weltbürgertums*. Übers. L. W. Beck. (LLA 96) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00107_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*——: *Philosophie des Rechts*. Übers. J. Ladd. (LLA 72) 1.25",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00108_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Prolegomena zu einer jeden künftigen Metaphysik*. Übers. Mahaffy-Carus; überarb. L. W. Beck. (LLA 27) *geb. $2.00* .85",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00109_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*——: *Die Religion innerhalb der Grenzen der bloßen Vernunft*. Übers. T. M. Green. (LLA 108) *geb. $3.50* 1.00",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00110_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Kleist: *Der Prinz von Homburg*. Übers. C. E. Passage. (LLA 60) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00111_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Le Bon: *Massenpsychologie (Die Menge)*. (LLA 90) .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00112_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Leibniz: *Monadologie und andere philosophische Essays*. Übers. P. & A. Schrecker. (LLA 94) .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00113_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Lessing: *Laokoon*. Übers. E. A. McCormick. (LLA 78) .95",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00114_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Das Leben des Lazarillo de Tormes.* Übers. J. G. Markley. (LLA 37) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00115_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Locke: *Ein Brief über Toleranz*. (LLA 22) .40",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00116_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Die zweite Abhandlung über die Regierung*. (LLA 31) *geb. $2.50* .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00117_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Longinus: *Vom großen Schreiben (Vom Erhabenen)*. Übers. G. M. A. Grube. (LLA 79) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00118_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Machiavelli: *Mandragola*. Übers. A. & H. Paolucci. (LLA 58) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00119_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Mill, J.: *Ein Essay über die Regierung*. (LLA 47) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00120_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Mill, J. S.: *Autobiographie*. (LLA 91) .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00121_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*——: *Natur und Nutzen der Religion; Zwei Essays*. (LLA 81) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00122_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Über die Freiheit*. (LLA 61) .65",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00123_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Betrachtungen über die repräsentative Regierung*. (LLA 71) .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00124_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Mill, J. S. (Forts.): *Theismus*. (LLA 64) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00125_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Utilitarismus*. (LLA 1) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00126_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Molière: *Tartuffe*. Übers. R. W. Hartle. (LLA 87) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00127_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Nietzsche: *Vom Nutzen und Nachteil der Historie*. (LLA 11) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00128_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Paine: *Das Zeitalter der Vernunft*. (LLA 5) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00129_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Platon: *Euthyphron, Apologie, Kriton*. Übers. F. J. Church. (LLA 4) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00130_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Gorgias*. Übers. W. C. Helmbold. (LLA 20) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00131_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Menon*. Übers. B. Jowett. (LLA 12) .40",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00132_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Phaidon*. Übers. F. J. Church. (LLA 30) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00133_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Phaidros*. Übers. W. C. Helmbold & W. G. Rabinowitz. (LLA 40) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00134_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*——: *Philebos*. Übers. K. Herbert. (LLA 41) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00135_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Protagoras*. Übers. B. Jowett. (LLA 59) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00136_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Staatsmann*. Übers. J. B. Skemp. (LLA 57) .75",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00137_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Symposion*. Übers. B. Jowett. (LLA 7) .40",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00138_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*——: *Theaitetos*. Übers. F. M. Cornford. (LLA 105) .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00139_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Timaios*. Übers. F. M. Cornford. (LLA 106) .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00140_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Plautus: *Das Spukhaus (Mostellaria)*. Übers. F. O. Copley. (LLA 42) .45",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00141_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Die Menaechmen*. Übers. F. O. Copley. (LLA 17) .45",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00142_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Das Seil (Rudens)*. Übers. F. O. Copley. (LLA 43) .45",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00143_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Pope: *Versuch über den Menschen*. (LLA 103) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00144_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Post: *Bedeutende Fälle im britischen Verfassungsrecht*. (LLA 66) *geb. $3.50* 1.25",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00145_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Rousseau: *Zwei Abhandlungen*. Übers. V. Gourevitch. (LLA 109) .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00146_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Russell: *Ausgewählte Essays*. (LLA 74) .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00147_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Schneider: *Quellen des zeitgenössischen philosophischen Realismus in Amerika*. (LLA 92) .60",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00148_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Schopenhauer: *Essay über die Freiheit des Willens*. Übers. K. Kolenda. (LLA 70) .80",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00149_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Seneca: *Medea*. Übers. M. Hadas. (LLA 55) .45",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00150_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Ödipus*. Übers. M. Hadas. (LLA 44) .45",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00151_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Thyestes*. Übers. M. Hadas. (LLA 76) .45",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00152_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Shelley: *Verteidigung der Poesie*. (LLA 98) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00153_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Sophokles: *Elektra*. Übers. R. C. Jebb. (LLA 25) .40",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00154_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Spinoza: *Über die Verbesserung des Verstandes*. Übers. J. Katz. (LLA 67) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00155_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Terenz: *Phormio*. Übers. F. O. Copley. (LLA 95) .45",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00156_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "——: *Die Frau von Andros*. Übers. F. O. Copley. (LLA 18) .45",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00157_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "*Tolstoi: *Was ist Kunst?* Übers. A. Maude. (LLA 51) .90",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00158_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "Whitman: *Demokratische Ausblicke*. (LLA 9) .50",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00159_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00160_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "(_Vollständiger Katalog auf Anfrage_)",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00161_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00162_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "* _In Vorbereitung._",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c049_00163_p",
+   "typ": "p",
+   "kapitel": "Li",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c049_00164_s",
+   "typ": "s",
+   "kapitel": "Li",
+   "text": "THE LIBERAL ARTS PRESS, INC. 153 W. 72nd Street, New York 23, N. Y.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  }
+ ]
+}

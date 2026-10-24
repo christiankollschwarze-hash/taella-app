@@ -1,0 +1,219 @@
+/* ══ TÆLLA · Module: Einführung, Book-Shop, Einstellungen (Design D) ═════════
+   Gleiche Tokens wie App.css. Rot nur als Punkt, keine roten Flächen.        */
+
+.shell {
+  min-height: 100dvh; max-width: 480px; margin: 0 auto;
+  background: var(--paper); color: var(--ink); font-family: var(--ui);
+  position: relative;
+}
+
+/* ── Knöpfe ── */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 10px;
+  min-height: 50px; padding: 0 22px; border-radius: 999px;
+  border: 1.5px solid var(--ink); background: var(--paper); color: var(--ink);
+  font: 600 16px/1 var(--ui); letter-spacing: .01em; cursor: pointer;
+  transition: transform .15s var(--ease-out);
+}
+.btn:active { transform: scale(.97); }
+.btn--ink { background: var(--ink); color: var(--paper); }
+.btn--wide { width: 100%; }
+
+/* ── Einführung ── */
+.onb { display: flex; flex-direction: column; padding: calc(24px + env(safe-area-inset-top)) 28px calc(28px + env(safe-area-inset-bottom)); }
+.onb-dots { display: flex; gap: 6px; justify-content: center; margin-bottom: 8px; }
+.onb-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--line-2); transition: background .3s; }
+.onb-dot.on { background: var(--ink); }
+.onb-step { flex: 1; display: flex; flex-direction: column; justify-content: flex-end; gap: 18px; animation: onb-in .4s var(--ease-out) both; }
+@keyframes onb-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+.onb-step--hero { justify-content: space-between; }
+.onb-wordmark { font-size: 64px; margin-top: 28vh; align-self: flex-start; }
+.onb-claim { font: 400 30px/1.12 var(--display); white-space: pre-line; margin: 0 0 auto; padding-top: 14px; }
+.onb-h { font: 400 34px/1.05 var(--display); margin: 0; letter-spacing: -.01em; }
+.onb-kicker { font: 600 12px/1 var(--ui); letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); margin: 0; }
+.onb-hint { font-size: 15px; line-height: 1.5; color: var(--ink-2); margin: 0; }
+.onb-frei { font: 600 15px/1.45 var(--ui); margin: 6px 0 4px; padding: 14px 16px; border-radius: var(--r-m); background: var(--tint); }
+.onb-choices { display: flex; flex-direction: column; gap: 10px; }
+.choice {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 18px 20px; border-radius: var(--r-m); border: 1.5px solid var(--line-2);
+  background: var(--paper); cursor: pointer; text-align: left;
+}
+.choice--on { border-color: var(--ink); }
+.choice-label { font: 400 26px/1 var(--display); }
+.choice-dot { width: 12px; height: 12px; border-radius: 50%; background: var(--dot); }
+.onb-satz {
+  text-align: left; border: 0; background: none; padding: 0; cursor: pointer;
+  font: 400 22px/1.5 var(--text); color: var(--ink);
+}
+.onb-satz-text { border-bottom: 1.5px dashed var(--line-2); }
+.onb-satz--upps .onb-satz-text { border-bottom-color: var(--ink); }
+.onb-satz-upps {
+  display: block; margin-top: 14px; padding: 12px 14px; border-radius: var(--r-s);
+  background: var(--bubble); color: var(--bubble-ink); font-size: 17px; line-height: 1.45;
+  animation: onb-in .25s var(--ease-out) both;
+}
+
+/* ── Book-Shop ── */
+.shop { padding-bottom: 40px; }
+.shop-top {
+  position: sticky; top: 0; z-index: 3; background: var(--paper);
+  display: flex; align-items: center; justify-content: space-between;
+  padding: calc(14px + env(safe-area-inset-top)) 16px 6px 22px;
+}
+.tabs { display: flex; gap: 22px; padding: 6px 22px 14px; border-bottom: 1px solid var(--line); }
+.tab { border: 0; background: none; padding: 4px 0; cursor: pointer; font: 600 17px/1 var(--ui); color: var(--ink-3); }
+.tab--on { color: var(--ink); }
+.shop-body { padding-top: 18px; }
+.shop-leer { padding: 30px 22px; color: var(--ink-3); line-height: 1.5; }
+.shop-h { font: 600 12px/1 var(--ui); letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); margin: 30px 22px 6px; }
+
+/* Kartenstapel: wischen wie durch Karten (kptnCook), Karte rastet mittig ein */
+.stack {
+  display: flex; gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory;
+  padding: 4px 22px 10px; scrollbar-width: none;
+}
+.stack::-webkit-scrollbar { display: none; }
+.stack-card {
+  flex: 0 0 74%; scroll-snap-align: center; border: 0; padding: 0; background: none;
+  text-align: left; cursor: pointer; color: inherit;
+  transition: transform .25s var(--ease-out);
+}
+.stack-card:active { transform: scale(.98); }
+.stack-cover {
+  display: block; width: 100%; aspect-ratio: 2 / 3; object-fit: cover;
+  border-radius: var(--r-m); background: var(--tint);
+  box-shadow: 0 18px 36px -18px rgba(0, 0, 0, .45);
+}
+.stack-info { display: flex; flex-direction: column; gap: 4px; padding: 12px 2px 0; }
+.stack-titel { font: 400 24px/1.08 var(--display); }
+.stack-autor { font-size: 14px; color: var(--ink-2); }
+
+.cover-ph { display: flex; align-items: flex-end; padding: 14px; font: 400 20px/1.1 var(--display); background: var(--tint); color: var(--ink-2); }
+
+.liste { list-style: none; margin: 0; padding: 0 12px; }
+.zeile {
+  display: flex; gap: 14px; align-items: center; width: 100%;
+  border: 0; background: none; padding: 10px; border-radius: var(--r-s);
+  text-align: left; cursor: pointer; color: inherit;
+}
+.zeile:active { background: var(--tint); }
+.zeile-cover { flex: none; width: 54px; aspect-ratio: 2 / 3; object-fit: cover; border-radius: 6px; background: var(--tint); font-size: 0; padding: 0; }
+.zeile-text { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.zeile-titel { font: 400 19px/1.15 var(--display); }
+.zeile-autor { font-size: 14px; color: var(--ink-2); }
+.zeile-meta { font-size: 12px; color: var(--ink-3); }
+
+/* Detail */
+.detail {
+  position: fixed; inset: 0; z-index: 20; max-width: 480px; margin: 0 auto;
+  background: var(--paper); display: flex; flex-direction: column;
+  animation: sheet-up .32s var(--ease-out) both;
+}
+.detail-top { display: flex; justify-content: space-between; padding: calc(10px + env(safe-area-inset-top)) 10px 0; }
+.detail-body { flex: 1; overflow-y: auto; padding: 4px 28px 24px; }
+.detail-cover {
+  display: block; width: 56%; margin: 4px auto 22px; aspect-ratio: 2 / 3; object-fit: cover;
+  border-radius: var(--r-s); background: var(--tint); box-shadow: 0 22px 40px -20px rgba(0, 0, 0, .5);
+}
+.detail-titel { font: 400 34px/1.04 var(--display); margin: 0 0 8px; letter-spacing: -.01em; }
+.detail-autor { margin: 0; font-size: 16px; color: var(--ink-2); }
+.detail-meta { margin: 6px 0 0; font-size: 13px; color: var(--ink-3); }
+.detail-koeder { margin: 22px 0 0; padding: 0 0 0 14px; border-left: 2px solid var(--ink); font: italic 400 18px/1.5 var(--text); }
+.detail-text { margin: 18px 0 0; font: 400 17px/1.6 var(--text); color: var(--ink); }
+.detail-frei { margin: 22px 0 0; font-size: 13px; color: var(--ink-3); }
+.detail-privat { margin: 6px 0 0; font-family: var(--font-ui, inherit); font-size: 12px; letter-spacing: .02em; color: var(--ink-3); }
+.detail-actions {
+  display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 10px;
+  padding: 12px 20px calc(16px + env(safe-area-inset-bottom)); border-top: 1px solid var(--line);
+}
+
+/* ── Einstellungen ── */
+.settings {
+  position: fixed; inset: 0; z-index: 40; max-width: 480px; margin: 0 auto;
+  background: var(--paper); color: var(--ink); display: flex; flex-direction: column;
+  animation: sheet-up .32s var(--ease-out) both;
+}
+.settings-top { display: flex; align-items: center; justify-content: space-between; padding: calc(14px + env(safe-area-inset-top)) 10px 8px 24px; }
+.settings-h { margin: 0; font: 400 30px/1 var(--display); }
+.settings-body { flex: 1; overflow-y: auto; padding: 0 24px 40px; }
+.set-group { padding: 18px 0; border-bottom: 1px solid var(--line); }
+.set-group:last-child { border-bottom: 0; }
+.set-label { margin: 0 0 10px; font: 600 12px/1 var(--ui); letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); }
+.set-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 48px; font-size: 16px; }
+.set-text { margin: 0 0 6px; font-size: 14px; line-height: 1.5; color: var(--ink-2); }
+.set-link { display: block; border: 0; background: none; padding: 12px 0; font: 500 16px/1.2 var(--ui); color: var(--ink); cursor: pointer; text-align: left; }
+
+.seg { display: inline-flex; padding: 3px; border-radius: 999px; background: var(--tint); }
+.seg-btn { border: 0; background: none; padding: 7px 14px; border-radius: 999px; font: 600 14px/1 var(--ui); color: var(--ink-2); cursor: pointer; min-width: 40px; }
+.seg-btn--on { background: var(--paper); color: var(--ink); box-shadow: 0 1px 3px rgba(0, 0, 0, .15); }
+
+.switch { position: relative; width: 50px; height: 30px; border-radius: 999px; border: 0; background: var(--line-2); cursor: pointer; transition: background .2s; flex: none; }
+.switch--on { background: var(--ink); }
+.switch-knob { position: absolute; top: 3px; left: 3px; width: 24px; height: 24px; border-radius: 50%; background: var(--paper); transition: transform .25s var(--ease-spring); }
+.switch--on .switch-knob { transform: translateX(20px); }
+/* An: roter Punkt im Knopf – der einzige Farbakzent */
+.switch--on .switch-knob::after { content: ""; position: absolute; inset: 8px; border-radius: 50%; background: var(--dot); }
+
+/* ── Kapitel 1 frei: Hinweis im Reader ── */
+.paywall {
+  position: absolute; inset: 0; z-index: 6; background: var(--paper);
+  display: flex; flex-direction: column; justify-content: center; gap: 16px;
+  padding: 0 32px; font-family: var(--ui);
+}
+.paywall-titel { margin: 12px 0 0; font: 400 32px/1.08 var(--display); }
+.paywall-text { margin: 0; font-size: 16px; line-height: 1.55; color: var(--ink-2); }
+.paywall-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 8px; }
+
+/* Lernspur (Einstellungen): die letzten Einträge */
+.spur-liste { list-style: none; margin: 4px 0 6px; padding: 0; }
+.spur-liste li { display: flex; flex-direction: column; gap: 2px; padding: 8px 0; border-top: 1px solid var(--line); }
+.spur-q { font: 400 16px/1.3 var(--text); }
+.spur-z { font-size: 13px; color: var(--ink-2); }
+.set-link:disabled { color: var(--ink-3); cursor: default; }
+
+/* Kenntnisstand je Buch (Detail) */
+.stand { margin: 26px 0 0; padding: 16px 0 0; border-top: 1px solid var(--line); }
+.stand-h { margin: 0 0 12px; font: 600 12px/1 var(--ui); letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); }
+.stand-zahlen { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.stand-zahlen div { display: flex; flex-direction: column; gap: 4px; }
+.stand-zahlen b { font: 400 34px/1 var(--display); }
+.stand-zahlen span { font-size: 13px; color: var(--ink-2); line-height: 1.35; }
+.stand-label { margin: 18px 0 8px; font-size: 13px; color: var(--ink-2); }
+.stand-balken { display: flex; align-items: flex-end; gap: 6px; height: 72px; }
+.stand-spalte { flex: 1; height: 100%; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; gap: 4px; }
+.stand-bar { width: 100%; min-height: 2px; background: var(--ink); border-radius: 3px 3px 0 0; }
+.stand-spalte span { font-size: 10px; color: var(--ink-3); }
+.stand-hint { margin: 8px 0 0; font-size: 12px; color: var(--ink-3); }
+
+/* ── Book-Shop: Genre-Regale + Herz in der Liste ── */
+.regale {
+  display: flex; flex-wrap: wrap; gap: 8px; padding: 0 22px 16px;
+}
+.shop-suche { position: relative; margin: 0 22px 14px; }
+.shop-suche-feld {
+  width: 100%; box-sizing: border-box; min-height: 42px; padding: 0 40px 0 16px;
+  border: 1.5px solid var(--line-2); border-radius: 999px; background: var(--paper); color: var(--ink);
+  font: 400 16px/1 var(--ui); outline: none; -webkit-appearance: none; appearance: none;
+}
+.shop-suche-feld:focus { border-color: var(--ink); }
+.shop-suche-feld::-webkit-search-cancel-button { display: none; }
+.shop-suche-weg {
+  position: absolute; right: 6px; top: 50%; transform: translateY(-50%);
+  width: 32px; height: 32px; border: 0; border-radius: 50%; background: none;
+  color: var(--ink-2); font: 400 22px/1 var(--ui); cursor: pointer;
+}
+.regale::-webkit-scrollbar { display: none; }
+.regal {
+  flex: none; display: inline-flex; align-items: center; gap: 8px;
+  min-height: 36px; padding: 0 14px; border-radius: 999px; scroll-snap-align: start;
+  border: 1.5px solid var(--line-2); background: var(--paper); color: var(--ink-2);
+  font: 600 14px/1 var(--ui); cursor: pointer; white-space: nowrap;
+  transition: border-color .15s, color .15s;
+}
+.regal--on { border-color: var(--ink); color: var(--ink); }
+.regal--on::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--dot); }
+.regal-n { font-weight: 400; font-size: 12px; color: var(--ink-3); }
+.zeile-wrap { display: flex; align-items: center; }
+.zeile-wrap .zeile { flex: 1; min-width: 0; }
+.zeile-herz { flex: none; }

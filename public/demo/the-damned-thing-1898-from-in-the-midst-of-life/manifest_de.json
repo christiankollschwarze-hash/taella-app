@@ -1,0 +1,1940 @@
+{
+ "werk_id": "bierce-a_the-damned-thing-1898-from-in-the-midst-of-life",
+ "book_slug": "the-damned-thing-1898-from-in-the-midst-of-life",
+ "sprache": "de",
+ "titel": "Das verdammte Ding",
+ "autor": "Ambrose Bierce",
+ "audio_vollstaendig": false,
+ "audio_count": 0,
+ "erstellt": "2026-10-10T17:24:41.651534Z",
+ "saetze": [
+  {
+   "tag_id": "c001_00001_h",
+   "typ": "h",
+   "kapitel": "The Damned Thing",
+   "text": "Das verdammte Ding",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c001_00002_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Beim Licht einer Talgkerze, die auf ein Ende eines groben Tisches gestellt war, las ein Mann etwas, das in einem Buch geschrieben stand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00003_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Es war ein altes Rechnungsbuch, stark abgenutzt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00004_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Die Schrift war offenbar nicht sehr leserlich, denn der Mann hielt die Seite bisweilen dicht an die Kerzenflamme, um ein stärkeres Licht darauf fallen zu lassen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00005_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Der Schatten des Buches warf dann die Hälfte des Raumes in Dunkelheit und verbarg eine Anzahl von Gesichtern und Gestalten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00006_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Außer dem Lesenden waren acht weitere Männer anwesend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00007_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Sieben von ihnen saßen an den rohen Blockwänden, still und reglos.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00008_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Der Raum war klein, daher waren sie nicht sehr weit vom Tisch entfernt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00009_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Hätte einer von ihnen den Arm ausgestreckt, so hätte er den achten Mann berühren können, der auf dem Tisch lag, das Gesicht nach oben, teilweise mit einem Tuch bedeckt, die Arme an den Seiten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00010_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Er war tot.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00011_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00012_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Der Mann mit dem Buch las nicht laut, und niemand sprach.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00013_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Alle schienen darauf zu warten, dass etwas geschah; nur der tote Mann war ohne Erwartung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00014_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Aus der leeren Finsternis draußen drangen durch die Öffnung, die als Fenster diente, all die stets fremdartigen Geräusche der Nacht in der Wildnis – der lange, namenlose Ruf eines fernen Kojoten; das stille, pulsierende Schwirren unermüdlicher Insekten in den Bäumen; seltsame Schreie von Nachtvögeln, so anders als die der Vögel des Tages; das Brummen großer, schwerfälliger Käfer; und jener geheimnisvolle Chor kleiner Laute, die stets nur halb gehört scheinen, wenn sie plötzlich abbrechen, als wären sie sich einer Indiskretion bewusst.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00015_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Doch nichts von alledem wurde von jener Gesellschaft bemerkt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00016_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Ihre Mitglieder neigten nicht übermäßig zu müßigem Interesse an Dingen ohne praktischen Belang.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00017_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Das war in jeder Linie ihrer wettergegerbten Gesichter offensichtlich – offensichtlich selbst im trüben Licht der einzelnen Kerze.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00018_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Sie waren offenkundig Männer der Gegend – Farmer und Holzfäller.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00019_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00020_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Der Lesende war ein wenig anders.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00021_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Man hätte von ihm gesagt, er sei von der Welt, weltläufig, obwohl etwas in seiner Kleidung eine gewisse Verbundenheit mit den Geschöpfen seiner Umgebung verriet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00022_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Sein Rock hätte in San Francisco kaum einer Prüfung standgehalten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00023_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Sein Schuhwerk war nicht städtischen Ursprungs, und der Hut, der neben ihm auf dem Boden lag (er war der Einzige ohne Kopfbedeckung), war von solcher Art, dass man seine Bedeutung verfehlt hätte, hätte man ihn als bloßen Gegenstand persönlichen Schmucks betrachtet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00024_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Dem Äußeren nach war der Mann recht angenehm anzusehen, mit nur einer Andeutung von Strenge, wenngleich er diese vielleicht angenommen oder gepflegt hatte, da sie einem Manne in Amt und Würden zukam.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00025_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Denn er war ein Coroner.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00026_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Kraft seines Amtes besaß er das Buch, das er las.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00027_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Man hatte es unter den Hinterlassenschaften des Toten gefunden – in dessen Hütte, wo die gerichtliche Untersuchung nun stattfand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00028_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00029_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Als der Coroner zu Ende gelesen hatte, steckte er das Buch in seine Brusttasche.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00030_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "In diesem Augenblick wurde die Tür aufgestoßen, und ein junger Mann trat ein.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00031_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Er war offenkundig nicht von Geburt und Erziehung aus den Bergen: Er war gekleidet wie jene, die in Städten leben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00032_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Seine Kleidung war jedoch staubig, wie von einer Reise.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00033_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Er war in der Tat scharf geritten, um der gerichtlichen Untersuchung beizuwohnen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00034_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00035_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Der Coroner nickte; niemand sonst grüßte ihn.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00036_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00037_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Wir haben auf Euch gewartet\", sagte der Coroner. \"Es ist notwendig, diese Sache heute Nacht zu Ende zu bringen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00038_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00039_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Es tut mir leid, Euch aufgehalten zu haben\", sagte er. \"Ich bin fortgegangen, nicht um Eurer Vorladung auszuweichen, sondern um meiner Zeitung einen Bericht über das zu senden, was ich nun, wie ich annehme, zurückgerufen bin zu berichten.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00040_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00041_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Der Coroner lächelte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00042_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00043_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Der Bericht, den Ihr an Eure Zeitung gesandt habt\", sagte er, \"weicht vermutlich von dem ab, was Ihr hier unter Eid sagen werdet.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00044_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00045_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Das\", erwiderte der andere, ziemlich hitzig und mit sichtbarer Röte, \"liegt bei Euch. Ich habe Kohlepapier verwendet und besitze eine Kopie dessen, was ich gesandt habe. Es war nicht als Nachricht geschrieben, denn es ist unglaublich, sondern als Erzählung. Es mag als Teil meiner eidlichen Aussage aufgenommen werden.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00046_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00047_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Aber Ihr sagt, es sei unglaublich.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00048_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00049_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Das bedeutet nichts für Euch, mein Herr, wenn ich zudem schwöre, dass es wahr ist.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00050_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00051_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Der Coroner war von dem offenkundigen Groll des jungen Mannes offenbar nicht sonderlich berührt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00052_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Er schwieg einige Augenblicke, die Augen auf den Boden gerichtet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00053_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Die Männer an den Seiten der Hütte flüsterten miteinander, ließen aber ihren Blick nur selten vom Gesicht des Leichnams.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00054_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Bald hob der Coroner die Augen und sagte: \"Wir werden die gerichtliche Untersuchung wieder aufnehmen.\"",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00055_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00056_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Die Männer nahmen ihre Hüte ab.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00057_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Der Zeuge wurde vereidigt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00058_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00059_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Wie ist Euer Name?\", fragte der Coroner.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00060_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00061_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"William Harker.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00062_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00063_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Alter?\"",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00064_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00065_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Siebenundzwanzig.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00066_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00067_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Ihr kanntet den Verstorbenen, Hugh Morgan?\"",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00068_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00069_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Ja.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00070_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00071_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Ihr wart bei ihm, als er starb?\"",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00072_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00073_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"In seiner Nähe.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00074_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00075_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Wie kam das – ich meine Eure Anwesenheit?\"",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c001_00076_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00077_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Ich besuchte ihn an diesem Ort, um zu schießen und zu fischen. Ein Teil meiner Absicht war jedoch, ihn und seine sonderbare, einsame Lebensweise zu studieren. Er schien mir ein gutes Vorbild für eine Gestalt in einer Erzählung. Ich schreibe bisweilen Geschichten.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00078_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00079_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Ich lese sie bisweilen.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00080_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00081_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Ich danke Euch.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00082_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00083_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Geschichten im Allgemeinen – nicht die Euren.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00084_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00085_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Einige der Geschworenen lachten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00086_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Vor düsterem Hintergrund zeigt Humor Glanzlichter.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00087_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Soldaten lachen in den Pausen der Schlacht leichthin, und ein Scherz in der Todeskammer siegt durch Überraschung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00088_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00089_dl",
+   "typ": "dl",
+   "kapitel": "The Damned Thing",
+   "text": "\"Berichtet die Umstände des Todes dieses Mannes\", sagte der Coroner. \"Ihr mögt alle Notizen oder Aufzeichnungen verwenden, die Ihr wünscht.\"",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c001_00090_p",
+   "typ": "p",
+   "kapitel": "The Damned Thing",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c001_00091_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Der Zeuge verstand.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c001_00092_s",
+   "typ": "s",
+   "kapitel": "The Damned Thing",
+   "text": "Er zog ein Manuskript aus der Brusttasche, hielt es nahe an die Kerze, und während er die Seiten umwandte, bis er die gewünschte Stelle fand, begann er zu lesen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00001_h",
+   "typ": "h",
+   "kapitel": "Ii",
+   "text": "II",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c002_00002_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Die Sonne war kaum aufgegangen, als wir das Haus verließen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00003_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Wir suchten Wachteln, jeder mit einer Schrotflinte, doch wir hatten nur einen Hund.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00004_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Morgan sagte, unser bestes Gelände liege jenseits eines gewissen Höhenrückens, auf den er deutete, und wir überquerten ihn auf einem Pfad durch das Chaparral.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00005_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Auf der anderen Seite war verhältnismäßig ebenes Land, dicht mit Wildhafer bewachsen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00006_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Als wir aus dem Chaparral traten, war Morgan nur wenige Schritte voraus.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00007_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Plötzlich vernahmen wir, in geringer Entfernung zu unserer Rechten und teils vor uns, ein Geräusch, als schlüge ein Tier im Gebüsch um sich, das wir heftig erzittern sahen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00008_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "„Wir haben ein Reh aufgescheucht“, sagte ich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00009_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "„Ich wünschte, wir hätten ein Gewehr mitgenommen.“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00010_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Morgan, der stehen geblieben war und das erregte Chaparral aufmerksam beobachtete, sagte nichts.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00011_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Doch er hatte beide Läufe seiner Flinte gespannt und hielt sie schussbereit.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00012_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Er schien mir ein wenig erregt, was mich überraschte, denn er stand in dem Ruf außergewöhnlicher Kaltblütigkeit, selbst in Augenblicken plötzlicher und unmittelbarer Gefahr.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00013_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "„Ach, komm!“, sagte ich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00014_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "„Du wirst doch kein Reh mit Schrot vollpumpen, oder?“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00015_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Noch immer antwortete er nicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00016_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Doch als ich einen Blick auf sein Gesicht erhaschte, das er mir leicht zuwandte, fiel mir auf, wie bleich es war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00017_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Da begriff ich, dass wir es mit etwas Ernstem zu tun hatten, und mein erster Gedanke war, wir hätten einen Grizzly aufgeschreckt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00018_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Ich trat an Morgans Seite und spannte dabei meine Flinte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00019_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Das Gebüsch war nun still, und die Geräusche hatten aufgehört, doch Morgan blieb so aufmerksam wie zuvor.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00020_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "„Was ist es? Was zum Teufel ist es?“, fragte ich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00021_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "„Dieses verdammte Ding!“, erwiderte er, ohne den Kopf zu wenden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00022_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Seine Stimme war heiser und unnatürlich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00023_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Er zitterte sichtlich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00024_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Ich wollte gerade weitersprechen, als ich bemerkte, wie sich der Wildhafer nahe der Stelle der Störung auf höchst unerklärliche Weise bewegte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00025_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Ich kann es kaum beschreiben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00026_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Es schien, als würde er von einem Windstoß gestreift, der ihn nicht nur bog, sondern niederpresste – ihn so zerdrückte, dass er sich nicht wieder aufrichtete.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00027_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Und diese Bewegung dehnte sich langsam und geradewegs auf uns zu aus.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00028_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Nichts, was ich je gesehen hatte, hatte mich so seltsam berührt wie dieses unvertraute und unerklärliche Phänomen, doch kann ich mich an keinerlei Furcht erinnern.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00029_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Ich erinnere mich – und erwähne es hier, weil ich mich seltsamerweise damals daran erinnerte –, dass ich einmal, als ich gedankenverloren aus einem offenen Fenster blickte, einen kleinen Baum in der Nähe für einen aus einer Gruppe größerer Bäume in einiger Entfernung hielt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00030_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Er schien von gleicher Größe wie die anderen, doch da er in Masse und Einzelheit deutlicher und schärfer umrissen war, wirkte er nicht im Einklang mit ihnen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00031_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Es war eine bloße Verfälschung des Gesetzes der Luftperspektive, doch es erschreckte mich, ja versetzte mich beinahe in Schrecken.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00032_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Wir verlassen uns so sehr auf den geordneten Ablauf vertrauter Naturgesetze, dass jedes scheinbare Aussetzen derselben als Bedrohung unserer Sicherheit, als Warnung vor unausdenkbarem Unheil wahrgenommen wird.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00033_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "So war nun die scheinbar ursachenlose Bewegung des Grases und das langsame, unabweisbare Näherkommen der Störungslinie ausgesprochen beunruhigend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00034_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Mein Gefährte schien tatsächlich verängstigt, und ich traute meinen Sinnen kaum, als ich sah, wie er plötzlich die Flinte an die Schulter riss und beide Läufe in das erregte Gras feuerte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00035_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Bevor sich der Rauch des Schusses verzogen hatte, hörte ich einen lauten, wilden Schrei – ein Kreischen wie das eines wilden Tieres.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00036_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Morgan schleuderte seine Flinte zu Boden, sprang auf und rannte rasch von der Stelle fort.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00037_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Im selben Augenblick wurde ich heftig zu Boden geworfen durch den Aufprall von etwas Unsichtbarem im Rauch – einer weichen, schweren Masse, die mit großer Wucht gegen mich geschleudert schien.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00038_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Ehe ich auf die Füße kommen und meine Flinte aufheben konnte, die mir aus den Händen geschlagen worden zu sein schien, hörte ich Morgan aufschreien wie in furchtbarer Qual.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00039_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Unter seine Schreie mischten sich heisere, wilde Laute wie die kämpfender Hunde.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00040_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Vor Entsetzen sprachlos, rappelte ich mich auf und blickte dorthin, wohin Morgan sich zurückgezogen hatte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00041_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Möge der Himmel in seiner Gnade mich davor bewahren, je wieder einen solchen Anblick zu sehen!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c002_00042_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Weniger als dreißig Schritte entfernt war mein Freund, auf ein Knie gesunken, den Kopf in schrecklichem Winkel zurückgeworfen, ohne Hut, das lange Haar zerzaust, und sein ganzer Körper zuckte heftig von einer Seite zur anderen und vor und zurück.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00043_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Sein rechter Arm war erhoben und schien die Hand zu entbehren – zumindest konnte ich keine Hand sehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00044_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Der andere Arm war verborgen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00045_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Mitunter, wenn ich mich jetzt dieser außerordentlichen Szene entsinne, konnte ich nur einen Teil seines Körpers sehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00046_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Es war, als wäre er teilweise ausgelöscht – ich kann es nicht anders beschreiben –, dann brachte ihn eine Veränderung seiner Stellung wieder vollständig in Sicht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00047_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "All dies muss sich innerhalb weniger Sekunden zugetragen haben, doch in dieser Zeit nahm Morgan alle Stellungen eines entschlossenen Ringers an, der von überlegenem Gewicht und überlegener Kraft überwältigt wird.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00048_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Ich sah nichts als ihn, und selbst ihn nicht immer deutlich.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00049_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Während des ganzen Vorfalls waren seine Schreie und Flüche zu hören, wie durch ein umgebendes Tosen von Wut und Raserei, wie ich es nie aus der Kehle eines Menschen oder Tieres vernommen hatte!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c002_00050_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Einen Augenblick stand ich starr vor Unentschlossenheit, dann warf ich meine Flinte hin und lief vor, um meinem Freund zu helfen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00051_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Ich hatte die vage Vorstellung, er leide an einem Anfall oder einer Art Krampf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00052_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Ehe ich seine Seite erreichen konnte, lag er am Boden und regte sich nicht mehr.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00053_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Alle Geräusche waren verstummt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00054_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Doch dann, mit einem Gefühl des Schreckens, größer noch als selbst diese entsetzlichen Ereignisse es verursacht hatten, sah ich dieselbe geheimnisvolle Bewegung des Wildhafers, die sich von dem zertrampelten Boden um den Gefallenen bis zum Rand eines Gehölzes erstreckte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00055_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Erst als sie das Gehölz erreicht hatte, vermochte ich den Blick loszureißen und meinen Gefährten anzusehen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c002_00056_s",
+   "typ": "s",
+   "kapitel": "Ii",
+   "text": "Er war tot.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00001_h",
+   "typ": "h",
+   "kapitel": "Iii",
+   "text": "III",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c003_00002_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Der Coroner erhob sich von seinem Stuhl und trat neben den Toten.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00003_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Er hob einen Zipfel des Lakens an und zog es fort, so daß der ganze Körper entblößt war, nackt und im Kerzenlicht von lehmigem Gelb.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00004_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Doch zeigten sich breite, bläulich-schwarze Flecken, offenbar von Blut, das aus Quetschungen ausgetreten war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00005_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Brust und Seiten sahen aus, als wären sie mit einer schweren Keule geschlagen worden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00006_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Es gab entsetzliche Schnitte; die Haut hing in Streifen und Fetzen herab.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00007_p",
+   "typ": "p",
+   "kapitel": "Iii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00008_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Der Coroner ging um das Ende des Tisches herum und löste ein seidenes Tuch, das unter dem Kinn hindurchgeführt und auf dem Scheitel verknotet worden war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00009_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Als das Tuch fortgezogen wurde, kam zum Vorschein, was einst die Kehle gewesen war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00010_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Einige der Geschworenen, die aufgestanden waren, um besser zu sehen, bereuten ihre Neugier und wandten die Gesichter ab.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00011_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Der Zeuge Harker trat ans offene Fenster und lehnte sich über das Sims, schwach und übel.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00012_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Der Coroner ließ das Tuch auf den Hals des Toten fallen, trat in eine Ecke des Raumes und zog aus einem Kleiderhaufen ein Kleidungsstück nach dem anderen hervor, jedes hielt er einen Augenblick zur Besichtigung hoch.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00013_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Alle waren zerrissen und steif von Blut.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00014_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Die Geschworenen nahmen keine genauere Besichtigung vor.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00015_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Sie schienen eher unbeteiligt.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00016_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Sie hatten dies alles in Wahrheit schon früher gesehen; das einzige Neue für sie war Harkers Aussage.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00017_p",
+   "typ": "p",
+   "kapitel": "Iii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00018_dl",
+   "typ": "dl",
+   "kapitel": "Iii",
+   "text": "»Meine Herren«, sagte der Coroner, »weitere Beweise haben wir, denke ich, nicht.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c003_00019_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Ihre Pflicht ist Ihnen bereits erläutert worden; wenn Sie nichts zu fragen wünschen, können Sie hinausgehen und Ihr Urteil beraten.«",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00020_p",
+   "typ": "p",
+   "kapitel": "Iii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00021_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Der Obmann erhob sich – ein großer, bärtiger Mann von sechzig Jahren, grob gekleidet.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00022_p",
+   "typ": "p",
+   "kapitel": "Iii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00023_dl",
+   "typ": "dl",
+   "kapitel": "Iii",
+   "text": "»Ich möchte eine Frage stellen, Herr Coroner«, sagte er.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c003_00024_dl",
+   "typ": "dl",
+   "kapitel": "Iii",
+   "text": "»Aus welcher Irrenanstalt ist dieser letzte Zeuge entkommen?«",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c003_00025_p",
+   "typ": "p",
+   "kapitel": "Iii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00026_dl",
+   "typ": "dl",
+   "kapitel": "Iii",
+   "text": "»Mr. Harker«, sagte der Coroner ernst und ruhig, »aus welcher Irrenanstalt sind Sie zuletzt entkommen?«",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c003_00027_p",
+   "typ": "p",
+   "kapitel": "Iii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00028_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Harker errötete wieder tief, sagte aber nichts, und die sieben Geschworenen erhoben sich und schritten feierlich aus der Hütte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00029_p",
+   "typ": "p",
+   "kapitel": "Iii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00030_dl",
+   "typ": "dl",
+   "kapitel": "Iii",
+   "text": "»Wenn Sie mich genug beleidigt haben, Sir«, sagte Harker, sobald er mit dem Beamten allein bei dem Toten war, »so nehme ich an, daß ich gehen darf?«",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c003_00031_dl",
+   "typ": "dl",
+   "kapitel": "Iii",
+   "text": "»Ja.«",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c003_00032_p",
+   "typ": "p",
+   "kapitel": "Iii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00033_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Harker wollte gehen, hielt jedoch inne, die Hand auf der Türklinke.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00034_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Die Gewohnheit seines Berufes war stark in ihm – stärker als sein Gefühl für persönliche Würde.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00035_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Er wandte sich um und sagte:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c003_00036_dl",
+   "typ": "dl",
+   "kapitel": "Iii",
+   "text": "„Das Buch, das Sie dort haben – ich erkenne es als Morgans Tagebuch.",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c003_00037_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Sie schienen großes Interesse daran zu nehmen; Sie lasen darin, während ich aussagte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00038_dl",
+   "typ": "dl",
+   "kapitel": "Iii",
+   "text": "Dürfte ich es sehen?",
+   "audio_path": "",
+   "pause_after_ms": 650
+  },
+  {
+   "tag_id": "c003_00039_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Die Öffentlichkeit würde gern—\"",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00040_dl",
+   "typ": "dl",
+   "kapitel": "Iii",
+   "text": "„Das Buch wird in dieser Sache keine Rolle spielen“, erwiderte der Beamte und schob es in seine Manteltasche; „alle Eintragungen darin wurden vor dem Tod des Schreibers gemacht.“",
+   "audio_path": "",
+   "pause_after_ms": 450
+  },
+  {
+   "tag_id": "c003_00041_p",
+   "typ": "p",
+   "kapitel": "Iii",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c003_00042_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Als Harker das Haus verließ, traten die Geschworenen wieder ein und stellten sich um den Tisch, auf dem die nun bedeckte Leiche unter dem Laken scharf umrissen hervortrat.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c003_00043_s",
+   "typ": "s",
+   "kapitel": "Iii",
+   "text": "Der Obmann setzte sich nahe der Kerze, zog aus der Brusttasche einen Bleistift und einen Zettel hervor und schrieb ziemlich mühsam folgenden Spruch nieder, den alle mit unterschiedlicher Anstrengung unterzeichneten:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c003_00044_qt",
+   "typ": "qt",
+   "kapitel": "Iii",
+   "text": "„Wir, die Geschworenen, befinden, daß die Überreste durch die Hand eines Pumas zu Tode kamen, doch meinen einige von uns gleichwohl, sie hätten Krämpfe gehabt.“",
+   "audio_path": "",
+   "pause_after_ms": 600
+  },
+  {
+   "tag_id": "c004_00001_h",
+   "typ": "h",
+   "kapitel": "Iv",
+   "text": "IV",
+   "audio_path": "",
+   "pause_after_ms": 900
+  },
+  {
+   "tag_id": "c004_00002_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "In dem Tagebuch des verstorbenen Hugh Morgan finden sich gewisse bemerkenswerte Einträge, die als Anregungen von einigem wissenschaftlichem Wert sein mögen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00003_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Bei der gerichtlichen Untersuchung seiner Leiche wurde das Buch nicht als Beweisstück vorgelegt; vielleicht hielt es der Coroner nicht für lohnend, die Geschworenen zu verwirren.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00004_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Das Datum des ersten dieser Einträge lässt sich nicht bestimmen; der obere Teil des Blattes ist abgerissen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00005_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Der erhaltene Teil des Eintrags lautet wie folgt:",
+   "audio_path": "",
+   "pause_after_ms": 250
+  },
+  {
+   "tag_id": "c004_00006_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "„… lief im Halbkreis, den Kopf stets dem Mittelpunkt zugewandt, und dann wieder blieb er stehen und bellte wütend.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00007_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Schließlich rannte er davon ins Gebüsch, so schnell er nur konnte.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00008_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Ich dachte zuerst, er sei toll geworden, doch als ich zum Haus zurückkehrte, fand ich in seinem Verhalten keine andere Veränderung als die, welche offenkundig der Furcht vor Strafe zuzuschreiben war.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00009_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "„Kann ein Hund mit der Nase sehen?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c004_00010_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Prägen Gerüche einem Riechzentrum Bilder der Dinge ein, die sie ausströmen? …“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00011_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "„2. Sept. – Als ich letzte Nacht die Sterne betrachtete, wie sie über dem Kamm des Höhenzugs östlich des Hauses aufstiegen, beobachtete ich, wie sie einer nach dem anderen verschwanden – von links nach rechts.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00012_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Jeder war nur einen Augenblick lang verfinstert, und stets nur wenige zugleich, doch auf der gesamten Länge des Kamms waren alle, die sich innerhalb von ein oder zwei Grad der Kammlinie befanden, ausgelöscht.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00013_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Es war, als wäre etwas zwischen mir und ihnen vorübergezogen; aber ich konnte es nicht sehen, und die Sterne standen nicht dicht genug, um seinen Umriss zu bestimmen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00014_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Pfui! Das gefällt mir nicht. …“",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00015_p",
+   "typ": "p",
+   "kapitel": "Iv",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c004_00016_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Die Einträge mehrerer Wochen fehlen; drei Blätter sind aus dem Buch gerissen worden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00017_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "„27. Sept. – Es ist wieder hier gewesen – ich finde jeden Tag Spuren seiner Gegenwart.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00018_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Ich habe wieder die ganze letzte Nacht in demselben Versteck gewacht, das Gewehr in der Hand, doppelt geladen mit grobem Schrot.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00019_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Am Morgen waren die frischen Fußspuren da wie zuvor.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00020_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Und doch hätte ich geschworen, dass ich nicht geschlafen habe – tatsächlich schlafe ich kaum noch.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00021_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Es ist entsetzlich, unerträglich!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c004_00022_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Wenn diese ungeheuerlichen Erlebnisse wirklich sind, werde ich wahnsinnig; wenn sie eingebildet sind, bin ich es bereits.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00023_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "„3. Okt. – Ich werde nicht fortgehen – es soll mich nicht vertreiben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00024_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Nein, dies ist _mein_ Haus, mein Land.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00025_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Gott hasst einen Feigling. …",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00026_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "„5. Okt. – Ich halte es nicht länger aus; ich habe Harker eingeladen, ein paar Wochen bei mir zu verbringen – er hat einen klaren Kopf.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00027_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Ich kann an seinem Verhalten erkennen, ob er mich für wahnsinnig hält.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00028_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "„7. Okt. – Ich habe die Lösung des Problems; sie kam mir letzte Nacht – plötzlich, wie durch eine Offenbarung.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00029_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Wie einfach – wie furchtbar einfach!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  },
+  {
+   "tag_id": "c004_00030_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "„Es gibt Töne, die wir nicht hören können.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00031_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "An beiden Enden der Skala liegen Noten, die keine Saite jenes unvollkommenen Instruments, des menschlichen Ohres, zum Schwingen bringen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00032_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Sie sind zu hoch oder zu tief.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00033_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Ich habe einen Schwarm Amseln beobachtet, der eine ganze Baumkrone einnahm – die Kronen mehrerer Bäume – und alle sangen aus voller Kehle.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00034_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Plötzlich – in einem Augenblick – in absolut demselben Moment – erheben sich alle in die Luft und fliegen davon.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00035_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Wie?",
+   "audio_path": "",
+   "pause_after_ms": 550
+  },
+  {
+   "tag_id": "c004_00036_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Sie konnten einander nicht alle sehen – ganze Baumkronen lagen dazwischen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00037_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "An keiner Stelle hätte ein Anführer für alle sichtbar sein können.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00038_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Es muss ein Warn- oder Befehlssignal gegeben haben, hoch und schrill über dem Lärm, aber für mich unhörbar.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00039_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Ich habe auch dieselbe gleichzeitige Flucht beobachtet, wenn alle still waren, nicht nur bei Amseln, sondern bei anderen Vögeln – Wachteln zum Beispiel, weit voneinander getrennt durch Büsche – sogar auf entgegengesetzten Seiten eines Hügels.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00040_p",
+   "typ": "p",
+   "kapitel": "Iv",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c004_00041_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Seeleute wissen, dass eine Gruppe von Walen, die an der Meeresoberfläche ruht oder spielt, Meilen voneinander entfernt, mit der Erdkrümmung zwischen ihnen, bisweilen im selben Augenblick abtaucht – alle in einem Moment aus dem Blick verschwunden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00042_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Das Signal ist erklungen – zu tief für das Ohr des Seemanns im Mastkorb und seiner Kameraden an Deck – die dennoch seine Schwingungen im Schiff spüren, so wie die Steine einer Kathedrale von den tiefen Tönen der Orgel bewegt werden.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00043_p",
+   "typ": "p",
+   "kapitel": "Iv",
+   "text": "",
+   "audio_path": "",
+   "pause_after_ms": 800
+  },
+  {
+   "tag_id": "c004_00044_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Wie mit den Tönen, so mit den Farben.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00045_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "An jedem Ende des Sonnenspektrums kann der Chemiker das Vorhandensein sogenannter „aktinischer“ Strahlen nachweisen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00046_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Sie stellen Farben dar – wesentliche Farben im Aufbau des Lichts –, die wir nicht zu sehen vermögen.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00047_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Das menschliche Auge ist ein unvollkommenes Instrument; seine Reichweite beträgt nur wenige Oktaven der wahren „chromatischen Skala“.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00048_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Ich bin nicht wahnsinnig; es gibt Farben, die wir nicht sehen können.",
+   "audio_path": "",
+   "pause_after_ms": 350
+  },
+  {
+   "tag_id": "c004_00049_s",
+   "typ": "s",
+   "kapitel": "Iv",
+   "text": "Und, Gott steh mir bei! das Verdammte Ding ist von solch einer Farbe!",
+   "audio_path": "",
+   "pause_after_ms": 500
+  }
+ ]
+}
