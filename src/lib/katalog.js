@@ -1,22 +1,8 @@
 // Katalog für den Book-Shop: Demo-Werke aus public/demo/katalog.json
 // (vom Read-Layer-Cockpit befüllt, tools/export_demo.py).
 //
-// Sonderfall: "Der Ruf der Wildnis" liegt zusätzlich MIT Audio im public-Wurzelordner
-// (Entwicklungsstand). Dann nehmen wir die Wurzel-Fassung (base ""), damit Hören geht.
-
-const ROOT_WORK = {
-  slug: "call-of-the-wild",
-  titel: { en: "The Call of the Wild", de: "Der Ruf der Wildnis" },
-  autor: "Jack London",
-  erscheinungsjahr: 1903,
-  sprachen: ["de", "en"],
-  cover: ["cover_de.jpg", "cover_en.jpg"],
-  kapitel: 7,
-  woerter: 31754,
-  audio_vorhanden: { en: true, de: true },
-  audio_im_demo: true,
-  regal: "abenteuer",
-};
+// Ruf der Wildnis liegt seit N-3 (24.10.2026) nur noch unter public/demo/call-of-the-wild/;
+// das alte Startwerk im public-Wurzelordner ist archiviert (archive/2026-10-24_startwerk/).
 
 async function optionalJson(url) {
   try {
@@ -29,10 +15,6 @@ async function optionalJson(url) {
 export async function loadKatalog() {
   const k = await optionalJson("/demo/katalog.json");
   const werke = (k?.werke || []).map((w) => ({ ...w, base: `/demo/${w.slug}` }));
-  const i = werke.findIndex((w) => w.slug === ROOT_WORK.slug);
-  const root = { ...ROOT_WORK, base: "" };
-  if (i >= 0) werke[i] = { ...werke[i], ...root };
-  else if (await optionalJson("/blurb.json")) werke.unshift(root);
   // Demo-EPUB 3 mit Media Overlays (A-004): public/demo/epub-muster/epub.json + .epub
   const em = await optionalJson("/demo/epub-muster/epub.json");
   if (em?.datei) werke.push({ audio_im_demo: true, ...em, slug: em.slug || "epub-muster",

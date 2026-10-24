@@ -1,16 +1,10 @@
 import { setSprecherGeschlecht } from "../components/SprecherLabel.jsx";
-// Werke liegen entweder im public-Wurzelordner (base "") oder unter /demo/<slug> (Book-Shop).
-
-// Lokale Entwicklung: Satz-Audios liegen als WAV unter /public/audio/<lang>/<tag_id>.wav
-// (Sync via read_layer/taella_audio_de_sync.bat). Produktion später: gs://…/<tag_id>.mp3
-const LOCAL_AUDIO_EXT = ".wav";
-
-function localAudio(gsPath, base) {
-  if (!gsPath) return null;
-  // Demo-Manifest: relativer Pfad "audio/<lang>/<tag>.wav" neben dem Manifest
-  if (!/^\w+:\/\//.test(gsPath) && !gsPath.startsWith("/")) return `${base}/${gsPath}`;
-  const m = gsPath.match(/\/audio\/(\w+)\/([^/]+)\.\w+$/);
-  return m ? `/audio/${m[1]}/${m[2]}${LOCAL_AUDIO_EXT}` : null;
+// Werke liegen unter /demo/<slug> (Book-Shop) bzw. /privat/<uid>/<slug>; Audio-Pfade im Manifest
+// relativ zum Werkordner ("audio/<lang>/<tag>.wav"). Das alte Startwerk im public-Wurzelordner
+// (gs://-Pfade → /audio/<lang>/) ist seit N-3 archiviert.
+function localAudio(path, base) {
+  if (!path || /^\w+:\/\//.test(path)) return null;
+  return path.startsWith("/") ? path : `${base}/${path}`;
 }
 
 // Optionale JSON-Datei (fehlt sie, liefert der Dev-Server ggf. index.html → null)
