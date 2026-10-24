@@ -168,8 +168,11 @@
     "de": true
    },
    "audio_im_demo": true,
+   "hoerspiel": {
+    "de": true
+   },
    "pfad": "demo/call-of-the-wild/",
-   "aktualisiert": "2026-10-16T10:20:27",
+   "aktualisiert": "2026-10-24T16:31:35",
    "regal": "abenteuer",
    "genre": "Abenteuerroman"
   },
@@ -376,5 +379,5 @@
    "genre": "Theaterstück"
   }
  ],
- "aktualisiert": "2026-10-22T21:08:25"
+ "aktualisiert": "2026-10-24T16:31:35"
 }
