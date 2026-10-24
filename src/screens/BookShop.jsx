@@ -23,6 +23,7 @@ const TXT = {
     stand: "Dein Stand", stWoerter: "Wörter nachgeschlagen", stVersch: "verschiedene", stUpps: "Sätze per Upps",
     stKap: "Nachgeschlagen je Kapitel", stHint: "Weniger Balken nach hinten = du verstehst mehr.",
     regalTab: "Mein Regal", leerPrivat: "Noch keine eigenen Bücher. Lade ein ePub auf taella.io hoch.",
+    epubOeffnen: "EPUB öffnen", epubHint: "EPUB 3 von diesem Gerät, bleibt lokal. Mit Media Overlays auch zum Hören.",
     privat: "Privat · nur für dich", eigenes: "Eigenes Buch",
   },
   en: {
@@ -38,6 +39,7 @@ const TXT = {
     stand: "Your progress", stWoerter: "words looked up", stVersch: "distinct", stUpps: "sentences via Upps",
     stKap: "Look-ups per chapter", stHint: "Shorter bars towards the end = you understand more.",
     regalTab: "My shelf", leerPrivat: "No books of your own yet. Upload an ePub on taella.io.",
+    epubOeffnen: "Open EPUB", epubHint: "EPUB 3 from this device, stays local. With Media Overlays also for listening.",
     privat: "Private · only you", eigenes: "Own book",
   },
 };
@@ -80,6 +82,27 @@ function Cover({ w, lang, className }) {
   return src
     ? <img className={className} src={src} alt="" loading="lazy" />
     : <div className={className + " cover-ph"}><span>{titelOf(w, lang)}</span></div>;
+}
+
+// EPUB von diesem Gerät öffnen (A-004): nichts wird hochgeladen, die Datei bleibt im Browser
+function EpubOeffnen({ t, onOpen }) {
+  const pick = (e) => {
+    const f = e.target.files?.[0];
+    e.target.value = "";
+    if (!f) return;
+    const name = f.name.replace(/\.epub$/i, "");
+    onOpen({ slug: "epub-datei-" + name.toLowerCase().replace(/[^a-z0-9]+/g, "-"), base: "", epub: f,
+             titel: { en: name, de: name }, privat: true }, "read");
+  };
+  return (
+    <div className="shop-epub">
+      <label className="btn">
+        <IconBook size={22} />{t.epubOeffnen}
+        <input type="file" accept=".epub,application/epub+zip" hidden onChange={pick} />
+      </label>
+      <p className="shop-epub-hint">{t.epubHint}</p>
+    </div>
+  );
 }
 
 export default function BookShop({ onOpen, onSettings }) {
@@ -193,7 +216,7 @@ export default function BookShop({ onOpen, onSettings }) {
           </>
         )}
 
-        {tab === "regalTab" && zeilen(privat, t.leerPrivat)}
+        {tab === "regalTab" && <><EpubOeffnen t={t} onOpen={onOpen} />{zeilen(privat, t.leerPrivat)}</>}
         {werke && tab === "favoriten" && zeilen(favListe, t.leerFav)}
         {werke && tab === "begonnenTab" && zeilen(begonnen, t.leerBeg)}
       </div>

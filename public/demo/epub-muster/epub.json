@@ -1,0 +1,13 @@
+{
+ "slug": "epub-muster",
+ "titel": { "en": "The Call of the Wild (EPUB 3 sample)", "de": "Der Ruf der Wildnis (EPUB-3-Muster)" },
+ "autor": "Jack London",
+ "datei": "muster.epub",
+ "sprachen": ["en"],
+ "cover": [],
+ "kapitel": 2,
+ "audio_vorhanden": { "en": true },
+ "audio_im_demo": true,
+ "regal": "abenteuer",
+ "quelle": "epub"
+}

@@ -411,13 +411,15 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
       <nav className={"chrome-bottom" + (chrome ? "" : " chrome--hidden")} onClick={(e) => e.stopPropagation()}>
         {onBack && <button className="icon-btn" aria-label={nativeLang === "de" ? "Bibliothek" : "Library"} onClick={onBack}><IconZurueck /></button>}
         <button className="icon-btn" aria-label={lang === "de" ? "Kapitel" : "Chapters"} onClick={() => { setShowChapters(true); setChrome(false); }}><IconMenu /></button>
-        <button className="icon-btn" aria-label="Hören" onClick={() => { setChrome(false); toListen(); }}><IconHoeren /></button>
+        {work.meta.mediaOverlay !== false && (   /* EPUB ohne Media Overlay: nur lesen */
+          <button className="icon-btn" aria-label="Hören" onClick={() => { setChrome(false); toListen(); }}><IconHoeren /></button>
+        )}
         <button className="icon-btn lang-btn" aria-label="Sprache wechseln" onClick={switchLang}><DotWord text={otherLang} /></button>
         <button className="icon-btn" aria-label={darkMode ? "Tagmodus" : "Nachtmodus"} onClick={() => setDarkMode((d) => !d)}>{darkMode ? <IconSonne /> : <IconMond />}</button>
         {onSettings && <button className="icon-btn" aria-label={nativeLang === "de" ? "Einstellungen" : "Settings"} onClick={() => { setChrome(false); onSettings(); }}><IconEinstellungen /></button>}
       </nav>
 
-      {mode === "listen" && (
+      {mode === "listen" && work.meta.mediaOverlay !== false && (
         <ListenView
           work={work}
           lang={lang}

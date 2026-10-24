@@ -66,6 +66,9 @@
 .tab--on { color: var(--ink); }
 .shop-body { padding-top: 18px; }
 .shop-leer { padding: 30px 22px; color: var(--ink-3); line-height: 1.5; }
+.shop-epub { padding: 18px 22px 4px; display: flex; flex-direction: column; gap: 8px; align-items: flex-start; }
+.shop-epub .btn { cursor: pointer; }
+.shop-epub-hint { margin: 0; color: var(--ink-3); font-size: 0.9em; line-height: 1.4; }
 .shop-h { font: 600 12px/1 var(--ui); letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); margin: 30px 22px 6px; }
 
 /* Kartenstapel: wischen wie durch Karten (kptnCook), Karte rastet mittig ein */

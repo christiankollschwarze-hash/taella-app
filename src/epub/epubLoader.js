@@ -121,7 +121,10 @@ export async function loadEpub(source) {
     const body = first(doc, "body") || doc.documentElement;
     const pre = `c${ci + 1}`;
     const heading = body.querySelector("h1,h2,h3,h4,h5,h6");
-    const kapTitel = tocTitel[it.href] || clean(heading?.textContent) || `${ci + 1}`;
+    // Folgedatei ohne eigenen Titel (weder Inhaltsverzeichnis noch Überschrift) = Fortsetzung des Kapitels
+    const fortsetzung = !tocTitel[it.href] && !heading && kapitel.length > 0;
+    const kapTitel = fortsetzung ? kapitel[kapitel.length - 1].titel
+      : tocTitel[it.href] || clean(heading?.textContent) || `${ci + 1}`;
 
     // Satzliste dieses Kapitels: [{ el, text, audio, begin, end }]
     let saetze = [];
@@ -164,8 +167,9 @@ export async function loadEpub(source) {
     const isHead = (el) => !!el.closest?.("h1,h2,h3,h4,h5,h6");
     let n = 0;
     const id = () => `${pre}-${++n}`;
-    let kapGesetzt = false;
-    if (!isHead(saetze[0].el)) {
+    let kapGesetzt = fortsetzung;
+    if (fortsetzung) nodes.push(mk(id(), "p", kapTitel, { text: "" }));
+    else if (!isHead(saetze[0].el)) {
       const tid = id();
       nodes.push(mk(tid, "h", kapTitel, { text: kapTitel }));
       kapitel.push({ tag_id: tid, titel: kapTitel, titel_de: kapTitel });

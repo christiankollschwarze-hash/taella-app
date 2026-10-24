@@ -33,6 +33,10 @@ export async function loadKatalog() {
   const root = { ...ROOT_WORK, base: "" };
   if (i >= 0) werke[i] = { ...werke[i], ...root };
   else if (await optionalJson("/blurb.json")) werke.unshift(root);
+  // Demo-EPUB 3 mit Media Overlays (A-004): public/demo/epub-muster/epub.json + .epub
+  const em = await optionalJson("/demo/epub-muster/epub.json");
+  if (em?.datei) werke.push({ audio_im_demo: true, ...em, slug: em.slug || "epub-muster",
+    base: "/demo/epub-muster", epub: `/demo/epub-muster/${em.datei}` });
   return werke;
 }
 
