@@ -55,7 +55,7 @@
    "audio_im_demo": true,
    "hoerspiel": {},
    "pfad": "demo/the-hound-of-the-baskervilles/",
-   "aktualisiert": "2026-10-26T13:55:49",
+   "aktualisiert": "2026-10-26T15:00:32",
    "regal": "krimi",
    "genre": "Kriminalroman"
   },
@@ -173,7 +173,7 @@
     "de": true
    },
    "pfad": "demo/call-of-the-wild/",
-   "aktualisiert": "2026-10-26T12:13:21",
+   "aktualisiert": "2026-10-26T14:58:25",
    "regal": "abenteuer",
    "genre": "Abenteuerroman"
   },
@@ -203,7 +203,7 @@
    "audio_im_demo": true,
    "hoerspiel": {},
    "pfad": "demo/alice-s-adventures-in-wonderland/",
-   "aktualisiert": "2026-10-26T13:36:06",
+   "aktualisiert": "2026-10-26T14:58:51",
    "regal": "fantastik",
    "genre": "Fantasy"
   },
@@ -262,7 +262,7 @@
    "audio_im_demo": true,
    "hoerspiel": {},
    "pfad": "demo/jekyll-and-hyde/",
-   "aktualisiert": "2026-10-26T13:45:19",
+   "aktualisiert": "2026-10-26T14:59:38",
    "regal": "krimi",
    "genre": "Krimi"
   },
@@ -294,7 +294,7 @@
     "de": true
    },
    "pfad": "demo/die-spiegelschwestern/",
-   "aktualisiert": "2026-10-26T13:19:31",
+   "aktualisiert": "2026-10-26T14:58:11",
    "regal": "roman",
    "genre": ""
   },
@@ -324,7 +324,7 @@
    "audio_im_demo": true,
    "hoerspiel": {},
    "pfad": "demo/the-legend-of-sleepy-hollow/",
-   "aktualisiert": "2026-10-26T13:38:04",
+   "aktualisiert": "2026-10-26T14:58:58",
    "regal": "grusel",
    "genre": "Erzählung"
   },
@@ -382,10 +382,10 @@
    "audio_im_demo": true,
    "hoerspiel": {},
    "pfad": "demo/as-you-like-it/",
-   "aktualisiert": "2026-10-26T13:41:49",
+   "aktualisiert": "2026-10-26T14:59:08",
    "regal": "buehne",
    "genre": "Theaterstück"
   }
  ],
- "aktualisiert": "2026-10-26T13:19:31"
+ "aktualisiert": "2026-10-26T15:00:32"
 }
