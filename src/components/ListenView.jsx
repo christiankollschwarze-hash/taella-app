@@ -128,7 +128,7 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
   // Karaoke (AP 54c, 26.10.2026): gesprochenes Wort + Gegenwort in der anderen Sprache.
   // Gehörte Sprache: Token-Wortzeiten (Stage 520) als Grundlage, innerhalb des Tokens die Ankerzeit
   // (Teil-Token/Kompositum). Andere Sprache: Anker mit t/tz/zspans (s525 → s710); ohne Anker kein Gegenwort.
-  // Fallback ohne Ankerzeiten (Hörspiel-Clip, ältere Exporte): Token-Karaoke + Spans wie bisher.
+  // Hörspiel-Clip (AP 55): Ankerzeiten ths/tzhs aus der Hörspiel-Wortbrücke. Fallback ohne Ankerzeiten: Token-Karaoke + Spans.
   const zeilen = useMemo(() => {
     if (!p.node) return [];
     const heard = p.uppsLang || lang, gegen = heard === "en" ? "de" : "en";
@@ -138,8 +138,9 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
     const { times } = tokenTimes(p.node, heard, p.duration, wtAktiv);
     const tok = tokenZustand(hText, times, p.time);
     const quelle = work.meta.originalsprache || "en";
-    const wp = !p.hsAktiv && hatAnkerzeiten(p.node)
-      ? wortpaarZustand(p.node, heard, p.time, quelle, hText.length, oText.length) : null;
+    const hs = !!p.hsAktiv;   // AP 55: laufender Clip ist Hörspiel → ths/tzhs
+    const wp = hatAnkerzeiten(p.node, hs)
+      ? wortpaarZustand(p.node, heard, p.time, quelle, hText.length, oText.length, hs) : null;
     const hState = tok.st;
     if (wp?.aktiv && tok.curSpan) {
       const [a, b] = tok.curSpan;

@@ -290,8 +290,11 @@
     "de": true
    },
    "audio_im_demo": true,
+   "hoerspiel": {
+    "de": true
+   },
    "pfad": "demo/die-spiegelschwestern/",
-   "aktualisiert": "2026-10-22T21:08:25",
+   "aktualisiert": "2026-10-26T13:19:31",
    "regal": "roman",
    "genre": ""
   },
@@ -384,5 +387,5 @@
    "genre": "Theaterstück"
   }
  ],
- "aktualisiert": "2026-10-26T13:55:49"
+ "aktualisiert": "2026-10-26T13:19:31"
 }

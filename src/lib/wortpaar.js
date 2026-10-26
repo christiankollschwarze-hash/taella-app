@@ -3,28 +3,31 @@
 //   <quelle>_span  Zeichen im Quellsatz   t  = [t0,t1]  Wortzeit im Quell-Audio (s, clip-relativ, Tempo 1.0)
 //   <ziel>_span    Zeichen im Zielsatz     tz = [[t0,t1],…] Wortzeit(en) im Ziel-Audio, je Ziel-Span ein Fenster
 //   zspans         mehrteiliges Gegenstück ("schlug … auf"), Index wie tz; Teil-Token = Span innerhalb eines Wortes
-// Anker ohne Ziel ("none") oder ohne Zeit bleiben ohne Gegenstück. Hörspiel-Clips haben andere Zeiten → nicht nutzen.
+// Anker ohne Ziel ("none") oder ohne Zeit bleiben ohne Gegenstück.
+// AP 55: Hörspiel-Clips haben eigene Zeiten → ths (Quelle) / tzhs (Ziel) statt t / tz, sonst kein Gegenwort.
 const TOL = 0.02;     // wie Karaoke: Wort gilt ab t0 − 20 ms
 const NACH = 0.15;    // Fenster bleibt kurz nach t1 aktiv (Übergang zum nächsten Wort)
 
-export function hatAnkerzeiten(node) {
-  return !!node?.align?.some((a) => Array.isArray(a.t) || Array.isArray(a.tz));
+export function hatAnkerzeiten(node, hs = false) {
+  const [kt, kz] = hs ? ["ths", "tzhs"] : ["t", "tz"];
+  return !!node?.align?.some((a) => Array.isArray(a[kt]) || Array.isArray(a[kz]));
 }
 
 // Fenster je Anker in der gehörten Sprache: [{t0,t1,heard:[a,b],other:[[a,b],…]}]
-function fenster(node, heard, quelle) {
+function fenster(node, heard, quelle, hs = false) {
   const ziel = quelle === "de" ? "en" : "de";
+  const kt = hs ? "ths" : "t", kz = hs ? "tzhs" : "tz";
   const qs = `${quelle}_span`, zs = `${ziel}_span`;
   const out = [];
   for (const a of node.align || []) {
     const zielSpans = a.zspans?.length ? a.zspans : Array.isArray(a[zs]) ? [a[zs]] : [];
     const hatZiel = zielSpans.length > 0 && (a[ziel] != null || a.zspans);
     if (heard === quelle) {
-      if (!Array.isArray(a.t) || !Array.isArray(a[qs])) continue;
-      out.push({ t0: a.t[0], t1: a.t[1], heard: [a[qs]], other: hatZiel ? zielSpans : [] });
+      if (!Array.isArray(a[kt]) || !Array.isArray(a[qs])) continue;
+      out.push({ t0: a[kt][0], t1: a[kt][1], heard: [a[qs]], other: hatZiel ? zielSpans : [] });
     } else {
-      if (!Array.isArray(a.tz) || !hatZiel || !Array.isArray(a[qs])) continue;
-      a.tz.forEach((w, j) => {
+      if (!Array.isArray(a[kz]) || !hatZiel || !Array.isArray(a[qs])) continue;
+      a[kz].forEach((w, j) => {
         const sp = zielSpans[j] || zielSpans[0];
         if (Array.isArray(w) && sp) out.push({ t0: w[0], t1: w[1], heard: [sp], other: [a[qs]] });
       });
@@ -43,8 +46,8 @@ function fenster(node, heard, quelle) {
 
 // Zustand je Zeichen für gehörten Satz und Gegensatz: 0 grau · 1 gesprochen · 2 jetzt.
 // null = keine Ankerzeiten → Aufrufer nimmt die bisherige Karaoke.
-export function wortpaarZustand(node, heard, time, quelle, lenHeard, lenOther) {
-  const fs = fenster(node, heard, quelle);
+export function wortpaarZustand(node, heard, time, quelle, lenHeard, lenOther, hs = false) {
+  const fs = fenster(node, heard, quelle, hs);
   if (!fs.length) return null;
   const T = time + TOL;
   const h = new Uint8Array(lenHeard), o = new Uint8Array(lenOther);
