@@ -1,3 +1,4 @@
+import { tokenTimes } from "./useListen.js";
 // AP 54c (26.10.2026): Wort + Gegenwort synchron zur Audiozeit aus den Ankerzeiten der Wortbrücke (s525 → s710).
 // Anker (im Manifest der Originalsprache, align[]):
 //   <quelle>_span  Zeichen im Quellsatz   t  = [t0,t1]  Wortzeit im Quell-Audio (s, clip-relativ, Tempo 1.0)
@@ -88,4 +89,23 @@ export function tokenZustand(text, tokStarts, time) {
   for (let i = 0; i < tokStarts.length; i++) if (tokStarts[i] <= time + TOL) cur = i;
   toks.forEach((m, i) => { const v = i < cur ? 1 : i === cur ? 2 : 0; if (v) st.fill(v, m.index, m.index + m[0].length); });
   return { st, cur, curSpan: cur >= 0 ? [toks[cur].index, toks[cur].index + toks[cur][0].length] : null };
+}
+
+// AP 56: Zeichenzustand des gehörten Satzes für den Lesemodus – gleicher Weg wie ListenView (Token-Karaoke
+// aus Stage 520, im laufenden Token die Ankerzeit → Teil-Token). hs = Hörspiel-Clip (ths statt t).
+export function hoerZeichen(node, heard, time, duration, wt, quelle, hs = false) {
+  const text = node?.[heard]?.text || "";
+  const { times } = tokenTimes(node, heard, duration, wt);
+  const tok = tokenZustand(text, times, time);
+  const st = tok.st;
+  const other = heard === "en" ? "de" : "en";
+  const wp = hatAnkerzeiten(node, hs)
+    ? wortpaarZustand(node, heard, time, quelle, text.length, (node?.[other]?.text || "").length, hs) : null;
+  if (wp?.aktiv && tok.curSpan) {
+    const [a, b] = tok.curSpan;
+    let first = -1, last = -1;
+    for (let c = a; c < b; c++) if (wp.heard[c] === 2) { if (first < 0) first = c; last = c; }
+    if (first >= 0) for (let c = a; c < b; c++) st[c] = c < first ? 1 : c > last ? 0 : 2;
+  }
+  return st;
 }

@@ -87,6 +87,7 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
     return getNativeLang();
   });
   const [listenAutoplay, setListenAutoplay] = useState(false);
+  const [lesenMitTon, setLesenMitTon] = useState(false);   // AP 56: Hören läuft im Lesemodus weiter
   const [pageIdx, setPageIdx] = useState(0);
   const [active, setActive] = useState(null);
   const [showChapters, setShowChapters] = useState(false);
@@ -164,6 +165,7 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
       setPageIdx(frontCount(work) + pageOfTag(textPages, bookmark));
     }
     setMode("read");
+    setLesenMitTon(true);
   }, [work, bookmark, textPages]);
 
   useEffect(() => {
@@ -315,6 +317,14 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
     });
   });
 
+  // AP 56: Lesen beim Hören – Seite folgt dem gehörten Satz
+  useEffect(() => {
+    if (mode !== "read" || !lesenMitTon || !work || !bookmark || !textPages.length) return;
+    if ((pages[pageIdx] || []).some((n) => n.tag_id === bookmark)) return;
+    anchorRef.current = bookmark;
+    setPageIdx(frontCount(work) + pageOfTag(textPages, bookmark));
+  }, [mode, lesenMitTon, work, bookmark, textPages, pages, pageIdx]);
+
   const switchLang = useCallback(() => {
     setLang((l) => l === "en" ? "de" : "en");
     setActive(null);
@@ -419,8 +429,11 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
         {onSettings && <button className="icon-btn" aria-label={nativeLang === "de" ? "Einstellungen" : "Settings"} onClick={() => { setChrome(false); onSettings(); }}><IconEinstellungen /></button>}
       </nav>
 
-      {mode === "listen" && work.meta.mediaOverlay !== false && (
+      {(mode === "listen" || lesenMitTon) && work.meta.mediaOverlay !== false && (
         <ListenView
+          versteckt={mode !== "listen"}
+          onZumHoeren={() => setMode("listen")}
+          onSchliessen={() => setLesenMitTon(false)}
           work={work}
           lang={lang}
           nativeLang={nativeLang}

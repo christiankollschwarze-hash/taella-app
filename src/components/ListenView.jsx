@@ -7,6 +7,8 @@ import { IconPlay, IconPause, IconWortVor, IconWortZurueck, IconSatzVor, IconSat
 import ChapterSheet from "./ChapterSheet.jsx";
 import SprecherLabel, { sprecherStil } from "./SprecherLabel.jsx";
 import KuratorSheet from "./KuratorSheet.jsx";
+import { setHoerzustand } from "../lib/hoerzustand.js";
+import { IconHoeren } from "../design/Icons.jsx";
 
 // Audio-Ansicht (Design D): Untertitel als Typografie-Bühne mit Karaoke-Punkt,
 // ohne Untertitel das Cover groß; Wellen-Zeitleiste mit rotem Punkt (nur Anzeige);
@@ -20,7 +22,9 @@ const SUB_KEY = "taella_subs"; // 0 aus · 1 gehörte Sprache · 2 andere Sprach
 
 const TEMPI = [0.8, 0.9, 1, 1.1, 1.25, 1.5];
 
-export default function ListenView({ work, lang, nativeLang, onLangSwitch, startTag, autoplay, onSentenceStart, onToReader, onBack = null }) {
+// AP 56: versteckt = Lesemodus bei laufendem Hören → nur Steuerpille; Hörzustand geht an Satz.jsx (lib/hoerzustand.js).
+export default function ListenView({ work, lang, nativeLang, onLangSwitch, startTag, autoplay, onSentenceStart, onToReader, onBack = null,
+                                     versteckt = false, onZumHoeren = null, onSchliessen = null }) {
   const other = lang === "en" ? "de" : "en";
   const [subs, setSubs] = useState(() => {
     try { return Number(localStorage.getItem(SUB_KEY)) || 0; } catch { return 0; }
@@ -116,6 +120,7 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
   useEffect(() => {
     const onKey = (e) => {
       if (e.target.closest?.("input,textarea")) return;
+      if (versteckt) { if (e.key === "Enter" || e.key === "k" || e.key === "K") { e.preventDefault(); p.toggle(); } return; }
       if (e.code === "Space") { e.preventDefault(); p.triggerUpps(); }
       else if (e.key === "Enter" || e.key === "k" || e.key === "K") { e.preventDefault(); p.toggle(); }
       else if (e.key === "ArrowRight") (e.shiftKey ? p.nextSentence : p.nextWord)();
@@ -123,7 +128,15 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [p]);
+  }, [p, versteckt]);
+
+  // AP 56: Hörzustand an den Reader (nur solange der Reader sichtbar ist; Upps-Clip zählt nicht)
+  useEffect(() => {
+    if (!versteckt || !p.node || p.uppsLang) { setHoerzustand(null); return; }
+    setHoerzustand({ tag: p.node.tag_id, lang, time: p.time, duration: p.duration, hs: !!p.hsAktiv,
+                     wt: p.hsAktiv ? work.wordtimesHs : work.wordtimes, quelle: work.meta.originalsprache || "en" });
+  }, [versteckt, p.node, p.time, p.duration, p.hsAktiv, p.uppsLang, lang, work]);
+  useEffect(() => () => setHoerzustand(null), []);
 
   // Karaoke (AP 54c, 26.10.2026): gesprochenes Wort + Gegenwort in der anderen Sprache.
   // Gehörte Sprache: Token-Wortzeiten (Stage 520) als Grundlage, innerhalb des Tokens die Ankerzeit
@@ -176,6 +189,20 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
   const kapitelAnzeige = (lang === "de" ? kapitelNode?.titel_de : kapitelNode?.titel) || kapitel;
   const pct = Math.min(100, (zieh != null ? zieh : p.progress) * 100);
   const W = 1000; // Zeitleisten-Raster (viewBox), Strich skaliert nicht mit
+
+
+  if (versteckt) {
+    const de = nativeLang === "de";
+    return (
+      <div className="hoer-pille" onClick={(e) => e.stopPropagation()}>
+        <button className="icon-btn" aria-label={p.playing ? "Pause" : "Play"} onClick={p.toggle}>
+          {p.playing ? <IconPause size={22} /> : <IconPlay size={22} />}
+        </button>
+        <button className="icon-btn" aria-label={de ? "Zur Hören-Ansicht" : "To listening view"} onClick={onZumHoeren}><IconHoeren size={22} /></button>
+        <button className="icon-btn hoer-pille-x" aria-label={de ? "Hören beenden" : "Stop listening"} onClick={onSchliessen}>×</button>
+      </div>
+    );
+  }
 
   return (
     <div className="listen" onClick={(e) => e.stopPropagation()}>

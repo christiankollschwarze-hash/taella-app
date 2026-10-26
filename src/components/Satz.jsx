@@ -1,12 +1,14 @@
 import { useCallback, useRef } from "react";
 import { merke } from "../lib/lernspur.js";
+import { useHoerSatz } from "../lib/hoerzustand.js";
+import { hoerZeichen, laeufe } from "../lib/wortpaar.js";
 
 const DOUBLE_TAP_MS = 350;
 
 function segmentize(node, lang) {
   const text = node[lang]?.text || "";
   const align = node.align;
-  if (!align || !align.length) return [{ text, other: null }];
+  if (!align || !align.length) return [{ text, other: null, off: 0 }];
   // Richtungsneutral (22.10.2026): Anker kann en_span (EN-Werk) oder de_span (DE-Werk) tragen.
   const other = lang === "en" ? "de" : "en";
   const spanKey = `${lang}_span`, otherSpan = `${other}_span`;
@@ -30,6 +32,8 @@ function segmentize(node, lang) {
     cursor = b;
   }
   if (cursor < text.length) segs.push({ text: text.slice(cursor), other: null });
+  let off = 0;
+  for (const sg of segs) { sg.off = off; off += sg.text.length; }
   return segs;
 }
 
@@ -37,6 +41,10 @@ function segmentize(node, lang) {
 export default function Satz({ node, lang, isActive, isPlaying, isBookmarked, setActive, registerRef, onBookmark }) {
   const segments = segmentize(node, lang);
   const lastTap = useRef(0);
+  // AP 56: Lesen beim Hören – gehörter Satz + Wort (Teil-Token) aus dem Hörzustand
+  const hoer = useHoerSatz(node.tag_id);
+  const zeichen = hoer && hoer.lang === lang
+    ? hoerZeichen(node, lang, hoer.time, hoer.duration, hoer.wt, hoer.quelle, hoer.hs) : null;
 
   // Phrase: Einfach-Tipp öffnet den Flyover. Normaler Text: Einfach-Tipp geht an die Seite
   // weiter (Tippzonen: blättern / Menü). Doppel-Tipp irgendwo im Satz: Lesezeichen.
@@ -64,7 +72,7 @@ export default function Satz({ node, lang, isActive, isPlaying, isBookmarked, se
   let cls = "satz";
   if (node.typ === "dl" && !node.sprecher) cls += " satz--dl";   // Drama-Repliken nicht kursiv
   if (node.rolle === "regie") cls += " satz--regie";
-  if (isPlaying) cls += " satz--playing";
+  if (isPlaying || hoer) cls += " satz--playing";
   if (isBookmarked) cls += " satz--bookmark";
 
   return (
@@ -75,7 +83,8 @@ export default function Satz({ node, lang, isActive, isPlaying, isBookmarked, se
           className={seg.other ? "phrase" + (isActive ? " phrase--active" : "") : undefined}
           onClick={(e) => handleTap(e, seg)}
         >
-          {seg.text}
+          {zeichen ? laeufe(seg.text, zeichen.subarray(seg.off, seg.off + seg.text.length)).map((r, j) =>
+            r.cls ? <span key={j} className={r.cls}>{r.text}</span> : r.text) : seg.text}
         </span>
       ))}{" "}
     </span>

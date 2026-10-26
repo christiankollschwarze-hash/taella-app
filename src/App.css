@@ -366,3 +366,14 @@ button { font: inherit; color: inherit; }
 .listen-sub--gegen { color: var(--ink-3); }
 .listen-sub--gegen .w-now { color: var(--ink); background: color-mix(in srgb, var(--dot) 16%, transparent); border-radius: .12em; }
 .listen-sub--gegen .w-now::after { display: none; }
+
+/* AP 56: Lesen beim Hören – Steuerpille, gehörtes Wort im Fließtext */
+.hoer-pille {
+  position: absolute; right: 16px; bottom: 64px; z-index: 15;
+  display: flex; align-items: center; gap: 2px; padding: 2px 6px;
+  background: var(--paper); border-radius: 999px; box-shadow: 0 6px 18px rgba(0,0,0,.16);
+}
+.hoer-pille-x { font-size: 22px; line-height: 1; color: var(--ink-3); }
+.page .satz .w-done { color: inherit; }
+.page .satz .w-now { color: var(--ink); background: color-mix(in srgb, var(--dot) 18%, transparent); border-radius: .12em; }
+.page .satz .w-now::after { display: none; }
