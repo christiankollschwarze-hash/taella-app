@@ -367,11 +367,21 @@ button { font: inherit; color: inherit; }
 .listen-sub--gegen .w-now { color: var(--ink); background: color-mix(in srgb, var(--dot) 16%, transparent); border-radius: .12em; }
 .listen-sub--gegen .w-now::after { display: none; }
 
-/* AP 56: Lesen beim Hören – Steuerpille, gehörtes Wort im Fließtext */
+/* AP 56/57b: Lesen beim Hören – Miniatur auf der Position des Hören-Icons, aufklappbare Steuerung */
+.hoer-mini-wrap { position: absolute; z-index: 16; width: 0; height: 0; }
+.hoer-mini {
+  position: absolute; left: -18px; top: -18px; width: 36px; height: 36px; border-radius: 50%;
+  background: #fff; border: 1px solid var(--line); box-shadow: 0 3px 10px rgba(0,0,0,.14);
+  display: grid; place-items: center; padding: 0; cursor: pointer; -webkit-tap-highlight-color: transparent;
+}
+.hoer-mini-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--dot); }
+.hoer-mini--laeuft .hoer-mini-dot { animation: hoer-puls 1.6s ease-in-out infinite; }
+@keyframes hoer-puls { 0%, 100% { transform: scale(1); opacity: 1; } 50% { transform: scale(.7); opacity: .65; } }
 .hoer-pille {
-  position: absolute; right: 16px; bottom: 64px; z-index: 15;
-  display: flex; align-items: center; gap: 2px; padding: 2px 6px;
+  position: absolute; bottom: 26px; left: 0; transform: translateX(-50%);
+  display: flex; align-items: center; gap: 2px; padding: 2px 6px; white-space: nowrap;
   background: var(--paper); border-radius: 999px; box-shadow: 0 6px 18px rgba(0,0,0,.16);
+  animation: fade .2s ease both;
 }
 .hoer-pille-x { font-size: 22px; line-height: 1; color: var(--ink-3); }
 .page .satz .w-done { color: inherit; }

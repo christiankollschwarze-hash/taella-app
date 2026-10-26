@@ -192,16 +192,7 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
 
 
   if (versteckt) {
-    const de = nativeLang === "de";
-    return (
-      <div className="hoer-pille" onClick={(e) => e.stopPropagation()}>
-        <button className="icon-btn" aria-label={p.playing ? "Pause" : "Play"} onClick={p.toggle}>
-          {p.playing ? <IconPause size={22} /> : <IconPlay size={22} />}
-        </button>
-        <button className="icon-btn" aria-label={de ? "Zur Hören-Ansicht" : "To listening view"} onClick={onZumHoeren}><IconHoeren size={22} /></button>
-        <button className="icon-btn hoer-pille-x" aria-label={de ? "Hören beenden" : "Stop listening"} onClick={onSchliessen}>×</button>
-      </div>
-    );
+    return <HoerMini p={p} de={nativeLang === "de"} onZumHoeren={onZumHoeren} onSchliessen={onSchliessen} />;
   }
 
   return (
@@ -323,6 +314,57 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
           onClose={() => setShowChapters(false)}
         />
       )}
+    </div>
+  );
+}
+
+
+// AP 57b (26.10.2026): Lesen beim Hören – Miniatur (weißer Knopf, roter Punkt) auf der Position des Hören-Icons,
+// auf Höhe der Fußzeile (überdeckt keinen Text); Tipp klappt die Steuerung auf (Pause/Play · Hören · beenden).
+function HoerMini({ p, de, onZumHoeren, onSchliessen }) {
+  const [offen, setOffen] = useState(false);
+  const [pos, setPos] = useState(null);
+  useEffect(() => {
+    const app = document.querySelector(".app");
+    const nav = document.querySelector("nav.chrome-bottom");
+    if (!app) return;
+    const messen = () => {
+      const a = app.getBoundingClientRect();
+      const h = nav?.querySelector('button[aria-label="Hören"]')?.getBoundingClientRect();
+      const navAuf = nav && !nav.classList.contains("chrome--hidden");
+      const foot = document.querySelector(".read-foot")?.getBoundingClientRect();
+      const x = h ? h.left + h.width / 2 - a.left : a.width / 2;
+      const y = navAuf && h ? h.top + h.height / 2 - a.top : foot ? foot.top + foot.height / 2 - a.top : a.height - 24;
+      setPos({ x, y });
+    };
+    messen();
+    const ro = new ResizeObserver(messen); ro.observe(app);
+    const mo = nav ? new MutationObserver(() => setTimeout(messen, 340)) : null;   // nach der Chrome-Animation
+    mo?.observe(nav, { attributes: true, attributeFilter: ["class"] });
+    return () => { ro.disconnect(); mo?.disconnect(); };
+  }, []);
+  useEffect(() => {
+    if (!offen) return;
+    const zu = () => setOffen(false);
+    const t = setTimeout(() => document.addEventListener("click", zu), 0);
+    return () => { clearTimeout(t); document.removeEventListener("click", zu); };
+  }, [offen]);
+  if (!pos) return null;
+  return (
+    <div className="hoer-mini-wrap" style={{ left: pos.x, top: pos.y }} onClick={(e) => e.stopPropagation()}>
+      {offen && (
+        <div className="hoer-pille">
+          <button className="icon-btn" aria-label={p.playing ? "Pause" : "Play"} onClick={p.toggle}>
+            {p.playing ? <IconPause size={22} /> : <IconPlay size={22} />}
+          </button>
+          <button className="icon-btn" aria-label={de ? "Zur Hören-Ansicht" : "To listening view"} onClick={onZumHoeren}><IconHoeren size={22} /></button>
+          <button className="icon-btn hoer-pille-x" aria-label={de ? "Hören beenden" : "Stop listening"} onClick={onSchliessen}>×</button>
+        </div>
+      )}
+      <button className={"hoer-mini" + (p.playing ? " hoer-mini--laeuft" : "")} aria-expanded={offen}
+              aria-label={de ? "Wiedergabe-Steuerung" : "Playback controls"} onClick={() => setOffen((o) => !o)}>
+        <span className="hoer-mini-dot" />
+      </button>
     </div>
   );
 }
