@@ -1,6 +1,37 @@
 {
  "werke": [
   {
+   "slug": "winnie-the-pooh",
+   "werk_id": "milne-aa_winnie-the-pooh",
+   "titel": {
+    "en": "Winnie-the-Pooh",
+    "de": "Winnie-der-Pu"
+   },
+   "autor": "A. A. Milne",
+   "erscheinungsjahr": 1926,
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover_de.jpg",
+    "cover_en.jpg"
+   ],
+   "kapitel": 11,
+   "woerter": 22532,
+   "audio_vorhanden": {
+    "en": true,
+    "de": true
+   },
+   "audio_im_demo": true,
+   "hoerspiel": {},
+   "bilder": 27,
+   "pfad": "demo/winnie-the-pooh/",
+   "aktualisiert": "2026-10-26T21:45:16",
+   "regal": "roman",
+   "genre": ""
+  },
+  {
    "slug": "the-damned-thing-1898-from-in-the-midst-of-life",
    "werk_id": "bierce-a_the-damned-thing-1898-from-in-the-midst-of-life",
    "titel": {
@@ -55,7 +86,7 @@
    "audio_im_demo": true,
    "hoerspiel": {},
    "pfad": "demo/the-hound-of-the-baskervilles/",
-   "aktualisiert": "2026-10-26T15:00:32",
+   "aktualisiert": "2026-10-26T17:39:47",
    "regal": "krimi",
    "genre": "Kriminalroman"
   },
@@ -203,7 +234,7 @@
    "audio_im_demo": true,
    "hoerspiel": {},
    "pfad": "demo/alice-s-adventures-in-wonderland/",
-   "aktualisiert": "2026-10-26T14:58:51",
+   "aktualisiert": "2026-10-26T17:01:04",
    "regal": "fantastik",
    "genre": "Fantasy"
   },
@@ -387,5 +418,5 @@
    "genre": "Theaterstück"
   }
  ],
- "aktualisiert": "2026-10-26T14:16:16"
+ "aktualisiert": "2026-10-26T21:45:16"
 }

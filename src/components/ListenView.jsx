@@ -62,6 +62,16 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
   );
   // Cover in der Muttersprache (wie Titelei), unabhängig von der Hörsprache
   const coverSrc = work.coverSrc ? work.coverSrc(nativeLang) : null;
+  // AP 58: Abbildung statt Cover - letztes Bild vor dem gehoerten Satz im selben Kapitel
+  const bildNode = useMemo(() => {
+    for (let k = p.idx; k >= 0; k--) {
+      const n = work.nodes[k];
+      if (!n) continue;
+      if (n.typ === "bild" && n.bild) return n;
+      if (n.typ === "h") return null;
+    }
+    return null;
+  }, [work.nodes, p.idx]);
   // Während eines Upps zeigt die Bühne immer den Upps-Satz (andere Sprache, mit Karaoke)
   const subLang = p.uppsLang || (subs === 1 || subs === 3 ? lang : subs === 2 ? other : null);
   const subText = subLang && p.node ? (p.node[subLang]?.text || "") : "";
@@ -229,7 +239,8 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
             ))}
           </div>
         ) : (
-          coverSrc && <img className="listen-cover-big" src={coverSrc} alt={work.meta.titel} />
+          bildNode ? <img key={bildNode.tag_id} className="listen-bild" src={bildNode.bild} alt={bildNode.alt} />
+          : coverSrc && <img className="listen-cover-big" src={coverSrc} alt={work.meta.titel} />
         )}
       </main>
 

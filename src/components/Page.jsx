@@ -21,6 +21,9 @@ export default function Page({ nodes, lang, activeBid, playingId, setActive, reg
       blocks.push({ type: "h", node: n });
     } else if (n.typ === "p") {
       flushBlock();
+    } else if (n.typ === "bild") {
+      flushBlock();
+      blocks.push({ type: "bild", node: n });
     } else {
       const sp = n.sprecher || null;
       const rg = n.rolle === "regie";
@@ -42,6 +45,13 @@ export default function Page({ nodes, lang, activeBid, playingId, setActive, reg
             <div key={b.node.tag_id} className="kapitel-titel">
               {b.node[lang]?.text || b.node.en?.text}
             </div>
+          );
+        }
+        if (b.type === "bild") {
+          return (
+            <figure key={b.node.tag_id} className="abbildung" data-tag={b.node.tag_id}>
+              {b.node.bild && <img src={b.node.bild} alt={b.node.alt} loading="lazy" />}
+            </figure>
           );
         }
         return (

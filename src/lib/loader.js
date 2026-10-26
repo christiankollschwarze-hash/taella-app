@@ -66,6 +66,8 @@ export async function loadWork(base = "", extra = {}) {
       pause: s.pause_after_ms || 0,
       sprecher: s.sprecher || null,   // Drama-Modus: Rollenname (nur Anzeige)
       rolle: s.rolle || null,         // "regie" = Regieanweisung
+      bild: s.typ === "bild" && s.bild ? localAudio(s.bild, BASE) : null,   // AP 58: Abbildung
+      alt: s.alt || "",
     };
   });
 

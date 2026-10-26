@@ -480,6 +480,9 @@ function renderToMeasure(nodes, lang) {
       html += `<div class="kapitel-titel">${esc(n[lang]?.text || n.en?.text || "")}</div>`;
     } else if (n.typ === "p") {
       flushPara();
+    } else if (n.typ === "bild") {
+      flushPara();
+      html += '<figure class="abbildung"></figure>';
     } else {
       if (!inPara) { html += '<p class="absatz">'; inPara = true; }
       html += `<span class="satz${n.typ === "dl" ? " satz--dl" : ""}">${esc(n[lang]?.text || "")} </span>`;
