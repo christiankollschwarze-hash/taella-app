@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState, useCallback, useRef } from "react";
 import { settings } from "../lib/settings.js";
 import { useListen, tokenTimes } from "../lib/useListen.js";
+import { hatAnkerzeiten, wortpaarZustand, laeufe, tokenZustand } from "../lib/wortpaar.js";
 import DotWord from "../design/DotWord.jsx";
 import { IconPlay, IconPause, IconWortVor, IconWortZurueck, IconSatzVor, IconSatzZurueck, IconMenu, IconBook, IconZurueck } from "../design/Icons.jsx";
 import ChapterSheet from "./ChapterSheet.jsx";
@@ -10,8 +11,10 @@ import KuratorSheet from "./KuratorSheet.jsx";
 // Audio-Ansicht (Design D): Untertitel als Typografie-Bühne mit Karaoke-Punkt,
 // ohne Untertitel das Cover groß; Wellen-Zeitleiste mit rotem Punkt (nur Anzeige);
 // schwarzes Dock mit Satz/Wort-Spulen, Kapitel, Sprache, Untertitel.
+// AP 54c (26.10.2026): Untertitel CC → andere Sprache → beide (EN·DE) → aus; Wort + Gegenwort aus
+// Ankerzeiten t/tz/zspans (lib/wortpaar.js), Teil-Token zeichengenau, ohne Anker kein Gegenwort.
 
-const SUB_KEY = "taella_subs"; // 0 aus · 1 gehörte Sprache · 2 andere Sprache
+const SUB_KEY = "taella_subs"; // 0 aus · 1 gehörte Sprache · 2 andere Sprache · 3 beide (AP 54c)
 
 
 
@@ -56,7 +59,7 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
   // Cover in der Muttersprache (wie Titelei), unabhängig von der Hörsprache
   const coverSrc = work.coverSrc ? work.coverSrc(nativeLang) : null;
   // Während eines Upps zeigt die Bühne immer den Upps-Satz (andere Sprache, mit Karaoke)
-  const subLang = p.uppsLang || (subs === 1 ? lang : subs === 2 ? other : null);
+  const subLang = p.uppsLang || (subs === 1 || subs === 3 ? lang : subs === 2 ? other : null);
   const subText = subLang && p.node ? (p.node[subLang]?.text || "") : "";
 
   // Kapitel 1 frei: ab Kapitel 2 ohne Konto gesperrt (gilt auch beim Springen/Spulen)
@@ -122,46 +125,53 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
     return () => window.removeEventListener("keydown", onKey);
   }, [p]);
 
-  // Karaoke: gesprochene Wörter schwarz, aktuelles mit rotem Punkt darunter, Rest grau.
-  // Gleiche Sprache: direkt über die Wortzeiten. Andere Sprache (CC in der Übersetzung):
-  // gehörtes Wort → Wortanker aus Stage 54a (en_span ↔ de_span) → Wort im Untertitel.
-  const karaoke = useMemo(() => {
-    if (!p.node) return null;
-    const sameLang = p.uppsLang || (subs === 1 ? lang : null);
-    if (sameLang) {
-      const { toks, times } = tokenTimes(p.node, sameLang, p.duration, wtAktiv);
-      let cur = -1;
-      for (let i = 0; i < times.length; i++) if (times[i] <= p.time + 0.02) cur = i;
-      return toks.map((w, i) => ({ w, cls: i < cur ? "w-done" : i === cur ? "w-now" : "" }));
+  // Karaoke (AP 54c, 26.10.2026): gesprochenes Wort + Gegenwort in der anderen Sprache.
+  // Gehörte Sprache: Token-Wortzeiten (Stage 520) als Grundlage, innerhalb des Tokens die Ankerzeit
+  // (Teil-Token/Kompositum). Andere Sprache: Anker mit t/tz/zspans (s525 → s710); ohne Anker kein Gegenwort.
+  // Fallback ohne Ankerzeiten (Hörspiel-Clip, ältere Exporte): Token-Karaoke + Spans wie bisher.
+  const zeilen = useMemo(() => {
+    if (!p.node) return [];
+    const heard = p.uppsLang || lang, gegen = heard === "en" ? "de" : "en";
+    const zeig = p.uppsLang ? [heard] : subs === 1 ? [heard] : subs === 2 ? [gegen] : subs === 3 ? [heard, gegen] : [];
+    if (!zeig.length) return [];
+    const hText = p.node[heard]?.text || "", oText = p.node[gegen]?.text || "";
+    const { times } = tokenTimes(p.node, heard, p.duration, wtAktiv);
+    const tok = tokenZustand(hText, times, p.time);
+    const quelle = work.meta.originalsprache || "en";
+    const wp = !p.hsAktiv && hatAnkerzeiten(p.node)
+      ? wortpaarZustand(p.node, heard, p.time, quelle, hText.length, oText.length) : null;
+    const hState = tok.st;
+    if (wp?.aktiv && tok.curSpan) {
+      const [a, b] = tok.curSpan;
+      let first = -1, last = -1;
+      for (let c = a; c < b; c++) if (wp.heard[c] === 2) { if (first < 0) first = c; last = c; }
+      if (first >= 0) for (let c = a; c < b; c++) hState[c] = c < first ? 1 : c > last ? 0 : 2;
     }
-    if (subs !== 2 || !p.node.align?.length) return null;
-    // gehörte Sprache = lang, Untertitel = other
-    const heardText = p.node[lang]?.text || "", subTxt = p.node[other]?.text || "";
-    const { times } = tokenTimes(p.node, lang, p.duration, wtAktiv);
-    const heardSpans = [...heardText.matchAll(/\S+/g)].map((m) => [m.index, m.index + m[0].length]);
-    let hc = -1;
-    for (let i = 0; i < times.length; i++) if (times[i] <= p.time + 0.02) hc = i;
-    if (hc < 0) return null;
-    const curStart = heardSpans[hc][0], curEnd = heardSpans[hc][1];
-    const hKey = lang === "en" ? "en_span" : "de_span", sKey = lang === "en" ? "de_span" : "en_span";
-    const state = new Uint8Array(subTxt.length);          // 0 grau · 1 gesprochen · 2 jetzt
-    for (const a of p.node.align) {
-      const h = a[hKey], t = a[sKey];
-      if (!Array.isArray(h) || !Array.isArray(t) || t[1] > subTxt.length) continue;
-      const v = h[0] < curEnd && h[1] > curStart ? 2 : h[1] <= curStart ? 1 : 0;
-      if (v) for (let c = t[0]; c < t[1]; c++) state[c] = Math.max(state[c], v);
+    let oState = wp ? wp.other : null;
+    if (!wp && p.node.align?.length && tok.curSpan) {           // bisheriger Weg: Span-Überlappung
+      const hKey = `${heard}_span`, sKey = `${gegen}_span`;
+      oState = new Uint8Array(oText.length);
+      const [cs, ce] = tok.curSpan;
+      for (const al of p.node.align) {
+        const h = al[hKey], t = al[sKey];
+        if (!Array.isArray(h) || !Array.isArray(t) || t[1] > oText.length) continue;
+        const v = h[0] < ce && h[1] > cs ? 2 : h[1] <= cs ? 1 : 0;
+        if (v) for (let c = t[0]; c < t[1]; c++) oState[c] = Math.max(oState[c], v);
+      }
     }
-    return [...subTxt.matchAll(/\S+/g)].map((m) => {
-      let v = 0;
-      for (let c = m.index; c < m.index + m[0].length; c++) v = Math.max(v, state[c]);
-      return { w: m[0], cls: v === 2 ? "w-now" : v === 1 ? "w-done" : "" };
-    });
-  }, [subs, p.node, p.time, p.duration, lang, other, p.uppsLang, wtAktiv]);
+    return zeig.map((l) => l === heard
+      ? { lang: l, rolle: "heard", runs: laeufe(hText, hState) }
+      : { lang: l, rolle: "other", runs: laeufe(oText, oState), ohne: !oState });
+  }, [subs, p.node, p.time, p.duration, p.hsAktiv, lang, p.uppsLang, wtAktiv, work.meta.originalsprache]);
   const uppsLabel = p.upps === "armed"
     ? (nativeLang === "de" ? `Upps – gleich auf ${other === "de" ? "Deutsch" : "Englisch"}` : `Upps – next in ${other === "de" ? "German" : "English"}`)
     : p.uppsLang ? `Upps · ${p.uppsLang.toUpperCase()}` : null;
 
-  const subSize = subText.length < 90 ? 36 : subText.length < 170 ? 30 : subText.length < 280 ? 25 : 21;
+  // EN·DE (AP 54c): Größe aus der Gesamtlänge beider Zeilen (zweite Zeile 0,8×), damit nichts in die Zeitleiste ragt
+  const subLen = zeilen.length > 1
+    ? zeilen.reduce((n, z, zi) => n + z.runs.reduce((m, r) => m + r.text.length, 0) * (zi ? 0.64 : 1), 0)
+    : subText.length;
+  const subSize = subLen < 90 ? 36 : subLen < 170 ? 30 : subLen < 280 ? 25 : subLen < 400 ? 21 : 18;
   const kapitelAnzeige = (lang === "de" ? kapitelNode?.titel_de : kapitelNode?.titel) || kapitel;
   const pct = Math.min(100, (zieh != null ? zieh : p.progress) * 100);
   const W = 1000; // Zeitleisten-Raster (viewBox), Strich skaliert nicht mit
@@ -189,13 +199,16 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
           <div className="listen-sprecher"><SprecherLabel name={figur} /></div>
         )}
         {subText ? (
-          <p className={"listen-sub" + (subs === 2 && !p.uppsLang && !karaoke ? " listen-sub--other" : "") + (p.uppsLang ? " listen-sub--upps" : "")
-                         + (figur ? " listen-sub--figur" : "")}
-             key={p.node.tag_id + subLang} lang={subLang} style={{ ...(figur ? sprecherStil(figur) : {}),  fontSize: subSize, lineHeight: 1.16 }}>
-            {karaoke
-              ? karaoke.map((t, i) => <span key={i}><span className={t.cls}>{t.w}</span>{" "}</span>)
-              : subText}
-          </p>
+          <div className={"listen-subs" + (zeilen.length > 1 ? " listen-subs--zwei" : "")}>
+            {zeilen.map((z, zi) => (
+              <p key={p.node.tag_id + z.lang}
+                 className={"listen-sub" + (z.rolle === "other" ? " listen-sub--gegen" : "") + (z.ohne ? " listen-sub--other" : "")
+                            + (p.uppsLang ? " listen-sub--upps" : "") + (figur && zi === 0 ? " listen-sub--figur" : "")}
+                 lang={z.lang} style={{ ...(figur && zi === 0 ? sprecherStil(figur) : {}), fontSize: zi === 0 ? subSize : Math.round(subSize * 0.8), lineHeight: 1.16 }}>
+                {z.runs.map((r, i) => r.cls ? <span key={i} className={r.cls}>{r.text}</span> : r.text)}
+              </p>
+            ))}
+          </div>
         ) : (
           coverSrc && <img className="listen-cover-big" src={coverSrc} alt={work.meta.titel} />
         )}
@@ -242,9 +255,9 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
         <div className="dock-row2">
           <button className="icon-btn" onClick={() => setShowChapters(true)} aria-label={lang === "de" ? "Kapitel" : "Chapters"}><IconMenu size={30} /></button>
           <button className="icon-btn lang-btn" onClick={onLangSwitch} aria-label="Sprache wechseln"><DotWord text={other.toUpperCase()} /></button>
-          <button className={"icon-btn lang-btn" + (subs ? " is-on" : "")} onClick={() => setSubs((s) => (s + 1) % 3)}
-                  aria-label={subs === 0 ? "Untertitel an" : subs === 1 ? "Untertitel in der anderen Sprache" : "Untertitel aus"} aria-pressed={subs > 0}>
-            <DotWord text={subs === 2 ? other.toUpperCase() : "CC"} dotColor={subs ? undefined : "var(--dock-ink-2)"} />
+          <button className={"icon-btn lang-btn" + (subs ? " is-on" : "")} onClick={() => setSubs((s) => (s + 1) % 4)}
+                  aria-label={subs === 0 ? "Untertitel an" : subs === 1 ? "Untertitel in der anderen Sprache" : subs === 2 ? "Untertitel in beiden Sprachen" : "Untertitel aus"} aria-pressed={subs > 0}>
+            <DotWord text={subs === 2 ? other.toUpperCase() : subs === 3 ? "EN·DE" : "CC"} dotColor={subs ? undefined : "var(--dock-ink-2)"} />
           </button>
           {settings.kurator() && p.node && (
             <button className="icon-btn lang-btn kur-btn" onClick={() => { p.pause(); setKurNode(p.node); }}

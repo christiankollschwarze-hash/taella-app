@@ -359,3 +359,10 @@ button { font: inherit; color: inherit; }
   color: var(--ink-2); cursor: pointer; border-radius: 50%; }
 .page-arrow:hover { background: var(--tint); }
 .page-arrow:disabled { color: var(--line-2); cursor: default; background: none; }
+
+/* AP 54c (26.10.2026): Wort + Gegenwort – zweite Zeile = andere Sprache, Gegenwort ab Ankerzeit */
+.listen-subs { display: flex; flex-direction: column; gap: .2em; }
+.listen-subs--zwei { gap: .55em; }
+.listen-sub--gegen { color: var(--ink-3); }
+.listen-sub--gegen .w-now { color: var(--ink); background: color-mix(in srgb, var(--dot) 16%, transparent); border-radius: .12em; }
+.listen-sub--gegen .w-now::after { display: none; }
