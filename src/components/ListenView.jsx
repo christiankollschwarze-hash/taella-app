@@ -5,6 +5,8 @@ import { hatAnkerzeiten, wortpaarZustand, laeufe, tokenZustand } from "../lib/wo
 import DotWord from "../design/DotWord.jsx";
 import { IconPlay, IconPause, IconWortVor, IconWortZurueck, IconSatzVor, IconSatzZurueck, IconMenu, IconBook, IconZurueck } from "../design/Icons.jsx";
 import ChapterSheet from "./ChapterSheet.jsx";
+import ZitatSheet from "./ZitatSheet.jsx";
+import { zitatTeilbar } from "../lib/zitatTeilen.js";
 import SprecherLabel, { sprecherStil } from "./SprecherLabel.jsx";
 import KuratorSheet from "./KuratorSheet.jsx";
 import { setHoerzustand } from "../lib/hoerzustand.js";
@@ -30,6 +32,9 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
     try { return Number(localStorage.getItem(SUB_KEY)) || 0; } catch { return 0; }
   });
   const [showChapters, setShowChapters] = useState(false);
+  const [zitatOffen, setZitatOffen] = useState(false);   // Teilen-Blatt für den aktuellen Satz
+  const zitatWarLaeuft = useRef(false);                  // Audio lief, als das Blatt aufging
+  const wisch = useRef({ x: 0, y: 0, geschoben: false });
   const [kurNode, setKurNode] = useState(null);   // Kuratormodus: Anmerkung zum aktuellen Satz
 
   // Erzähler | Hörspiel (N-3): nur bei Werken mit Hörspiel-Schicht in der Hörsprache; Wahl je Werk gemerkt,
@@ -201,6 +206,27 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
   const W = 1000; // Zeitleisten-Raster (viewBox), Strich skaliert nicht mit
 
 
+  // Wischen nach rechts auf der Bühne öffnet Teilen; ein Tipp bleibt Upps
+  const wischDown = (e) => { wisch.current = { x: e.clientX, y: e.clientY, geschoben: false }; };
+  const wischUp = (e) => {
+    const s0 = wisch.current;
+    if (s0 && e.clientX - s0.x > 80 && Math.abs(e.clientY - s0.y) < 60) { wisch.current = { ...s0, geschoben: true }; zitatAuf(); }
+  };
+  // Teilen-Blatt: Audio pausieren; nach dem Teilen (oder Schließen) dort weiter, wo es war
+  const zitatAuf = () => {
+    zitatWarLaeuft.current = p.playing;
+    if (p.playing) p.pause();
+    setZitatOffen(true);
+  };
+  const zitatZu = () => {
+    setZitatOffen(false);
+    if (zitatWarLaeuft.current) { zitatWarLaeuft.current = false; p.play(); }
+  };
+  const stageTap = () => {
+    if (wisch.current.geschoben) { wisch.current = { ...wisch.current, geschoben: false }; return; }
+    p.triggerUpps();
+  };
+
   if (versteckt) {
     return <HoerMini p={p} de={nativeLang === "de"} onZumHoeren={onZumHoeren} onSchliessen={onSchliessen} />;
   }
@@ -218,10 +244,15 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
                 aria-label={nativeLang === "de" ? "Hörtempo" : "Playback speed"}>
           {(nativeLang === "de" ? p.tempo.toLocaleString("de-DE") : String(p.tempo)) + "×"}
         </button>
+        {zitatTeilbar(work.meta) && (
+          <button className="icon-btn" onClick={zitatAuf} aria-label={nativeLang === "de" ? "Zitat teilen" : "Share quote"}>
+            <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 14v5h14v-5" /></svg>
+          </button>
+        )}
         <button className="icon-btn listen-reader-btn" onClick={onToReader} aria-label="Zum Reader"><IconBook size={26} /></button>
       </header>
 
-      <main className="listen-stage" onClick={p.triggerUpps}
+      <main className="listen-stage" onClick={stageTap} onPointerDown={wischDown} onPointerUp={wischUp}
             aria-label={nativeLang === "de" ? "Tippen für Upps: Satz in der anderen Sprache" : "Tap for Upps: sentence in the other language"}>
         {uppsLabel && <div className="upps-chip" role="status"><DotWord text={uppsLabel} /></div>}
         {subText && figur && (
@@ -263,6 +294,13 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
         </svg>
         <span className={"listen-time-dot" + (p.playing ? " listen-time-dot--run" : "")} style={{ left: `${pct}%` }} />
       </div>
+
+      {zitatOffen && p.node && p.node[lang] && (
+        <ZitatSheet titel={work.meta.titel} autor={work.meta.autor} text={p.node[lang].text}
+                    de={nativeLang === "de"} coverSrc={coverSrc}
+                    clipUrl={hoerModus === "hoerspiel" && p.node[lang].audio_hs ? p.node[lang].audio_hs : p.node[lang].audio}
+                    onClose={zitatZu} onFertig={zitatZu} />
+      )}
 
       <div className="listen-dock">
         {hatHs && (

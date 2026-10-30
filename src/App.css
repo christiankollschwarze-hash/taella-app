@@ -400,3 +400,11 @@ button { font: inherit; color: inherit; }
 .page .satz .w-done { color: inherit; }
 .page .satz .w-now { color: var(--ink); background: color-mix(in srgb, var(--dot) 18%, transparent); border-radius: .12em; }
 .page .satz .w-now::after { display: none; }
+
+/* Zitat-Teilen (Teilen-Blatt) */
+.zitat-sheet { text-align: center; }
+.zitat-vorschau { display: block; width: 100%; max-width: 260px; height: auto; margin: 0 auto 16px; border: 0.5px solid var(--ink-3); border-radius: 8px; }
+.zitat-aktionen { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 4px; }
+.zitat-btn { font-family: var(--ui); font-size: 16px; padding: 12px 22px; border-radius: 999px; border: 1px solid var(--ink); background: var(--paper); color: var(--ink); cursor: pointer; }
+.zitat-btn--primary { background: var(--ink); color: var(--paper); }
+.zitat-info { font-family: var(--ui); font-size: 14px; color: var(--ink-2); margin: 8px 0 0; }

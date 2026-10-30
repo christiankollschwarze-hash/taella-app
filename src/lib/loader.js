@@ -86,7 +86,7 @@ export async function loadWork(base = "", extra = {}) {
 
   setSprecherGeschlecht(en.sprecher_geschlecht);
   return {
-    meta: { originalsprache: quelle, titel: en.titel, autor: en.autor, slug: en.book_slug, base: BASE, modus: en.modus || "", sprecherGeschlecht: en.sprecher_geschlecht || {},
+    meta: { originalsprache: quelle, titel: en.titel, autor: en.autor, slug: en.book_slug, base: BASE, modus: en.modus || "", zitat_teilen: en.zitat_teilen, sprecherGeschlecht: en.sprecher_geschlecht || {},
             hoerspiel: { en: !!hs.en, de: !!hs.de } },
     // Cover-URL je Sprache; Demo-Werke ohne cover_<lang>.jpg nutzen das Fallback-Bild
     coverSrc(lang) {
