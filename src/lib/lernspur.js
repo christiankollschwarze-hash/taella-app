@@ -61,3 +61,23 @@ export function statistik(slug) {
   const verschieden = new Set(woerter.map((e) => e.quelle.toLowerCase().replace(/[^\p{L}\p{N}'’-]/gu, ""))).size;
   return { woerter: woerter.length, verschieden, upps: upps.length, proKapitel };
 }
+
+// Vokabular je Werk (Lernschicht, Schritt 1): angetippte Wörter/Phrasen, zusammengefasst nach Grundform
+// (Kleinschreibung, ohne Satzzeichen). Je Eintrag: Übersetzung(en), Anzahl, ein Beispielsatz.
+export function vokabular(slug) {
+  const norm = (x) => (x || "").toLowerCase().replace(/[^\p{L}\p{N}'’-]/gu, "");
+  const map = new Map();
+  for (const e of lernspur()) {
+    if (e.werk !== slug || e.art !== "phrase") continue;
+    const k = norm(e.quelle);
+    if (!k) continue;
+    const v = map.get(k) || { wort: e.quelle.trim(), ziele: new Set(), anzahl: 0, satz: "", nach: e.nach };
+    v.anzahl += 1;
+    if (e.ziel) v.ziele.add(e.ziel.trim());
+    if (e.satz) v.satz = e.satz;
+    map.set(k, v);
+  }
+  return [...map.values()]
+    .map((v) => ({ wort: v.wort, ziele: [...v.ziele], anzahl: v.anzahl, satz: v.satz, nach: v.nach }))
+    .sort((a, b) => b.anzahl - a.anzahl || a.wort.localeCompare(b.wort));
+}

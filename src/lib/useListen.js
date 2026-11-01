@@ -94,7 +94,7 @@ export function useListen({ nodes, lang, wordtimes, wordtimesHs = null, hoerspie
   // Audio-Eintrag eines Satzes je Modus: Hörspiel-Datei, falls vorhanden und gewählt, sonst Erzähler
   const entryFor = (i, l) => {
     const n = nodes[i]?.[l];
-    return n && hsRef.current && n.audio_hs ? { ...n, audio: n.audio_hs, hs: true } : n;
+    return n && hsRef.current && n.audio_hs ? { ...n, audio: n.audio_hs, begin: n.begin_hs, end: n.end_hs, hs: true } : n;
   };
   const markiere = (e) => { curHs.current = !!e?.hs; setHsAktiv(!!e?.hs); setModusAktiv(hsRef.current ? "hoerspiel" : "erzaehler"); };
   const cbRef = useRef(onSentenceStart);

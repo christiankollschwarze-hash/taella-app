@@ -93,6 +93,10 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
   const [showChapters, setShowChapters] = useState(false);
   const [textPages, setTextPages] = useState([]);
   const [nativeLang] = useState(() => getNativeLang());
+  const [titelLang] = useState(() => {   // Cover und Klappentext: Standardsprache (Einstellung), sonst Muttersprache
+    try { const d = localStorage.getItem(DEFAULT_LANG_KEY); if (d === "en" || d === "de") return d; } catch {}
+    return getNativeLang();
+  });
   const [bookmark, setBm] = useState(null);       // tag_id, sprachunabhängig
   const [bmFresh, setBmFresh] = useState(false);  // Lasche gerade neu gesetzt → Einfahr-Animation
   const [toast, setToast] = useState(null);       // { kind: "set"|"removed", stamp }
@@ -165,7 +169,7 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
       setPageIdx(frontCount(work) + pageOfTag(textPages, bookmark));
     }
     setMode("read");
-    setLesenMitTon(true);
+    setLesenMitTon(false);   // Audio stoppt beim Wechsel in den Text (ListenView wird ausgeblendet)
   }, [work, bookmark, textPages]);
 
   useEffect(() => {
@@ -356,9 +360,9 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
       <main className="page-wrap" ref={pageWrapRef}
             onClickCapture={onPageClickCapture} onClick={onPageClick} onPointerDown={onPointerDown} onPointerUp={onPointerUp}>
         {currentNodes[0]?.typ === "cover" ? (
-          <CoverPage src={work.coverSrc(nativeLang)} titel={work.meta.titel} autor={work.meta.autor} />
+          <CoverPage src={work.coverSrc(titelLang)} titel={work.meta.titel} autor={work.meta.autor} />
         ) : currentNodes[0]?.typ === "blurb" ? (
-          <BlurbPage blurb={work.blurb} lang={nativeLang} activeBid={active?.key} setActive={setActive} />
+          <BlurbPage blurb={work.blurb} lang={titelLang} activeBid={active?.key} setActive={setActive} />
         ) : (
           <Page
             nodes={currentNodes}

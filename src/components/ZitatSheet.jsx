@@ -3,26 +3,26 @@ import DotWord from "../design/DotWord.jsx";
 import { zeichneKarte, karteAufnehmen, ladeBild, ladeClip, teilen, speichern } from "../lib/zitatTeilen.js";
 
 // Teilen-Blatt für einen Satz: Vorschau der Karte, Aufnahme, dann Teilen oder Speichern.
-export default function ZitatSheet({ titel, autor, text, de, clipUrl, coverSrc, onClose, onFertig }) {
+export default function ZitatSheet({ titel, autor, text, de, clipUrl, clipBegin, clipEnd, coverSrc, onClose, onFertig }) {
   const canvasRef = useRef(null);
   const datei = useRef(null);
   const [status, setStatus] = useState("vorschau");   // vorschau | rendert | fertig | fehler
   const [fort, setFort] = useState(0);
   const [hinweis, setHinweis] = useState("");
-  const d = { titel, autor, text, clipUrl, coverSrc };
+  const d = { titel, autor, text, clipUrl, clipBegin, clipEnd, coverSrc };
 
   useEffect(() => {
     let alive = true;
     (async () => {
       try {
-        const [audio, cover] = await Promise.all([ladeClip(clipUrl), ladeBild(coverSrc)]);
+        const [audio, cover] = await Promise.all([ladeClip(clipUrl, clipBegin, clipEnd), ladeBild(coverSrc)]);
         if (!alive || !canvasRef.current) return;
         zeichneKarte(canvasRef.current.getContext("2d"), { ...d, cover, dauer: audio.duration }, 0);
         setStatus("bereit");
       } catch { if (alive) setStatus("fehler"); }
     })();
     return () => { alive = false; };
-  }, [clipUrl, coverSrc]);
+  }, [clipUrl, clipBegin, clipEnd, coverSrc]);
 
   async function aufnehmen() {
     setStatus("rendert"); setFort(0); setHinweis("");

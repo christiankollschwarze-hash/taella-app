@@ -4,7 +4,7 @@ import { IconHeart, IconEinstellungen, IconZurueck, IconHoeren, IconBook } from 
 import { loadKatalog, loadPrivat, coverOf, titelOf, hoerbar } from "../lib/katalog.js";
 import { favs, toggleFav, settings, uiLang } from "../lib/settings.js";
 import { getBookmark } from "../lib/bookmark.js";
-import { statistik } from "../lib/lernspur.js";
+import { statistik, vokabular } from "../lib/lernspur.js";
 
 // Book-Shop: „Entdecken“ (Genre-Regale, Kartenstapel, alle Titel), „Favoriten“ (♡) und „Begonnen“.
 // Keine Preise in der App (Reader-App-Regel): Zugang über Konto auf taella.io.
@@ -20,7 +20,7 @@ const TXT = {
     frei: "Kapitel 1 frei · ganzes Buch mit deinem Konto auf taella.io",
     lade: "Lade Bibliothek …", keine: "Noch keine Werke im Demo-Katalog.",
     zurueck: "Zurück", einstellungen: "Einstellungen",
-    stand: "Dein Stand", stWoerter: "Wörter nachgeschlagen", stVersch: "verschiedene", stUpps: "Sätze per Upps",
+    stand: "Dein Stand", stVokabular: "Vokabular", stWoerter: "Wörter nachgeschlagen", stVersch: "verschiedene", stUpps: "Sätze per Upps",
     stKap: "Nachgeschlagen je Kapitel", stHint: "Weniger Balken nach hinten = du verstehst mehr.",
     regalTab: "Mein Regal", leerPrivat: "Noch keine eigenen Bücher. Lade ein ePub auf taella.io hoch.",
     epubOeffnen: "EPUB öffnen", epubHint: "EPUB 3 von diesem Gerät, bleibt lokal. Mit Media Overlays auch zum Hören.",
@@ -36,7 +36,7 @@ const TXT = {
     frei: "Chapter 1 free · full book with your account on taella.io",
     lade: "Loading library …", keine: "No titles in the demo catalogue yet.",
     zurueck: "Back", einstellungen: "Settings",
-    stand: "Your progress", stWoerter: "words looked up", stVersch: "distinct", stUpps: "sentences via Upps",
+    stand: "Your progress", stVokabular: "Vocabulary", stWoerter: "words looked up", stVersch: "distinct", stUpps: "sentences via Upps",
     stKap: "Look-ups per chapter", stHint: "Shorter bars towards the end = you understand more.",
     regalTab: "My shelf", leerPrivat: "No books of your own yet. Upload an ePub on taella.io.",
     epubOeffnen: "Open EPUB", epubHint: "EPUB 3 from this device, stays local. With Media Overlays also for listening.",
@@ -270,6 +270,7 @@ function Detail({ w, t, ui, fav, onHerz, onClose, onOpen }) {
 function Stand({ slug, kapitel, t }) {
   const st = statistik(slug);
   if (!st.woerter && !st.upps) return null;
+  const voc = vokabular(slug);
   const n = Math.max(kapitel || 0, ...Object.keys(st.proKapitel).map(Number));
   const werte = Array.from({ length: n }, (_, i) => st.proKapitel[i + 1] || { woerter: 0, upps: 0 });
   const max = Math.max(1, ...werte.map((v) => v.woerter + v.upps));
@@ -280,6 +281,19 @@ function Stand({ slug, kapitel, t }) {
         <div><b>{st.woerter}</b><span>{t.stWoerter} ({st.verschieden} {t.stVersch})</span></div>
         <div><b>{st.upps}</b><span>{t.stUpps}</span></div>
       </div>
+      {voc.length > 0 && (
+        <details className="stand-vokabular">
+          <summary className="stand-label">{t.stVokabular} ({voc.length})</summary>
+          <ul>
+            {voc.map((v) => (
+              <li key={v.wort}>
+                <b>{v.wort}</b> {v.ziele.length ? `– ${v.ziele.join(", ")}` : ""} <span>×{v.anzahl}</span>
+                {v.satz && <div className="stand-satz">{v.satz}</div>}
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
       {n > 1 && (
         <>
           <div className="stand-label">{t.stKap}</div>

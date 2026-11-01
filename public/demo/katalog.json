@@ -258,12 +258,14 @@
    "kapitel": 0,
    "woerter": 2065,
    "audio_vorhanden": {
-    "en": false,
+    "en": true,
     "de": true
    },
-   "audio_im_demo": false,
+   "audio_im_demo": true,
+   "hoerspiel": {},
+   "bilder": 0,
    "pfad": "demo/the-gift-of-the-magi/",
-   "aktualisiert": "2026-10-10T18:30:10",
+   "aktualisiert": "2026-10-31T21:48:34",
    "regal": "roman",
    "genre": "Kurzgeschichte"
   },
@@ -418,5 +420,5 @@
    "genre": "Theaterstück"
   }
  ],
- "aktualisiert": "2026-10-26T21:45:16"
+ "aktualisiert": "2026-10-31T21:48:34"
 }

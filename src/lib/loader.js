@@ -41,9 +41,13 @@ export async function loadWork(base = "", extra = {}) {
     if (m.hoerspiel && Array.isArray(m.hoerspiel_saetze))
       hs[l] = { saetze: new Set(m.hoerspiel_saetze), sprecher: m.hoerspiel_sprecher || {} };
   }
-  const hsEntry = (l, tag) => hs[l]?.saetze.has(tag)
-    ? { audio_hs: `${BASE}/audio_hoerspiel/${l}/${tag}${LOCAL_AUDIO_EXT}`, sprecher_hs: hs[l].sprecher[tag] || null }
+  // Satzweise Knoten (01.11.2026): Teile eines frueheren Mehrsatz-Knotens teilen sich die WAV des
+  // basis_tag und spielen nur ihr Clip-Fenster (clip_begin/clip_end bzw. hs_begin/hs_end).
+  const hsEntry = (l, tag, m = {}) => hs[l]?.saetze.has(tag)
+    ? { audio_hs: `${BASE}/audio_hoerspiel/${l}/${m.basis_tag || tag}${LOCAL_AUDIO_EXT}`,
+        begin_hs: m.hs_begin, end_hs: m.hs_end, sprecher_hs: hs[l].sprecher[tag] || null }
     : {};
+  const clip = (m) => ({ begin: m.clip_begin, end: m.clip_end });
 
   const kapitel = [];
   const seenKap = new Set();
@@ -60,8 +64,8 @@ export async function loadWork(base = "", extra = {}) {
       tag_id: s.tag_id,
       typ: s.typ,
       kapitel: s.kapitel,
-      en: { text: e.text || "", audio: localAudio(e.audio_path, BASE), ...hsEntry("en", s.tag_id) },
-      de: { text: d.text || "", audio: localAudio(d.audio_path, BASE), ...hsEntry("de", s.tag_id) },
+      en: { text: e.text || "", audio: localAudio(e.audio_path, BASE), ...clip(e), ...hsEntry("en", s.tag_id, e) },
+      de: { text: d.text || "", audio: localAudio(d.audio_path, BASE), ...clip(d), ...hsEntry("de", s.tag_id, d) },
       align: s.align || null,
       pause: s.pause_after_ms || 0,
       sprecher: s.sprecher || null,   // Drama-Modus: Rollenname (nur Anzeige)

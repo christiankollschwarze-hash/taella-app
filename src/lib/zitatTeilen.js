@@ -20,9 +20,17 @@ export function ladeBild(src) {
 }
 
 // Clip dekodieren (ohne Nutzergeste nötig)
-export async function ladeClip(url) {
-  const buf = await (await fetch(url)).arrayBuffer();
-  return new OfflineAudioContext(1, 1, 44100).decodeAudioData(buf);
+export async function ladeClip(url, begin = 0, end = null) {
+  const buf = await fetch(url).then((r) => r.arrayBuffer());
+  const audio = await new OfflineAudioContext(1, 1, 44100).decodeAudioData(buf);
+  // Satzweise Knoten (01.11.2026): nur das Clip-Fenster des Satzes
+  if (!(begin > 0) && end == null) return audio;
+  const sr = audio.sampleRate;
+  const a = Math.max(0, Math.floor((begin || 0) * sr));
+  const b = end == null ? audio.length : Math.min(audio.length, Math.ceil(end * sr));
+  const out = new AudioBuffer({ length: Math.max(1, b - a), numberOfChannels: audio.numberOfChannels, sampleRate: sr });
+  for (let c = 0; c < audio.numberOfChannels; c++) out.copyToChannel(audio.getChannelData(c).subarray(a, b), c);
+  return out;
 }
 
 function wrap(ctx, text, maxW) {
@@ -115,7 +123,7 @@ export function zeichneKarte(ctx, d, t) {
 
 // Clip + Karte als Video aufnehmen (Echtzeit: so lang wie der Satz). Fallback: PNG.
 export async function karteAufnehmen(d, onFort) {
-  const audio = await ladeClip(d.clipUrl);
+  const audio = await ladeClip(d.clipUrl, d.clipBegin, d.clipEnd);
   const cover = await ladeBild(d.coverSrc);
   const karte = { ...d, cover, dauer: audio.duration };
   const canvas = document.createElement("canvas");

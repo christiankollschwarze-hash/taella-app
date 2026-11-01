@@ -299,6 +299,8 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
         <ZitatSheet titel={work.meta.titel} autor={work.meta.autor} text={p.node[lang].text}
                     de={nativeLang === "de"} coverSrc={coverSrc}
                     clipUrl={hoerModus === "hoerspiel" && p.node[lang].audio_hs ? p.node[lang].audio_hs : p.node[lang].audio}
+                    clipBegin={hoerModus === "hoerspiel" && p.node[lang].audio_hs ? p.node[lang].begin_hs : p.node[lang].begin}
+                    clipEnd={hoerModus === "hoerspiel" && p.node[lang].audio_hs ? p.node[lang].end_hs : p.node[lang].end}
                     onClose={zitatZu} onFertig={zitatZu} />
       )}
 
