@@ -1,0 +1,7 @@
+LOESCHVERMERK (01.11.2026)
+Inhalt: Abbruchrest eines Satz-Splits vom 01.11.2026, 05:21 Uhr (physisch geschnittene Pooh-Audios).
+Nicht mehr genutzt. Die App spielt die satzweisen Knoten als Clip-Fenster aus den Original-WAVs (tools/satzweise.py).
+- ZU_LOESCHEN_geschnitten_unbenutzt/   198 Restdateien je Sprache (…b_dl.wav bis …e_dl.wav)
+- geschnitten_stand_0523/               gekürzte Erstsatz-Dateien (Stand vor der Wiederherstellung)
+- audio/, manifest_*.json, wordtimes_*.json   Originalstand vor dem Split (identisch mit dem jetzt wiederhergestellten)
+Kann nach CK-Bestätigung komplett gelöscht werden.
