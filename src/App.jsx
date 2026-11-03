@@ -74,7 +74,8 @@ function pageOfTag(pages, tagId) {
   return 0;
 }
 
-export default function App({ base = "", cover = null, epub = null, onBack = null, onSettings = null, privat = false }) {
+export default function App({ base = "", cover = null, epub = null, onBack = null, onSettings = null, privat = false,
+                             sprachen = null, downloads = null }) {
   const [work, setWork] = useState(null);
   const [err, setErr] = useState(null);
   // Startet die App direkt im Hören: Standardsprache (Einstellung, sonst Muttersprache)
@@ -126,7 +127,7 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
   }, [darkMode]);
 
   useEffect(() => {
-    loadWork(base, { cover, epub })
+    loadWork(base, { cover, epub, sprachen, downloads })
       .then((w) => {
         setLernWerk(w.meta.slug);
         const bm = getBookmark(w.meta.slug, "all");
@@ -135,7 +136,7 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
         setWork(w);
       })
       .catch((e) => setErr(e.message));
-  }, [base, cover, epub]);
+  }, [base, cover, epub, sprachen, downloads]);
 
   // Doppel-Tipp: Lesezeichen gezielt auf diesen Satz legen (sichtbar mit Lasche + Hinweis)
   const placeBookmark = useCallback((tagId) => {

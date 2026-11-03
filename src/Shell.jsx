@@ -21,7 +21,8 @@ export default function Shell() {
     // Fallback-Bild (cover.png o. ä.) nur, wenn kein sprachspezifisches Cover existiert
     const fallback = (w.cover || []).find((c) => !/^cover_\w+\.jpg$/.test(c)) || null;
     // EPUB (A-004): eigene Datei oder Demo-EPUB, ohne Kapitel-Sperre
-    setOpen({ slug: w.slug, base: w.base, cover: fallback, epub: w.epub || null, privat: !!w.privat || !!w.epub });
+    setOpen({ slug: w.slug, base: w.base, cover: fallback, epub: w.epub || null, privat: !!w.privat || !!w.epub,
+              sprachen: w.sprachen || null, downloads: w.downloads || null });   // AP 710c: aus katalog.json
   }, []);
 
   const closeSettings = useCallback((changed) => {
@@ -37,6 +38,7 @@ export default function Shell() {
     <>
       {open ? (
         <App key={`${open.base}|${open.slug}|${rev}`} base={open.base} cover={open.cover} epub={open.epub} privat={open.privat}
+             sprachen={open.sprachen} downloads={open.downloads}
              onBack={() => setOpen(null)} onSettings={() => setShowSettings(true)} />
       ) : (
         <BookShop key={rev} onOpen={openWork} onSettings={() => setShowSettings(true)} />
