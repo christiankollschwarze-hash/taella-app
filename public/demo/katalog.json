@@ -418,6 +418,51 @@
    "aktualisiert": "2026-10-26T14:59:08",
    "regal": "buehne",
    "genre": "Theaterstück"
+  },
+  {
+   "schema": 2,
+   "werk_id": "u-smoketest-the-mirror-sisters",
+   "slug": "u-smoketest-the-mirror-sisters",
+   "book_slug": "u-smoketest-the-mirror-sisters",
+   "titel": {
+    "en": "The Mirror Sisters (710)",
+    "de": "Die Spiegelschwestern (710)"
+   },
+   "autor": "",
+   "erscheinungsjahr": null,
+   "quellsprache": "en",
+   "sprachen": [
+    "en",
+    "de"
+   ],
+   "cover": [
+    "cover_en.jpg",
+    "cover_de.jpg"
+   ],
+   "cover_path": "demo/u-smoketest-the-mirror-sisters/cover_en.jpg",
+   "kapitel": 2,
+   "woerter": 1351,
+   "audio_vorhanden": {
+    "en": false,
+    "de": false
+   },
+   "audio": {
+    "en": false,
+    "de": false
+   },
+   "audio_im_demo": false,
+   "hoerspiel": {},
+   "teaser": {
+    "en": true,
+    "de": true
+   },
+   "bilder": 0,
+   "pfad": "demo/u-smoketest-the-mirror-sisters/",
+   "status": "sichtbar",
+   "aktualisiert": "2026-11-03T15:23:44+01:00",
+   "regal": "grusel",
+   "genre": "Horror",
+   "downloads": {}
   }
  ],
  "aktualisiert": "2026-10-31T21:48:34"
