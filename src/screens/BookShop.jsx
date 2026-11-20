@@ -1,9 +1,10 @@
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, useRef } from "react";
 import DotWord from "../design/DotWord.jsx";
 import { IconHeart, IconEinstellungen, IconZurueck, IconHoeren, IconBook } from "../design/Icons.jsx";
 import { loadKatalog, loadPrivat, coverOf, titelOf, hoerbar } from "../lib/katalog.js";
 import { favs, toggleFav, settings, uiLang } from "../lib/settings.js";
 import { getBookmark } from "../lib/bookmark.js";
+import { subscribe, teaserSpielen, teaserStop, teaserAn, setTeaserAn, hatTeaser } from "../lib/teaser.js";
 import { statistik, vokabular } from "../lib/lernspur.js";
 
 // Book-Shop: „Entdecken“ (Genre-Regale, Kartenstapel, alle Titel), „Favoriten“ (♡) und „Begonnen“.
@@ -25,6 +26,7 @@ const TXT = {
     regalTab: "Mein Regal", leerPrivat: "Noch keine eigenen Bücher. Lade ein ePub auf taella.io hoch.",
     epubOeffnen: "EPUB öffnen", epubHint: "EPUB 3 von diesem Gerät, bleibt lokal. Mit Media Overlays auch zum Hören.",
     privat: "Privat · nur für dich", eigenes: "Eigenes Buch",
+    teaserAn: "Hörprobe beim Blättern an", teaserAus: "Hörprobe beim Blättern aus", teaserTipp: "Tippen für Hörprobe",
   },
   en: {
     entdecken: "Discover", suche: "Search title or author", sucheLeer: "Nothing found.", sucheWeg: "Clear search", favoriten: "Favourites", begonnenTab: "Started", alle: "All titles", alleRegale: "All",
@@ -41,6 +43,7 @@ const TXT = {
     regalTab: "My shelf", leerPrivat: "No books of your own yet. Upload an ePub on taella.io.",
     epubOeffnen: "Open EPUB", epubHint: "EPUB 3 from this device, stays local. With Media Overlays also for listening.",
     privat: "Private · only you", eigenes: "Own book",
+    teaserAn: "Audio preview while browsing on", teaserAus: "Audio preview while browsing off", teaserTipp: "Tap for audio preview",
   },
 };
 
@@ -116,6 +119,14 @@ export default function BookShop({ onOpen, onSettings }) {
   const [suche, setSuche] = useState("");
 
   const [privat, setPrivat] = useState([]);
+  // Hör-Teaser (Stage 640): mittige Karte spielt nach dem Wischen, Detail spielt beim Öffnen
+  const [teaser, setTeaser] = useState({ slug: null, status: "aus" });
+  const [tAn, setTAn] = useState(teaserAn);
+  const stackRef = useRef(null);
+  const wischTimer = useRef(null);
+  useEffect(() => subscribe(setTeaser), []);
+  useEffect(() => () => { clearTimeout(wischTimer.current); teaserStop(); }, []);
+  useEffect(() => { teaserStop(); }, [tab]);
   useEffect(() => { loadKatalog().then(setWerke).catch(() => setWerke([])); }, []);
   useEffect(() => { loadPrivat().then(setPrivat).catch(() => setPrivat([])); }, []);
   const alleWerke = useMemo(() => [...privat, ...(werke || [])], [werke, privat]);
@@ -135,13 +146,34 @@ export default function BookShop({ onOpen, onSettings }) {
   const begonnen = useMemo(() => alleWerke.filter((w) => getBookmark(w.slug, "all")), [alleWerke]);
 
   const herz = (w) => setFav(toggleFav(w.slug));
+  const oeffneDetail = (w) => { setDetail(w); teaserSpielen(w, ui); };
+  const schliesseDetail = () => { teaserStop(); setDetail(null); };
+  const oeffneWerk = (w, mode) => { teaserStop(); onOpen(w, mode); };
+  const toggleTeaser = () => { const n = !tAn; setTeaserAn(n); setTAn(n); };
+  // Nach dem Wischen: Karte, die mittig eingerastet ist, spielt (kurz warten, bis der Snap steht)
+  const nachWischen = () => {
+    clearTimeout(wischTimer.current);
+    wischTimer.current = setTimeout(() => {
+      const box = stackRef.current;
+      if (!box || detail) return;
+      const mitte = box.getBoundingClientRect().left + box.clientWidth / 2;
+      let best = null, abst = Infinity;
+      for (const c of box.children) {
+        const r = c.getBoundingClientRect();
+        const d = Math.abs(r.left + r.width / 2 - mitte);
+        if (d < abst) { abst = d; best = c; }
+      }
+      const w = best && gefiltert.find((x) => x.slug === best.dataset.slug);
+      if (w && hatTeaser(w, ui)) teaserSpielen(w, ui); else teaserStop();
+    }, 450);
+  };
   const waehle = (r) => { setRegal(r); saveRegal(r); };
 
   const zeilen = (liste, leer) => liste.length === 0 ? <p className="shop-leer">{leer}</p> : (
     <ul className="liste">
       {liste.map((w) => (
         <li key={w.slug} className="zeile-wrap">
-          <button className="zeile" onClick={() => setDetail(w)}>
+          <button className="zeile" onClick={() => oeffneDetail(w)}>
             <Cover w={w} lang={ui} className="zeile-cover" />
             <span className="zeile-text">
               <span className="zeile-titel">{titelOf(w, ui)}</span>
@@ -164,7 +196,13 @@ export default function BookShop({ onOpen, onSettings }) {
     <div className="shell shop">
       <header className="shop-top">
         <DotWord text="TÆLLA" className="wordmark" style={{ fontSize: 24 }} />
-        <button className="icon-btn" aria-label={t.einstellungen} onClick={onSettings}><IconEinstellungen /></button>
+        <span className="shop-top-r">
+          <button className={"icon-btn teaser-schalter" + (tAn ? "" : " teaser-schalter--aus")} aria-pressed={tAn}
+                  aria-label={tAn ? t.teaserAn : t.teaserAus} title={tAn ? t.teaserAn : t.teaserAus} onClick={toggleTeaser}>
+            <IconHoeren />
+          </button>
+          <button className="icon-btn" aria-label={t.einstellungen} onClick={onSettings}><IconEinstellungen /></button>
+        </span>
       </header>
 
       <nav className="tabs" role="tablist">
@@ -198,10 +236,15 @@ export default function BookShop({ onOpen, onSettings }) {
             )}
 
             {gefiltert.length > 0 && (
-              <div className="stack" role="list">
+              <div className="stack" role="list" ref={stackRef} onScroll={nachWischen}>
                 {gefiltert.map((w) => (
-                  <button key={w.slug} role="listitem" className="stack-card" onClick={() => setDetail(w)}>
-                    <Cover w={w} lang={ui} className="stack-cover" />
+                  <button key={w.slug} role="listitem" data-slug={w.slug} onClick={() => oeffneDetail(w)}
+                          className={"stack-card" + (teaser.slug === w.slug ? ` stack-card--${teaser.status}` : "")}>
+                    <span className="stack-cover-wrap">
+                      <Cover w={w} lang={ui} className="stack-cover" />
+                      {teaser.slug === w.slug && teaser.status === "spielt" && <TeaserWelle />}
+                      {teaser.slug === w.slug && teaser.status === "blockiert" && <span className="teaser-tipp">{t.teaserTipp}</span>}
+                    </span>
                     <span className="stack-info">
                       <span className="stack-titel">{titelOf(w, ui)}</span>
                       <span className="stack-autor">{w.autor}</span>
@@ -216,21 +259,27 @@ export default function BookShop({ onOpen, onSettings }) {
           </>
         )}
 
-        {tab === "regalTab" && <><EpubOeffnen t={t} onOpen={onOpen} />{zeilen(privat, t.leerPrivat)}</>}
+        {tab === "regalTab" && <><EpubOeffnen t={t} onOpen={oeffneWerk} />{zeilen(privat, t.leerPrivat)}</>}
         {werke && tab === "favoriten" && zeilen(favListe, t.leerFav)}
         {werke && tab === "begonnenTab" && zeilen(begonnen, t.leerBeg)}
       </div>
 
       {detail && (
         <Detail w={detail} t={t} ui={ui} fav={fav.includes(detail.slug)}
-                onHerz={() => herz(detail)} onClose={() => setDetail(null)}
-                onOpen={(mode) => onOpen(detail, mode)} />
+                onHerz={() => herz(detail)} onClose={schliesseDetail}
+                spielt={teaser.slug === detail.slug && teaser.status === "spielt"}
+                onOpen={(mode) => oeffneWerk(detail, mode)} />
       )}
     </div>
   );
 }
 
-function Detail({ w, t, ui, fav, onHerz, onClose, onOpen }) {
+// Laufender Teaser: drei pulsierende Balken, der letzte im TÆLLA-Rot
+function TeaserWelle() {
+  return <span className="teaser-welle" aria-hidden="true"><i /><i /><i /></span>;
+}
+
+function Detail({ w, t, ui, fav, onHerz, onClose, onOpen, spielt }) {
   const [blurb, setBlurb] = useState(null);
   useEffect(() => {
     let alive = true;
@@ -248,7 +297,10 @@ function Detail({ w, t, ui, fav, onHerz, onClose, onOpen }) {
         <button className="icon-btn" aria-label={fav ? t.gemerkt : t.merken} aria-pressed={fav} onClick={onHerz}><IconHeart on={fav} /></button>
       </header>
       <div className="detail-body">
-        <Cover w={w} lang={ui} className="detail-cover" />
+        <span className="stack-cover-wrap detail-cover-wrap">
+          <Cover w={w} lang={ui} className="detail-cover" />
+          {spielt && <TeaserWelle />}
+        </span>
         <h1 className="detail-titel">{titelOf(w, ui)}</h1>
         <p className="detail-autor">{w.autor}{w.erscheinungsjahr ? ` · ${w.erscheinungsjahr}` : ""}</p>
         <p className="detail-meta">{meta(w, t)}</p>
