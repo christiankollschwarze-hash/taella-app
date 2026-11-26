@@ -1,7 +1,7 @@
 import Satz from "./Satz.jsx";
 import SprecherLabel from "./SprecherLabel.jsx";
 
-export default function Page({ nodes, lang, activeBid, playingId, setActive, registerRef, bookmarkedId, onBookmark }) {
+export default function Page({ nodes, lang, activeBid, playingId, setActive, registerRef, bookmarkedId, onBookmark, gelesenBis = -1, tagIndex = null }) {
   const blocks = [];
   let currentBlock = [];
 
@@ -65,6 +65,7 @@ export default function Page({ nodes, lang, activeBid, playingId, setActive, reg
                 isActive={activeBid === n.tag_id}
                 isPlaying={playingId === n.tag_id}
                 isBookmarked={bookmarkedId === n.tag_id}
+                isGelesen={!!tagIndex && (tagIndex.get(n.tag_id) ?? Infinity) < gelesenBis}
                 setActive={setActive}
                 registerRef={registerRef}
                 onBookmark={onBookmark}

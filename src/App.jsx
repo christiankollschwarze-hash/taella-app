@@ -138,6 +138,15 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
       .catch((e) => setErr(e.message));
   }, [base, cover, epub, sprachen, downloads]);
 
+  // Fortschrittsmarker = Lesezeichen (tag_id, sprachunabhängig). Gesetzt durch Umblättern, Doppel-Tipp
+  // oder Hörfortschritt; alle Sätze davor erscheinen grau – in jeder Sprache an derselben Stelle.
+  const tagIndex = useMemo(() => {
+    const m = new Map();
+    work?.nodes.forEach((n, i) => { if (n.tag_id) m.set(n.tag_id, i); });
+    return m;
+  }, [work]);
+  const gelesenBis = bookmark != null ? (tagIndex.get(bookmark) ?? -1) : -1;
+
   // Doppel-Tipp: Lesezeichen gezielt auf diesen Satz legen (sichtbar mit Lasche + Hinweis)
   const placeBookmark = useCallback((tagId) => {
     if (!work) return;
@@ -374,6 +383,8 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
             registerRef={null}
             bookmarkedId={bmFresh ? bookmark : null}
             onBookmark={placeBookmark}
+            gelesenBis={gelesenBis}
+            tagIndex={tagIndex}
           />
         )}
         {bookmark && currentNodes.some((n) => n.tag_id === bookmark) && (

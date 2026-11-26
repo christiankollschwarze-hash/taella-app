@@ -1,6 +1,51 @@
 {
  "werke": [
   {
+   "schema": 2,
+   "werk_id": "u-smoketest-the-mirror-sisters",
+   "slug": "u-smoketest-the-mirror-sisters",
+   "book_slug": "u-smoketest-the-mirror-sisters",
+   "titel": {
+    "en": "The Mirror Sisters (710)",
+    "de": "Die Spiegelschwestern (710)"
+   },
+   "autor": "",
+   "erscheinungsjahr": null,
+   "quellsprache": "en",
+   "sprachen": [
+    "en",
+    "de"
+   ],
+   "cover": [
+    "cover_en.jpg",
+    "cover_de.jpg"
+   ],
+   "cover_path": "demo/u-smoketest-the-mirror-sisters/cover_en.jpg",
+   "kapitel": 2,
+   "woerter": 1351,
+   "audio_vorhanden": {
+    "en": false,
+    "de": false
+   },
+   "audio": {
+    "en": false,
+    "de": false
+   },
+   "audio_im_demo": false,
+   "hoerspiel": {},
+   "teaser": {
+    "en": true,
+    "de": true
+   },
+   "bilder": 0,
+   "pfad": "demo/u-smoketest-the-mirror-sisters/",
+   "status": "sichtbar",
+   "aktualisiert": "2026-11-03T15:23:44+01:00",
+   "regal": "grusel",
+   "genre": "Horror",
+   "downloads": {}
+  },
+  {
    "slug": "winnie-the-pooh",
    "werk_id": "milne-aa_winnie-the-pooh",
    "titel": {
@@ -89,6 +134,60 @@
    "aktualisiert": "2026-10-26T17:39:47",
    "regal": "krimi",
    "genre": "Kriminalroman"
+  },
+  {
+   "schema": 2,
+   "werk_id": "navarra-b_die-kunst-des-krieges",
+   "slug": "die-kunst-des-krieges",
+   "book_slug": "die-kunst-des-krieges",
+   "titel": {
+    "de": "Die Kunst des Krieges",
+    "en": "The Art of War"
+   },
+   "autor": "Bruno Navarra",
+   "erscheinungsjahr": null,
+   "quellsprache": "de",
+   "sprachen": [
+    "de",
+    "en"
+   ],
+   "cover": [
+    "cover_de.jpg",
+    "cover_en.jpg"
+   ],
+   "cover_path": "demo/die-kunst-des-krieges/cover_de.jpg",
+   "kapitel": 20,
+   "woerter": 9624,
+   "audio_vorhanden": {
+    "de": true,
+    "en": true
+   },
+   "audio": {
+    "de": true,
+    "en": true
+   },
+   "audio_im_demo": true,
+   "hoerspiel": {},
+   "teaser": {
+    "de": true,
+    "en": true
+   },
+   "bilder": 0,
+   "pfad": "demo/die-kunst-des-krieges/",
+   "status": "sichtbar",
+   "aktualisiert": "2026-11-23T14:41:13+01:00",
+   "regal": "roman",
+   "genre": "Sachtext",
+   "downloads": {
+    "de": {
+     "text": "download/die-kunst-des-krieges_de.epub",
+     "audio": "download/die-kunst-des-krieges_de_audio.epub"
+    },
+    "en": {
+     "text": "download/die-kunst-des-krieges_en.epub",
+     "audio": "download/die-kunst-des-krieges_en_audio.epub"
+    }
+   }
   },
   {
    "slug": "the-yellow-wallpaper",
@@ -418,52 +517,8 @@
    "aktualisiert": "2026-10-26T14:59:08",
    "regal": "buehne",
    "genre": "Theaterstück"
-  },
-  {
-   "schema": 2,
-   "werk_id": "u-smoketest-the-mirror-sisters",
-   "slug": "u-smoketest-the-mirror-sisters",
-   "book_slug": "u-smoketest-the-mirror-sisters",
-   "titel": {
-    "en": "The Mirror Sisters (710)",
-    "de": "Die Spiegelschwestern (710)"
-   },
-   "autor": "",
-   "erscheinungsjahr": null,
-   "quellsprache": "en",
-   "sprachen": [
-    "en",
-    "de"
-   ],
-   "cover": [
-    "cover_en.jpg",
-    "cover_de.jpg"
-   ],
-   "cover_path": "demo/u-smoketest-the-mirror-sisters/cover_en.jpg",
-   "kapitel": 2,
-   "woerter": 1351,
-   "audio_vorhanden": {
-    "en": false,
-    "de": false
-   },
-   "audio": {
-    "en": false,
-    "de": false
-   },
-   "audio_im_demo": false,
-   "hoerspiel": {},
-   "teaser": {
-    "en": true,
-    "de": true
-   },
-   "bilder": 0,
-   "pfad": "demo/u-smoketest-the-mirror-sisters/",
-   "status": "sichtbar",
-   "aktualisiert": "2026-11-03T15:23:44+01:00",
-   "regal": "grusel",
-   "genre": "Horror",
-   "downloads": {}
   }
  ],
- "aktualisiert": "2026-10-31T21:48:34"
+ "aktualisiert": "2026-11-23T14:41:13+01:00",
+ "schema": 2
 }

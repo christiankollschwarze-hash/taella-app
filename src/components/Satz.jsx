@@ -38,7 +38,7 @@ function segmentize(node, lang) {
 }
 
 // Einfach-Tipp auf Phrase → Flyover; Doppel-Tipp auf Satz → Lesezeichen (onBookmark)
-export default function Satz({ node, lang, isActive, isPlaying, isBookmarked, setActive, registerRef, onBookmark }) {
+export default function Satz({ node, lang, isActive, isPlaying, isBookmarked, isGelesen, setActive, registerRef, onBookmark }) {
   const segments = segmentize(node, lang);
   const lastTap = useRef(0);
   // AP 56: Lesen beim Hören – gehörter Satz + Wort (Teil-Token) aus dem Hörzustand
@@ -74,6 +74,7 @@ export default function Satz({ node, lang, isActive, isPlaying, isBookmarked, se
   if (node.rolle === "regie") cls += " satz--regie";
   if (isPlaying || hoer) cls += " satz--playing";
   if (isBookmarked) cls += " satz--bookmark";
+  if (isGelesen && !(isPlaying || hoer)) cls += " satz--gelesen";
 
   return (
     <span className={cls} data-tag={node.tag_id}>

@@ -18,3 +18,4 @@ export function clearBookmark(slug, lang) {
   try { localStorage.removeItem(_key(slug, lang)); }
   catch { /* storage nicht verfügbar */ }
 }
+
