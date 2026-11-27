@@ -77,6 +77,47 @@
    "genre": ""
   },
   {
+   "schema": 2,
+   "werk_id": "dumas-a_le-comte-de-monte-cristo-1-1",
+   "slug": "le-comte-de-monte-cristo-1-1",
+   "book_slug": "le-comte-de-monte-cristo-1-1",
+   "titel": {
+    "de": "Der Graf von Monte Christo, Erster Band"
+   },
+   "autor": "Alexandre Dumas",
+   "erscheinungsjahr": null,
+   "quellsprache": "fr",
+   "sprachen": [
+    "de"
+   ],
+   "cover": [
+    "cover_de.jpg"
+   ],
+   "cover_path": "demo/le-comte-de-monte-cristo-1-1/cover_de.jpg",
+   "kapitel": 15,
+   "woerter": 64732,
+   "audio_vorhanden": {
+    "de": true
+   },
+   "audio": {
+    "de": true
+   },
+   "audio_im_demo": true,
+   "hoerspiel": {
+    "de": true
+   },
+   "teaser": {
+    "de": true
+   },
+   "bilder": 0,
+   "pfad": "demo/le-comte-de-monte-cristo-1-1/",
+   "status": "sichtbar",
+   "aktualisiert": "2026-11-26T19:37:11+01:00",
+   "regal": "abenteuer",
+   "genre": "Abenteuerroman",
+   "downloads": {}
+  },
+  {
    "slug": "the-damned-thing-1898-from-in-the-midst-of-life",
    "werk_id": "bierce-a_the-damned-thing-1898-from-in-the-midst-of-life",
    "titel": {
@@ -519,6 +560,6 @@
    "genre": "Theaterstück"
   }
  ],
- "aktualisiert": "2026-11-23T14:41:13+01:00",
+ "aktualisiert": "2026-11-26T19:37:11+01:00",
  "schema": 2
 }
