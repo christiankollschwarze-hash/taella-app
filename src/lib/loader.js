@@ -49,10 +49,14 @@ export async function loadWork(base = "", extra = {}) {
   sprachen = (erstes.sprachen || sprachen).filter((l) => man[l]);
   if (!sprachen.length) sprachen = Object.keys(man);
 
-  // Anker = Quell-/Originalsprache des Werks; Gegenüber = erste andere Sprache (UI ist zweisprachig)
+  // Anker = Quell-/Originalsprache des Werks; Gegenüber = erste andere Sprache (UI ist zweisprachig).
+  // Liegt die Quellsprache nicht im Paket (z. B. Monte Cristo: Quelle fr, geliefert nur de), ist die erste
+  // gelieferte Sprache der Anker. Nur eine Sprache → einsprachig (kein Gegenüber, kein Upps, kein Sprachwechsel).
   const quelle = erstes.quellsprache || erstes.originalsprache || (man.en ? "en" : sprachen[0]);
-  const anker = man[quelle] || erstes;
-  const ziel = sprachen.find((l) => l !== quelle) || null;
+  const ankerLang = man[quelle] ? quelle : sprachen[0];
+  const anker = man[ankerLang];
+  const ziel = sprachen.find((l) => l !== ankerLang) || null;
+  const einsprachig = sprachen.length < 2;
   const byId = {};
   for (const l of sprachen) { byId[l] = {}; for (const s of man[l].saetze || []) byId[l][s.tag_id] = s; }
 
@@ -95,7 +99,7 @@ export async function loadWork(base = "", extra = {}) {
     for (const l of new Set([...sprachen, ...ALT_SPRACHEN])) n[l] = slot(l, s.tag_id);
     if (s.typ === "h" && !seenKap.has(s.tag_id)) {
       seenKap.add(s.tag_id);
-      kapitel.push({ tag_id: s.tag_id, titel: n.en.text || n[quelle].text, titel_de: n.de.text || n[quelle].text,
+      kapitel.push({ tag_id: s.tag_id, titel: n.en.text || n[ankerLang].text, titel_de: n.de.text || n[ankerLang].text,
                      titel_je: Object.fromEntries(sprachen.map((l) => [l, n[l].text])) });
     }
     return n;
@@ -124,7 +128,7 @@ export async function loadWork(base = "", extra = {}) {
 
   setSprecherGeschlecht(anker.sprecher_geschlecht);
   return {
-    meta: { originalsprache: quelle, quellsprache: quelle, zielsprache: ziel, sprachen, schema: Number(anker.schema || 1),
+    meta: { originalsprache: quelle, quellsprache: quelle, zielsprache: ziel, sprachen, einsprachig, ankersprache: ankerLang, schema: Number(anker.schema || 1),
             titel: anker.titel, titel_je: Object.fromEntries(sprachen.map((l) => [l, man[l].titel])),
             autor: anker.autor, slug: anker.book_slug, base: BASE, modus: anker.modus || "",
             zitat_teilen: anker.zitat_teilen, sprecherGeschlecht: anker.sprecher_geschlecht || {},

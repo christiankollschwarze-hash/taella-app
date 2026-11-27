@@ -28,9 +28,11 @@ const TEMPI = [0.8, 0.9, 1, 1.1, 1.25, 1.5];
 export default function ListenView({ work, lang, nativeLang, onLangSwitch, startTag, autoplay, onSentenceStart, onToReader, onBack = null,
                                      versteckt = false, onZumHoeren = null, onSchliessen = null }) {
   const other = lang === "en" ? "de" : "en";
-  const [subs, setSubs] = useState(() => {
+  const einsprachig = !!work.meta.einsprachig;   // nur eine Sprache geliefert: kein Upps, Untertitel nur aus/an
+  const [subsRoh, setSubs] = useState(() => {
     try { return Number(localStorage.getItem(SUB_KEY)) || 0; } catch { return 0; }
   });
+  const subs = einsprachig ? (subsRoh ? 1 : 0) : subsRoh;
   const [showChapters, setShowChapters] = useState(false);
   const [zitatOffen, setZitatOffen] = useState(false);   // Teilen-Blatt für den aktuellen Satz
   const zitatWarLaeuft = useRef(false);                  // Audio lief, als das Blatt aufging
@@ -58,7 +60,7 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  useEffect(() => { try { localStorage.setItem(SUB_KEY, String(subs)); } catch {} }, [subs]);
+  useEffect(() => { try { localStorage.setItem(SUB_KEY, String(subsRoh)); } catch {} }, [subsRoh]);
 
   const kapitel = p.node?.kapitel || work.kapitel[0]?.titel || "";
   const kapitelNode = useMemo(
@@ -136,14 +138,14 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
     const onKey = (e) => {
       if (e.target.closest?.("input,textarea")) return;
       if (versteckt) { if (e.key === "Enter" || e.key === "k" || e.key === "K") { e.preventDefault(); p.toggle(); } return; }
-      if (e.code === "Space") { e.preventDefault(); p.triggerUpps(); }
+      if (e.code === "Space") { e.preventDefault(); if (!einsprachig) p.triggerUpps(); }
       else if (e.key === "Enter" || e.key === "k" || e.key === "K") { e.preventDefault(); p.toggle(); }
       else if (e.key === "ArrowRight") (e.shiftKey ? p.nextSentence : p.nextWord)();
       else if (e.key === "ArrowLeft") (e.shiftKey ? p.prevSentence : p.prevWord)();
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [p, versteckt]);
+  }, [p, versteckt, einsprachig]);
 
   // AP 56: Hörzustand an den Reader (nur solange der Reader sichtbar ist; Upps-Clip zählt nicht)
   useEffect(() => {
@@ -224,7 +226,7 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
   };
   const stageTap = () => {
     if (wisch.current.geschoben) { wisch.current = { ...wisch.current, geschoben: false }; return; }
-    p.triggerUpps();
+    if (!einsprachig) p.triggerUpps();
   };
 
   if (versteckt) {
@@ -324,8 +326,10 @@ export default function ListenView({ work, lang, nativeLang, onLangSwitch, start
         </div>
         <div className="dock-row2">
           <button className="icon-btn" onClick={() => setShowChapters(true)} aria-label={lang === "de" ? "Kapitel" : "Chapters"}><IconMenu size={30} /></button>
-          <button className="icon-btn lang-btn" onClick={onLangSwitch} aria-label="Sprache wechseln"><DotWord text={other.toUpperCase()} /></button>
-          <button className={"icon-btn lang-btn" + (subs ? " is-on" : "")} onClick={() => setSubs((s) => (s + 1) % 4)}
+          {!einsprachig && (
+            <button className="icon-btn lang-btn" onClick={onLangSwitch} aria-label="Sprache wechseln"><DotWord text={other.toUpperCase()} /></button>
+          )}
+          <button className={"icon-btn lang-btn" + (subs ? " is-on" : "")} onClick={() => setSubs((s) => (einsprachig ? (s ? 0 : 1) : (s + 1) % 4))}
                   aria-label={subs === 0 ? "Untertitel an" : subs === 1 ? "Untertitel in der anderen Sprache" : subs === 2 ? "Untertitel in beiden Sprachen" : "Untertitel aus"} aria-pressed={subs > 0}>
             <DotWord text={subs === 2 ? other.toUpperCase() : subs === 3 ? "EN·DE" : "CC"} dotColor={subs ? undefined : "var(--dock-ink-2)"} />
           </button>

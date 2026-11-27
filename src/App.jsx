@@ -133,6 +133,7 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
         const bm = getBookmark(w.meta.slug, "all");
         // Lesezeichen = Lesefortschritt wie im physischen Buch → beim Öffnen dorthin
         if (bm) { setBm(bm); anchorRef.current = bm; startAtAnchor.current = true; }
+        if (w.meta.einsprachig) setLang(w.meta.sprachen[0]);   // nur eine Sprache geliefert → fest diese
         setWork(w);
       })
       .catch((e) => setErr(e.message));
@@ -440,7 +441,9 @@ export default function App({ base = "", cover = null, epub = null, onBack = nul
         {work.meta.mediaOverlay !== false && (   /* EPUB ohne Media Overlay: nur lesen */
           <button className="icon-btn" aria-label="Hören" onClick={() => { setChrome(false); toListen(); }}><IconHoeren /></button>
         )}
-        <button className="icon-btn lang-btn" aria-label="Sprache wechseln" onClick={switchLang}><DotWord text={otherLang} /></button>
+        {!work.meta.einsprachig && (
+          <button className="icon-btn lang-btn" aria-label="Sprache wechseln" onClick={switchLang}><DotWord text={otherLang} /></button>
+        )}
         <button className="icon-btn" aria-label={darkMode ? "Tagmodus" : "Nachtmodus"} onClick={() => setDarkMode((d) => !d)}>{darkMode ? <IconSonne /> : <IconMond />}</button>
         {onSettings && <button className="icon-btn" aria-label={nativeLang === "de" ? "Einstellungen" : "Settings"} onClick={() => { setChrome(false); onSettings(); }}><IconEinstellungen /></button>}
       </nav>
